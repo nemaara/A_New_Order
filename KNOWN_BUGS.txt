@@ -1,0 +1,25 @@
+in scenario 4 Battle_of_Barnon,
+- a message appears in the log
+Quote:
+error display: could not open image 'terrain/desert_crater.png'
+
+
+6. you can send Lorin and Reme west, and all the rest to the east, but still they are happily reunited in the next scenario.
+
+
+
+* In scenarios when you recall units to choose the best ones, if you withdraw your choice, it is still counted.
+* elvish captain loses skirmish after advance.
+* In "Orannon", the game did not end when I got Lady Lorin killed (this was after she had to return to the keep within 6 turns).
+
+wesnoth messages: 
+20120124 22:06:01 error ai/goal: bad value of protect_goal
+20120124 22:06:04 warning unit: Unknown attribute 'traits_description' discarded.
+20120125 22:33:55 error engine: failed to auto-store $unit at (-999,-999)
+20120125 22:33:55 error engine: failed to auto-store $unit at (-999,-999)
+Cleaning saves with prefix 'ANO-Narada w Wolnym Mieście-Autozapis'
+20120125 22:34:07 warning unit: Unknown attribute 'attack_depth' discarded.
+20120125 22:34:07 warning unit: Unknown attribute 'attack_depth' discarded.
+20120125 22:34:08 warning engine: variable_info: retrieving member of non-existent WML container, temp_starting_location.y
+20120125 22:34:08 warning engine: variable_info: retrieving member of non-existent WML container, temp_starting_location.x
+

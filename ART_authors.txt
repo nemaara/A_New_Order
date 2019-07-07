@@ -1,0 +1,107 @@
+﻿MUSIC
+-----
+The Music authors details are in music/readme.txt
+The composers: Nick Humphrey, Christian Hellerberg and Erik Rijshouwer were
+specifically asked to license their work under GPL for wesnoth and they agreed.
+Mattias Westlund work is publicly available as GPLd. Other pieces were
+taken from the music packages on the wesnoth servers, and therefore have
+to be GPLd. Tyler Johnsons donated his composition when asked for fast
+tune with electrical guitars, specifically for ANO.
+
+Christian Hellerberg piece was written specifically for A New Order.
+Erik Rijshouwer kindly agreed to modify his pieces to make them more suitable
+for the use in A New Order.
+
+PORTRAITS
+---------
+Santiago Iborra: portraits for Karen, Reme, Ruvio, Gawen, Lorin, Huon, Mithrandil (The last taken from WTactics, they are under GPL)
+
+I _think_ also Milildur and Kyobaine are by Santiago Iborra
+
+akladian_chaotic, akladian_lord, akladian_lord2, bor_cryne, majid, hoyre -- Łukasz Zaręba
+
+farmer_girl, peasant3 -- by Doofus  (peasant3 is a tavernkeeper from his campaign)
+
+Elorain: should be removed, it is the same as in the mainline female+ranger...
+old orcish shaman, orcish shaman: are in Son of the black eye.
+deorien: same as hylas in The South Guard.
+huon: same as swordsman-2 in transparent/core, should be removed
+
+Regven, Kyobaine, peasant1, -- they were taken either from Wesnoth, or
+WTactics. Right now I do not remember the details about the author, I will
+try to fix this successively.
+
+Majid, Bor Cryne, akladian_lord, akladian_lord2, hoyre, Grekulak - Łukasz Zaręba
+
+The previous version of Grekulak: "Fluffy!!!" <crowbar.assassin@gmail.com>
+
+other were made by me (A.D.Danilecki). In general, if a portrait is ugly, most
+likely I did it :)
+
+SPRITES
+-------
+Akladians:  new version: Sleepwalker, original: A.D.Danilecki, except few
+corrected or made by Peter Geinitz aka Shadow aka Wayfarer (they are in
+wayfarer directory, e.g. Lady Lorin and Fastfoot) SlyVenom: Frankenportraits for Buffin, Gauri, Luc, Fastfoot, Homegaurd, Pikinier, Protector & Shieldguard. 
+
+GIMP BRUSHES USED TO CREATE STORY IMAGES
+----------------------------------------
+I have used the gimp brushes by: VPDesigns, converted by droz928, LJFHutch,
+iceytina, damnicons, sarah-dipity, mairin duffy, lifetb, akisu-sama, hawksmont,
+blackwolf -- downloaded from deviant art pages. I carefully choosen only those
+brushes, whose authors clearly stated the conditions of use, deemed by me to be
+compatible with GPL. Some of them forbid distribution of the brushes itself,
+but they allow to create and then freely distribute a work based on those
+brushes. E.g. LJF stated: "* Attribution not required except for published
+modifications * You may use these for commercial purposes ", Iceytina: 
+"You can use these however you like, just please credit me somewhere." Xternal:
+"xTernal7 You are allowed to use this brushes for your artwork. Credit is not a
+must, but is welcome." Hawksmont: "Brushes created by hawksmont are free to use
+in non-commercial and commercial designs." etc.
+
+STORY IMAGES
+------------
+* Maps: have to check it. They were slightly modified by Spencer Cooley
+* Gawen_alone: Gawen is by Santiago Iborra, background 
+  (copyright expired) by John MacWhirter (died 1911; art in Public Domain).
+  Composed by Spencer "The Sigil" Cooley
+* Lorin_alone and Lorin_alone_sharp: by Santiago Iborra, composed into story
+  image by Sigil
+* Chaos Everywhere: background by me, using silquettes of portraits created by
+  Santiago Iborra and from Wesnoth. Foreground: Gawen by Santiago Iborra. 
+* Before the battle: using imperial horn blower from WTactics. From the style,
+  I think it is by Santiago Iborra. Gawen by Iborra. In addition I have modified 
+  portraits from Wesnoth distribution: Elf Landar, Mage, and Footpad (yeah,
+  only those three -- the guys in background are just repeated mage pictures).
+  Composed by me (A.D.Danilecki)
+* Elven Trackers -- by Santiago Iborra with added public domain photo titled 
+  snow-covered-hillside-with-small-evergreens.jpg
+* Into okladia: the background is a public domain art by Thomas Cole from 1836
+  (The oxbow: the connecticut river near northampton). Gawen by Santiago
+  Iborra. Akladians by A.D.Danilecki. Put together by A.D.D.
+* Leaving Raedwood: from A to Z by A.D.D. Using also brushes I made
+  specifically for this image :) Those brushes are also available on
+  wesnoth forum.
+* People of Vakladia: using FlareMaleHero2 by Justin Nichol, originally for the
+  game by Clint Bellanger (http://clintbellanger.net/rpg/), GPLd. I
+  (A.D.Danilecki) created dozen of variations
+  of this Hero and composed them into this picture.
+* Smokes in the forest: basically modified public domain photo titled 
+  "forest-dusk-landscape", found with google, with smokes added in gimp
+* Walls of Vattin: composed by A.D.Danilecki using Lorin by Santiago Iborra 
+  (yeah, that's why her arm is at this awkward position, it's just rotated
+  and retouched in gimp) plus the photo from my own collection.
+* Swamp Scene: Akladians drawn by A.D.Danilecki, using my own photos. Background
+  from public domain photo found on google, called "autumn trees standing in
+  water" (duh). 
+* story_barnon: from A to Z by A.D.Danilecki. Created using my own photos,
+  which I then rendered with my tablet and modified.
+* ruins of weldyn, ruvio at freetown, story ruvio, story_leftme, story_cametome,
+  fall of freetown, haeltin_defense: Łukasz Zaręba.
+  Made especially for ANO :) Story_leftme was slightly retouched (changing colour
+  of hair and some little touches to Lorin's face) by me, but those changes are
+  almost invisible.
+
+OTHER
+-----
+Some images and tiles were created by Reiner "Tiles" Prokein

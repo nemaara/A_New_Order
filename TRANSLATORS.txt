@@ -1,0 +1,42 @@
+This campaign used to be translated into many, many languages. Unfortunately,
+at the same time most text was written by non-native English speaker (meaning me),
+and as an effect, native speakers were complaining about errors, typos etc. 
+Finally, there came Sigil, and he corrected the English. As an effect, all
+translations became outdated. Since I (usually) know, what was changed, i 
+manually updated part of the translated strings, but I could be wrong.
+
+If you like the campaign, please help us to make it better, so other can
+enjoy it too. Consider translation to your own language. It's a lot of work --
+but you can translate just a bit, for example one or two scenarios, then others
+can translate another bit etc.
+
+Read http://wiki.wesnoth.org/WesCamp 
+
+If you are confused and you don't know what to do, sent me an email at
+adanilecki@cs.put.poznan.pl, I can sent you a .po file  with strings which need
+to be translated, and answer your questions.  
+
+Finally, read the remarks below.
+
+GUIDE FOR TRANSLATION
+---------------------
+* Akladians should speak in pompuous way, with a lot of emphasis etc.. I don't
+  know, whether it is achieved in English, since I am not native speaker. But
+  they should employ archaic words, archaic grammar etc -- also they should talk 
+  in very epic-like manner.
+* Lorin speaks fast and to the point, whenever possible.
+* Karen may employ slang and more colloquialisms
+* Wesnothians may sometimes do grammar mistakes or confuse words. You are 
+  encouraged to change some strings to make clear this is intentional, for 
+  example in Polish, Wesnothian are consequently using different plural for
+  "Akladians" and at one point I made one Akladian correcting Wesnothian,
+  saying that the correct plural is different. Don't overdo though.
+* You are encouraged to make your own play on words etc. You do not have to
+  translate everything literally, just try to carry the same sense
+* English does not have high polite and impolite forms. If your language has
+  polite and impolite forms, then make Akladians, Ruvio, Elves, Huon use polite
+  forms. If your language have archaic and modern polite forms, use archaic. 
+  E.g. use "Sie", "vous" or "Vy" not "Du", or "ty". 
+* "Underling" should *not* be translated as "subhuman". In Polish, finally I stick
+  with "pariah" which was suggested by other Polish translator (Piotr Cychowski).
+  You may create your own word.

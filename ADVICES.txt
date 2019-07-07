@@ -1,0 +1,113 @@
+Some general advices from the Wesnoth forums (kudos Elvish Pillager+Tapik) and
+from my own experience:
+
+1. Keep your Akladian loyal units alive. 
+2. Harvest XP for Lorin, Gawen and your loyal units. Lorin is a real killing
+   machine when she has enough XP. She has skirmisher, so use it.
+3. First two scenarios are for getting as much gold and as much XP as possible.
+   Use this possibility. I balanced campaign assuming player have at least three
+   Akladian loyal units from first three scenarios. It is possible to have five
+   3rd level loyal units after first three scenarios, though it is hard and
+   you have to be lucky and patient. But if you do not have two 3rd level loyal
+   units and at least two 2nd level (on NORMAL, after Battle of Barnon), then
+   it means you should reconsider your tactics. 
+4. Clansmen are cheap. They die easily, but in some scenarios you may use them
+   to keep your more valuable units alive. Also, you can use them to delay
+   advance of enemies. They heal quickly, and deal reasonably amount of damage,
+   they are deadly cheap. When you got enough gold, you can simply SWARM
+   the enemy with Clansmen.
+5. In some scenarios you get the advices, sometimes innocently hidden within a
+   dialogue or someone's message. 
+6. Some campaigns can be very quickly and easily finished --- for example,
+   some leaders are cowards; some can be convinced to join you. 
+7. Interrogate the enemy leaders. In one scenario it is possible to finish
+   very early if you know which enemy leader should be interrogated first..
+8. When facing Akladians, look at their weak points -- they are very low on HP,
+   but they have high resistance... with some exceptions. In other words, as it
+   was put in the forums, they hate mages for a reason. Also, note that Akladians
+   have no ranged weapons. If you can attack them with ranged weapons, do it,
+   they won't retaliate (and if they won't retaliate, your unit will have more HP, 
+   and have greater chance to survive when Akladians strike back).
+9. Don't rely on save/reload tactic. If you will, you will never become better
+   player. All scenarios are winnable with suitable tactics, and they do not
+   require a perfect playing. I am sloppy player, and I balanced a game
+   so I can made errors, lose units and yet still win. So can you.
+10.The HARD level of difficulty is for hardcore players. If you are no hardcore
+   player, play it on normal. When I wrote "Impossible", I meant it. But then,
+   if you are really a hardcore player, you may feel dissapointed (see 14. below).
+11.In many scenarios the sensible tactics is to concentrate on a single enemy, and
+   not (emphatically *not*) fighting with two or more in the same time.
+12.Sometimes it's worth to not to recall units (unless they are loyal), and
+   wait a bit. It saves gold.
+13.Sometimes, even if you have all high 3-level units, it's worth to recruit
+   peasants or clansman -- and treat them as live shields to protect your
+   more valuable units (for example, AI may choose to target those, instead of
+   finishing 3rd level unit. This is definetely AI algorithm weakness, so I 
+   don't know how long this advice will be useful).
+14.It is possible to have even 12 loyal 3rd level units. And with those,
+   a lot of scenarios are simply walkovers, even on HARD.
+15.Sometimes it is worth to leave some enemy units alive, just to get chance
+   to earn more XP for other units. For example, if you are sure of victory,
+   you may cease to attack enemy leader, so it could recruit more soldiers --
+   meaning more XP for your troops :)
+16.Finally, sometimes it is worth to NOT attack or move your units during your
+   turn.  Even if with attack you may finish some enemy unit, even if it will
+   cost your valuable loyal 3rd level unit only a single HP, this single HP may
+   decide about life or death of your unit during enemy retaliation phase.
+17.Usually you should play aggressively and defend only when necessary.
+
+And remember: our only reward is the comment from the players. If you like it,
+register in forums and praise it. If you didn't, register in forums and say what
+you didn't like. 
+
+Sometimes AI behaves VERY strange. It was tuned for wesnoth 0.9.3 and now...
+Let's just say we (creator and maintainers) have no time to correct it, but if
+someone has time, I will welcome the patches.
+
+If you have more general advices, sent them to forum. GENERAL advice, i.e. not
+of the kind "in scenario X do this". However, if you have a complete WALKTHROUGH,
+we may include it within the campaign.
+
+GENERAL REMARK
+-------------- 
+During last six years I had comments from different players, some of which
+thought scenario X is too easy, while others were claiming it is too hard.  I
+think I got at least dozen emails from players who killed Bor Cryne in the
+first Battle of Barnon (at least three of them did that on HARD !! -- that's
+why with every version of ANO [*], I try to make this scenario harder), or who
+finished the last scenario before Grekulak appeared.  In at least one case
+player complained that one scenario is too hard, but when I asked about his
+strategy, it appeared he has chosen the worst possible tactics (he attacked
+four enemy armies at the same time.. and he won the scenario anyway, but he
+complained that this was due to luck). If the campaign is too hard, then play
+it on EASY. I am not writing this because I am a jerk who refuses to listen
+to players. I am writing this, because I got so many so different opinions and
+I can't decide, whether the campaign is too easy or too hard.
+
+Usually I start Battle of Barnon with 340-350 gold pieces and four 2nd level
+troops. Last times I had two units with ten points away from advancing to 3rd
+level on the beginning of battle of Barnon. In balancing, I assumed player has 
+at least 250 gp in this scenario.
+In Siege of Haeltin I have usually four 3rd level loyal Akladian troops. Sometimes I also succeed in advancing khalifate troops, but usually only when I am lucky. 
+
+----------------------------------
+[*] If you are Spanish, don't smile at this acronym. ANO means "yes" in Czech,
+    for example, and it is used as "yes" sometimes in Polish too. When we will
+    conquer Europe, it will mean "yes" also in Spanish :-D.
+
+The scenarios, which I designed to be hard:
+
+04 Battle of Barnon
+09 Hired Swords (no longer hard in 1.2.7; it's a walkover with proper tactics now,
+   will be changed in the future)
+10 Siege of Haeltin (09 and 10 were dubbed "Lorin's wars" by one player. See
+   also remark above)
+19c Oracle (but here, only first 7 turns are hard. Not rebalanced in 1.2.7)
+23 Trapped
+27 Orannon 
+
+05 ("The swamp things" and "Unexpected guests") are not designed to be hard and
+   they are easily winnable with proper tactics (and enough high-level loyal
+   akladians). In fact, they are boringly easy for me.
+
+A.D.D.

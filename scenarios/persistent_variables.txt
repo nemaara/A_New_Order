@@ -1,0 +1,18 @@
+namespace: ANewOrder
+
+ANOversion campaigns' version which was played
+ANOlast_scenario Last scenario WON by the player
+
+ANObarnon_dejavu, reset to 0 at the scenarios' start. used to count reloads time.
+ANObarnon_dejavu_turns, reset to 0 at the scenarios' start. used to count reloads time. Last turn reached - if larger or equal the current, reset to the current, means reload was made. If the current is larger than the previous, means player reloaded LATER savegame.
+
+ANOhired_dejavu, reset to 0 at the campaigns' start; incremented each time player starts 3rd turn
+ANOhaeltin_dejavu reset to 0 at the campaigns' start; incremented each time player starts 3rd turn 
+ANOhaeltin_last_dead read into local variable and then reset to 0 at the start of the scenario; the number of dead at the 6th turn previous time 
+ANObarnon_choice which way was choosen by the player (orcs or swamps) after the barnon battle
+ANOburass_alive whether Burass was saved twice by Lorin
+ANOreumarios_fate whether Reumario is dead, alive, or joined player
+ANOrobroes_fate whether robroe is alive at the end of the campaign
+ANOmax_points_scored how many points the player scored at maximum
+ANOpreviously_scored_points how many points the player scored last time (-1 at first)
+

@@ -1,0 +1,121 @@
+All the content is _conditionally_ licensed under the GPL, with one important
+remark. See GPL.txt for details of the GNU Public License. For meaning of
+_conditional_ see "additional important remark" below. The conditional 
+licensing does not pertain to the "Before the battle" image.
+
+However, Nick Humphrey's work is also licensed under CC3.0-SA-Attribution.
+Also works by Arkadiusz D. Danilecki (except "Before the Battle") and Łukasz
+Zaręba also are double-licensed as CC3.0 share-alike-attribution. Meaning
+informally: you can do whatever you want, modify it, distribute it, use in a
+commercial work on condition you credit the original authors and you allow the
+resulting work to be freely distributable and modifiable under the same
+license. Use google or yahoo or whatever to find out more details about CC
+(Creative Commons) licences.
+
+What does that mean for you?  It means you can choose whether you want to use
+the works enumerated above under conditions imposed by GPL, or under conditions
+imposed by CC 3.0 Share-Alike with Attribution. If you want to use images
+under GPL, fine. If you want to use them under CC3.0, you have our blessing.
+If you choose to distribute it under GPL, please add the remarks below and
+also add a note, that the same work is available with CC3.0 license.
+
+This is ONLY for the authors enumerated above.
+
+The remark about _conditional_ licensing does not pertain to the content taken
+from the other campaigns and other sources and which is already GPLd. If you 
+want to enforce GPL words literally, then do not bother us, but the original
+authors. Also, the _conditional_ licensing is relevant only to art (music and
+images).
+
+ADDITIONAL IMPORTANT REMARK 
+--------------------------- 
+GPL is a license which was created for the code, and not for the art. It is not
+clear what is a "source" for an image, or for the music. GPL contains the following
+remark:
+
+    The source code for a work means the preferred form of the work for
+    making modifications to it.  
+
+For us, it is not clear whether .ogg or .mp3 are the "preferred form of the work"
+to make modifications to the music. To clarify this, we license content under GPL
+conditionally. If such conditional licensing is not legally binding (we are
+not lawyers), then content created for this campaign is not GPLd, but under CC
+3.0-SA-attribution license.
+
+All the artwork (images and music) which was GPLd for this campaign was done so
+under following condition: by "the preferred form of the work for making
+modifications to it", i.e. the source code, we understand the work __as it is
+shipped with this campaign__. 
+
+We grant the GPL use with understanding that it does not require us to provide
+module sources, sketches, waves or anything else except of what is already
+provided with this distribution. If GPL require us to give away also source as
+in "all the waveforms used for creating of the song" or "all sketches used to
+create an image", then the images and music are not GPLd. Please add this
+remark to our work if you choose to distribute it under the GPL instead of
+CC3.0.
+
+This condition is not to restrict your rights to modify and distribute the art
+as it is contained within this distribution. You can do it, you can distribute
+the resulting work, you can do whatever you want to do with the art under
+conditions of GPL. This condition is to protect us from legal maniacs, who
+would try to use GPL wording to demand more from us than we are able to
+provide. For example.  for some music pieces we do not have "source" if it is
+understood to be "separate waves" or "tracker modules". We simply define what
+we understand here by the "source" for the artwork, since GPL is a license not
+destined for the art.
+
+Note to the maintainers of campaign server: if you think our conditions violate
+the GPL and are not reasonable, then what you will do if some legal maniac
+will demand that you should provide him the sources for all the music made
+for the campaign?  If you think this condition is not reasonable and makes
+us GPL-incompatible, could you please provide us with all the waves and all source
+formats needed to remix all wesnoth music, including the ones for the music
+contributed by Aleksi and Timothy? If you can't, or if you refuse, it means we
+are right and our condition is sensible, since you in fact have the same
+condition and you simply had not stated it clearly.
+
+This condition is simply a bit stronger than similar remark by Wesnoth authors,
+except it is more sensible. Wesnoth contains the following remark: 
+
+    Note that for artwork and music, we interpret "preferred form of the work
+    for making modifications" as the modifiable form that the author chooses to
+    ship us for the source tree.
+
+It seems to me that this statement by the Wesnoth team means exactly nothing.
+Similarly I could release the binary compiled program and claim that I choose
+to interpret "preferred form of the work for making modification" as a binary
+version of the program.  After all, you can use hex editors or disassemblers to
+make the changes. You cannot do much modifications to music if it is in mp3
+form, not more than to the binary of the executable program.
+
+Can I distribute an EXECUTABLE program under GPL, and claim that "preferred form
+of the work for making modification" is this binary? Can I upheld this claim in
+court? What will Wesnoth team do, when some company will arrive and demand that
+you should provide them sources to the music? Are you 100% sure your statement
+is enough to secure you from such an insane company? Are you 100% that there
+never will be such an insane company?
+
+In addition, GPL requires: 
+
+    a) You must cause __the modified files__ to carry prominent notices stating
+    that you changed the files and the date of any change.". 
+
+Yo, people who were frankenstining Wesnoth sprites: have you attached prominent
+notices that you have changed the files? Because, you know, the literal wording
+says about __modified files__ itself, and not that you put a notice next to
+file... In other words you have all violated GPL. 
+
+You think I am insane? I think it is insane to license art under GPL. GPL is 
+for the code. 
+
+COPYRIGHT NOTE FOR REINER'S TILES
+---------------------------------
+There are some images for terrains and items which are from Reiner's site:
+
+http://www.reinerstileset.4players.de:1059/englisch.htm
+Copyright terms:
+
+"The tilesets are freeware. Even for commercial Games. I just want my name in
+the Credits in this case: Reiner "Tiles" Prokein. You can modify my graphics in
+every needed way: size, colour, fileformat , ..."
