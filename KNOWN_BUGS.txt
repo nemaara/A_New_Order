@@ -1,3 +1,5 @@
+Note: this file is outdated; see the bugtracker on GitHub instead 
+
 in scenario 4 Battle_of_Barnon,
 - a message appears in the log
 Quote:

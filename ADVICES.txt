@@ -88,7 +88,9 @@ Usually I start Battle of Barnon with 340-350 gold pieces and four 2nd level
 troops. Last times I had two units with ten points away from advancing to 3rd
 level on the beginning of battle of Barnon. In balancing, I assumed player has 
 at least 250 gp in this scenario.
-In Siege of Haeltin I have usually four 3rd level loyal Akladian troops. Sometimes I also succeed in advancing khalifate troops, but usually only when I am lucky. 
+In Siege of Haeltin I have usually four 3rd level loyal Akladian troops.
+Sometimes I also succeed in advancing khalifate troops, but usually only when
+I am lucky. 
 
 ----------------------------------
 [*] If you are Spanish, don't smile at this acronym. ANO means "yes" in Czech,
