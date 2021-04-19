@@ -1,0 +1,4 @@
+# unnecessary backup files:
+*~
+*.cfg-bak
+*.swp

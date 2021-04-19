@@ -1,4 +1,4 @@
-﻿MUSIC
+MUSIC
 -----
 The Music authors details are in music/readme.txt
 The composers: Nick Humphrey, Christian Hellerberg and Erik Rijshouwer were
@@ -14,7 +14,8 @@ for the use in A New Order.
 
 PORTRAITS
 ---------
-Santiago Iborra: portraits for Karen, Reme, Ruvio, Gawen, Lorin, Huon, Mithrandil (The last taken from WTactics, they are under GPL)
+Santiago Iborra: portraits for Karen, Reme, Ruvio, Gawen, Lorin, Huon, Mithrandil
+(The last taken from WTactics, they are under GPL)
 
 I _think_ also Milildur and Kyobaine are by Santiago Iborra
 
@@ -42,7 +43,8 @@ SPRITES
 -------
 Akladians:  new version: Sleepwalker, original: A.D.Danilecki, except few
 corrected or made by Peter Geinitz aka Shadow aka Wayfarer (they are in
-wayfarer directory, e.g. Lady Lorin and Fastfoot) SlyVenom: Frankenportraits for Buffin, Gauri, Luc, Fastfoot, Homegaurd, Pikinier, Protector & Shieldguard. 
+wayfarer directory, e.g. Lady Lorin and Fastfoot) SlyVenom: Frankenportraits
+for Buffin, Gauri, Luc, Fastfoot, Homegaurd, Pikinier, Protector & Shieldguard. 
 
 GIMP BRUSHES USED TO CREATE STORY IMAGES
 ----------------------------------------
