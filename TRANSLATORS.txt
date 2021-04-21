@@ -1,9 +1,11 @@
 This campaign used to be translated into many, many languages. Unfortunately,
 at the same time most text was written by non-native English speaker (meaning me),
 and as an effect, native speakers were complaining about errors, typos etc. 
-Finally, there came Sigil, and he corrected the English. As an effect, all
+Then Sigil came along, and he corrected much of the English. As an effect, all
 translations became outdated. Since I (usually) knew what was changed, I 
-manually updated part of the translated strings, but I could be wrong.
+manually updated part of the translated strings, but I could be wrong. Then
+egallager came along and corrected many of the errors that Sigil had missed, so
+the translations became outdated again.
 
 If you like the campaign, please help us to make it better, so others can
 enjoy it, too. Consider translation to your own language. It's a lot of work --
