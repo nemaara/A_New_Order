@@ -24,6 +24,7 @@ PORTRAITS
 * Another version of Karen picture (low priority, and it would be more expensive)
 * Dunefolk (Boris) (low priority)
 * Heinric the Redbeard (from the first scenario) (low priority)
+* older-looking mage for the medic who heals Gawen (low priority)
 
 STORY IMAGES
 ------------
