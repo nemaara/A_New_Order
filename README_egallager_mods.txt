@@ -1,7 +1,7 @@
 This one got hard eventually; the author seemed to assume that the player
 would do a better job keeping their units alive than I did. Actually, the
 author seemed to make a lot of assumptions about player behavior that didn't
-necessarily hold true in general. I might have to take a second pass at this,
+necessarily hold true in general. I might have to take some more passes at this,
 as there's a lot of other cleanups to be done, too:
 
  - switching commenting-out of code to ifdef-ing out of code, or just removing
@@ -169,7 +169,13 @@ earlier than was intended, so now I'll probably want to edit a message in
 S24 (Fall of Freetown) to reflect that (I didn't do that my first time thru
 though, because it's a story-only scenario)
 
-Note that some of my edits to this fork took place in a separate repo before I
-decided to make it a separate add-on. These edits were in my general
-wesnoth_mods repo, the link for which is here:
+Note that some of my edits to this set of contributions took place in
+separate repos before I decided to contribute them back upstream. The first set
+of these edits were in my general wesnoth_mods repo, the link for which is here:
 https://github.com/cooljeanius/wesnoth_mods/tree/master/campaigns/A_New_Order
+The second set was in my own "A New Order" repo, which I started from scratch
+with a fresh history, the link for which is here:
+https://github.com/cooljeanius/A_New_Order
+After completing my edits there, I then forked Yumi/nemaara's "A New Order" repo
+and copied my changes over to my forked version, which I then submitted as a pull
+request.

@@ -4,7 +4,7 @@ are kept alive by old legends, while bandits and Dunefolk mercenaries roam
 the land. Can Gawen Hagarthen unite these disparate factions against a common
 foe?
 
-Known problems:
+Known problems (note: out of date; see GitHub issue tracker instead):
 * Sometimes after downloading the campaign, some of the images are not shown
   correctly. Before reporting a bug to me, try quit the wesnoth program
   completely and then start it again. If this won't help, contact me.
@@ -294,11 +294,16 @@ Westlund, Aleksi, Hiro Hito, Tyler Johnson. See ART_authors.txt for the details.
 
 Kudos to testers: Turuk, t3st3r, and others.
 
-Currently, this fork of ANO is maintained by egallager (a.k.a. cooljeanius).
-Note that some of egallager's edits to this fork took place in a separate repo:
-his general wesnoth_mods repo, the link for which is here:
+Currently, ANO for BfW 1.14 is maintained by Yumi (a.k.a. nemaara). This set of
+contributions to ANO are maintained by egallager (a.k.a. cooljeanius). Note that
+some of egallager's edits took place in separate repos:
+First, his general wesnoth_mods repo, the link for which is here:
 https://github.com/cooljeanius/wesnoth_mods/tree/master/campaigns/A_New_Order
-Mainline ANO is maintained by the original author, that is me: A.D. "szopen"
+And next, a separate ANO repo with its own history:
+https://github.com/cooljeanius/A_New_Order
+Finally, these contributions were copied over to a fork of Yumi/nemaara's ANO
+repo, and submitted back upstream in the form of a pull request. Before BfW 1.14,
+mainline ANO was maintained by the original author, that is me: A.D. "szopen"
 Danilecki. Beginning with Wesnoth 1.9 (ANO v. 1.2.x), ANO was maintained by
 Spencer Cooley 'TheSigil'. Before, ANO was maintained by Oto 'tapik' Buchta
 From 1.4 to the ?? (v0.9.9 to current), ANO was maintained by Typhoon
