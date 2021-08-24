@@ -44,3 +44,8 @@ GUIDE FOR TRANSLATION
 * "Underling" should *not* be translated as "subhuman". In Polish, finally I stuck
   with "pariah" which was suggested by another Polish translator (Piotr Cychowski).
   You may create your own word.
+
+USEFUL LINKS
+------------
+Czech translation wiki page:
+https://wiki.wesnoth.org/CzechTranslationANewOrderCampaign

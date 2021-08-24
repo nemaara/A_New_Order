@@ -34,7 +34,10 @@ If you are a child under 13, please do not play it.
 Do not read the rest if you have not finished the campaign. It contains the 
 spoilers. If you spot a spelling mistake here (or when playing a game), or
 if you want to correct the English, please report it at the forum, or open
-a pull request on GitHub.
+a pull request on GitHub. For reference, the link to the forum thread is here:
+https://forums.wesnoth.org/viewtopic.php?f=8&t=6486
+...and the link to Yumi's official GitHub repo for this campaign is here:
+https://github.com/nemaara/A_New_Order
 
 HOW TO THANK US
 ---------------
@@ -74,14 +77,15 @@ If you want to do something more, you can consider:
   complicated an image is). This is not a payment for a campaign; this is to
   fund new portraits. In other words, this is in order to allow the others
   enjoy the campaign even more. And we may then decide to create a sequel :)
-  Use moneybookers or paypal. You have to register, though. The transfer with
-  moneybookers costs about 1 euro (0.5 fee by moneybookers, but in my country
-  my bank also charges for transferring to my account in moneybookers); 
-  http://www.howtopayonline.org/moneybookers.html. Paypal charges percentage of
-  the amount, I *think* it is about 5%. My account is "szopen@europe.com" -- if
-  you made a transfer, you may also consider to send a suggestion for which
-  portrait should be done next. TODO: Sigil's credit card or account here as
-  an alternative payment form for a donation?
+  Use PayPal. You have to register, though. PayPal charges a percentage of
+  the amount, I *think* it is about 5%. It used to be that the suggested
+  donation account for this campaign on PayPal was szopen's, but he has
+  suggested to update that to an account for someone more currently involved
+  with maintainence of the campaign, so mine (egallager's) is here:
+  https://www.paypal.com/paypalme/egallager
+  I am not sure if Yumi/nemaara has one; I'll have to ask her.
+  You can also sponsor egallager via the GitHub Sponsors program here:
+  https://github.com/sponsors/cooljeanius
 
 Note that none of this is mandatory and you should under no circumstances feel
 obliged to do any of this. Saying you like it is enough to make us happy :) :)

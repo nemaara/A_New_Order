@@ -106,4 +106,5 @@ STORY IMAGES
 
 OTHER
 -----
-Some images and tiles were created by Reiner "Tiles" Prokein
+Some images and tiles were created by Reiner "Tiles" Prokein. Snowshoes image was
+made by Mathbrush (aka brirush84) for SotBEEE.
