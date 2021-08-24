@@ -61,9 +61,11 @@ STORY IMAGES
   quality, though)
 * Mother of Gawen and Akladians intriguing behind her back (for prologue)
 * Lorin next to poisoned Gawen (for prologue)
-* Lorin vs Karen finally getting along (in the ANO_art repo,
-  stare/story/story_lorin_karen.xcf still has the two of them disagreeing, so don't
-  use that; come up with something better instead)
+* Lorin vs Karen finally getting along (from Gawen's point of view) (except
+  they're not actually getting along, though, Gawen is just clueless about their
+  true relations. See how in the ANO_art repo, stare/story/story_lorin_karen.xcf
+  and stare/story_images/story/story_lorin_karen.png still have the two of them
+  disagreeing; this is supposed to have a humorous effect)
 * images for the epilogue (Ruvio's burial, Lorin riding to the Dunefolk
   sietches with her son)
 * Lorin riding into a Dunefolk sietch
