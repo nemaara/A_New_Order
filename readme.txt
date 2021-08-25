@@ -270,7 +270,7 @@ Many of the Akladian faction sprites were corrected by Shadow/Wayfarer.
 Aragwaiths were units created and maintained by Shadow/Wayfarer, but they have
 been removed.
 
-Dunefolk were created by ?? 
+Dunefolk were created by Noy: https://forums.wesnoth.org/viewtopic.php?t=10291
 
 Many thanks to ott for hinting how to fix campaign to be post-0.9.3 compatible.
 

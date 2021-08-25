@@ -35,6 +35,8 @@ PORTRAITS
   that doesn't even match his unit type
 * unique portrait for Maurice (a Red Mage), to replace the generic White Mage
   portrait that doesn't even match his unit type
+* A shadowy version of Grekulak's portrait, to foreshadow his appearance, without
+  spoiling him before he's revealed (e.g. in Deorien's story)
 
 STORY IMAGES
 ------------
@@ -52,6 +54,7 @@ STORY IMAGES
   story: a dark silhouette on dark background)
 * An image illustrating a rebellion of Akladians against Grekulak (Deorien's story)
 * An image illustrating the Akladians' escape across the deserts (Deorien's story)
+* An image illustrating Grekulak's failed "twisted experiments" (Deorien's story)
 * An image illustrating the siege of Weldyn (Akladians storming walls)
 * An image illustrating how the Akladians treat the traitor, who opened the
   gates of Weldyn (see S21d, "Ruins of Weldyn", for reference)
@@ -73,3 +76,6 @@ STORY IMAGES
   stare/story/furious*.xcf and stare/story_images/story/story_furious.png in the
   ANO_art repo for references; they were removed from the actual campaign due to
   quality, though)
+* see also images_TODO.txt in the ANO_art repo (might be slightly outdated, but it
+  might also have some things missing from here; I haven't fully compared the lists
+  yet...) https://github.com/cooljeanius/ANO_art/blob/main/images_TODO.txt
