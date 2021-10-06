@@ -1,17 +1,11 @@
 Note: this file is outdated; see the bugtracker on GitHub instead 
 
-in scenario 4 Battle_of_Barnon,
-- a message appears in the log
-Quote:
-error display: could not open image 'terrain/desert_crater.png'
-
-
-6. you can send Lorin and Reme west, and all the rest to the east, but still they are happily reunited in the next scenario.
-
+in scenario 4 Battle_of_Barnon, you can send Lorin and Reme west, and all the rest
+to the east, but still they are happily reunited in the next scenario.
+(at least there's code preventing Reme and Lorin from being separated like that)
 
 
 * In scenarios when you recall units to choose the best ones, if you withdraw your choice, it is still counted.
-* elvish captain loses skirmish after advance.
 * In "Orannon", the game did not end when I got Lady Lorin killed (this was after she had to return to the keep within 6 turns).
 
 wesnoth messages: 
