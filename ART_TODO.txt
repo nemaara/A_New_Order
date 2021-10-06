@@ -12,39 +12,70 @@ animations for sprites, or correct existing sprites.
 
 PORTRAITS
 ---------
-* Hagarthen kings: Luc, Buffin, Gauri (one generic king is enough, but two or three
-  would be nice too - once I have one portrait, two more are low priority)
-* Generic "good" Akladian high level unit (e.g. Protector, Shieldguard, maybe 
+* Generic "good" Akladian high level unit (e.g. Protector, Darknite, maybe 
   also Fastfoot)
-* "Broken" Ruvio, after fall of Freetown (preferrably bought from Santiago Iborra,
+* "Broken" Ruvio, after Fall of Freetown (preferrably bought from Santiago Iborra,
   if we can find the funds, which seems unlikely...)
-* Generic low-level Akladian unit with swords (Raiders+Homeguard) 
+* Generic low-level Akladian unit with swords (Raiders+Sturmknight) 
 * Generic Akladian unit with spears (Pikeneer, Warrior, Clansman, LightInfantry)
 * Generic leading units (Chieftain+leader - this is very low priority)
-* Another version of Karen picture (low priority, and it would be more expensive)
-* Dunefolk (Boris) (low priority)
-* Heinric the Redbeard (from the first scenario) (low priority)
-* older-looking mage for the medic who heals Gawen (low priority)
+* A winter version of Karen's portrait (low priority, and it'd be more expensive)
+  (there's one in the ANO_art repo, but it doesn't match her usual look, so one of
+  the two would have to be updated)
+* A winter version of Yahyazad's portrait
+* Another Reme portrait
+* Heinric the Redbeard (enemy leader from the first scenario; can be either a City
+  Militia or a Lieutenant, depending on difficulty) (low priority)
+* older-looking mage for the medic who heals Gawen in S01 (low priority)
+* portraits for some of the less-important units with descriptive names, e.g.
+  "John the Baldhead" (a peasant discoverable in S13), "Fat Bart" (an enemy
+  Fugitive leader attacking the Oracle in S19c), and "Robert the Hefty" (an enemy
+  Fugitive leader in S27, Orannon) (low priority)
+* unique portrait for Rob Roe (an Outlaw), to replace the generic Thug portrait
+  that doesn't even match his unit type
+* unique portrait for Maurice (a Red Mage), to replace the generic White Mage
+  portrait that doesn't even match his unit type
+* A shadowy version of Grekulak's portrait, to foreshadow his appearance, without
+  spoiling him before he's revealed (e.g. in Deorien's story)
 
 STORY IMAGES
 ------------
-* Blinded Lorin telling her final story
+* Blinded Lorin telling her final story (see stare/lorin/lorin_opowiada.xcf and
+  stare/story_images/lorin/lorin_opowiada.png in the ANO_art repo for reference;
+  it was removed from the actual campaign due to quality, though)
 * "Lorin became more taciturn" after talk with Oracle (sitting outside camp and
   gazing into the sky)
 * Akladians invading Wesnoth -- plundering, wondering what spoons are for, and
-  trying to hear the stories imprisoned within books (for prologue)
+  trying to hear the stories imprisoned within books (for prologue) (see
+  stare/story/story_fire_bg.xcf and stare/story_images/story/story_fire.png in the
+  ANO_art repo for a reference; it was removed from the actual campaign due to
+  quality, though)
 * An image illustrating how Grekulak escaped through the swamps (for Deorien's
   story: a dark silhouette on dark background)
 * An image illustrating a rebellion of Akladians against Grekulak (Deorien's story)
 * An image illustrating the Akladians' escape across the deserts (Deorien's story)
-* An image illustrating the siege of Weldyn (Akladians sturming walls)
+* An image illustrating Grekulak's failed "twisted experiments" (Deorien's story)
+* An image illustrating the siege of Weldyn (Akladians storming walls)
 * An image illustrating how the Akladians treat the traitor, who opened the
-  gates of Weldyn
-* Akladians overpowering Lorin (in scenario after Orannon)
+  gates of Weldyn (see S21d, "Ruins of Weldyn", for reference)
+* Akladians overpowering Lorin (in scenario after Orannon) (see
+  stare/lorin/lorin_lezy.xcf and stare/story_images/story/story_powerless.png in
+  the ANO_art repo for reference; it was removed from the actual campaign due to
+  quality, though)
 * Mother of Gawen and Akladians intriguing behind her back (for prologue)
 * Lorin next to poisoned Gawen (for prologue)
-* Lorin vs Karen finally getting along
+* Lorin vs Karen finally getting along (from Gawen's point of view) (except
+  they're not actually getting along, though, Gawen is just clueless about their
+  true relations. See how in the ANO_art repo, stare/story/story_lorin_karen.xcf
+  and stare/story_images/story/story_lorin_karen.png still have the two of them
+  disagreeing; this is supposed to have a humorous effect)
 * images for the epilogue (Ruvio's burial, Lorin riding to the Dunefolk
   sietches with her son)
 * Lorin riding into a Dunefolk sietch
-* furious Bor Cryne wishing for the finding of Gawen's body
+* furious Bor Cryne wishing for the finding of Gawen's body (see
+  stare/story/furious*.xcf and stare/story_images/story/story_furious.png in the
+  ANO_art repo for references; they were removed from the actual campaign due to
+  quality, though)
+* see also images_TODO.txt in the ANO_art repo (might be slightly outdated, but it
+  might also have some things missing from here; I haven't fully compared the lists
+  yet...) https://github.com/cooljeanius/ANO_art/blob/main/images_TODO.txt
