@@ -23,10 +23,10 @@ PORTRAITS
   (there's one in the ANO_art repo, but it doesn't match her usual look, so one of
   the two would have to be updated)
 * A winter version of Yahyazad's portrait
-* Another Reme portrait
+* Another Reme portrait (for the "m"-suffixed message macro for him)
 * Heinric the Redbeard (enemy leader from the first scenario; can be either a City
   Militia or a Lieutenant, depending on difficulty) (low priority)
-* older-looking mage for the medic who heals Gawen in S01 (low priority)
+* better older-looking mage for the medic who heals Gawen in S01 (low priority)
 * portraits for some of the less-important units with descriptive names, e.g.
   "John the Baldhead" (a peasant discoverable in S13), "Fat Bart" (an enemy
   Fugitive leader attacking the Oracle in S19c), and "Robert the Hefty" (an enemy
