@@ -5,16 +5,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+
 "POT-Creation-Date: 2021-10-12 19:49 UTC\n"
-"PO-Revision-Date: 2007-06-07 16:07+0200\n"
-"Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
-"Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
+"PO-Revision-Date: 2022-04-02 16:45+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
+"Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. [unit_type]: id=Peasant girl, race=human
 #: A_New_Order/units/others/Peasant_girl.cfg:5
@@ -28,6 +29,8 @@ msgid ""
 "The young girl. She cannot fight, she cannot even defend herself. She "
 "appears only once in one scenario."
 msgstr ""
+"Mladá žena. Neumí bojovat, umí se jen bránit. Objevuje se pouze jednou v "
+"jednom scénáři."
 
 #. [unit_type]: id=Old Peasant Woman
 #: A_New_Order/units/others/Peasant_girl.cfg:35
@@ -46,7 +49,7 @@ msgstr ""
 #. [female]
 #: A_New_Order/units/others/Peasant_girl.cfg:41
 msgid "female^Senior Village Elder"
-msgstr ""
+msgstr "Starostka vesnice"
 
 #. [unit_type]: id=City Militia, race=human
 #: A_New_Order/units/others/City_Militia.cfg:4
@@ -189,7 +192,7 @@ msgstr ""
 #. [attack]: type=blade
 #: A_New_Order/units/others/Outlaw_Raider.cfg:37
 msgid "saber"
-msgstr ""
+msgstr "šavle"
 
 #. [unit_type]: id=Brigand, race=human
 #: A_New_Order/units/others/Brigand.cfg:5
@@ -219,6 +222,9 @@ msgid ""
 "\n"
 "Notes: "
 msgstr ""
+"\n"
+"\n"
+"Poznámky: "
 
 #: A_New_Order/units/macros/abilities.cfg:20
 msgid ""
@@ -463,9 +469,8 @@ msgstr ""
 
 #. [attack]: type=impact
 #: A_New_Order/units/akladians/Akladian_Protector.cfg:33
-#, fuzzy
 msgid "greatmace"
-msgstr "palcát"
+msgstr "dvouruční palcát"
 
 #. [unit_type]: id=Akladian Queen, race=akladian
 #: A_New_Order/units/akladians/Akladian_Queen.cfg:4
@@ -773,7 +778,7 @@ msgstr "cvičný meč"
 #. [unit_type]: id=Akladian Lady, race=akladian
 #: A_New_Order/units/akladians/Akladian_Lady.cfg:4
 msgid "female^Akladian Lady"
-msgstr "Akladijská Lady"
+msgstr "Akladijská lady"
 
 #. [unit_type]: id=Akladian Pikeneer, race=akladian
 #: A_New_Order/units/akladians/Akladian_Pikeneer.cfg:4
@@ -841,10 +846,8 @@ msgstr "Akladijský náčelník"
 
 #. [unit_type]: id=Akladian Chieftain, race=akladian
 #: A_New_Order/units/akladians/Akladian_Chieftain.cfg:29
-#, fuzzy
-#| msgid "The best of Akladian warriors are choosed to lead their clans."
 msgid "The best of the Akladian warriors are chosen to lead their clans."
-msgstr "Nejlepší z Akladijských bojovníků jsou zvoleni za vůdce klanů."
+msgstr "Nejlepší z Akladijských válečníků jsou zvoleni za vůdce klanů."
 
 #. [unit_type]: id=Akladian Raider, race=akladian
 #: A_New_Order/units/akladians/Akladian_Raider.cfg:4
@@ -905,7 +908,7 @@ msgstr ""
 #. [race]: id=akladian
 #: A_New_Order/units/_main.cfg:13
 msgid "race^Akladians"
-msgstr ""
+msgstr "Akladijci"
 
 #. [race]: id=akladian
 #: A_New_Order/units/_main.cfg:16
@@ -942,7 +945,7 @@ msgstr ""
 #. [object]: id={ID}
 #: A_New_Order/macros/items.cfg:28
 msgid "Snowshoes"
-msgstr ""
+msgstr "Sněžnice"
 
 #. [object]: id={ID}
 #: A_New_Order/macros/items.cfg:30
@@ -950,29 +953,26 @@ msgid ""
 "Snowshoes grant their wearers greater mobility on frozen terrain, such as "
 "snow!"
 msgstr ""
+"Sněžnice poskytují svým nositelům lepší pohyblivost na zmrzlém terénu, jako "
+"je sníh!"
 
 #. [message]: speaker=unit
 #. Kyobaine, female Elf
 #: A_New_Order/macros/elvish_macros.cfg:11
-#, fuzzy
-#| msgid "I will never again see our beautiful forests.."
 msgid "I will never again see our beautiful forests..."
-msgstr "Už nikdy nespatřím naše přenádherné lesy.."
+msgstr "Už nikdy zas nespatřím naše přenádherné lesy..."
 
 #. [message]: speaker=unit
 #. Milildur, male Elf
 #: A_New_Order/macros/elvish_macros.cfg:23
 msgid "See how Elves die; without fear!"
-msgstr "Hleď jak umírá elf. Beze strachu!"
+msgstr "Hleď, jak umírá elf. Beze strachu!"
 
 #. [message]: speaker=unit
 #. Elorain, female Elf
 #: A_New_Order/macros/elvish_macros.cfg:35
-#, fuzzy
-#| msgid "Now, I will meet best marksman.. Death never misses."
 msgid "Now, I will meet the best marksman... Death never misses."
-msgstr ""
-"Tady a teď se setkám s nejlepším lučištníkem.. Smrt nikdy nemine svůj cíl."
+msgstr "A teď se setkám s nejlepším střelcem... Smrt nikdy nemine svůj cíl."
 
 #. [message]: speaker=Elorain
 #: A_New_Order/macros/elvish_macros.cfg:50
@@ -1128,7 +1128,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:177
 msgid "Hey, give back my gold!"
-msgstr ""
+msgstr "Hej, vrať mi zpátky mé zlato!"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:181
@@ -1197,16 +1197,12 @@ msgid "No! I have still so much to do!"
 msgstr "Ne! Ještě je třeba tolik věcí vykonat!"
 
 #: A_New_Order/macros/ano_macros.cfg:1023
-#, fuzzy
-#| msgid ""
-#| "This is debug message. If you see it, then it means I forgot to delete it "
-#| "from release scenario."
 msgid ""
 "This is a debug message. If you see it, then it means I forgot to delete it "
 "from the release scenario."
 msgstr ""
-"Toto je ladící hláška. Pokud ji uvidíte, dejte autorovi o tom vědět. je to "
-"trubka a zapomněl ji odstranit ze scénáře."
+"Toto je ladící hláška. Pokud ji uvidíš, znamená to, že jsem trubka a "
+"zapomněl ji odstranit z vydání scénáře."
 
 #. trailing space is intentional here:
 #: A_New_Order/macros/ano_macros.cfg:1032
@@ -1218,8 +1214,8 @@ msgid ""
 "This is a debug message. If you see it, then it means I forgot to delete it "
 "from the release scenario. "
 msgstr ""
-"Toto je ladící hláška. Pokud ji uvidíte, dejte autorovi o tom vědět. je to "
-"trubka a zapomněl ji odstranit ze scénáře."
+"Toto je ladící hláška. Pokud ji uvidíš, znamená to, že jsem trubka a "
+"zapomněl ji odstranit z vydání scénáře. "
 
 #: A_New_Order/macros/ano_macros.cfg:1191
 msgid "The unit $ano_loyal[0].name became LOYAL."
@@ -1317,10 +1313,8 @@ msgstr ""
 "tím spolu skončíme."
 
 #: A_New_Order/macros/conversations.cfg:22
-#, fuzzy
-#| msgid "But.. But.."
 msgid "But... But..."
-msgstr "Ale.. ale.."
+msgstr "Ale... ale..."
 
 #: A_New_Order/macros/conversations.cfg:23
 msgid "There is no but. Now, be silent. I don't like this place."
@@ -1579,15 +1573,12 @@ msgstr "Nezkoušej mou trpělivost! Mluv, nebo budeš škemrat o smrt!"
 
 #. [event]
 #: A_New_Order/macros/ano-01_06macros.cfg:103
-#, fuzzy
-#| msgid ""
-#| "Who sent me? Fate! And there will be others after me. (scream of pain) "
-#| "Aaaargh!"
 msgid ""
 "Who sent me? Fate! And there will be others after me. (<i>scream of pain</"
 "i>) Aaaargh!"
 msgstr ""
-"Kdo mě poslal? Kmotřička sudička... Ale po mně přijdou další... Aaaargh!"
+"Kdo mě poslal? Osud! Ale po mně přijdou další. (<i>Zasténá bolestí</i>) "
+"Aaaargh!"
 
 #. [event]
 #: A_New_Order/macros/ano-01_06macros.cfg:104
@@ -1597,7 +1588,7 @@ msgstr "Mluv!"
 #. [event]
 #: A_New_Order/macros/ano-01_06macros.cfg:105
 msgid "My lady, please, stop, that's just..."
-msgstr "Má Lady, prosím, přestaň, vždyť je to jenom..."
+msgstr "Má lady, prosím, přestaň, vždyť je to jenom..."
 
 #. [event]
 #: A_New_Order/macros/ano-01_06macros.cfg:106
@@ -1656,12 +1647,12 @@ msgstr "Copak vypadám jako mrtvola?"
 #. [then]
 #: A_New_Order/macros/ano-01_06macros.cfg:127
 msgid "We were deceived! My king, please forgive me!"
-msgstr "Byli jsme podvedeni! Můj Králi, prosím, odpusť mi!"
+msgstr "Byli jsme podvedeni! Můj králi, prosím, odpusť mi!"
 
 #. [then]
 #: A_New_Order/macros/ano-01_06macros.cfg:128
 msgid "You fool! He is mixling, he can't be our king!"
-msgstr "Jsi hlupák! Je to Míšenec, takže nemůže být naším králem!"
+msgstr "Jsi hlupák! Je to míšenec, takže nemůže být naším králem!"
 
 #: A_New_Order/macros/ano-01_06macros.cfg:181
 msgid ""
@@ -1795,7 +1786,7 @@ msgstr ""
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:260
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:228
 msgid "Death of Lady Lorin"
-msgstr "Smrt Lady Lorin"
+msgstr "Lady Lorin zemře"
 
 #. [objective]: condition=lose
 #: A_New_Order/macros/ano-01_06macros.cfg:230
@@ -1806,7 +1797,7 @@ msgstr "Smrt Lady Lorin"
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:469
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:257
 msgid "Death of Reme Carrenemoe"
-msgstr "Smrt Reme Carrenemoea"
+msgstr "Reme Carrenemoe zemře"
 
 #. [objective]: condition=lose
 #: A_New_Order/macros/ano-01_06macros.cfg:234
@@ -2219,17 +2210,13 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:310
-#, fuzzy
-#| msgid "Human.. killed me.. Human..."
 msgid "Human... killed me... Human..."
-msgstr "Lidská červ.. zabít já.. Lidská červ..."
+msgstr "Lidská červ... zabít mě... Lidská červ..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:311
-#, fuzzy
-#| msgid "Listen, orc.."
 msgid "Listen, orc..."
-msgstr "Poslouchej, skřete.."
+msgstr "Poslouchej, skřete..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:312
@@ -2326,10 +2313,8 @@ msgstr "Ne, počkej, ještě neumírej - prosím, odpověz mi na pár otázek...
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:342
-#, fuzzy
-#| msgid "And why.. should I do it?"
 msgid "And why... should I do it?"
-msgstr "A proč bych.. to měl dělat?"
+msgstr "A proč... bych to měl dělat?"
 
 #. [event]
 #. [scenario]: id=13_Scouting
@@ -2349,25 +2334,19 @@ msgstr "Protože jsou různé druhy smrti."
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:345
 msgid "Because your king asks it of you."
-msgstr "Protože tě žádá tvůj král"
+msgstr "Protože tě žádá tvůj král."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:349
-#, fuzzy
-#| msgid ""
-#| "You are trying to scare me? Ha, ha.. I am dying already... And I won't "
-#| "tell you anything."
 msgid ""
 "You are trying to scare me? Ha, ha... I am dying already... And I won't tell "
 "you anything."
-msgstr "Ty mě chceš postrašit? Ha, ha.. už umírám... nic ti neřeknu."
+msgstr "Ty mě chceš postrašit? Ha, ha... Už umírám... A nic ti neřeknu."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:351
-#, fuzzy
-#| msgid "My king? Ha, ha, that's funny.. I have no king..."
 msgid "My king? Ha, ha, that's funny... I have no king..."
-msgstr "Můj král? Ha, ha, to je bžunda.. nemám krále..."
+msgstr "Můj král? Ha, ha, to je bžunda... Nemám krále..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:352
@@ -2853,10 +2832,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:524
-#, fuzzy
-#| msgid "Sorry, I am not a necromancer."
 msgid "Oh no! A Necromancer. I hate all necromancers."
-msgstr "Tak nic, nejsu přece nekromant."
+msgstr "Ach ne! Nekromant. Nenávidím všechny nekromanty."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:525
@@ -3183,10 +3160,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:817
-#, fuzzy
-#| msgid "Rise up, rise up! Join my army! ... Why do you not rise up!?"
 msgid "Rise up, rise up! Join my army! ...Why do you not rise up!?"
-msgstr "Povstaň! Povstaň! Připoj se k mé armádě! Proč ležíš? Co se děje?"
+msgstr "Povstaň, povstaň! Připoj se k mé armádě! ... Proč pořád ležíš!?"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:818
@@ -3194,8 +3169,8 @@ msgid ""
 "You overestimate your strength, Grekulak. White mages and Mages of Light "
 "will protect fallen units from being resurrected by you!"
 msgstr ""
-"Přecenil jsi své síly, Grekulaku. Bílí mágové a Mágově světla ochrání padlé "
-"před tvou mocí!"
+"Přecenil jsi své síly, Grekulaku. Bílí mágové a mágově světla ochrání padlé "
+"před tvou zotročující mocí!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:820
@@ -3235,7 +3210,7 @@ msgstr "Myslím, že je čas povolat všechny naše rezervy!"
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:221
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:187
 msgid "Death of Ruvio"
-msgstr "Smrt Ruvia"
+msgstr "Ruvio zemře"
 
 #. [objective]: condition=lose
 #: A_New_Order/macros/ano-14macros.cfg:8
@@ -3260,7 +3235,7 @@ msgstr "Smrt Ruvia"
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:327
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:461
 msgid "Death of Gawen Hagarthen"
-msgstr "Smrt Gawena Hagarthena"
+msgstr "Gawen Hagarthen zemře"
 
 #. [objective]: condition=lose
 #: A_New_Order/macros/ano-14macros.cfg:12
@@ -3269,7 +3244,7 @@ msgstr "Smrt Gawena Hagarthena"
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:217
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:191
 msgid "Death of Karen"
-msgstr "Smrt Karen"
+msgstr "Karen zemře"
 
 #. [objective]: condition=lose
 #: A_New_Order/macros/ano-14macros.cfg:22
@@ -21584,7 +21559,7 @@ msgstr ""
 "(pro sebe) 200 zlatých! Och, jak jsem potěšena. Vsadím se, že je ještě "
 "poplácá po zádech, že tratí takovou OBROVSKOU částku."
 
-# Jozin z Bazin :-) :-) 
+# Jozin z Bazin :-) :-)
 #. [scenario]: id=05_The_Swamp_Things
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:3
 msgid "The Swamp Things"
@@ -22780,7 +22755,7 @@ msgstr "Co sem vám říkala o zabíjení vůdců? No? No?"
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:394
 msgid "But..."
-msgstr "Ale.."
+msgstr "Ale..."
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:395
@@ -22945,8 +22920,8 @@ msgid ""
 "Will you join us to fight against the orcs? Or maybe you would prefer to "
 "ally yourself with these madmen who want to slaughter their own kin?"
 msgstr ""
-"Připojíš se k nám v boji s těmi skřeti? Nebo se radši spojíš s těmi, kteří "
-"jdou proti svým?"
+"Připojíš se k nám v boji proti skřetům? Nebo se možná raději spojíš s těmi "
+"šílenci, co chtějí zabít svou vlastní krev?"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:503
@@ -23132,7 +23107,7 @@ msgstr "Obnovený Řád"
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:38
 msgid "ANO"
-msgstr ""
+msgstr "OŘ"
 
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:50
@@ -23168,98 +23143,97 @@ msgstr ""
 #. [about]
 #: A_New_Order/about.cfg:13
 msgid "Creator and Lead Designer"
-msgstr ""
+msgstr "Autor a hlavní designér"
 
 #. [about]
 #: A_New_Order/about.cfg:25
 msgid "Campaign Maintenance"
-msgstr ""
+msgstr "Údržba kampaně"
 
 #. [about]
 #: A_New_Order/about.cfg:60
 msgid "Artwork"
-msgstr ""
+msgstr "Art"
 
 #. [about]
 #: A_New_Order/about.cfg:80
 msgid "Music"
-msgstr ""
+msgstr "Hudba"
 
 #. [about]
 #: A_New_Order/about.cfg:113
-#, fuzzy
 msgid "Translations"
-msgstr "Přípravy"
+msgstr "Překlady"
 
 #. [about]
 #: A_New_Order/about.cfg:114
 msgid "(from WesCamp-i18n)"
-msgstr ""
+msgstr "(z WesCamp-i18n)"
 
 #. [entry]
 #: A_New_Order/about.cfg:116
 msgid " British (en_gb) translation:"
-msgstr "britská (en_gb) angličtina:"
+msgstr "Překlad do britské angličtiny:"
 
 #. [entry]
 #: A_New_Order/about.cfg:119
 msgid "Catalonian translation:"
-msgstr ""
+msgstr "Katalánský překlad:"
 
 #. [entry]
 #: A_New_Order/about.cfg:122
 msgid "Czech translation:"
-msgstr ""
+msgstr "Český překlad:"
 
 #. [entry]
 #: A_New_Order/about.cfg:125
 msgid "Danish translation:"
-msgstr ""
+msgstr "Dánský překlad:"
 
 #. [entry]
 #: A_New_Order/about.cfg:128
 msgid "French translation:"
-msgstr ""
+msgstr "Francouzský překlad:"
 
 #. [entry]
 #: A_New_Order/about.cfg:131
 msgid "German translation:"
-msgstr ""
+msgstr "Německý překlad:"
 
 #. [entry]
 #: A_New_Order/about.cfg:134
 msgid "Italian translation:"
-msgstr ""
+msgstr "Italský překlad:"
 
 #. [entry]
 #: A_New_Order/about.cfg:137
 msgid "Polish translation:"
-msgstr ""
+msgstr "Polský překlad:"
 
 #. [entry]
 #: A_New_Order/about.cfg:140
 msgid "Russian translation:"
-msgstr ""
+msgstr "Ruský překlad:"
 
 #. [entry]
 #: A_New_Order/about.cfg:143
 msgid "Spanish translation:"
-msgstr ""
+msgstr "Španělský překlad:"
 
 #. [entry]
 #: A_New_Order/about.cfg:146
 msgid "Swedish translation:"
-msgstr ""
+msgstr "Švédský překlad:"
 
 #. [entry]
 #: A_New_Order/about.cfg:149
 msgid "Turkish translation:"
-msgstr ""
+msgstr "Turecký překlad:"
 
 #. [about]
 #: A_New_Order/about.cfg:153
 msgid "Additional thanks to"
-msgstr ""
+msgstr "Další poděkování patří"
 
 #. [entry]
 #: A_New_Order/about.cfg:192
@@ -23274,7 +23248,7 @@ msgstr ""
 #. [about]
 #: A_New_Order/about.cfg:216
 msgid "Additional information may be found within readme.txt file"
-msgstr ""
+msgstr "Další informace lze nalézt v souboru readme.txt"
 
 #. [about]
 #: A_New_Order/about.cfg:221
