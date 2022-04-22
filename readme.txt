@@ -244,7 +244,7 @@ find them useful when creating a sequel or whatever.
 
 Do you know what Lorin's questions to the Oracle were? If so, you know
 more than me, because I only remember the first and the last question, 
-and I am not sure about the second one.
+and I am not sure about the second one. (They can be found in the ANO_art repo)
 
 Do you know who betrayed Freetown's location? If so, you know more than me.
 I don't know. I never planned to know, in fact. Early on I had a version of
@@ -275,15 +275,17 @@ Dunefolk were created by Noy: https://forums.wesnoth.org/viewtopic.php?t=10291
 Many thanks to ott for hinting how to fix campaign to be post-0.9.3 compatible.
 
 Kudos to alxrem, ave, teldar, capitol, tomsik, scott, ott, tet, tapik, derek,
-malin keshar and especially unsung for spelling corrections and bug reporting.
+malin keshar, oo13, and especially unsung for spelling corrections and bug
+reporting.
 
 Outlaws were originally a unit pack created and maintained by Shadow and Scott
 (they are mainline now, though).
 
 Many thanks for torangan for patience in explaining translation issues.
 
-Thanks for all advice and help received on wesnoth forum, both in art (Jetryl
-and Pickslide, thanks a lot!) and in WML coding.
+Thanks for all the advice and help received on both the Wesnoth forums and Discord
+server, both in art (Jetryl and Pickslide, thanks a lot!) and in WML coding
+(thanks CelticMinstrel!).
 
 Translations were made by (no national characters in names, sorry): capitol and
 tephlon (swedish) and Geoffroy Douillie, damien, Guigou Guillaume (french),
@@ -296,9 +298,9 @@ the entries in about.cfg for correct name spellings and more details.
 Music is by Erik Rijshouwer, Christian Hellerberg, Nick Humphrey, Mattias
 Westlund, Aleksi, Hiro Hito, Tyler Johnson. See ART_authors.txt for the details.
 
-Kudos to testers: Turuk, t3st3r, and others.
+Kudos to testers: Turuk, t3st3r, Marximilian, and others.
 
-Currently, ANO for BfW 1.14 is maintained by Yumi (a.k.a. nemaara). This set of
+Currently, ANO for BfW 1.16 is maintained by Yumi (a.k.a. nemaara). This set of
 contributions to ANO are maintained by egallager (a.k.a. cooljeanius). Note that
 some of egallager's edits took place in separate repos:
 First, his general wesnoth_mods repo, the link for which is here:

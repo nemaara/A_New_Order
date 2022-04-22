@@ -19,7 +19,8 @@ Anyways, here are my per-scenario notes:
 
 01 Breaking the Circle: gold/income tweaks, replace commenting-out of code with
   ifdef-ing out of code (and removal), simplification of conditionals, add
-  "assassin" micro AI to the assassin, add message captions.
+  "assassin" micro AI to the assassin, add message captions, change some portraits,
+  make some changes for debugging.
 02 Fighting for Passage: tweaks to gold and turns, vary turns on which enemy 
   leader is passive by difficulty, tweak AI parameters, and simplify conditionals.
   I also did some funky stuff with the income levels, so that Gawen gets more gold
@@ -55,7 +56,10 @@ Anyways, here are my per-scenario notes:
   units, made Lorin's gold bonus a bit bigger, updated Hoyre's AI, added an event
   similar to S02's where the enemy's incomes get increased each turn, had Hoyre
   leave behind some warriors upon fleeing, and addressed some situations that can
-  arise when using debug mode.
+  arise when using debug mode. For porting to BfW 1.16, I split up some messages to
+  make the player pay more attention, tweaked enemy AI further, made Uri van Roe's
+  attack on Barnon work better and include more units, edited some debug messages,
+  and added an easter egg.
 05 The Swamp Things: ADVICES.txt says it's not supposed to be hard, and that
   it's "easily winnable with proper tactics (and enough high-level loyal
   akladians)". Well guess what, I didn't have enough high-level loyal
@@ -75,10 +79,14 @@ Anyways, here are my per-scenario notes:
 05 Unexpected Guests: When I finally did a playthru where I chose this branching
   path, I had much more gold left over from the Battle of Barnon, so I didn't have
   to change this one as much. I did take some advice from Konrad2 on the forums,
-  though, and I added fog to make the "sighted" event work.
-06 Separation: just copyediting
+  though, and I added fog to make the "sighted" event work. For porting to BfW
+  1.16, I switched up the music a bit, improved some cutscenes, and modified the
+  orcish AI a bit to make it clearer that one side is supposed to be aggressive but
+  stupid, while the other is supposed to be cautious but smart.
+06 Separation: mostly just copyediting
 07 Ally From the Past: simplified conditionals, gold tweaks, copyediting, message
-  captions, gave Ruvio and Karen additional traits
+  captions, gave Ruvio and Karen additional traits, gave enemy Akladians traits,
+  modified enemy AI
 08 Outlaw Base: Gold tweaks, copyediting, switch commenting-out of code to
   ifdef-ing it out instead, add message captions
 09 Hired Swords: Gold/income tweaks, copyediting, add a few additional lines of
@@ -86,7 +94,7 @@ Anyways, here are my per-scenario notes:
   renaming, add message captions, add some additional story images
 10 Siege of Haeltin: gold/income tweaks, vary STARTING_VILLAGES radius with
   difficulty, other misc. changes (e.g. copyediting and message captions), add
-  additional fortifications on EASY, add snowshoes, add wolves_multipacks MAI
+  additional fortifications on EASY, add snowshoes (2 plus a 3rd for Reumario)
 11 Council in Freetown: copyediting, and added message captions, ensure elves'
   abilities persist after advancing
 12 Leaving Raedwood: turns/gold/income tweaks, use LIMIT_CONTEMPORANEOUS_RECRUITS,
@@ -100,7 +108,8 @@ Anyways, here are my per-scenario notes:
   ifdefs, vary price for paying for Reme by difficulty, allow undo at signpost, 
   correct wording of quote from book, vary loot amounts by difficulty, adjust
   bandit recruit lists and AI, use LIMIT_CONTEMPORANEOUS_RECRUITS, vary starting
-  villages radii by difficulty, add snowshoes
+  villages radii by difficulty, add snowshoes, adjust enemy AI further, add a few
+  extra messages
 14c She-Wolf of Haeltin: copyediting, heal Lorin from her previous scenario
 14d Avenging Ruen: I forget my first pass... subsequent passes included turns
   tweaks, message captions, allowing undoing at the signpost, and addition of
@@ -141,7 +150,8 @@ Anyways, here are my per-scenario notes:
   wolves_multipacks MAI, have some of the burnt villages be unburnt on EASY, have
   allied AI attempt to avoid water, other misc. additional AI tweaks, clarify that
   Matthias Ramon can die (and add some events involving him), give Matthias Ramon
-  and Fat Bart traits, adjust recruitment patterns, etc.
+  and Fat Bart traits, adjust recruitment patterns, give enemies gold if your AI
+  allies kill their leaders, commentary updates, etc.
 20 Okladia: copyediting, vary gold amounts with difficulty, give Deorien extra
   traits on EASY
 21a Abducted Bride: I gave the player consolation units for any missing recalls
@@ -153,17 +163,20 @@ Anyways, here are my per-scenario notes:
   to get the AI to recruit more than just Revenants, simplification of ifdefs,
   message captions, allow undoing at the signpost, vary loot amount by difficulty,
   add Souls from Default L0 Era for undead to recruit, adjusted recruitment pattern
-  even further
+  even further, make map look spookier, more AI tweaks, enemy ghosts now spawn when
+  exploring
 21c Ruins of the Past: minor copyediting, give Maurice & Alarice traits on EASY,
   add an additional story image
 21d Ruins of Weldyn: minor copyediting, give Maurice & Alarice traits on EASY
 22 Leaving Okladia: First pass: lots of tweaks; hard to summarize. Second pass:
   copyediting, message captions, minor gold tweak, update commentary. Subsequent
   passes: Give Rauke gold when converting him, make it easier for Gawen to make it
-  back to base after converting Rauke, adjust recruitment patterns,
+  back to base after converting Rauke, adjust recruitment patterns, add moveto
+  event for signpost...
 23 Trapped: First pass: made it easier to hire the Dunefolk, and made it more
   rewarding to do so. Second pass: copyediting, message captions, simplify ifdefs,
-  fix indentation, and... yeah I think that's it. Subsequent passes: adjust map
+  fix indentation, and... yeah I think that's it. Subsequent passes: adjust map,
+  adjust dialogue
 24 Fall of Freetown: copyediting, message captions
 25 The Awakening: Gave the AI some other goals besides just targeting Gawen,
   to prevent Huon from getting to their leaders before you do. That was on my
