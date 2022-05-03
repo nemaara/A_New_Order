@@ -1,0 +1,2894 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2012-03-07 05:04-0500\n"
+"PO-Revision-Date: 2006-10-30 23:38-0600\n"
+"Last-Translator: Eduardo Jose Papa <epapa@gigared.com>\n"
+"Language-Team: none\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid ""
+" I've sent an envoy to Gaeltin Hyer, a city which lies along our way, to "
+"prepare rooms for us. I think, my lord, you might want to get some rest "
+"before continuing our journey."
+msgstr ""
+" He enviado un emisario a Gaeltin Hyer, una ciudad que está de camino, para "
+"que preparen cuartos para nosotros. Pienso, mi señor, que usted tiene que "
+"descanzar antes de continuar nuestra viaje."
+
+msgid ""
+"'...for you to start a new life.' This is what I was commanded to say. May I "
+"live - I mean - leave?"
+msgstr ""
+"Esto es para que usted comience una nueva vida. Es todo lo que se esperaba "
+"que dijera. ¿Puedo vivir, quiero decir, puedo irme?"
+
+msgid "...and another to the east."
+msgstr "Y la segunda al este."
+
+msgid "...but we could probably find something about orcs there, right?"
+msgstr "..pero probablemente encontremos allí algo sobre los orcos, ¿derecho?"
+
+msgid "A Former Friend"
+msgstr "Un viejo amigo."
+
+msgid "A New Order"
+msgstr "Un Nuevo Orden"
+
+msgid "Aaaargh!!"
+msgstr "Aaaargh!!"
+
+msgid "Aargh! I feel... so cold..."
+msgstr "Aargh! Me siento... frío..."
+
+msgid "Advise me what could we do now."
+msgstr "¡Hemos ganado! ¿Qué debemos hacer ahora?"
+
+msgid "Ah! Humans! And Akladians with them?! Still, what good fortune!"
+msgstr ""
+"¡Ah! ¡Son humanos! ¡¿Y Akladianos con ellos?! ¡No obstante, estoy contento!"
+
+msgid "Ah! Humans! And not Akladians! What good fortune!"
+msgstr "¡Ah! ¡Son humanos! ¡Y no Akladianos! ¡Eso es una felicidad!"
+
+msgid "Akladian Chieftain"
+msgstr "Jefe Akladiano"
+
+msgid "Akladian Fastfoot"
+msgstr "Pie Rápido Akladiano"
+
+msgid "Akladian Holyman"
+msgstr "Santo Varón Akladiano"
+
+msgid ""
+"Akladians - open the way for me and my army. I am your rightful king, I am "
+"the messiah, the hand of God on earth. Whoever opposes me opposes God."
+msgstr ""
+"Akladianos - abran paso para mi y mi ejército. Soy su legítimo rey, soy el "
+"mesías, la mano de Dios en esta tierra. Quienquiera que me oponga se opone a "
+"Dios."
+
+msgid ""
+"Akladians hated woods, passionately, Gawen was told. Yet they had "
+"established an outpost at the edge of Raedwood to protect their settlements "
+"in the plains from the avengers in the forest. One or two men might have "
+"passed among them, unnoticed, but Gawen's band was too large for that."
+msgstr ""
+"Los akladianos odian los bosques apasionadamente, según dijo Gawen. Por eso "
+"instalaron su fortín al borde de Raedwood protegiendose, en las llanuras, de "
+"los vengadores del bosque. Para uno o dos hombres sería fácil pasar entre "
+"ellos, inadvertidos, pero el ejército de Gawen era demasiado grande para eso."
+
+msgid ""
+"All is lost! Enemy reinforcements have arrived! We have no chance to win now!"
+msgstr ""
+"¡Todo está perdido! ¡Llegaron los refuerzos de nuestros enemigos! ¡No "
+"tenemos ninguna oportunidad de ganar!"
+
+msgid "All is lost! They captured the Oracle!"
+msgstr "¡Todo está perdido! ¡Capturaron el Oráculo!"
+
+msgid "All right then. Ask me, young king."
+msgstr "Esta Bien. Pregúntame, joven rey."
+
+msgid ""
+"All right. We are going to free the peasants, kill the orcs, and remember "
+"that we have to interrogate their leaders. Maybe they know something of "
+"interest to us."
+msgstr ""
+"Bien. Vamos a liberar a esos campesinos, matar a los orcos y recuerden: "
+"tenemos que interrogar a sus líderes. ¿Quizá sepan algo que podría sernos "
+"útil?"
+
+msgid ""
+"Along with your cousins from other branches, of course. They are all true "
+"heirs to the throne of Wesnoth"
+msgstr ""
+"Junto con sus primos de otras ramas, por supuesto. Todos ellos son "
+"verdaderos herederos al trono de Wesnoth."
+
+msgid "Amazing. Simply, amazing."
+msgstr "Asombroso. Simplemente, asombroso."
+
+msgid "And now, tell me more..."
+msgstr "Ahora, dígame..."
+
+msgid ""
+"And then, we will curry favor with God by killing that offense to nature, "
+"that foulest of creatures, that MAGE."
+msgstr ""
+"Y entonces, ganaremos la gratitud de Dios matando a esta ofensa de la "
+"naturaleza, esta criatura maldecida, este MAGO."
+
+msgid "And what are his plans for future?"
+msgstr "¿Y sus planes para el futuro?"
+
+msgid "And why should I tell you, stupid woman?"
+msgstr "¿Y por qué se lo debo decir, mujer tonta?"
+
+msgid "And why.. should I do it?"
+msgstr "¿Y por qué.. debo hacerlo?"
+
+msgid "Any enemy unit reaches the keep of the Oracle."
+msgstr "Cualquier unidad enemiga alcance al guardia del Oráculo."
+
+msgid ""
+"Any unit which reaches either signpost will be evacuated. Units not recalled "
+"will be lost. Gawen must not escape, or he would be considered an unworthy "
+"coward by his soldiers. You will get a bonus for each turn resisted beyond "
+"the required limit."
+msgstr ""
+"Cualquier unidad que alcance algun poste indicador será evacuado. Se "
+"perderán unidades no recuperables. Gawen no debe escapar, o sería "
+"considerado cobarde e indigno por sus soldados. Conseguirá una paga "
+"extraordinaria por cada turno que resista sobre el límite requerido."
+
+msgid "Are you sure you want to go there?"
+msgstr "¿Realmente quiere ir allí?"
+
+msgid ""
+"As an outlaw, you know probably a lot about poisons.. My mother was "
+"poisoned.. Do you know who could have done it?"
+msgstr ""
+"¿Como bandido, sabe mucho sobre venenos.. Mi madre fue envenenada.. sabe "
+"quién pudo hacerlo?"
+
+msgid ""
+"As the Oracle, I have nothing more to say to thee... As a woman, I can "
+"advise this: There is only one man in the world who may change your future. "
+"I think you know his name. Go and find him. Beg him for forgiveness if you "
+"have to. Stay with him as long as you can."
+msgstr ""
+"Como Oráculo no tengo nada más para decirle. Como mujer, tengo un aconsejo. "
+"Hay sólo un hombre en este mundo que puede cambiar su futuro. Creo que usted "
+"sabe su nombre. Vaya y encuéntrelo. Pídale perdón y usted lo tendrá. Quédese "
+"con él, si puede."
+
+msgid "As you wish, my lord."
+msgstr "Cuando usted desee, mi señor."
+
+msgid "Ask then, human."
+msgstr "Pregunte entonces, humano."
+
+msgid "Askarial"
+msgstr "Askarialo"
+
+msgid "Assassin"
+msgstr "Asesino"
+
+msgid "Avenging Ruen"
+msgstr "Vengando a Ruen"
+
+msgid "Bar O Raednon"
+msgstr "Bar O Raednon"
+
+msgid "Bar O Warhol"
+msgstr "Bar O Warhol"
+
+msgid "Bar Urien"
+msgstr "Bar Urien"
+
+msgid ""
+"Bar, you are fine warrior and you have always served our clan loyally. But "
+"leave the thinking to me."
+msgstr ""
+"Bar, usted es guerrero fino y estaba sirviendo a nuestro clan fielmente. "
+"Pero dígame que piensa realmente."
+
+msgid "Baral"
+msgstr "Baral"
+
+msgid "Barhoon Urk"
+msgstr "Barhoon Urk"
+
+msgid "Barien"
+msgstr "Barien"
+
+msgid "Baruk Gar"
+msgstr "Baruk Gar"
+
+msgid "Baruk Urk"
+msgstr "Baruk Urk"
+
+msgid "Be quiet, stupid man. No one wants to hear your lies."
+msgstr "Siga callado, hombre estúpido. Nadie quiere oír sus mentiras."
+
+msgid "Because your king asks it of you."
+msgstr "Porque tu rey te pregunta"
+
+msgid "Because..."
+msgstr "Porque..."
+
+msgid "Beren"
+msgstr "Beren"
+
+msgid ""
+"Betrayed? You know, what I've learned? Many of these underlings are better "
+"than many of people of our race. Many of them are better-acquainted with the "
+"meaning of the words like 'honour' and 'courage' than many of our people."
+msgstr ""
+"¿Traicionó? ¿Sabe lo que he aprendido? Muchos de esos subditos son mucho "
+"mejores que muchas de las personas de nuestra raza. Muchos de ellos saben "
+"mejor el significado de las honor, valor que muchos de los nuestros."
+
+msgid "Bonus for resisting $ano_tmp| turns above requirement"
+msgstr ""
+"Paga extraordinaria por resistirse | $ano_tmp | turnos, antes un requisito"
+
+msgid ""
+"Bonus for resisting, 40gp per each turn above $ano_howmanyturns: "
+"$ano_barnon_turns"
+msgstr ""
+"Paga extraordinaria por resistir, 40gp por cada turno sobre "
+"$ano_howmanyturns: $ano_barnon_turns"
+
+msgid "Bor Cryne"
+msgstr "Bor Cryne"
+
+msgid ""
+"Bor Cryne - finally we meet on the field of combat. You will answer to me "
+"for everything you have done."
+msgstr ""
+"Bor Cryne - finalmente me lo encuentro. Me pagará por todo lo que ha hecho."
+
+msgid ""
+"Bor Cryne may desire whatever he wants. But the holy Oracle will be a "
+"'guest' of the noble lord Uri van Roe."
+msgstr ""
+"Bor Cryne puede querer cualquier cosa. Pero el Oráculo santo será invitado "
+"en el carro de mudanzas del noble señor Uri Roe."
+
+msgid "Boren Rebarnon"
+msgstr "Boren Rebarnon"
+
+msgid "Borlug"
+msgstr "Borlug"
+
+msgid "Bors Brien"
+msgstr "Bors Brien"
+
+msgid "Bors Dark"
+msgstr "Bors Dark"
+
+msgid "Bors Wonder"
+msgstr "Bors Wonder"
+
+msgid ""
+"Both forces met at the fields which were later called Orannon, which in "
+"Akladian means 'battlefield'. This day was to be remembered for many "
+"generations to come - and also by vultures and jackals, who couldn't expect "
+"to see such an abundant number of bodies again for decades."
+msgstr ""
+"Ambas fuerzas se encontraron en los campos que después se llamaron Orannon "
+"que en Akladiano significa 'campo de batalla'. Este día sería recordado por "
+"muchas generaciones - también por los cuervos y lobos que por décadas no "
+"podrían esperar por tanta abundancia de cuerpos."
+
+msgid "Bowman"
+msgstr "Arquero"
+
+msgid "Buren"
+msgstr "Buren"
+
+msgid "Burien"
+msgstr "Burien"
+
+msgid "Burik"
+msgstr "Burik"
+
+msgid "Burke Barien"
+msgstr "Burke Barien"
+
+msgid "But here is king's son, his rightful heir. Are you going to fight him?"
+msgstr ""
+"Pero aquí está el hijo del rey, su legítimo heredero. ¿Va a luchar en su "
+"contra?"
+
+msgid "But the Oracle..."
+msgstr "Pero el Oráculo..."
+
+msgid "But why, my son? He would have gladly harmed me, if given the chance."
+msgstr ""
+"¿Hijo, por qué? Él me habría matado alegremente, si le diera una oportunidad."
+
+msgid "But why? And when?"
+msgstr "¿Pero por qué? ¿Y cuándo?"
+
+msgid "But, I thought, let's just assume for a moment he IS..."
+msgstr "Pero, yo pensé, simplemente asumamos por el momento que él ES..."
+
+msgid "But.. What about if he really IS a messiah?"
+msgstr "Pero.. ¿Qué si realmente ES el mesías?"
+
+msgid ""
+"By the way, Gawen, you are really starting to become convincing in your "
+"role. You seem to like it, despite your earlier protests."
+msgstr ""
+"A propósito, Gawen, empezó a estar realmente convencido de su papel. Parece "
+"gustarle, a pesar de lo que decía antes."
+
+msgid ""
+"Cease this blasphemy, foul mixling! You are nothing but a flabby underling."
+msgstr ""
+"¡Detenga esta blasfemia, mestizo sucio! Es nada más que un subdito flojo."
+
+msgid ""
+"Cease your insults, witch. I know you: you are Lorin, the shrew from the "
+"Gallorae clan. You soon will be the last of your clan; how does it feel?"
+msgstr ""
+"Detenga sus insultos, bruja. Yo la conozco: es Lorin, la bruja del clan de "
+"Gallorae. Estará pronto en el último lugar de su clan; ¿cómo se siente?"
+
+msgid "Choosing the Best"
+msgstr "Escogiendo al mejor"
+
+msgid "Cowardly escape of Gawen Hagarthen"
+msgstr "Escape cobarde de Gawen Hagarthen"
+
+msgid "Curses! We are too late."
+msgstr "¡Maldición! Llegamos demasiado tarde."
+
+msgid "Dauri Hurionen"
+msgstr "Dauri Hurionen"
+
+msgid "Dead city"
+msgstr "La Ciudad Muerta"
+
+msgid "Dead? How can that be! "
+msgstr "¿Muerto? ¡Cómo puede ser! "
+
+msgid "Death of Gawen Hagarthen"
+msgstr "Muerte de Gawen Hagarthen"
+
+msgid "Death of Huon Ryedric"
+msgstr "Muerte de Huon Ryedric"
+
+msgid "Death of Karen"
+msgstr "Muerte de Karen"
+
+msgid "Death of Lady Lorin"
+msgstr "Muerte de Señora Lorin"
+
+msgid "Death of Majid Yahyazad (if recalled)"
+msgstr "Muerte de Majid Yahyazad (si es reincorporado)"
+
+msgid "Death of Reme Carrenemoe"
+msgstr "Muerte de Reme Carrenemoe"
+
+msgid "Death of Ruvio"
+msgstr "Muerte de Ruvio"
+
+msgid "Deorien"
+msgstr "Deorien"
+
+msgid "Die, underling!"
+msgstr "¡Muere, subdito!"
+
+msgid "Do I look dead to you?"
+msgstr "¿Parezco estar muerto?"
+
+msgid ""
+"Do not forget to withdraw wounded units to villages, where they can rest and "
+"regain some of their health."
+msgstr ""
+"No te olvides de enviar las unidades heridas a las aldeas, en donde podrían "
+"descanzar y recuperar algo de salud."
+
+msgid "Do whatever you want to."
+msgstr "Haga lo que quiera."
+
+msgid "Do you know anything about Lady Lorin?"
+msgstr "¿Sabes algo sobre la Señora Lorin?"
+
+msgid "Do you know where Reme Carrenemoe is?"
+msgstr "¿Sabes dónde está Reme Carrenemoe?"
+
+msgid "Do you know where the great mage Deorien is?"
+msgstr "¿Sabes dónde está el gran mago Deorien?"
+
+msgid "Do you sell poisons?"
+msgstr "¿Vende los venenos?"
+
+msgid "Do you think I am afraid of you, witch?"
+msgstr "¿Piensa que le tengo miedo, bruja?"
+
+msgid "Do you think I am afraid of you?"
+msgstr "¿Piensa que le tengo miedo, bruja?"
+
+msgid ""
+"Don't test my patience, underling! Speak, or you will be sorry you are still "
+"alive!"
+msgstr "¡No pruebe mi paciencia, subdito! ¡Hable, o lamentará estar vivo!"
+
+msgid "Don't test my patience. Speak, or I will kill you."
+msgstr "No pruebe mi paciencia. Hable, o lo mataré."
+
+msgid ""
+"Don't try to intimidate me. I am too old to be afraid of death, I have no "
+"family. I will try to heal your son because of my vows as a healer, not "
+"because of your threats, Akladian lady."
+msgstr ""
+"No intente asustarme. Soy demasiado viejo para temerle a la muerte, y no "
+"tengo familia. Intentaré curar a tu hijo, porque es mi deber como médico, no "
+"por tus amenazas, señora de Akladian."
+
+msgid ""
+"Don't... We were ordered by Grekulak to listen to the Akladians.. why he "
+"ordered us to ally with them I do not know.."
+msgstr ""
+"No espere... Grekulak nos ordenó oír a los Akladianos.. Por qué él nos "
+"ordenó aliarnos con ellos, no lo sé.."
+
+msgid "Dulen"
+msgstr "Dulen"
+
+msgid "Eeek! Elves! The green devils are here!"
+msgstr "¡Eeek! Los diablos verdes!"
+
+msgid "Eeek! The green devils!"
+msgstr "¡Eeek! Los diablos verdes!"
+
+msgid "Elvish Archer"
+msgstr "Arquero Elfo"
+
+msgid "Elvish Fighter"
+msgstr "Luchador Elfo"
+
+msgid "Elvish Scout"
+msgstr "Explorador Elfo"
+
+msgid "Elvish Shaman"
+msgstr "Shaman Elfo"
+
+msgid "End turn if you do not want or can't recall more troops."
+msgstr ""
+"Espere el fin de los turnos si no quiere o no puede reclutar más tropas."
+
+msgid "Enough talk. We must slay our enemies. To arms!"
+msgstr ""
+"Detengan esta charla. Tenemos que matar a nuestros enemigos. ¡A las armas!"
+
+msgid "Entering Okladia"
+msgstr "Entrando en Okladia"
+
+msgid "Epilogue"
+msgstr "Epílogo"
+
+msgid "Erart"
+msgstr "Erart"
+
+msgid ""
+"Everything I've heard about your mother's death fits the symptoms of our "
+"poison perfectly. I can't be sure, of course, but I would guess that Lorin's "
+"clan bought the poison to kill your mother... (cough)"
+msgstr ""
+"Todo lo que he oído hablar de la muerte de tu madre encaja perfectamente con "
+"nuestro veneno. No puedo estar seguro, por supuesto, pero pienso que el clan "
+"de Lorin compró el veneno para matar a tu madre... (tos)"
+
+msgid ""
+"Everything, huh? Then how come you were besieged and almost captured? Why "
+"didn't you escape or call on someone to help you?"
+msgstr ""
+"¿Todo? ¿Entonces cómo es que estabas sitiada y casi capturada? ¿Por qué no "
+"escapó o llamó a alguien para que la ayude?"
+
+msgid "Fast Attack"
+msgstr "ataque rápido"
+
+msgid "Fat Bart"
+msgstr "El Gordo Bart"
+
+msgid "Fighter"
+msgstr "luchador"
+
+msgid "Fighting for Passage"
+msgstr "Luchando por el paso"
+
+msgid ""
+"Finally! Now, accept the inevitable. I'm a professional, this won't hurt a "
+"bit!"
+msgstr ""
+"Finalmente! Ahora, acepte lo inevitable. Soy un profesional, no lo voy a "
+"herir"
+
+msgid "First, let us find Deorien. And then..."
+msgstr "Primero, debemos encontrar a Deorien. Y entonces..."
+
+msgid "For freedom! Death to the Akladian beasts!"
+msgstr "¡Por la libertad! ¡Muerte a las bestias de Akladian!"
+
+msgid "Forgive me, my lord. I know how it looks, but I really was trying."
+msgstr ""
+"Perdóneme, mi señor. Sé lo que parece, pero realmente lo estaba intentando."
+
+msgid "Future king? What is she talking about?"
+msgstr "¿Futuro rey? ¿Sobre qué está hablando ella?"
+
+msgid "Gauri Hagarthen"
+msgstr "Gauri Hagarthen"
+
+msgid ""
+"Gawen and his army marched out of Vattin. Bor Cryne wasn't waiting - "
+"realizing that his only chance was to join with Grekulak's hordes advancing "
+"from the east, he left his hideout with all forces he could muster... but by "
+"this time, many Akladian lords and the greater part of the orcs had already "
+"abandoned him."
+msgstr ""
+"Gawen y su ejército marcharon fuera de Vattin. Bor Cryne no lo estaba "
+"esperando - sabía que su única oportunidad era unirse con las hordas de "
+"Grekulak que avanzaban por el este, se puso a salvo con todas las fuerzas "
+"que pudo reunir. Muchos señores de Akladian y gran parte de los orcos ya lo "
+"habían abandonado."
+
+msgid ""
+"Gawen and his soldiers spent only a few days in Freetown. Huon Ryedric and "
+"Mithrandil left the city and headed west. At dawn the following day, Gawen "
+"marched to the south. Mithrandil's elves were eager to show their abilities, "
+"finding the best paths through the forest."
+msgstr ""
+"Gawen y sus soldados estuvieron sólo unos días en Freetown. Huon Ryedric y "
+"Mithrandil dejaron la ciudad para ir al oeste. El día siguiente, al alba, "
+"Gawen marchó al sur. Los elfos de Mithrandil estaban anciosos por mostrar "
+"sus habilidades y encontrar los mejores caminos por el bosque."
+
+msgid ""
+"Gawen's soldiers left Freetown and swiftly entered the woods. They marched "
+"from dawn to dusk, until they found themselves at the border of Raedwood "
+"forest."
+msgstr ""
+"Soldados de Gawen salieron de Freetown y rápidamente entraron en los "
+"bosques. Marcharon del alba al crepúsculo, hasta que se encontraron en la "
+"frontera del bosque de Raedwood."
+
+msgid "Get out of my way, filthy underling!"
+msgstr "¡Fuera de mi vista, sucio subdito!"
+
+msgid "Get out of my way... I am not here because of you."
+msgstr "Salga de mi vista... no estoy aquí por usted."
+
+msgid "Give me..."
+msgstr "Déme..."
+
+msgid "Gold? What gold? I have no gold hidden..."
+msgstr "¿Oro? ¿Qué oro? No tengo ningún oro oculto.."
+
+msgid "Grekulak"
+msgstr "Grekulak"
+
+msgid ""
+"Grekulak! I know that name. We should go back to Freetown and report that, "
+"that's all we need to know!"
+msgstr ""
+"¡Grekulak! Conozco ese nombre. ¡Debemos regresar a Freetown a informarles, "
+"es todo lo que necesitamos saber!"
+
+msgid "Grekulak.. is.. our.. guide.. he .."
+msgstr "Grekulak.. es.. nuestro.. guía.. él.."
+
+msgid ""
+"Grekulak? That's something to report. We should go back to Freetown then."
+msgstr ""
+"¿Grekulak? Eso es algo para informar. Debemos regresar entonces a Freetown."
+
+msgid "Gur"
+msgstr "Gur"
+
+msgid "Ha! The Akladians were hiding some gold here!"
+msgstr "¡Ha! ¡Los Akladianos estaban escondiendo algo de oro aquí!"
+
+msgid "Ha! The orcs were hiding some gold here!"
+msgstr "¡Ha! ¡Los bandidos estaban escondiendo algo de oro aquí!"
+
+msgid "Ha! The outlaws were hiding some gold here!"
+msgstr "¡Ha! ¡Los bandidos estaban escondiendo algo de oro aquí!"
+
+msgid ""
+"Ha! We have a deal, then, my king. You may recruit now Khalifa from my Ostan."
+msgstr ""
+"Ha! Tenemos un trato, entonces, mi rey. Puede reclutar Khalida ahora de mi "
+"ostan."
+
+msgid "Ha, ha, human. You mean, 'everything we leave' will be yours."
+msgstr "Ha, ha, humano. Todo se quedará con nosotros."
+
+msgid ""
+"Ha, ha, you're one to talk! Hey, Gawen, have you ever asked Lorin about how "
+"your mother died? Have you... aaargh!"
+msgstr ""
+"¿Ha, ha, y quién está diciendo eso? ¿Eh, Gawen, le ha preguntado alguna vez "
+"a Lorin sobre cómo murió su madre? ¡Téngalo.. aaargh!"
+
+msgid ""
+"Have you already forgotten that you have fled from me before, revered Hoyre? "
+"Twice now you have faced me; this time there will be no escape. You will lie "
+"dead on the battlefield, unless you recognise me as your king."
+msgstr ""
+"¿Se olvidó cuando estaba huyendo de mí, reverendo Hoyre? Dos veces me "
+"enfrentó; Esta ves morirá en el campo de batalla, a menos que me reconozca "
+"como su rey."
+
+msgid "He had some gold in his castle."
+msgstr "Parece que tenía oro en su castillo."
+
+msgid "He has regained consciousness, my lady!"
+msgstr "¡Recobró la conciencia, mi señora!"
+
+msgid "He is an underling."
+msgstr "¡Muere, subdito!"
+
+msgid ""
+"He lost consciousness already? Sigh. I hoped we could ask him few questions. "
+"But then, he didn't seem like a guy who would actually KNOW anything."
+msgstr ""
+"¿Ya perdió la conciencia? Suspiro. Esperaba poder preguntarle algunas cosas. "
+"Pero bueno, no parecía un tipo que SUPIERA algo realmente."
+
+msgid "He should already be here! Where is he?"
+msgstr "¡Ya debe estar aquí! ¿Dónde está?"
+
+msgid "He will not make it!"
+msgstr "Él no lo va a lograr"
+
+msgid "He will not make it."
+msgstr "Él no lo va a lograr"
+
+msgid "He's already dying. I don't think he can be of any more help to us."
+msgstr "Ya se está muriendo. No creo que nos pueda oir."
+
+msgid "He? He what? Answer me, come on!"
+msgstr "¿Él? ¿Él que? ¡Contésteme, vamos!"
+
+msgid "Hello there! You missed me, of course?"
+msgstr "¡Hola allí! ¿Me extrañaste?"
+
+msgid ""
+"Here I am. My voice speaks to those willing to listen. I know why you are "
+"here. I know who you are. Ask your questions and receive the answers, for I "
+"can see everything which may be."
+msgstr ""
+"Aquí estoy. La voz que habla a aquéllos que quieren escuchar. Sé por qué "
+"estás aquí. Sé quién eres. Has tus preguntas y espera por las respuestas, "
+"porque sé todo lo que será y todo lo que puede ser."
+
+msgid "Hey, come back! I haven't finished yet!"
+msgstr "Eh, eh, no se muera tan rápido, ¡no he terminado de preguntar!"
+
+msgid "Hey, hey, don't die so fast, I haven't finished asking you!"
+msgstr "Eh, eh, no se muera tan rápido, ¡no he terminado de preguntar!"
+
+msgid "Hey, who's there? The little boy with his mommy?"
+msgstr "¿Eh, quién hay? ¡Un muchacho pequeño con su mamá!"
+
+msgid ""
+"His mother... Gawen's, Haldric's mother... she was my... fiancee. We even "
+"had the date of our wedding fixed."
+msgstr ""
+"Su madre.. Gawen, la madre de Haldric.. ella era mi novia. Incluso teníamos "
+"la fecha de nuestra boda arreglada."
+
+msgid "Hm, my lord, do you think we should fullfill this peasant's request?"
+msgstr "Hm, mi señor, ¿piensa que debemos satisfacer la demanda del campesino?"
+
+msgid ""
+"Hm... you are still alive? There is strong spirit inside of your body. Stand "
+"and accept the final blow, but know that I won't damage your body further."
+msgstr ""
+"Hm.. Todavía está vivo. Hay un espíritu fuerte dentro de su cuerpo. Acepte "
+"el soplo final, pero antes, le permito saber que no dañaré su cuerpo."
+
+msgid ""
+"Hmm.. You know what, orc? Let's make a deal... If you will tell me why are "
+"you here, allied with Akladians, then I will let you die peacefully. If not, "
+"despite my son's cries I will demonstrate to you other fascinating aspects "
+"on the topic of what suffering can be induced by a simple knife in hands of "
+"an able woman."
+msgstr ""
+"Hmm.. ¿Que es lo que sabes, orco? Hagamos un trato... Si me dices por qué "
+"están aquí, aliados con los Akladianos, entonces te permitiré morir "
+"apaciblemente. Si no, a pesar de los lamentos de mi hijo, te explicaré los "
+"aspectos fascinantes de lo mucho que se puede sufrir inducido por un "
+"cuchillo en las simples manos de una mujer capaz."
+
+msgid "Hmm... Should I feel complimented, or offended?"
+msgstr "Hmm.. ¿Debo sentirme alagada, u ofendida?"
+
+msgid ""
+"Hold your tongue! Green devils... I've heard they appeared recently in "
+"Raedwood. My friend told me there were THOUSANDS of them. I wish I were "
+"somewhere else."
+msgstr ""
+"¡Escupe esas palabras! Diablos verdes... He oído que ellos aparecieron "
+"recientemente en Raedwood. Mi amigo me a dicho que había MILES de ellos. "
+"Hubiese preferido que fuera en alguna otra parte."
+
+msgid "How dare you oppose us, heathen underling!"
+msgstr "¡Cómo te atreves a oponerte, subdito impío!"
+
+msgid "Hoyre Ramenari"
+msgstr "Hoyre Ramenari"
+
+msgid "Huh? Why?"
+msgstr "¿Por qué?"
+
+msgid "Hurray! We are free! Now, death to the orcs!"
+msgstr "¡Que bien! ¡Somos libres! ¡Ahora, muerte a los orcos!"
+
+msgid ""
+"I already know your questions, Lorin from Gallorae, the clan which has long "
+"had more gold in the hair of their daughters than in their treasuries. The "
+"first answer is: yea, thou art. The second is: yea, he shall. The third is: "
+"nay, ye never shall."
+msgstr ""
+"Sé sus preguntas, Lorin de Gallorae, clan que tenía más oro en el pelo de "
+"sus hijas que en sus tesoros. La primera respuesta es sí, usted es. La "
+"segunda es sí, él será. La tercera es no, ustedes nunca serán."
+
+msgid ""
+"I am an Oracle. Why should I give straight answers? Why do you think my "
+"answer is insufficient for you? Why do you think I should tell you more?"
+msgstr ""
+"Soy el Oráculo. ¿Por qué debo darle todas las respuestas? ¿Por qué piensa "
+"que mi respuesta no es suficiente para usted? ¿Por qué piensa que debo "
+"decirle más?"
+
+msgid ""
+"I am only your step-mother, but there is no time for more talk. We have to "
+"reach the town and find a medic!"
+msgstr ""
+"Soy tu madrastra, pero no hay tiempo para más charla. ¡Tenemos que alcanzar "
+"la ciudad y encontrar a un médico!"
+
+msgid "I am your king, Hoyre. Admit that or I will be forced to kill you."
+msgstr "Soy su rey, Hoyre. Admitalo o me obligará a que lo mate."
+
+msgid ""
+"I am your mother, the only person whom you can trust. These are your few "
+"loyal soldiers, who remained when everyone else deserted us. You are Gawen "
+"Hagarthen, the rightful king of Vakladia."
+msgstr ""
+"Soy tu madre, la única persona en quien puedes confiar. Éstos son tus "
+"últimos soldados fieles que se quedaron con nosotros cuando todos los demás "
+"se fueron después de la muerte honorable de tu padre. Eres Gawen Hagarthen, "
+"el verdadero rey de Vakladia."
+
+msgid "I apologise, my lord. I was not able to stop her."
+msgstr "Me disculpo mi señor. No pude detenerla."
+
+msgid ""
+"I can't just run away. I don't want to. I would prefer to die here, fighting."
+msgstr ""
+"Simplemente no puedo seguir corriendo. No quiero hacerlo. Preferiría morir "
+"aquí  luchando."
+
+msgid "I can't see.. it's so cold..."
+msgstr "No puedo ver.. Tengo frío.."
+
+msgid ""
+"I can't stop it. I have to care for Gawen. I am his step-mother, and I have "
+"to shelter him from God's wrath."
+msgstr ""
+"No puedo detenerme. Tengo que quererte Gawen. Soy tu madrastra, y tengo que "
+"protegerte de la ira de Dios."
+
+msgid ""
+"I can't tell you! (Aaargh) I don't know his name! I was given this task by "
+"our elders... of the Outlaw Place. All I know is one of Akladian lords paid "
+"us in gold! The price for the Hagarthens was three hundred gold pieces for "
+"the father and two hundred for the son! Aiieeee!!!"
+msgstr ""
+"¡No puedo decirle! ¡(Aaargh) no sé su nombre! Me dio la tarea un superiores "
+"del Lugar del Bandido. ¡Solo sé que un señor de Akladian lo pagó en oro! ¡El "
+"precio era trescientas piezas de oro por el padre y doscientas por el hijo! "
+"¡Aiieeee!!!"
+
+msgid "I can't. I won't. I won't leave you, my lord."
+msgstr "No puedo. No quiero. No lo dejaré, mi señor."
+
+msgid ""
+"I can't; your blow almost chopped my arm off. If you allow me to live, all I "
+"want is to return to my wife and children."
+msgstr ""
+"No puedo, tu golpe casi cortó mi brazo. Si me permites vivir, regresaré con "
+"mi esposa y mis niños."
+
+msgid "I care about him too."
+msgstr "Yo también me preocupo por él."
+
+msgid ""
+"I didn't catch the meaning of the discussion between you, and I know it was "
+"important. But why?"
+msgstr ""
+"No entiendo la discusión entre ustedes, y supongo que ese sentimiento era "
+"importante. ¿Pero por qué?"
+
+msgid ""
+"I didn't feel we had enough gold to accomplish the task ahead of us. So, I "
+"asked the others from the council of Freetown for help and they agreed. We "
+"now have 200 gold pieces"
+msgstr ""
+"Supuse que no teníamos suficiente oro para lograr la tarea que nos espera. "
+"Por eso pedí ayuda a los otros del concejo de Freetown y estuvieron de "
+"acuerdo. Ahora tenemos 200 piezas de oro"
+
+msgid "I do not know that name."
+msgstr "No conosco ese nombre."
+
+msgid ""
+"I do not know why. I've heard they came here to purify the world before the "
+"new messiah comes, but right now it just seems like they are pillaging and "
+"murdering many good people, Akladian and Wesnothian alike."
+msgstr ""
+"No sé eso. He oído que vinieron para purificar el mundo antes del nuevo "
+"mesías, pero ahora simplemente están saqueando y asesinando a mucha gente "
+"buena, Akladianos y Wesnothianos."
+
+msgid "I do not need anything more"
+msgstr "Yo no necesito nada más"
+
+msgid "I don't have to explain myself to anyone."
+msgstr "Porque quise. No tengo por que dar explicaciones."
+
+msgid ""
+"I don't know for sure, but it was just before your mother fell ill. The "
+"poison we sold them was very unique - it's hard to mistake the symptoms."
+msgstr ""
+"No sé con seguridad, pero fue justo antes de que envenenaran a su madre. El "
+"veneno que les vendimos era muy específico - es difícil equivocar los "
+"síntomas."
+
+msgid ""
+"I don't know much - only that this was the wish of our guide, Grekulak. He "
+"wished Akladians to be allied with us."
+msgstr ""
+"No sé mucho - sólo que éste era el deseo de nuestra guía, Grekulak. Le "
+"ofreció a los Akladianos que se aliaran con nosotros."
+
+msgid "I don't know that name."
+msgstr "No conozco ese nombre."
+
+msgid ""
+"I don't know what to think. But there IS one way to determine whether you "
+"are really what you claim to be... whether you are able to defeat us."
+msgstr ""
+"No sé qué pensar. Pero HAY una manera de determinar si realmente es lo que "
+"exige ser. Si podrá derrotarnos.."
+
+msgid ""
+"I don't know who that is. If he is a mage, then he is an enemy of our God "
+"and as such, has no right to life."
+msgstr ""
+"No sé eso. Si es mago, entonces es enemigo de nuestro Dios y como tal, no "
+"tiene ningún derecho a la vida."
+
+msgid ""
+"I don't know. He leads the orcs, but he is not an orc. I am not sure who he "
+"is. There is gossip that a new messiah will come to lead us to conquer the "
+"world, and he might just be that new messiah, I think."
+msgstr ""
+"No sé. Está conduciendo a los orcos, pero no es un orco. No estoy seguro "
+"quién es. Hay chismes de que un nuevo mesías vendrá a conducirnos para "
+"conquistar el mundo, y podría ser él, supongo."
+
+msgid ""
+"I don't want to interrupt you your interesting discussion, but _I_ think you "
+"will have chance to ask this Gawen directly about everything."
+msgstr ""
+"No quiero interrumpir su interesante discusión, pero... Creo que tendrá "
+"oportunidad de preguntarle directamente a Gawen."
+
+msgid ""
+"I don't want to waste too much time, so answer me now: There is alliance "
+"between traitors from the Akladian race and Orcs. Why?"
+msgstr ""
+"No quiero perder demasiado tiempo, así que contésteme rápido: Hay alianza "
+"entre los traidores de raza Akladiana y los Orcos. ¿Por qué?"
+
+msgid ""
+"I fear the blade which wounded him was poisoned, my lady.  We must wait here "
+"and pray that our God shows him mercy. (Whispering) And then we shall bury "
+"him with all ceremonies."
+msgstr ""
+"Creo que la hoja que lo hirió estaba envenenada, mi señora.  Tenemos que "
+"esperar aquí y orar para que nuestro Dios nos muestre su misericordia. "
+"(Susurrando) Y entonces lo enterraremos con todas las ceremonias."
+
+msgid "I feel so sick, like poison is burning inside me..."
+msgstr "Puedo sentir el veneno dentro mío..."
+
+msgid ""
+"I feel weak... sick... (pause) ... I can't remember anything... nothing. Who "
+"am I?"
+msgstr ""
+"Me siento débil... me siento enfermo.. (pausa)... no puedo recordar nada... "
+"Nada.. ¿Quién soy?"
+
+msgid "I found her! I found her! The Oracle!"
+msgstr "¡La encontré! ¡La encontré! ¡El Oráculo!"
+
+msgid "I guess this was gold prepared to pay for Reme Carrenemoe."
+msgstr "Supongo que este oro lo preparó para pagar a Reme Carrenemoe."
+
+msgid "I hate this forest. I REALLY hate it. Passionately."
+msgstr "Odio este bosque. REALMENTE lo odio. Apasionadamente."
+
+msgid "I have not lost. I have not won."
+msgstr "No he perdido. No he ganado."
+
+msgid "I hope both Reme and Lorin have made it... Aaargh!"
+msgstr "¡Espero que Reme y Lorin lo hayan logrado.. Aaargh!"
+
+msgid "I hope that witch is burning in hell!"
+msgstr "¡Espero que la bruja se esté quemando en el infierno!"
+
+msgid "I know you - I've heard about you! The She-wolf of Haeltin!"
+msgstr "¡La conozco - He oído hablar de usted! ¡Mujer-lobo de Haeltin!"
+
+msgid "I really am Gawen Hagarthen"
+msgstr "Muerte de Gawen Hagarthen"
+
+msgid ""
+"I say to hell with that mage. Let's go to Vattin and announce that the king "
+"has returned...."
+msgstr ""
+"Yo digo, encontrar a ese mago. Vamos a Vattin y anuncia que el rey ha vuelto."
+
+msgid ""
+"I see two good defensive positions here. One is to the north, near the "
+"village; the second is on the hills to the east of us. Use your troops to "
+"cover your back. Clansmen are not experienced enough to control terrain next "
+"to them, so you must put them adjacent to one another to block the enemy."
+msgstr ""
+"Veo dos posiciones defensivas buenas aquí. Una es al norte, cerca del "
+"pueblo; la segunda, pero sin el pueblo cercano, está al este de aquí en las "
+"colinas. Use sus tropas para cubrir su retaguardia. Los Miembros del Clan no "
+"son lo bastante experimentados para controlar el terreno a su lado, tiene "
+"que ponerlos uno junto al otro para bloquear al enemigo."
+
+msgid "I strongly suggest we go to the Oracle."
+msgstr "Yo sugiero ir al Oráculo."
+
+msgid ""
+"I think Bor wants to be king. He wants to try to unite all of the Akladian "
+"kingdoms and complete the conquest of Wesnoth. On the way, he will purify "
+"our race by killing every Akladian unworthy of the name."
+msgstr ""
+"Creo que Bor desea ser el nuevo rey. Entonces intentará unir a todos los "
+"reinos de Akladian y acabar la conquista de Wesnoth. De esa manera "
+"purificará nuestra raza matando a cada Akladiano indigno de ese nombre."
+
+msgid "I think he would kill you gratis. He won't say anything more, my lady."
+msgstr "Pienso que la mataría gratis. No dirá nada más, mi señora."
+
+msgid ""
+"I think they keep captured villagers in the dungeons of their castles. It's "
+"time to free them and kill the orcs!"
+msgstr ""
+"Creo que ellos guardan a los lugareños capturados en los calabozos de sus "
+"castillos. ¡Es tiempo de liberarlos y matar a los orcos!"
+
+msgid "I think we killed him, my lord!"
+msgstr "¡Creo que lo matamos, mi señor!"
+
+msgid ""
+"I think... sometimes I think I remember something, but then it passes. I "
+"remember a dark-haired woman. She is lying on a bed, sweating, pain in her "
+"beautiful green eyes. I don't know who she is, but it makes me want to weep "
+"every time I think about it. I think... I think I loved her."
+msgstr ""
+"Yo pienso.. A veces creo recuerdar algo, pero entonces desaparece. Recuerdo "
+"a una mujer  de cabello oscuro. Está sufriendo y sudando en la cama, con sus "
+"lindos ojos verdes. No sé quién es ella pero me hace llorar cada vez que "
+"pienso en eso. Supongo que la amé."
+
+msgid ""
+"I vow to sacrifice a lamb to God if he can be cured. If not, I won't even "
+"sacrifice so much as a mouse ever again!  Do you hear me, God?  Do you?"
+msgstr ""
+"Juro sacrificar un cordero a Dios, si él se cura. ¿Si no, no sacrificaré ni "
+"siquiera un ratón, me oye usted, nuestro Dios?  ¿Gawen, puede levantarse?"
+
+msgid "I was kind of expecting you."
+msgstr "Estaba dispuesto a esperarte."
+
+msgid "I will allow you to live, if you will tell me few things."
+msgstr "Le permitiré vivir, si me dice algunas cosas."
+
+msgid "I will carry the message to Bor Cryne. He will reward me in gold!"
+msgstr "Ahora llevaré el mensaje a Bor Cryne. ¡Me premiará en oro!"
+
+msgid "I will let you live, if you will tell me few things."
+msgstr "Le permitiré vivir, si me dice algunas cosas."
+
+msgid ""
+"I wish you were as pretty as your daughters, Ruvio. I'd do to you the same "
+"thing I did to them. Especially the redhead, what was her name? The fighting "
+"one. She was the best!"
+msgstr ""
+"Espero que usted sea tan bonito como sus hijas, Ruvio. Podría hacerle a "
+"usted lo mismo que hice con ellas. Sobre todo la pelirroja, ¿cual era su "
+"nombre? La luchadora. Era la mejor."
+
+msgid "I would want some elves"
+msgstr "Yo querría algunos elfos"
+
+msgid "I would want some of Huon's soldiers"
+msgstr "Yo querría algunos de los soldados de Huon"
+
+msgid "I would want to have more gold"
+msgstr "Yo querría tener más oro"
+
+msgid "I'm afraid... that may be... impossible. What about your memory?"
+msgstr "Me temo que sea imposible. ¿Qué sobre tu memoria?"
+
+msgid ""
+"I'm sorry father. I just couldn't miss the opportunity to see our great "
+"future king do great heroic things... the kind of things great future kings "
+"usually do. You don't mind, do you... Gaumhaldric?"
+msgstr ""
+"Lo siento padre. No podía perder la oportunidad de ver cómo nuestro futuro "
+"gran rey hace grandes cosas heroical, con el estilo que solo los futuros "
+"grandes reyes tienen. ¿No le importa, no lo haga - Gaumhaldric?"
+
+msgid ""
+"I'm sorry, but I cannot help you. Akladian clans do buy poison from us here "
+"and there, but if you can't give me some names, I won't be able to help you."
+msgstr ""
+"Lo siento, pero no puedo ayudarlo. Los clanes Akladianos compran veneno de "
+"nosotros con frecuencia, si no puede darme alguna pista, no podré ayudarlo."
+
+msgid "I've changed my mind"
+msgstr "He cambiado mi mente"
+
+msgid "I've never heard of that name."
+msgstr "No conozco ese nombre."
+
+msgid ""
+"If I may make a suggestion, my lord... we are here to gather news, but I "
+"don't think interrogating the eastern enemy leader would help us much. He "
+"doesn't look important enough. The second one, on the other hand..."
+msgstr ""
+"Si puedo sugerir, mi señor. Estamos aquí para recolectar Información. Pero "
+"no creo que interrogar al líder enemigo del este tenga algún sentido. No "
+"parece lo bastante importante. Solo tendrá noticias de segunda mano..."
+
+msgid "If that's your wish"
+msgstr "Si ése es su deseo"
+
+msgid ""
+"If you don't recall veteran units, the next scenario with Lorin will be "
+"extremely difficult to win."
+msgstr ""
+"Si no recluta unidades veteranas, el próximo escenario con Lorin puede ser "
+"sumamente difícil de ganar."
+
+msgid ""
+"If you want my advice, I think you may want to use our elves. Six elves "
+"should be able to hold off the eastern leader on their own, especially using "
+"hit-and-run tactics. Alternatively, you may ignore one of the enemies "
+"entirely and concentrate all of your forces against the other one. There's "
+"no hurry; we've got quite a lot of time."
+msgstr ""
+"Si puedo sugerir algo, puede usar elfos. Seis elfos son suficiente fuerza "
+"como para mantener ocupado al líder oriental, sobre todo si usa tácticas de "
+"golpe-y-escape. Puede ignorar a uno de sus enemigos y usar todas sus fuerzas "
+"contra el otro. No hay prisa,  tenemos mucho tiempo."
+
+msgid "Impossible"
+msgstr "Imposible"
+
+msgid "In this scenario, only Gawen and Lorin may interrogate enemy leaders"
+msgstr ""
+"En este escenario, sólo Gawen y Lorin pueden interrogar a los líderes "
+"enemigos"
+
+msgid ""
+"In this scenario, you may interrogate the leader with either Ruvio or Gawen, "
+"it will make no difference.\n"
+"\n"
+"Move Ruvio to signpost to ask him for advice."
+msgstr ""
+"En este guión, puede interrogar al líder con Ruvio o Gawen, daría lo mismo.\n"
+"\n"
+"Mueva a Ruvio al poste indicador y pregunte por su consejo."
+
+msgid ""
+"Indeed. We will have no time to rest and cure our wounded. But perhaps it "
+"won't be necessary, we should negotiate first.."
+msgstr ""
+"De hecho. No tendremos tiempo para descansar y curar nuestros heridos. Pero "
+"quizá no será necesario, debemos negociar primero.."
+
+msgid ""
+"Inside of burned village of Ruen, Gawen's soldiers found massacred bodies of "
+"men, women and children. No one was unmoved by the terrible sight. Looking "
+"at their faces Gawen sadly realized that Orcs would not expect any mercy in "
+"this battle and no prisoners would be taken."
+msgstr ""
+"Dentro del pueblo quemado de Ruen los soldados de Gawen encontraron los "
+"cuerpos masacrados de hombres, mujeres y niños. Nadie permaneció inmutable "
+"ante tan terrible visión. Mirando sus caras con tristeza Gawen pensó, estos "
+"Orcos no pueden esperar misericordia en esta batalla y ningún prisionero "
+"será tomado."
+
+msgid ""
+"Inside the castle of Haeltin, Lorin found large quantities of food, as well "
+"as arrows and weapons. It seemed like the castle owners were expecting a "
+"huge army."
+msgstr ""
+"Dentro del castillo de Haeltin, Lorin encontro grandes cantidades de comida, "
+"ademas de flechas y armas. Parece que los dueños del castillo esperaban un "
+"gran ejército."
+
+msgid ""
+"Is that all you wanted to tell me? Then know that I've heard, that the She-"
+"wolf of Haeltin has heard counsel of the Oracle, voice of God on Earth. She "
+"will not hear the counsel woman whom is merely God's tool."
+msgstr ""
+"¿Es todo lo que puede decirme? Entonces sepa que ya la he oído, la Mujer-"
+"lobo de Haeltin ha oído el Oráculo, la voz de Dios en la tierra. Ella no ha "
+"oído a la mujer que es meramente una herramienta de Dios."
+
+msgid "Is there any news from Bor Cryne?"
+msgstr "¿Hay alguna noticias de Bor Cryne?"
+
+msgid ""
+"It seems that $ano_loyal[0].type $ano_loyal[0].name was so impressed by "
+"Lorin's performance in this siege, that he will now fight for her without "
+"the need to pay him. He became LOYAL."
+msgstr ""
+"Parece que $ano_loyal[0].type $ano_loyal[0].name quedó impresionado por la "
+"actuación de Lorin en este sitio, desde ahora luchará para ella sin la "
+"necesidad de paga. Se puso FIEL."
+
+msgid "It's a shame we had no time to finish those traitors off."
+msgstr ""
+"Es una vergüenza no tener tiempo para saquearla o para cobrar impuestos a "
+"sus habitantes."
+
+msgid ""
+"It's because we need allies against the usurper mixling, Gawen Hagarthen."
+msgstr ""
+"Es porque necesitamos a los aliados contra ese usurpador, el mestizo Gawen "
+"Hagarthen."
+
+msgid ""
+"It's the wind. And the noise... as if the green devils are whispering in the "
+"leaves. I really hate this forest."
+msgstr ""
+"Es el viento. Y este ruido... Como si todos los diablos verdes estuviesen "
+"susurrando en las hojas. Realmente odio este bosque."
+
+msgid "John Fasthood"
+msgstr "John Fasthood"
+
+msgid "Karen! What are you doing here!?"
+msgstr "¡Karen! ¡Qué estás haciendo aquí!"
+
+msgid "Karen, I ... "
+msgstr "Karen, .. "
+
+msgid "Kill all enemy leaders"
+msgstr "Muerte de todos los líderes enemigos"
+
+msgid "Kill all enemy leaders."
+msgstr "Muerte de todos los líderes enemigos."
+
+msgid "Kill enemy leader."
+msgstr "Muerte del líder enemigo."
+
+msgid ""
+"Kill them! Kill them all! Hurry! There are thousands of them, everywhere!"
+msgstr ""
+"¡Mátelos! ¡Mátelos a todos! ¡Rápidamente! ¡Son miles, están por todas partes!"
+
+msgid "Kill them. Kill them all. Have no mercy."
+msgstr "Mátenlos. Mátenlos a todos. No tengan misericordia."
+
+msgid "King Buffin"
+msgstr "Rey Buffin"
+
+msgid "King Buffin is dead, boy."
+msgstr "El rey Buffin está muerto, muchacho."
+
+msgid "King Buffin! King Buffin! I bring terrible news for you!"
+msgstr "¡Rey Buffin! ¡Rey Buffin! ¡Traigo noticias terribles para usted!"
+
+msgid ""
+"King Buffin's army was right behind us - we could almost feel their breath "
+"on our necks. As though this were not enough, we marched right into a knot "
+"of Akladians."
+msgstr ""
+"El ejército del rey Buffin está detrás nuestro y casi sentíamos sus "
+"respiraciones en nuestra retaguardia. Y si esto no fuera bastante, marchamos "
+"derecho a las unidades de Akladianos."
+
+msgid ""
+"King? We have never been joined by a king before. If he wants to be one of "
+"us, he will be welcomed, but he must understand that his of chances being "
+"called 'his majesty' are zero."
+msgstr ""
+"Rey? Nunca fuimos unidos por reyes antes. Si quiere ser uno de nosotros, se "
+"le dará la bienvenida, pero tendría que entender que las oportunidades de "
+"que lo llamen 'su majestad' son nulos."
+
+msgid "Lady Lorin"
+msgstr "Señora Lorin"
+
+msgid ""
+"Lady Lorin can also interrogate enemy leaders.\n"
+"You will receive no bonus if withdrawing with Gawen."
+msgstr ""
+"También la Señora Lorin puede interrogar a los líderes enemigos.\n"
+"No recibirá ninguna paga extraordinaria si se retira con Gawen."
+
+msgid "Lady Lorin, stop it. He is dead. He can't tell us anything more."
+msgstr "Señora Lorin, deténgase. Está muerto. No dirá una palabra más."
+
+msgid "Lady, we are searching for the great mage, Deorien. Maybe you know..."
+msgstr "Señora, estamos buscando al gran mago, Deorien. Quizá usted sabe..."
+
+msgid "Larkin O Travil"
+msgstr "Larkin O Travil"
+
+msgid "Leave the final blow for me! I want to interrogate him!"
+msgstr "¡Deje el ultimo aliento para mí! ¡Quiero interrogarlo!"
+
+msgid "Leaving Raedwood"
+msgstr "Dejando Raedwood"
+
+msgid "Let's go, Gawen. We're finished here."
+msgstr "Vamos, Gawen. Vamos."
+
+msgid "Like... in bed with your underling so-called 'wife'?"
+msgstr "¿Como en cama con tu esclava cuando llama tu esposa?"
+
+msgid ""
+"Listen up, you large orc in my small hands. How high can a big orc sing when "
+"I use this knife?"
+msgstr ""
+"Oiga, oiga, orco grande en mis manos pequeñas. Ahora, ¿que tan alto pueden "
+"cantar los orcos grandes cuándo yo uso este cuchillo?"
+
+msgid ""
+"Listen, that won't work! I am well-acquainted with the job of interrogating "
+"prisoners. What you're doing isn't even a decent amateur job... this is..."
+msgstr ""
+"¡Escucha, eso no funcionará! Lo sé, porque conozco muy bien el trabajo de "
+"interrogar a los  prisioneros, y no es un trabajo para aficionado igual... "
+"esto es.."
+
+msgid ""
+"Look, Akladians! To arms! Their king is dead; it's time to kill them all and "
+"be done with our slavery!"
+msgstr ""
+"¡Miren, allí son Akladianos allí! ¡A las armas! ¡Su rey está muerto, es hora "
+"de matarlos a todos y acabar con nuestra esclavitud!"
+
+msgid ""
+"Lorin ordered the castle to be prepared for defense. Men worked day and "
+"night, snowflakes were melting on their eager bodies. She worked alongside "
+"them, as hard as though she wanted to prove that she was as good as any man. "
+"Or perhaps as though she wanted to be too tired to have time for memories."
+msgstr ""
+"Lorin ordenó preparar el castillo para la defensa. Los hombres habían "
+"trabajar día y noche, mientras los primero copos de nieve se derretían en "
+"sus cuerpos. Ella también trabajó, tan duro como si quisiera demostrar que "
+"es tan buena como los hombres. O como si quisiera estar demasiado cansado "
+"como para recordar."
+
+msgid ""
+"Lorin was acting very strangely. Often, she sat outside our camp, her eyes "
+"aimlessly scanning the horizon. I started to fret about this, but she "
+"rebuffed any attempt to talk about her behaviour."
+msgstr ""
+"Lorin estaba actuando muy extraño. A menudo se sentába afuera del "
+"campamento, su mirada lánguida vagaba por el cielo. Comencé a preocuparme "
+"por esto, pero ella se negó a hablar sobre su comportamiento."
+
+msgid "Lorin's clan once bought poison from the outlaws. Do you know why?"
+msgstr "El clan de Lorin compró una vez veneno a los bandidos. ¿Sabe por qué?"
+
+msgid "Loyal"
+msgstr "Leal"
+
+msgid "Luc Hagarthen"
+msgstr "Luc Hagarthen"
+
+msgid "Lucs"
+msgstr "Lucs"
+
+msgid "Mage? Then he is surely burning in hell!"
+msgstr "¡Espero que la bruja se esté quemando en el infierno!"
+
+msgid ""
+"Majid Yahyazad is not my leader. His Ostan is far away from here. The Ostan "
+"of Mahour - and this tribe - is ruled by me, and no other rules over me."
+msgstr ""
+"Yahyazad no es mi líder. Su ostan está lejos de aquí. Este sietch y esta "
+"tribu es gobernada por mí, y ningún otro gobierna sobre mí."
+
+msgid "Mal-Raylal"
+msgstr "Mal-Raylal"
+
+msgid "Matthias Ramon"
+msgstr "Matthias Ramon"
+
+msgid "Medic"
+msgstr "Médico"
+
+msgid "Messenger"
+msgstr "Mensajero"
+
+msgid "Miracle? What do you mean?"
+msgstr "¿Milagro? ¿Qué quieres decir?"
+
+msgid "Mother, do NOT harm this man."
+msgstr "Madre, NO dañes a este hombre."
+
+msgid "Mother, you have to go the other way. Reme is waiting for you there!"
+msgstr "Lorin, tiene que ir por el otro lado. ¡Reme la está esperando allí!"
+
+msgid "Move Gawen to south-eastern signpost OR"
+msgstr "Mover a Gawen al poste indicador sur-oriental O"
+
+msgid "Move Gawen to southern edge of the map OR"
+msgstr "Mueva a Gawen al borde sur del mapa O"
+
+msgid "Move the peasant girl to the northern edge of the map."
+msgstr "Mueva a Gawen al borde sur del mapa O"
+
+msgid ""
+"Much better. That medic did a commendable job. I wish to thank him at some "
+"time in future."
+msgstr ""
+"Mucho mejor. Ese medico era muy bueno en su trabajo. Deseo poder agradecerle "
+"en algún momento."
+
+msgid ""
+"My Lady, the defenses are ready. I ordered a moat dug out in the north, we "
+"also put some new fortifications in place, but they are not finished."
+msgstr ""
+"Mi Señora, las defensas están listas. Pedí un foso excavado en el norte, "
+"también pusimos nuevas fortificaciones en el lugar, pero no están terminadas."
+
+msgid ""
+"My boss know everything, I know nothing. We are here for having fun and good "
+"meat I think."
+msgstr ""
+"Mi jefe sabe todo, yo no sé nada. Creo que estamos aquí para tener diversión "
+"y buena carne."
+
+msgid ""
+"My boss would know. I know nothing, I am great warrior, not great thinker."
+msgstr ""
+"Mi jefe sabría. Yo no sé nada, soy un gran guerrero, no un gran pensador. "
+
+msgid "My king - "
+msgstr "Mi rey -"
+
+msgid "My king? Ha, ha, that's funny.. I have no king..."
+msgstr "¿Mi rey? Ha, ha que cómico.. Yo no tengo ningún rey..."
+
+msgid ""
+"My king? You, my king? Never! I will rip your heart out! I will cut your "
+"hands off and feed the crows with them!"
+msgstr ""
+"¿Mi rey? ¿Mi rey, usted? ¡Nunca! ¡Arrancaré su corazón! ¡Cortaré sus manos y "
+"alimentaré los cuervos con ellas!"
+
+msgid "My lady, please, stop, that's just..."
+msgstr "Mi señora, por favor, detengase, eso es justo..."
+
+msgid "My lady, we have found a medic!"
+msgstr "¡Mi señora, hemos encontrado a un médico!"
+
+msgid ""
+"My lord! Do not let him go! He was beating and killing my friends and family "
+"members! If you won't kill him, I will!"
+msgstr ""
+"¡Mi señor! ¡No le permita vivir! ¡Él estaba pegando y matando a mis amigos y "
+"a mi familia! ¡Si no lo mata, lo haré yo!"
+
+msgid ""
+"My lord! This time for sure you will chase off that orcish band, kill all "
+"the orcs, and free my people!"
+msgstr ""
+"Por supuesto perseguirás a esa banda de orcos, ¡matarás a todos los orcos y "
+"liberaras a mi gente!"
+
+msgid ""
+"My lord, Bor Cryne not be far from here. It isn't wise to fight alone "
+"against the rebels' army."
+msgstr ""
+"Mi señor, Bor Cryne no puede estar lejos de aquí. No es sabio luchar solos "
+"contra el ejército de rebeldes."
+
+msgid ""
+"My lord, I do not think we should go back to Freetown already. We haven't "
+"met with the She-wolf of Haeltin west of here. She may have some great "
+"insight, having fought with orcs already."
+msgstr ""
+"Mi señor, pienso que no debemos regresar a Freetown. No nos hemos encontrado "
+"con esa Mujer-lobo al este de Haeltin. Ella puede saber algo de como luchar "
+"contra los orcos."
+
+msgid "My lord, are you sure you want to retreat?"
+msgstr "¿Mi señor, quiere realmente retirarse?"
+
+msgid ""
+"My lord, from here we may explore a few possibilities. To the south, there "
+"is city of Barnon. It would definitely be very dangerous to go there, but..."
+msgstr ""
+"Mi señor, aquí tenemos pocas posibilidades de explorar. Al sur, está la "
+"ciudad de Barnon. Definitivamente sería muy peligroso ir allí, pero..."
+
+msgid ""
+"My lord, if you can't remember anything, then permit me a few suggestions. "
+"While our troops are not the armoured types the Wesnothians have, they are "
+"far more resistant to pain and faster than the craven underlings. Remember "
+"to seek advantageous terrain; it's good to defend on the hills or in "
+"villages or forests. Do not charge blindly into the enemy; we have no means "
+"to replenish our army."
+msgstr ""
+"Mi señor, si no puede recordar nada, entonces permítame hacer algunas "
+"sugerencias. Recuerde que nuestras tropas no son del tipo acorazado que los "
+"Wesnothianos tienen, pero son más resistentes al dolor y más rápidos que "
+"esos wimps. Use el terreno, es bueno defenderse en las colinas o en pueblos "
+"o bosques. No ataque ciegamente al enemigo: No tenemos forma de reponer "
+"nuestro ejército."
+
+msgid ""
+"My lord, our scouts report that Grekulak is much closer than we thought. He "
+"is just four days' march from here - or two days for an undead army, since "
+"they can march without rest night and day."
+msgstr ""
+"Mi señor, nuestros exploradores informan que Grekulak está más cerca de lo "
+"que pensamos. Está a dos días justos de marcha - dos días para un ejército "
+"de no muertos, debes considerar que ellos pueden marchas tanto de día como "
+"de noche."
+
+msgid ""
+"My lord, we cannot go back to Freetown. We have nothing to report, and we "
+"have not found anything about the orcs."
+msgstr ""
+"Mi señor, no podemos regresar a Freetown. No tenemos nada que informar, y no "
+"hemos encontrado nada sobre los orcos."
+
+msgid ""
+"My lord, we really should try negotiations first. Grekulak is enemy of "
+"everyone, and..."
+msgstr ""
+"Mi señor, debemos intentar negociar primero. Grekulak es enemigo de todos, "
+"y..."
+
+msgid "My lord... This man, they call a messiah.."
+msgstr "Mi señor... Este hombre, al que llaman mesías.."
+
+msgid ""
+"My lord... please... grant me this, I pray you. I want to kill him. Leave "
+"him to me."
+msgstr "Mi señor.. Por favor.. quiero matarlo. Déjemelo.."
+
+msgid "My mother? You seem... a bit young."
+msgstr "¿Mi madre? Pareces... demasiado joven..."
+
+msgid "My son! Please, don't give up!"
+msgstr "¡Hijo! ¡Por favor, no te rindas!"
+
+msgid ""
+"NORMAL: Interrogate Orcish leader with Ruvio or Gawen and withdraw to "
+"northern signpost"
+msgstr ""
+"NORMAL: Interrogue al líder Orco con Ruvio o Gawen y retírese al poste "
+"indicador del norte"
+
+msgid "Never in my life or afterlife!"
+msgstr "¡Nunca en mi vida o después de la vida!"
+
+msgid "New messiah?"
+msgstr "¿Nuevo mesías?"
+
+msgid "No price for me?"
+msgstr "¿Ningún precio por mí?"
+
+msgid "No! Don't you DARE die on me! Not now!"
+msgstr "¡No! ¡No te mueras! ¡No ahora!"
+
+msgid ""
+"No! I don't want to do that! I only want peace. I don't want to start civil "
+"wars, or fight for any throne. No! Let's not talk about it again."
+msgstr ""
+"No. Solo quiero paz. No quiero empezar guerras civiles, o luchas por "
+"cualquier trono. No y no hablemos de nuevo sobre eso."
+
+msgid "No! I won't leave you! I don't want to! Let's die together!"
+msgstr "¡No! No lo dejaré! ¡No quiero! ¡Murámosnos juntos!"
+
+msgid "No! It's impossible! I have just started!"
+msgstr "¡No! ¡Es imposible! ¡Acabo de comenzar!"
+
+msgid "No! No!  There has to be a better answer!"
+msgstr "¡No! No!  ¡Tiene que ser una respuesta mejor!"
+
+msgid ""
+"No! That's impossible! You will pay for that, treacherous dogs! Your sons at "
+"Vattin are as good as dead!"
+msgstr ""
+"¡No! Eso es imposible! ¡Pagará por eso, perro traidor! ¡Sus hijos en Vattin "
+"ya están muertos!"
+
+msgid "No! That's suicide! I won't let you!"
+msgstr "¡No! Es un suicidio! ¡No lo permitiré!"
+
+msgid ""
+"No! We can't wait. We have to reach a town nearby and find a medic, quickly!"
+msgstr ""
+"No! No podemos esperar. ¡Tenemos que alcanzar un pueblo y encontrar a un "
+"médico, rápido!"
+
+msgid ""
+"No, I won't let you! Orc, tell us everything you know and I will let you "
+"live."
+msgstr ""
+"¡No, no lo permitiré! Orco, dinos todo lo que sabes y te permitiré vivir."
+
+msgid ""
+"No, no, you did not understand me. I will LET you LIVE, not GET you LIVER. "
+"Why are you here, allied with Akladians?"
+msgstr ""
+"No, no, no me entendió. Le permitiré VIVIR, no le daré HÍGADO. ¿Por qué se "
+"alió con los Akladianos?"
+
+msgid ""
+"No, no, you did not undestand me. I will LET you LIVE, not GET you LIVER. "
+"Why are you here, allied with Akladians?"
+msgstr ""
+"No, no, no me entendió. Le permitiré VIVIR, no le daré HÍGADO. ¿Por qué se "
+"alió con los Akladianos?"
+
+msgid ""
+"No, of course not. You are a brave warrior. I just thought the notion that "
+"you will enter heaven without hands, legs, or head might make you a little "
+"bit uneasy."
+msgstr ""
+"No, por supuesto que no. Es un guerrero valiente. Solo pensaba que sentira "
+"entrando al cielo sin las manos, las piernas y la cabeza lo hará de a poco "
+"el pedazos."
+
+msgid ""
+"No, really, I don't want to! Besides, if there are other heirs, why me? What "
+"would I have to do to those other cousins, if they didn't recognise me as "
+"king?"
+msgstr ""
+"No, no quiero. Hay otros herederos además, ¿por qué yo? ¿Qué debo hacer con "
+"esos otros primos, si no me reconocen como rey?"
+
+msgid "No, wait, don't die yet - please, answer a few questions..."
+msgstr ""
+"No, espera, no te mueras todavía - por favor, contéstame algunas preguntas..."
+
+msgid "No."
+msgstr "No."
+
+msgid ""
+"No. As usual, Hoyre screwed up everything he possibly could. We will "
+"withdraw to the north, and wait until Grekulak arrives to help us."
+msgstr ""
+"No. Hoyre se apuró todo lo que pudo como de costumbre. Nos retiraremos al "
+"norte, y esperaremos hasta que Grekulak venga a ayudarnos."
+
+msgid ""
+"Noble lords, with your permission... my lord, Raul O Gaeltin sent me here "
+"with a message. I beg for your forgiveness, remember I am just a messenger."
+msgstr ""
+"Señores nobles, con su permiso. Mi Señor, Raul O Gaeltin me envió aquí con "
+"un mensaje. Ruego por su perdón, recuerde que solo soy un mensajero."
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "North of his castle, in small cage."
+msgstr "Al norte de su castillo, en una jaula pequeña."
+
+msgid ""
+"Note: you will have to choose twelve your best soldiers soon. Elves and "
+"soldiers given by Huon and Mithrandil count against this limit. Choose four "
+"soldiers now."
+msgstr ""
+"Nota: tendrá que escoger doce de sus mejores soldados. Los elfos y soldados "
+"dados por Huon también podrían ser elegidos por usted, pero también se "
+"contarán. Puede escoger cuatro veces ahora."
+
+msgid "Note: you will receive no bonus if you withdraw with Reme."
+msgstr "No recibirá ninguna paga extraordinaria si se retira con Reme."
+
+msgid "Nothing new, my lord."
+msgstr "Nada nuevo, mi señor."
+
+msgid "Now, tell me..."
+msgstr "Ahora, dígame..."
+
+msgid ""
+"Of course it is. We are searching for orcs, and those are orcs, isn't it?"
+msgstr ""
+"Por supuesto. ¿Estamos buscando orcos, y aquéllos son orcos, ¿no es así?"
+
+msgid "Oh my God... Does that mean..."
+msgstr "Oh mi Dios... Así de mal..."
+
+msgid ""
+"Oh my. It's so funny I think I'm gonna die laughing. Gaumhaldric the Miracle-"
+"maker, how about the sound of that?"
+msgstr ""
+"Oh bueno. Es tan cómico, creo que me voy a morir de risa. Gaumhaldric el "
+"Haceedor de Milagros, ¿cómo suena?"
+
+msgid ""
+"Oh no! New reinforcements have arrived to help our enemies, now we have no "
+"chance to defeat them!"
+msgstr ""
+"¡Todo está perdido! ¡Llegaron los refuerzos de nuestros enemigos! ¡No "
+"tenemos ninguna oportunidad de ganar!"
+
+msgid ""
+"Oh no! New reinforcements have arrived to help our enemies, now we have no "
+"chances to defeat them!"
+msgstr ""
+"¡Todo está perdido! ¡Llegaron los refuerzos de nuestros enemigos! ¡No "
+"tenemos ninguna oportunidad de ganar!"
+
+msgid ""
+"Oh, I'm so scared. And isn't that the famous rebel leader, Ruvio? Such a "
+"coward he abandoned his family in Freetown when he heard we were coming for "
+"them."
+msgstr ""
+"Oh cómo me asusto. ¿Y allí, no es el famoso caudillo, Ruvio? "
+"Desgraciadamente era tan cobarde que abandonó a su familia en Freetown "
+"cuando oyó que estábamos llegando."
+
+msgid "Oh, never mind."
+msgstr "Ah, no importa."
+
+msgid "Okladia"
+msgstr "Okladia"
+
+msgid ""
+"Okladia is in need - undead have invaded our country, they are razing the "
+"countryside and murdering our people! "
+msgstr ""
+"Okladia lo está necesitando - los no muertos han invadido el país, están "
+"saqueando y asesinando. "
+
+msgid "Only one thing stays my hand from killing you now. Who sent you?"
+msgstr "Ahora, sólo una cosa me detiene de matarlo. ¿Quién lo envió?"
+
+msgid "Oracle"
+msgstr "Oráculo"
+
+msgid "Oracle's Guard"
+msgstr "Guardian del Oráculo"
+
+msgid "Oracle... I..."
+msgstr "Oráculo.. yo.."
+
+msgid "Orannon"
+msgstr "Orannon"
+
+msgid "Orc"
+msgstr "Orco"
+
+msgid ""
+"Orc, do not die, yet! Can you still hear me? I will ask you a few questions, "
+"and if you will answer them, I will order someone to bind your wounds and I "
+"will let you live."
+msgstr ""
+"¡Orco, no te mueras, todavía! ¿Puedes oírme? Le haré unas preguntas, si las "
+"contestas, pediré a alguien que cure tus heridas y te permitiré vivir"
+
+msgid "Our king is dead! We are not traitors!"
+msgstr "¡Nuestro rey está muerto! ¡No somos traidores!"
+
+msgid ""
+"Our plans haven't changed, Hoyre. You were and are my friend. I only came "
+"here with the underling so we could trap him. I am with you!"
+msgstr ""
+"Nuestros planes no han cambiado, Hoyre. Usted era y es mi amigo. Sólo vine "
+"como subdito para que caiga en la trampa. ¡Estoy con usted!"
+
+msgid "Our rules are to never betray the trust of those who hired us."
+msgstr ""
+"Nuestras reglas son nunca traicionar el nombre de las personas que nos "
+"contrataron."
+
+msgid "Outlaw"
+msgstr "Forajido"
+
+msgid "Owaec"
+msgstr "Owaec"
+
+msgid ""
+"People of Vakladia! People of Wesnoth! Long have ye waited for a messiah to "
+"come. Long have ye waited for a new king to unite the nation and to end the "
+"wars plaguing our country. The orcs ravage unopposed through the land, "
+"murdering and raping Akladians and Wesnothians alike, invited here by "
+"traitors whose souls are cankered with a lust for power and whose eyes have "
+"been blinded by callous hatred."
+msgstr ""
+"¡Personas de Vakladia! ¡Personas de Wesnoth! Mucho tiempo han esperando por "
+"el mesías. Mucho tiempo han esperando por un nuevo rey que unifique a la "
+"nación y acabe con las guerras que azotan el país. Los orcos están asolando "
+"la tierra sin oposición, están asesinando y violando Akladianos y  "
+"Wesnothianos, invitados por los traidores enfermos de odio."
+
+msgid ""
+"Perhaps not, but I think I am going to enjoy trying anyway. Let's start with "
+"this little knife you see here."
+msgstr ""
+"Bien, supongo que no, pero lo intentaré. Intentaremos con el cuchillo y "
+"luego vemos."
+
+msgid "Please tell me.."
+msgstr "Por favor dime.."
+
+msgid "Please tell me..."
+msgstr "Por favor dígame..."
+
+msgid "Poor fools! They have no chance, yet still they fight."
+msgstr "¡Pobres bastardos! No tienen ninguna chance."
+
+msgid "Quivre O Raedbor"
+msgstr "Quivre O Raedbor"
+
+msgid "Quivre O Raednon"
+msgstr "Quivre O Raednon"
+
+msgid "Raban Harnen"
+msgstr "Raban Harnen"
+
+msgid "Raole Mathauri"
+msgstr "Raole Mathauri"
+
+msgid ""
+"Reach either eastern or western signpost with both Lorin AND Reme. After "
+"that, hold on at least $ano_howmanyturns turns before the honorable death of "
+"Gawen Hagarthen."
+msgstr ""
+"Alcance el poste indicador oriental u occidental con Lorin y Reme. Después "
+"de eso, resista por lo menos CINCO turnos antes de la muerte honorable de "
+"Gawen Hagarthen."
+
+msgid "Rebarnon"
+msgstr "Rebarnon"
+
+msgid "Recall twelve troops. OR"
+msgstr "Reclute a doce unidades. O"
+
+msgid ""
+"Reme, take her and go. That is an order. And this is not suicide; I will "
+"follow you as soon as possible."
+msgstr ""
+"Reme, tómela y vaya. Es una orden. Y no es ningún suicidio, los seguiré lo "
+"más pronto posible."
+
+msgid ""
+"Reme, take my step-mother and protect her. I will stay here to guard your "
+"rear during withdrawal."
+msgstr ""
+"Reme, tome a mi madrastra y protegala. Permaneceré aquí para proteger su "
+"retaguardia en la retirada."
+
+msgid "Reme, you have to take care of Lorin! She went the other way"
+msgstr "Reme, tenía que cuidar de Lorin. Ella se fue para el otro lado"
+
+msgid ""
+"Reme? Yes, I've heard about him. His clan castle was burned down by Outlaws. "
+"But he is alive - they captured him. I've heard they want to sell him to Bor "
+"Cryne. I have heard that they keep him in place called Bontom, but I don't "
+"know where it is..."
+msgstr ""
+"Reme? Sí, he oído hablar de él. El castillo de su clan fué quemado por "
+"Bandidos. Pero él está vivo, ellos lo capturaron. He oído que quieren "
+"entregarlo a Bor Cryne. He oído que lo mantienen en un lugar conocido como "
+"Bontom, pero no sé donde es..."
+
+msgid "Remember the Freetown!"
+msgstr "¡Recuerda a Freetown!"
+
+msgid "Remember the Freetown! Remember the Freetown! Kill them all!"
+msgstr "¡Recuerda a Freetown! ¡Recuerda a Freetown! ¡Mátenlos a todos!"
+
+msgid ""
+"Remember, the Oracle must be untouched. Do not kill the woman. Bor Cryne "
+"wants to have her untouched."
+msgstr ""
+"Recuerda, el Oráculo debe estar intacto. No maten a la mujer. Bor Cryne la "
+"quiere tener intacta."
+
+msgid "Resisted $ano_barnon_turns| turns."
+msgstr "Se resistió | $ano_barnon_turns | turnos."
+
+msgid "Respect, my king. Follow us as soon as possible"
+msgstr "Respeto, mi rey. Síganos en cuanto sea posible"
+
+msgid "Revenge!"
+msgstr "¡Venganza!"
+
+msgid "Ripe Scud"
+msgstr "Ripe Scud"
+
+msgid "Robert the Hefty"
+msgstr "Robert the Hefty"
+
+msgid ""
+"Ruins of the great city? What kind of answer is this? Which city? Why can't "
+"you give me straight answers?"
+msgstr ""
+"¿Las ruinas de la gran ciudad? ¿Qué tipo de respuesta es esa? ¿Dónde está "
+"esa ciudad? ¿Por qué no puede darme directamente la respuesta?"
+
+msgid "Ruvio, I didn't know..."
+msgstr "Ruvio, yo no sabía..."
+
+msgid "Scored!"
+msgstr "¡Anoté!"
+
+msgid "Scouting"
+msgstr "Explorando"
+
+msgid "Scouting Near Barnon"
+msgstr "Explorando cerca de Barnon"
+
+msgid ""
+"Search for Deorien in the ruins of the great city, where e'en the wind "
+"crieth when it recalleth the memories of a marvelous past. He shall give "
+"unto thee answers, some of which thou mayest find unwelcome."
+msgstr ""
+"Encontrarás a Deorien en las ruinas de la gran ciudad, donde incluso los "
+"lamentos del viento traen recuerdos de pasadas maravillas. Pero te dará las "
+"respuestas, algunas de las cuales puedes encontrar incómodas."
+
+msgid "She lost."
+msgstr "Ella perdió."
+
+msgid "She-Wolf of Haeltin"
+msgstr "La Mujer-lobo de Haeltin"
+
+msgid "Should I spare him?"
+msgstr "¿Debo eliminarlo yo?"
+
+msgid "Should we attack, my lord?"
+msgstr "¿Debemos atacar, mi señor?"
+
+msgid "Show more respect, this is king Gawen Haldric Hagarthen."
+msgstr "Muestre más respeto, éste es el rey Gawen Haldric Hagarthen."
+
+msgid ""
+"Shut up, Bar. Over the last year I've heard more than enough of your whining "
+"about trees, woods, branches and so on."
+msgstr ""
+"Cállese, Bar. El año pasado tuve bastante de sus gimidos sobre los árboles, "
+"bosques, ramas y así sucesivamente."
+
+msgid ""
+"Shut up, witch. You betrayed our race - you are allied to that mixling, and "
+"fight alongside underlings!"
+msgstr ""
+"Cállate, bruja. ¡Traicionó nuestra raza - se alió a ese mestizo, y lucha "
+"junto a los subditos!"
+
+msgid "Siege of Haeltin"
+msgstr "El sitio de Haeltin"
+
+msgid "Sneaking out of Raedwood"
+msgstr "Salga furtivamente de Raedwood"
+
+msgid ""
+"So, I think this should be easy. There's only one Orcish leader. Take him "
+"down and his band will scatter."
+msgstr ""
+"Bueno, esto debe ser fácil. Hay sólo un líder Orco al norte de aquí. "
+"Terminemos con él y eso es todos"
+
+msgid "So, should we go into Bontom?"
+msgstr "Entonces, ¿debemos entrar en este Bontom?"
+
+msgid "So, should we take on the orcs?"
+msgstr "Entonces, ¿debemos entrar en este Bontom?"
+
+msgid ""
+"So, what now? I appreciate that you are calling me your commander, but the "
+"truth is that I have no idea what to do next."
+msgstr ""
+"¿Bueno, y ahora que? Aprecio que me consideres tu comandante, pero la verdad "
+"es que no tengo idea de qué hacer ahora."
+
+msgid "Someone is hiding here!"
+msgstr "¡Alguien está escondiendo aquí!"
+
+msgid ""
+"Speak quickly, and I will allow you to go to your ancestors in one piece."
+msgstr ""
+"Hable rápidamente, y le permitiré ir con sus antepasados en un solo pedazo."
+
+msgid "Speak!"
+msgstr "¡Hable!"
+
+msgid "Speak."
+msgstr "Hable."
+
+msgid "Spearman"
+msgstr "Lancero"
+
+msgid "Stop it, Lorin."
+msgstr "Deténte, Lorin."
+
+msgid "Stop it, witch. You can't scare me."
+msgstr "Deténgase, bruja. No puede asustarme."
+
+msgid "Stop, don't kill him! We have to interrogate him!"
+msgstr "¡Alto, no lo mate! ¡Tenemos que interrogarlo!"
+
+msgid "Sword"
+msgstr "espada"
+
+msgid "Sword Dancer"
+msgstr "bailarín de la espada"
+
+msgid "THAT is for calling me stupid woman. And THAT is gratis. Speak!"
+msgstr "ESO es por llamarme mujer tonta. Y ESO es gratis. ¡Hable!"
+
+msgid "Take care, Reme Carrenemoe."
+msgstr "Tenga cuidado, Reme Carrenemoe."
+
+msgid "Take her to safety, men!"
+msgstr "Llevela a la seguridad, hombre."
+
+msgid "Telen"
+msgstr "Telen"
+
+msgid "Thank God! Gawen, how do you feel? Can you talk? Move?"
+msgstr "¡Gracias a Dios! ¿Gawen, cómo se siente? ¿Puede hablar? ¿Moverse?"
+
+msgid "Thank you! Thank you!"
+msgstr "¡Gracias! ¡Gracias!"
+
+msgid "Thank you, yes, I AM the She-wolf of Haeltin."
+msgstr "Oh gracias, sí, soy la mujer-lobo de Haeltin."
+
+msgid ""
+"That could be your true mother, my lord. She was poisoned when you were "
+"still young."
+msgstr ""
+"Podría ser su verdadera madre, mi señor. Ella fue envenenada cuando usted "
+"todavía era joven."
+
+msgid "That's all I wanted to know."
+msgstr "Éso es todo lo que quiero saber."
+
+msgid ""
+"That's what I meant. You have not won, great super killing machine, so you "
+"have lost."
+msgstr ""
+"Eso es lo que quise decir. No ha ganado, la gran super máquina de muerte, "
+"entonces usted ha perdido."
+
+msgid ""
+"That's what advisors are for. Right now, we have to leave the forests. Then "
+"we need to find the orcs, catch their leaders and that's it."
+msgstr ""
+"Para eso son los consejeros. Ahora, tenemos que dejar los bosques. Y "
+"encuentrar a los orcos, atrapar a sus líderes y vemos que hacer."
+
+msgid "The Dead City"
+msgstr "La Ciudad Muerta"
+
+msgid "The Haunted Place"
+msgstr "El Lugar Frecuentado"
+
+msgid "The Oracle"
+msgstr "El Oráculo"
+
+msgid ""
+"The Oracle was right, as always! Relief is coming! Fight harder, men, we "
+"must hold out long enough for relief to arrive!"
+msgstr ""
+"¡El oráculo estaba en lo cierto, como siempre! ¡El alivio está llegando! "
+"¡Más rápido, dammit, no sé cuánto tiempo podremos resistir!"
+
+msgid ""
+"The Oracle was the title of a woman living in ruins of an old city. For "
+"generations, there had always been one female mage with prophetic abilities "
+"living there, so long that no one remembered now what the city had once been "
+"named. Now it was just 'the city of the Oracle.'"
+msgstr ""
+"El Oráculo es el nombre que se le dá a una mujer que vive en una vieja "
+"ciudad en ruinas. Por generaciones hubo una maga mujer con habilidades de "
+"adivina viviendo allí, por tanto tiempo que nadie recorda como se llamaba la "
+"ciudad. Ahora era simplemente la ciudad del Oráculo."
+
+msgid "The Road Back to Vakladia"
+msgstr "El Camino Atrás a Vakladia"
+
+msgid ""
+"The answer to this question is the answer to your doubts. Why haven't I "
+"escaped? Why didn't I call someone for help?"
+msgstr ""
+"La respuesta a su pregunta es la respuesta a sus dudas. ¿Por qué no escapé? "
+"¿Por qué no llamé a alguien para que me ayude? ¿Por qué está usted aquí?"
+
+msgid ""
+"The farmer's daughter wasn't as beautiful as I expected. She was overjoyed "
+"to see her father again. She kissed both me and Lorin - leaving my step-"
+"mother in total dismay."
+msgstr ""
+"La hija del granjero no era tan bonita como esperaba. Era realmente la "
+"alegría de su padre. Nos besó a ambos, a mi - y a Lorin - dejando a mi "
+"madrastra en un estado de desmayo total."
+
+msgid "The fates."
+msgstr "El destino."
+
+msgid "The king's son is dead! We heard about it!"
+msgstr "¡El hijo del rey está muerto! ¡Oímos hablar de eso!"
+
+msgid ""
+"The orcs burned down my village, Ruen, and they left not long ago. They took "
+"many prisoners. I was hiding here, waiting for a miracle. And now the "
+"miracle has come!"
+msgstr ""
+"Los orcos quemaron mi pueblo, Ruen, y no salieron todavía. Tomaron a muchos "
+"prisioneros. Yo estaba escondiendo aquí, esperando por un milagro. ¡Y el "
+"milagro ha llegado!"
+
+msgid ""
+"The scouts brought news: a small orcish party was roaming the countryside "
+"north of Freetown. Usually, Huon Ryedric would deal with such marauders, but "
+"Gawen decided this was an occasion to check his troops' abilities."
+msgstr ""
+"Los exploradores trajeron noticias sobre la pequeña fiesta de los orcos al "
+"norte de Freetown. Normalmente Huon Ryedric se ocupaba de estos "
+"merodeadores, pero Gawen decidió que sería una buena ocasión para probar las "
+"habilidades de sus tropas."
+
+msgid "Their leader is dead, good! Now bring Gawen to their keep, men!"
+msgstr ""
+"¡Su líder está muerto, bueno! ¡Ahora traigan a Gawen a su refugio, hombres!"
+
+msgid "Then ask someone else... who might know the answers."
+msgstr "Entonces pregunte a alguien más, quién sabrá las respuestas."
+
+msgid "Then die, if that's what you want!"
+msgstr "¡Entonces muera, si usted quiere!"
+
+msgid "Then die, since you want to."
+msgstr "Entonces muera, si asi lo quiere."
+
+msgid ""
+"Then it is not such a great disgrace as I thought to be felled by a woman..."
+msgstr "Entonces no es una gran desgracia como pensé..."
+
+msgid "Then leave in peace, or prepare to fight."
+msgstr "Entonces salga en paz, o prepárese para luchar."
+
+msgid "Then tell me because I made you laugh before you died."
+msgstr "Entonces me dirás porque te hice reír antes de la muerte."
+
+msgid ""
+"Then we must kill as many of them as possible and choose a good defensive "
+"position until Grekulak's army arrives."
+msgstr ""
+"Entonces intenta matar a tantos como sea posible y escoge una buena posición "
+"defensiva antes de que el ejército de Grekulak llegue."
+
+msgid "There are different kinds of death, Reumario."
+msgstr "Hay diferentes tipos de muerte, Reumario."
+
+msgid "There are different kinds of death."
+msgstr "Hay diferentes tipos de muerte."
+
+msgid "There are many different kinds of death, Reumario."
+msgstr "Hay diferentes tipos de muerte, Reumario."
+
+msgid ""
+"There are no hidden elements in this scenario. The Orcish leader can't be "
+"interrogated. This scenario is intended for gathering more experience for "
+"Gawen's troops. Remember, you will be forced to choose only your twelve best "
+"troops in next scenario."
+msgstr ""
+"No hay ningún elemento oculto en este escenario. El líder Orco no puede ser "
+"interrogado. Este escenario está pensado para obtener más experiencia en las "
+"tropas de Gawen. Recuerde, le permitirán escoger las doce mejores unidades "
+"en el próximo escenario."
+
+msgid ""
+"There is no 'but'. I have long suspected the Oracle is tool of the evil, not "
+"of God."
+msgstr ""
+"No hay ningún 'pero'. He sospechado mucho tiempo del Oráculo es una "
+"herramienta del mal, no de Dios."
+
+msgid ""
+"There is no difference, really. We can use either to reach Vattin. The "
+"eastern one leads amidst swamps and forests, while the western one leads "
+"through the hills and grasslands. God, I swear to sacrifice a horse if you "
+"will help us survive this. A whole, beautiful horse. And I will add a golden "
+"saddle!"
+msgstr ""
+"No hay diferencia, realmente. Por ambas podemos llegar a Vattin. La oriental "
+"nos lleva entre pantanos y bosques, mientras que la occidental a través de "
+"colinas y prados. Dios, juro sacrificar un caballo si usted nos ayuda a "
+"sobrevivir en esto. Todo un buen caballo. ¡Y agregaré una silla de montar de "
+"oro!"
+
+msgid ""
+"There is no question about it. Believe me, Bar Urien, I have been hearing "
+"the voices of the spirits since my youth and God has sent me many messages. "
+"Gawen is not the messiah. He is a mixling, one who is unworthy of even "
+"honourable death."
+msgstr ""
+"No hay ninguna pregunta sobre eso. Créame, Bar Urien, he estado oyendo a los "
+"espíritus desde mi juventud y Dios me ha enviado muchos mensajes. Gawen no "
+"es ningún mesías. Él es mestizo, indigno de una muerte honorable."
+
+msgid ""
+"There is too little space to recall all 12 units at once. Move the units out "
+"of the castle to make room for others. The units will be able to move (in "
+"this scenario only!!) immediately after recalling, so do not push end turn "
+"button."
+msgstr ""
+"Hay poco lugar para reclutar las 12 unidades en un turno. Saque las unidades "
+"del castillo para hacer sitio a otros. Las unidades solo se podrán mover "
+"(¡¡Solo en este guión!!) inmediatamente después de reclutadasr, para no "
+"pulsar el botón de fin de turnos."
+
+msgid ""
+"There will come time when we'll have to talk about it again. But we can "
+"leave it for now. Right now, we should focus on how we will get through the "
+"lines of the Akladians."
+msgstr ""
+"Habrá un tiempo en que tendremos que hablar de nuevo sobre eso. Ahora "
+"debemos suprimir las líneas Akladianas."
+
+msgid ""
+"These are the words of my lord; I was given a strict charge to repeat them "
+"exactly: 'Gaeltin's gates will never be opened for mixling bastards nor for "
+"the king's whores.' He also sends this..."
+msgstr ""
+"Éstas son las palabras de mi señor, él quiere que las repita exactamente: "
+"Nunca se abrirán las puertas de Gaeltin para los mestizos ni para las "
+"prostitutas del rey. También le envía esto..."
+
+msgid "These ashes are still warm... he has to be somewhere nearby..."
+msgstr "El hogar todavía está caliente.. Debe estar cerca en alguna parte.."
+
+msgid ""
+"This human woman will do no harm if the orcish idiot will answer all my "
+"questions. Why are you here? Why are you allied with Akladians?"
+msgstr ""
+"La mujer humana no le hará daño si el idiota del orco contesta todas las "
+"preguntas. ¿Por qué está aquí? ¿Por qué se alío con los Akladianos?"
+
+msgid ""
+"This is a large-scale map, where you may choose a way to go. Move Gawen to "
+"any of the signpost or any other location to trigger moving to the next "
+"scenario. Move Gawen to the tent to talk with his friends."
+msgstr ""
+"Éste es un mapa en gran escala, donde escogerá una manera de avanzar. Debe "
+"mover a Gawen a cualquiera de los postes indicadores o cualquier otra "
+"situación que active el próximo escenario. Mueva a Gawen a la tienda para "
+"hablar con sus amigos."
+
+msgid ""
+"This is a large-scale map, where you will choose a way to go. You should "
+"move Gawen to any of the signpost or any other location to trigger moving to "
+"next scenario. Move Gawen to tent to talk with his friends."
+msgstr ""
+"Éste es un mapa en gran escala, donde escogerá una manera de avanzar. Debe "
+"mover a Gawen a cualquiera de los postes indicadores o cualquier otra "
+"situación que active el próximo escenario. Mueva a Gawen a la tienda para "
+"hablar con sus amigos."
+
+msgid ""
+"This isn't a total surprise to me. My king, we have to escape. We have two "
+"ways to out of this trap: one to the west..."
+msgstr ""
+"Esto no me sorprende en realidad. Mi rey, tenemos que escapar. Tenemos dos "
+"formas de salir de esta trampa: una al oeste..."
+
+msgid ""
+"This underling? A creature who has usurped the holy name and who will be "
+"punished by God!"
+msgstr ""
+"¡Este subdito! ¡Criatura que ha usurpado el nombre santo y que será "
+"castigado por Dios!"
+
+msgid ""
+"This was my first contact with undead, and I was happy that my troops had "
+"passed this difficult test. I hope future battles with Grekulak's forces "
+"will also be won."
+msgstr ""
+"Éste fue mi primer contacto con no muertos, y estaba contento de que mis "
+"tropas pasaran esta difícil prueba. Espero que las futuras batallas con las "
+"fuerzas de Grekulak también se ganen."
+
+msgid ""
+"Those are Khalifate troops! Excellent! Listen, I knew your leader, Majid "
+"Yahyazad, and..."
+msgstr ""
+"¡Ésos son Khalifa! ¡Excelente! Escuche, conocí a su líder, Majid Yahyazad, "
+"y..."
+
+msgid ""
+"Those who have offended our God by marrying Wesnothian women. Those who "
+"allowed their daughters to live when they chose another husband or married "
+"an underling. Those with underling friends. All of them will be sacrificed "
+"to God."
+msgstr ""
+"Aquéllos, que ofendieron a nuestro Dios casándose con una mujer de Wesnoth. "
+"Quienes permitieron vivir a sus hijas cuando ellas escogieron a otro marido "
+"o a un subordinado. Quienes son amigos de los subordinados. Todos serán "
+"sacrificados a Dios."
+
+msgid "Thug"
+msgstr "Proscrito"
+
+msgid ""
+"Traitors! How can you be so dishonorable as to fight against your own "
+"rightful king!"
+msgstr ""
+"¡Traidores! ¡Que falta de honor, luchar contra su propio y legítimo rey!"
+
+msgid "Trivial"
+msgstr "Trivial"
+
+msgid "Truly a shame we have no time to loot it or tax the inhabitants..."
+msgstr ""
+"Es una vergüenza no tener tiempo para saquearla o para cobrar impuestos a "
+"sus habitantes."
+
+msgid "Try to resist for just a bit longer, my son!"
+msgstr "¡Intenta resistir un poco más, hijo mío!"
+
+msgid "Two days? It's impossible to defeat them within two days."
+msgstr "¿Dos días? Es imposible derrotarlos dentro de dos días."
+
+msgid ""
+"Uhmmm.. I should interrogate him, right? So... uh... what did you eat for "
+"breakfast?"
+msgstr ""
+"Uhmmm.. debo investigarlo, ¿derecho? Para que... Uhmm.. ¿Que tienes para "
+"comer en el desayuno?"
+
+msgid "Umm... we are good guys, right?"
+msgstr "Uhm... Somos los buenos, ¿seguro?"
+
+msgid ""
+"Undead? So the reports I've been hearing were true, after all! You are "
+"fortunate, false Gawen, that I my duty to my people calls me away from "
+"here... for now."
+msgstr ""
+"¿No muertos? ¡Entonces los chismes que he oído eran verdad! Tiene suerte, "
+"Gawen falso, que me tengo que ir..."
+
+msgid ""
+"Underling! My son is dying. If you heal him, I will spare your life. If not, "
+"I will burn you and your family alive, do you understand?"
+msgstr ""
+"¡Subdito! Mi hijo está muriendo. Si puedes curarlo, perdonaré tu vida. Si "
+"no, te quemaré vivo con tu familia, ¿entiendes?"
+
+msgid "Unfortunately, we do not have that much gold."
+msgstr "No tenemos oro tanto, desgraciadamente."
+
+msgid "Unworthy? What do you mean by that?"
+msgstr "¿Indigno? ¿Qué quiere decir?"
+
+msgid "Uri van Roe"
+msgstr "Uri van Roe"
+
+msgid "Uruk Marlaf"
+msgstr "Uruk Marlaf"
+
+msgid "Uruke"
+msgstr "Uruke"
+
+msgid ""
+"Vakladia is finished. The whole country is in chaos. I think Bor Cryne, one "
+"of their lords, wants to declare himself king, but not many Akladians living "
+"there will recognise him. Only Hagarthens can be kings."
+msgstr ""
+"Vakladia se termina. El país entero está en caos. Creo que Bor Cryne, uno de "
+"sus señores, quiere declararse rey, pero no muchos Akladianos que viven allí "
+"lo reconocerán. Sólo Hagarthens puede ser rey."
+
+msgid ""
+"Vattin, the capital of our kingdom, is just a few days from here. How do you "
+"feel, my son? "
+msgstr ""
+"Vattin, la capital de nuestro reino, está a unos días de aquí. ¿Hijo, cómo "
+"te sientes? "
+
+msgid "Wait wait wait, human woman. Do orc no harm."
+msgstr "Espera espera espera, mujer humana. No le hagas al orco ningún daño."
+
+msgid "Wait! Do not die yet! I know you can hear me, answer a few questions!"
+msgstr ""
+"¡Espera! no te mueras todavía! ¡Sé que puedes oírme, contéstame unas "
+"preguntas!"
+
+msgid "Wait! Don't die yet! Curses, he's already lost consciousness."
+msgstr "¡Espera! ¡No te mueras todavía! Condenado, ya perdió la conciencia."
+
+msgid "Wait, I think someone is trying to help the besieged."
+msgstr "Espera, creo que alguien está intentando ayudar a los sitiados."
+
+msgid "Wait, don't kill him!"
+msgstr "¡Espera, no lo mates!"
+
+msgid "Warh Arug"
+msgstr "Warh Arug"
+
+msgid "We already fought with outlaws from Bontom, my lord."
+msgstr "Ya luchamos con los bandidos de Bontom, mi señor."
+
+msgid "We already scouted near Barnon. Where should we go now?"
+msgstr "Ya estábamos en Saorduc. ¿Debemos ir ahora?"
+
+msgid "We already were in Saorduc. Where to now?"
+msgstr "Ya estábamos en Saorduc. ¿Debemos ir ahora?"
+
+msgid "We are not interested in hiring you."
+msgstr "No estamos interesados en contratarlo."
+
+msgid ""
+"We are not your enemies. If you won't join us, will you at least not attack "
+"us?"
+msgstr ""
+"No somos sus enemigos. ¿Si usted nos uniéramos, no nos atacará por lo menos?"
+
+msgid "We could also to for the swamps."
+msgstr "También podríamos ir por los pantanos."
+
+msgid ""
+"We have a message for your lord too. Tell him we will bring him the message "
+"personally and he will have a lot of time to comprehend it fully. You may "
+"leave now."
+msgstr ""
+"Tenemos un mensaje para tu señor. Dígale que le entregaremos personalmente "
+"el mensaje y tendrá mucho tiempo para entenderlo totalmente. Puede salir "
+"ahora."
+
+msgid "We have no time and forces to defeat the orcs here. Retreat!"
+msgstr ""
+"No tenemos el tiempo ni las fuerzas para derrotar a los orcos aquí. "
+"¡Retirada!"
+
+msgid ""
+"We marched into Okladia. Ruvio told me he was ALMOST sure where to find "
+"Deorien. I decided to trust him."
+msgstr ""
+"Entonces marchemos a Okladia. Ruvio me dijo que estaba CASI seguro de "
+"encontrar a Deorien. Decidí confiar en él."
+
+msgid "We should arrive in two or three days."
+msgstr "También podríamos ir por los pantanos."
+
+msgid ""
+"We spent so many days drinking and fighting together. Now you come with an "
+"army against me? What about our plans, Bor?"
+msgstr ""
+"Hemos pasado tantos días bebiendo y luchando juntos. ¿Ahora estás en mi "
+"contra? ¿Qué pasa con nuestros planes, Bor?"
+
+msgid "We were deceived! My king, please forgive me!"
+msgstr "¡Fuimos engañados! ¡Mi rey, por favor perdóneme!"
+
+msgid "We were in Haeltin already. Where would you like to go now?"
+msgstr "Ya estábamos en Haeltin. ¿Debemos ir ahora?"
+
+msgid ""
+"We were ordered to cooperate with orcs... We were told orcs are our "
+"allies... I know nothing more."
+msgstr ""
+"Pidieron que cooperemos con los orcos.. nos dijeron que los orcos son "
+"nuestros aliados.. yo no sé nada más."
+
+msgid "We will pay."
+msgstr "Pagaremos"
+
+msgid "We won't pay."
+msgstr "No pagaremos"
+
+msgid ""
+"We've got to hurry before the enemy reinforcements arrive here. Let's go."
+msgstr ""
+"Tenemos que darnos prisa antes de que lleguen los refuerzos enemigos. Vamos."
+
+msgid ""
+"We've heard that some woman, known by the nickname 'The She-wolf of "
+"Haeltin', was besieged by the orcs and she was able to repel them. Haeltin "
+"is west from here. It would be easy to go to her and ask her a few questions."
+msgstr ""
+"Sí. Hemos oído que alguna mujer, conocido por el apodo de 'Mujer-lobo de "
+"Haeltin', estaba sitiado por los orcos y era capaz de repelerlos. Haeltin "
+"está al oriente de aquí. Sería fácil ir hasta ella y preguntarle algunas "
+"cosas."
+
+msgid "We've won! At last. Now, where is that famous oracle?"
+msgstr "¡Hemos ganado! Grande. ¿Ahora, dónde está ese famoso oráculo?"
+
+msgid "We've won! What should we do now?"
+msgstr "¡Hemos ganado! ¿Qué debemos hacer ahora?"
+
+msgid "Well, I hope it's wise decision."
+msgstr "Bien, espero que sea una decisión sabia."
+
+msgid "Well, maybe not."
+msgstr "Bueno, quizá no."
+
+msgid "What ?!?"
+msgstr "¿¡¿Qué?!?"
+
+msgid ""
+"What about you, noble lord? Will you oppose your king and messiah as "
+"declared by the Oracle?"
+msgstr ""
+"¿Que sobre usted, señor noble? ¿Se opondrá a su rey y al mesías declarado "
+"por el Oráculo?"
+
+msgid "What are the plans of king Buffin?"
+msgstr "¿Que planes tiene el rey Buffin?"
+
+msgid "What are you waiting for? Finish me!"
+msgstr "¿qué está esperando? ¡Termíneme!"
+
+msgid "What can you tell me about Grekulak?"
+msgstr "¿Qué puede decir sobre Grekulak?"
+
+msgid "What do you know about the orcs?"
+msgstr "¿Qué sabes sobre los orcos?"
+
+msgid "What do you know about the situation in Vakladia?"
+msgstr "¿Qué sabe sobre la situación en Vakladia?"
+
+msgid "What do you mean, Bor?"
+msgstr "¿Qué quieres decir, Bor?"
+
+msgid "What do you mean?"
+msgstr "¿Qué quieres decir?"
+
+msgid "What do you think about Yahyazad?"
+msgstr "¿Qué sabes sobre los orcos?"
+
+msgid ""
+"What kind of liver it will be? Human liver, uhmm, or delicious liver of "
+"Elvish woman?"
+msgstr ""
+"Qué tipo de hígado será. ¿Un hígado humano, uhmm, o el hígado delicioso de "
+"una mujer Elfa?"
+
+msgid "What should we do now, Ruvio?"
+msgstr "¿Que Debemos hacer ahora, Ruvio?"
+
+msgid "What?"
+msgstr "¿Qué?"
+
+msgid "What? Ruvio, I don't want to be king."
+msgstr "¿Que? Ruvio, yo no quiero ser el rey."
+
+msgid "What? Speak quickly, I am a little bit busy here!"
+msgstr "¡Que? Hable rápido, estoy algo ocupado aquí!"
+
+msgid "What?!?"
+msgstr "¿¡¿Qué?!?"
+
+msgid "What??"
+msgstr "¿¿Qué??"
+
+msgid ""
+"When we arrived, we found the city of the Oracle besieged. Four different "
+"armies, each under a different leader, surrounded it. This disunity seemed "
+"to contribute heavily to fact the Oracle still could defend herself. Each "
+"army seemed to siege the city on its own. But the city was ready to fall; "
+"our army had arrived in at the last possible moment for relief."
+msgstr ""
+"La ciudad estaba sitiada. Cuatro ejércitos diferentes, cada uno bajo un "
+"líder diferente, y esto parecía contribuir al hecho de que el Oráculo "
+"pudiera defenderse. Cada ejército parecía sitiar la ciudad para sus propios "
+"fines. Pero ésto no representaba un alivio."
+
+msgid "Where did you hide the gold?"
+msgstr "¿Dónde escondiste el oro?"
+
+msgid "Where do we go from here?"
+msgstr "¿Dónde ir ahora?"
+
+msgid "Where have you hidden the gold?"
+msgstr "¿Dónde escondiste el oro?"
+
+msgid "Where is your lord keeping the kidnapped girl?"
+msgstr "¿Dónde su señor guarda a la muchacha secuestrada?"
+
+msgid "Which one is better?"
+msgstr "¿Cuál es mejor?"
+
+msgid "Who are you, and what are you doing here?"
+msgstr "¿Quién eres, y qué haces aquí?"
+
+msgid "Who are you, stranger brave or foolhardy enough to enter Khalifa land?"
+msgstr "¿Quién eres extraño, bastante valiente o tonto para entrar en Khalifa?"
+
+msgid "Who hired the assassin that was sent after me?"
+msgstr "¿Quién contrató al asesino que enviaron a matarme?"
+
+msgid "Who hired the assassin that was trying to kill Gawen Hagarthen?"
+msgstr "¿Quién contrató al asesino que enviaron a matarme?"
+
+msgid "Who hired the assassin who was sent to kill me?"
+msgstr "¿Quién contrató al asesino que enviaron a matarme?"
+
+msgid "Who is Grekulak? Why he allied with Akladian traitors?"
+msgstr "¿Quién es ese Grekulak? ¿Por qué se alió con los traidores Akladianos?"
+
+msgid ""
+"Who said we won't join you? If can pay, we will readily join your army! The "
+"price is 250 gold pieces."
+msgstr ""
+"¿Quién dijo que nos uniéramos? ¡Si nos paga, nos uniremos a su ejército, por "
+"supuesto! El precio es de 250 piezas de oro."
+
+msgid ""
+"Who sent me? Fate! And there will be others after me. (scream of pain) "
+"Aaaargh!"
+msgstr ""
+"¿Quién me envió? El destino... Pero habrá otro me. ¡(grito de dolor) Aaaargh!"
+
+msgid "Who sent you?"
+msgstr "¡Quién lo envió!"
+
+msgid "Who?"
+msgstr "¿Quién?"
+
+msgid "Why are you allied with Akladians?"
+msgstr "¿Por qué se han alíado con Akladianos?"
+
+msgid "Why do you fight alongside Akladians?"
+msgstr "¿Por qué se han alíado con Akladianos?"
+
+msgid "Why have you kidnapped this poor girl?"
+msgstr "¿Por qué ha secuestrado a esta muchacha pobre?"
+
+msgid "Why is Bor Cryne allied with orcs?"
+msgstr "¿Por qué Bor Cryne es aliado de los orcos?"
+
+msgid "Why not. Here is your gold."
+msgstr "Por qué no. Aquí es su oro."
+
+msgid "Why not? He seems to be a good man."
+msgstr "Por qué no. Aquí es su oro."
+
+msgid ""
+"Why should I do that? You fought like a real man, and I respect you. Rauke, "
+"I want you to know that I consider you a good warrior and a fine Akladian. I "
+"will ensure your body is buried with all honours."
+msgstr ""
+"¿Por qué debo hacer eso? Luchaste como un verdaderos hombres, y te respeto. "
+"Rauke, quisiera que supieras que te consideré buen guerrero y buen "
+"Akladiano. Haré todo lo necesario para enterrar tu cuerpo con todos los "
+"honores."
+
+msgid ""
+"Why should I tell you? This is confidential and even though you gave me a "
+"good fight and an honourable death, I can't tell you."
+msgstr ""
+"¿Por qué se lo debo decir? Esto es confidencial y aunque me dio una buena "
+"pelea y una muerte del honorable, no puedo decirle."
+
+msgid "Why you have kidnapped this poor girl?"
+msgstr "¿Por qué ha secuestrado a esta muchacha pobre?"
+
+msgid ""
+"Why, you would have to fight with and kill them. That's kind a family "
+"tradition. Didn't your mother teach you anything?"
+msgstr ""
+"Bueno, debe combatirlos y matarlos. Es una amable tradición familiar. ¿No le "
+"ha dicho su madre?"
+
+msgid "Why?"
+msgstr "¿Por qué?"
+
+msgid "Why? Two hundred gold pieces, that's why."
+msgstr "¿Como? Doscientas piezas de oro, ¿para qué?"
+
+msgid "Why? Who sent you?"
+msgstr "¿Por qué? Quién lo envió?"
+
+msgid "Will you fight for me?"
+msgstr "¿Lucharás para nosotros?"
+
+msgid "Will you fight for us?"
+msgstr "¿Lucharás para nosotros?"
+
+msgid "Without King Buffin, who will lead our army against them?"
+msgstr "¿Sin el rey Buffin quien conducirá nuestro ejército contra ellos?"
+
+msgid "Wutan"
+msgstr "Vutan"
+
+msgid "Yarl Urluf"
+msgstr "Yarl Urluf"
+
+msgid ""
+"Ye have all heard about him. Son of an Akladian king and a Wesnothian queen. "
+"A great warrior and great leader. Let him know ye wish him to come here and "
+"take his crown. All hail the king! All hail the messiah! All hail Gawen "
+"Haldric Hagarthen!"
+msgstr ""
+"Han oído hablar de él. Hijo de rey de Akladian y la reina de Wesnothian. "
+"Gran guerrero y gran líder. Permítanle saber que lo quieren ver aquí y tomar "
+"su corona. ¡Todos quieren al rey! ¡Todos quieren al mesías! ¡Todos quieren a "
+"Gawen Haldric Hagarthen!"
+
+msgid ""
+"Ye have heard the stories about undead invading the neighbouring kingdom of "
+"Okladia. Some lost all hope. But be ye not afraid, for there is a man who is "
+"sent here to stop the undead menace and to cleanse the evil festering within "
+"the very heart of our country. "
+msgstr ""
+"Han escuchado las historias de no muertos que invaden el reino de Okladia. "
+"Algunos de ustedes perdieron toda esperanza. Pero no se preocupen, porque "
+"este hombre a sido enviado aquí para detener la amenaza del no muerto y para "
+"derrotar al mal dentro del mismo corazón de nuestro país. "
+
+msgid "Yes, definitely."
+msgstr "Sí, definitivamente."
+
+msgid "Yes, to arms! To think, I am actually agreeing with an underling!"
+msgstr "¡Sí! OH MI DIOS, estoy de acuerdo con un subdito!"
+
+msgid "Yes, we should save Reme now."
+msgstr "Sí, debemos excepto Reme por ahora"
+
+msgid ""
+"Yes, yes, I will answer, yummie.. liver. What kind of liver it would be?"
+msgstr "Sí, sí, contestaré, yummie.. hígado. ¿Qué tipo de hígado sería? ."
+
+msgid ""
+"Yes. The new messiah will show us how to renew our covenant with God, and he "
+"will reveal to us the new traditions and ways that this covenant will "
+"require. He won't be Akladian - at least not fully Akladian - the rumors are "
+"not totally clear about that."
+msgstr ""
+"Sí. Nos mostrará cómo renovar la alianza con Dios, nos mostrará nuevas "
+"maneras. No será Akladiano, por lo menos no totalmente Akladiano, la "
+"chismografía no está clara sobre eso."
+
+msgid "Yes... But... I can't remember anything... Who am I ?! Who are you?"
+msgstr "Sí.. Pero.. no puedo recordar nada... ¡¿Quién soy?! ¿Quién es usted?"
+
+msgid "Yes... I remember it. Indeed, they bought poison from us. (cough)"
+msgstr "Sí.. Lo recuerdo. De hecho, ellos compraron veneno de nosotros. (tos)"
+
+msgid "Yes... of course. I'm afraid that means.. never."
+msgstr "Sí... por supuesto. Tengo miedo que los medios.. nunca."
+
+msgid ""
+"You 'think'!? Where is his body? Search for it, fools, I want to be sure!"
+msgstr "¿Usted cree? ¿Dónde está su cuerpo? ¡Busqúenlo, quiero estar seguro!"
+
+msgid ""
+"You are from the Raednon clan? So, the Raednons are also supporting the "
+"treachery of Bor Cryne. Why I am not surprised? I know you are all pig-"
+"eaters and swine..."
+msgstr ""
+"¿Usted es del clan de Raednon? También los Raednons están apoyando los "
+"ataques de Bor Cryne. Por qué no estóy sorprendido; Sé que usted es todo un "
+"comedor-cerdo y swine-f..."
+
+msgid ""
+"You are trying to scare me? Ha, ha.. I am dying already... And I won't tell "
+"you anything."
+msgstr ""
+"¿Está intentando asustarme? Ha, ha.. Ya estoy liquidado... Y no le diré nada."
+
+msgid "You are way too soft, Reme. Why didn't you give him to me?"
+msgstr "Es demasiado suave, Reme. ¿Por qué no me lo deja a mí?"
+
+msgid "You aren't the prince, are you? Then it is not you I seek."
+msgstr "Usted no es el príncipe, ¿no es usted? No lo estoy buscando a usted."
+
+msgid ""
+"You can interrogate enemy leaders in this scenario with Gawen, Ruvio, Reme "
+"or Lorin, but the effects may - or may not - be different, depending on the "
+"enemy leader and interrogating hero."
+msgstr ""
+"Usted puede interrogar a los líderes enemigos en este guión con Gawen, "
+"Ruvio, Reme o Lorin, pero los efectos pueden - o no - ser diferentes, "
+"depende del líder enemigo y del héroe interrogador."
+
+msgid "You can still hear me, can't you? I have some questions."
+msgstr "¿Puede oírme todavía, no lo haga? Tengo algunas preguntas."
+
+msgid ""
+"You didn't know? Your true mother was from a long line of kings. The last of "
+"her branch. You are the true heir to the throne of Wesnoth."
+msgstr ""
+"¿No lo sabe? Su verdadera madre desciende de una larga línea de reyes. La "
+"última de su rama. Usted es un verdadero heredero al trono de Wesnoth."
+
+msgid "You fool! He is mixling, he can't be our king!"
+msgstr "¡Es un engaño! ¡Él es mestizo, no puede ser nuestro rey!"
+
+msgid "You have received 100 gold pieces"
+msgstr "Ha recibido 100 piezas de oro"
+
+msgid "You have received 40 gold pieces"
+msgstr "Ha recibido 40 piezas de oro"
+
+msgid "You have resssssieved 50 gold piesssses"
+msgstr "Ha recibido 50 piezzzzassss de oro"
+
+msgid ""
+"You may recruit up to FOUR spearmen and/or archers. When you recruit a "
+"FOURTH spearman and/or archer, their recruitment will be disallowed."
+msgstr ""
+"Puede reclutar hasta CUATRO lanceros o arqueros. Si intenta reclutar a más "
+"de CUARTO lanceros o arqueros, su contratación se desaprobará. Debido a la "
+"escases de armas en Wesnoth, primero recluta, LUEGO reincorpora, se contarán "
+"los lanceros reincorporados también."
+
+msgid ""
+"You may withdraw by moving Gawen Hagarthen to the signpost south of your "
+"initial position."
+msgstr ""
+"Se puede retirar moviendo a Gawen Hagarthen al poste indicador, al sur de su "
+"posición inicial."
+
+msgid ""
+"You of course will chase that orcish band, kill all the orcs and free my "
+"people!"
+msgstr ""
+"Por supuesto perseguirás a esa banda de orcos, ¡matarás a todos los orcos y "
+"liberaras a mi gente!"
+
+msgid "You pronounce that 'The Oracle'... all she needs is a great big "
+msgstr ""
+"Pronuncias 'el Oráculo' con una gran O. ¿Pero de hecho, dónde está ella?"
+
+msgid "You really don't have a choice. This is your birthright, your destiny."
+msgstr "No tiene otra opción. Es su destino."
+
+msgid ""
+"You really thought I would send my son to Vattin? You are so easy to fool! "
+"That boy at Vattin is not of my blood. Now, prepare to go straight to hell."
+msgstr ""
+"¿Realmente pensó que enviaría a mi verdadero hijo a Vattin? ¡Es tan fácil de "
+"engañar! Ese muchacho que está en Vattin no es mi primer hijo. Ahora, "
+"preparese para ir directo al infierno."
+
+msgid "You receive 50 golden pieces."
+msgstr "Recibe 50 piezas de oro."
+
+msgid "You received 2 pieces of gold"
+msgstr "Reciba usted 2 piezas de oro"
+
+msgid "You received 25 gold pieces"
+msgstr "Usted recibió 25 piezas de oro."
+
+msgid ""
+"You shall understand the full import of it one day, young king, and I "
+"daresay sooner than you think. I wish you luck in your quest. I will give "
+"one of my sergeants into your service. He will serve you loyally."
+msgstr ""
+"Lo entenderá algún día, joven rey. Te deseo suerte en tu búsqueda. Pondré a "
+"uno de mis sargentos a tu servicio. Él te será leal."
+
+msgid "You sold poison to Lorin's clan once."
+msgstr "Alguna vez vendió veneno al clan de Lorin."
+
+msgid ""
+"You two can settle that later. Everything else inside the city will belong "
+"to us!"
+msgstr ""
+"Eso lo veremos más adelante. ¡Pero todo lo demás dentro de la ciudad nos "
+"pertenecerá!"
+
+msgid "You were worthy opponent"
+msgstr "Fué un antagonista digno"
+
+msgid "You will receive no bonus if withdrawing with Gawen."
+msgstr "No recibirá ninguna paga extraordinaria si se retira con Gawen."
+
+msgid ""
+"You wouldn't have been able to do this if not for the magical support of "
+"that witch, Lorin. It was she who gave you courage, that traitor to her own "
+"race."
+msgstr ""
+"No podrías hacerlo sin la magia de esa bruja que está con usted. Ella le dio "
+"valor para traicionar a su propia raza."
+
+msgid "Your clan once bought poison from outlaws. Why?"
+msgstr "El clan de Lorin compró una vez veneno a los bandidos. ¿Sabe por qué?"
+
+msgid "Your motives are of no concern to me, just do it!"
+msgstr "¡No me interesan sus motivos, simplemente hágalo!"
+
+msgid "Zero upkeep"
+msgstr "Mantenimiento nulo"
+
+msgid "a Bowman"
+msgstr "Arquero"
+
+msgid "a Spearman"
+msgstr "Lancero"
+
+msgid "an Elvish archer"
+msgstr "Arquero Elfo"
+
+msgid "an Elvish fighter"
+msgstr "Luchador Elfo"
+
+msgid "an Elvish scout"
+msgstr "Explorador Elfo"
+
+msgid "an Elvish shaman"
+msgstr "Shaman Elfo"
+
+msgid "crossbow"
+msgstr "ballesta"
+
+msgid "lightbeam"
+msgstr "rayo de luz"
+
+msgid "loyal"
+msgstr "leal"
+
+msgid "pike"
+msgstr "pica"
+
+msgid "short spear"
+msgstr "lanza corta"
+
+msgid "spear"
+msgstr "lanza"
+
+msgid "staff"
+msgstr "bastón"
+
+msgid "sword"
+msgstr "espada"
+
+msgid "training sword"
+msgstr "espada de entrenamiento"
+
+msgid "underling"
+msgstr "subdito"
+
+msgid "{NAME}"
+msgstr "{NAME}"
