@@ -1,3 +1,9 @@
+# Danish translation of A New Order (da.po)
+# Dansk oversættelse for A New Order (da.po).
+# Copyright (C) 2008 A New order, Joe Hansen.
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# Joe Hansen <joedalton2@yahoo.dk>, 2007, 2008.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"

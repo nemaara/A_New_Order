@@ -1,3 +1,7 @@
+# translation of wesnoth-A_New_Order.po to Russian
+# Alexey Remizov <alexey@remizov.pp.ru>, 2006.
+# Information for translators: http://www.wesnoth.org/wiki/CampaignANewOrder:RussianTranslation
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"

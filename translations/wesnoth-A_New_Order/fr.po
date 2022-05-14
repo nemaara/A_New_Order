@@ -1,3 +1,6 @@
+# Guigou Guillaume <guillaume.guigou@orange.fr>, 2012.
+# Guillaume Pascal <guillaume.pascal43@laposte.net>, 2012.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: A_New_Order-1.10\n"
