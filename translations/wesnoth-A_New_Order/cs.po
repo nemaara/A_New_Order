@@ -1,11 +1,12 @@
 # translation of cs.po to Czech
-# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2005, 2006, 2007.
 # Toto je český překlad tažení 'A New Order'
+# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2005, 2006, 2007
+# Petr Šlejhar (Septim), 2022
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-
 "POT-Creation-Date: 2021-10-12 19:49 UTC\n"
 "PO-Revision-Date: 2022-04-02 16:45+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
