@@ -18625,7 +18625,7 @@ msgstr "Můj pane, Věštkyni jsme už navštívili."
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:162
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:186
 msgid "My lord, I really insist we visit the Oracle first."
-msgstr "Můj pane, opravdu trvám na tom, abycom nejdřív navštívili Věštkyni."
+msgstr "Můj pane, opravdu trvám na tom, abychom nejdřív navštívili Věštkyni."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:163
