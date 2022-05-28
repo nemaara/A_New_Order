@@ -1,8 +1,8 @@
 # translation of cs.po to Czech
 # Toto je český překlad tažení „A New Order“
 # Oto Buchta (tapik) <tapik@buchtovi.cz>, 2005, 2006, 2007.
-# Petr Šlejhar (Septim), 2022.
-# Michal Žejdl, 2022.
+# Petr Šlejhar (Septim) <septim@centrum.cz>,, 2022.
+# Michal Žejdl <lachim@emer.cz>, 2022.
 #
 msgid ""
 msgstr ""
