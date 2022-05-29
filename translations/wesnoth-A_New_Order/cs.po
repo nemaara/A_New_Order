@@ -1140,7 +1140,7 @@ msgstr "Už neudržím svůj meč... Nemohu..."
 #. [event]
 #: A_New_Order/macros/ano_macros.cfg:508
 msgid "My ancestors, I am coming to you! I hope I have not failed you..."
-msgstr "Otcové, jdu k vám! Jen doufám, že jsem vás nezahambil..."
+msgstr "Otcové, jdu k vám! Jen doufám, že jsem vás nezahanbil..."
 
 #. [event]
 #: A_New_Order/macros/ano_macros.cfg:519
