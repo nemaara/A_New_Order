@@ -382,7 +382,7 @@ msgid ""
 "lords."
 msgstr ""
 "Obvykle to trvá mnoho let, než se mladí členové klanu Hagarthen osvědčí "
-"natolik, aby se staly následníky trůnu. Takový Hagarthenové se pak nazývají "
+"natolik, aby se stali následníky trůnu. Takový Hagarthenové se pak nazývají "
 "lordy."
 
 #. [unit_type]: id=Lord Bor Cryne, race=akladian
