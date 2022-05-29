@@ -19671,7 +19671,7 @@ msgid ""
 "That could be your true mother, my lord. She was poisoned when you were "
 "still young."
 msgstr ""
-"To by mohla být Vaše pravá matka, můj pane. Byla otrávena, když jste byl "
+"To by mohla být vaše pravá matka, můj pane. Byla otrávena, když jste byl "
 "ještě malý."
 
 #. [event]
