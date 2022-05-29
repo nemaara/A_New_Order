@@ -1796,7 +1796,7 @@ msgstr "Rozumím, můj králi. Přijď za námi, jakmile to bude možné!"
 #. [else]
 #: A_New_Order/macros/ano-01_06macros.cfg:368
 msgid "Yes... of course. I'm afraid that means... never."
-msgstr "Jasňačka... Ale bojím se, že to znamená... ...nikdy."
+msgstr "Jasňačka... Ale bojím se, že to znamená... nikdy."
 
 #. [then]
 #: A_New_Order/macros/ano-01_06macros.cfg:401
