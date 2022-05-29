@@ -3725,7 +3725,7 @@ msgstr "No, možná ne."
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:182
 msgid "My lord, we already visited that place, and we found Deorien there."
-msgstr "Můj pane, už jsme tam byli a našli jsme tam Deoriena."
+msgstr "Můj pane, už jsme tam byli a našli tam Deoriena."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:192
