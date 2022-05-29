@@ -153,7 +153,7 @@ msgid ""
 "Even though age has had its impact on Ruvio, he is still a dangerous "
 "opponent."
 msgstr ""
-"Ruvio vždy loajálně sloužil rodu královské rodině Wesnothu, a to svým uměním "
+"Ruvio vždy loajálně sloužil královské rodině Wesnothu, a to svým uměním "
 "ovládání meče a kuše, které skromně řečeno převyšovalo běžný průměr. Ačkoli "
 "věk na něm zanechal své stopy, je stále nebezpečným protivníkem."
 
