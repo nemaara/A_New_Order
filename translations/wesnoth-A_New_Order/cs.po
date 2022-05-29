@@ -299,7 +299,7 @@ msgstr ""
 "\n"
 "Sousedící nepřátelská jednotka na stejné nebo nižší úrovni může způsobit "
 "svým útokem menší ranění a to o 15 % (+ 15 % za každý rozdíl mezi úrovní "
-"terorizující a terorizované jednotky). "
+"terorizující a terorizované jednotky)."
 
 #. [heals]: id=sylvan_essence_healing_nounion
 #. [illuminates]: id=sylvan_essence_illum
