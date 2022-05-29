@@ -1397,7 +1397,7 @@ msgid ""
 "My lord, I do not wish to disturb you, but our scouts have reported about "
 "the enemy forces."
 msgstr ""
-"Můj pane, nechci Tě vyrušovat, ale naši zvědové objevili nepřátelské "
+"Můj pane, nechci tě vyrušovat, ale naši zvědové objevili nepřátelské "
 "jednotky."
 
 #: A_New_Order/macros/conversations.cfg:67
