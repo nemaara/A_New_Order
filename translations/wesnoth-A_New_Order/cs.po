@@ -1054,7 +1054,7 @@ msgstr "Jak mám sakra chodit v tomhle oblečení v zimě? Je zasraná zima!"
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #: A_New_Order/macros/elvish_macros.cfg:155
 msgid "Oooh, no. I refuse to fight in these condition, and in clad as such."
-msgstr "Oooh, ne. Odmítám bojovat v těhle podmínkách a v takovém oblečení."
+msgstr "Oooh, ne. Odmítám bojovat v těchhle podmínkách a v takovém oblečení."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:156
