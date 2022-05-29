@@ -381,7 +381,7 @@ msgid ""
 "worthy enough to become kings. Such Hagarthen clan members are then called "
 "lords."
 msgstr ""
-"Obvykle to trvá mnoho let než se mladí členové klanu Hagarthen osvědčí "
+"Obvykle to trvá mnoho let, než se mladí členové klanu Hagarthen osvědčí "
 "natolik, aby se staly následníky trůnu. Takový Hagarthenové se pak nazývají "
 "lordy."
 
