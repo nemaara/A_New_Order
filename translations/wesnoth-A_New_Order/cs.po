@@ -154,7 +154,7 @@ msgid ""
 "opponent."
 msgstr ""
 "Ruvio vždy loajálně sloužil rodu královské rodině Wesnothu, a to svým uměním "
-"ovládání meče a kuše, které skromně řečeno převyšovala běžný průměr. Ačkoli "
+"ovládání meče a kuše, které skromně řečeno převyšovalo běžný průměr. Ačkoli "
 "věk na něm zanechal své stopy, je stále nebezpečným protivníkem."
 
 #. [attack]: type=pierce
