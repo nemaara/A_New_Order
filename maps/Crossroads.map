@@ -1,25 +1,22 @@
-border_size=1
-usage=map
-
-Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Hh          , Hh          , Hh          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gg          , Rd          , Rd          , Gg          , Gg          , Gg          , Gg          
-Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Hh          , Hh          , Hh          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gg          , Rd          , Rd          , Gg          , Gg          , Gg          , Gg          
-Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Hh          , Gg          , Gg          , Gs^Fp       , Rd          , Gs^Fp       , Gg          , Gs^Fp       , Gg          , Gg          , Gg          
-Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Hh          , Gg          , Hh          , Hh          , Gg          , Hh          , Rd          , Gs^Fp       , Gg          , Hh          , Hh          , Gg          , Gg          
-Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Hh          , Rd          , Gg          , Gg          , Gg          , Hh          , Gg          , Gg          
-Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Rd          , Rd          , Rd          , Rd          , Hh          , Gs^Fp       , Gg          , Gg          , Gg          , Gg          
-Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Rd          , Rd          , Gg          , Gg          , Gg          , Gg          , Hh          , Hh          , Gg          , Gg          , Gg          , Gg          
-Gg          , Gg          , Hh          , Gg          , Hh          , Hh          , Gg          , Gg          , Gg          , Gg          , Rd          , Gg          , Gg          , Gg          , Gs^Fp       , Gg          , Gs^Fp       , Gg          , Gg          , Gg          , Gg          , Gg          
-Gg          , Gg          , Hh          , Hh          , Gg          , Gg          , Gg          , Gg          , Rd          , Rd          , Gg          , Gg          , Hh          , Hh          , Hh          , Hh          , Gg          , Gs^Fp       , Gg          , Gg          , Gg          , Gg          
-Gg          , Gg          , Gg          , Hh          , Hh          , Hh          , Gg          , Rd          , Hh          , Gg          , Hh          , Hh          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
-Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Rd          , Rd          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gg          , Gg          , Gg          , Gg          , Gg          
-Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Ce          , Ce          , Ce          , Rd          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gg          , Gg          , Gg          , Gg          
-Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Ce          , 1 Ke        , Ce          , Rd          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
-Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Ce          , Gg          , Rd          , Rd          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gg          , Gg          
-Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Rd          , Rd          , Gg          , Re          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gg          , Gg          
-Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Rd          , Rd          , Gg          , Gg          , Gg          , Gg          , Gg          , Re          , Re          , Gg          , Gs^Fp       , Gg          , Gg          , Ss          , Ww          , Ww          
-Gg          , Gg          , Gg          , Gg          , Rd          , Rd          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Re          , Re          , Gg          , Gg          , Ww          , Ss          , Ss          
-Gg          , Gg          , Gg          , Gg          , Rd          , Gg          , Gs^Fp       , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gg          , Gg          , Gg          , Re          , Ss          , Gs^Fp       , Ss          , Ss          , Ss          
-Gg          , Gg          , Gg          , Rd          , Gg          , Gs^Fp       , Gs^Fp       , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Ss          , Ss          , Gs^Fp       , Gs^Fp       , Re          , Re          , Gs^Fp       , Ss          , Ss          
-Gg          , Gg          , Rd          , Rd          , Gg          , Gs^Fp       , Gs^Fp       , Gg          , Gg          , Gg          , Gs^Fp       , Gg          , Gs^Fp       , Ss          , Ss          , Ss          , Gs^Fp       , Gs^Fp       , Re          , Gs^Fp       , Gs^Fp       , Gs^Fp       
-Rd          , Rd          , Gg          , Gg          , Gg          , Gs^Fp       , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gg          , Gg          , Ss          , Ss          , Ss          , Gs^Fp       , Gs^Fp       , Re          , Re          , Re          
-Rd          , Rd          , Gg          , Gg          , Gg          , Gs^Fp       , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gg          , Gg          , Ss          , Ss          , Ss          , Gs^Fp       , Gs^Fp       , Re          , Re          , Re          
+Gg, Gg, Gg, Gg, Gg, Gg, Hh, Hh, Hh, Gg, Gg, Gg, Gg, Gg, Gs^Fp, Gg, Rd, Rd, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Hh, Hh, Hh, Gg, Gg, Gg, Gg, Gg, Gs^Fp, Gg, Rd, Rd, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Hh, Gg, Gg, Gs^Fp, Rd, Gs^Fp, Gg, Gs^Fp, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Hh, Gg, Hh, Hh, Gg, Hh, Rd, Gs^Fp, Gg, Hh, Hh, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Hhd, Rd, Gg, Gg, Gg, Hh, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Rd, Rd, Rd, Rd, Hh, Gs^Fp, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Rd, Rd, Gg, Gg, Gg, Gg, Hh, Hh, Gg, Gg, Gg, Gg
+Gg, Gg, Hh, Gg, Hh, Hh, Gg, Gg, Gg, Gg, Rd, Gg, Gg, Gg, Gs^Fp, Gg, Gs^Fp, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Hh, Hh, Gg, Gg, Gg, Gg, Rd, Rd, Gg, Gg, Hh, Hh, Hh, Hh, Gg, Gs^Fp, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Hh, Hh, Hh, Gg, Rd, Hhd, Gs, Hh, Hh, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Rd, Rd, Gs, Gg, Gg, Gg, Gg, Gg, Gg, Gs^Fp, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Ce, Ce, Ce, Rd, Gg, Gg, Gg, Gg, Gg, Gg, Gs^Fp, Gs^Fp, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Ce, 1 Ke, Ce, Rd, Gg, Gg, Gg, Gg, Gs^Fp, Gs^Fp, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Ce, Gg, Rd, Rd, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gs^Fp, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Rd, Rd, Gg, Re, Re, Gg, Gg, Gg, Gg, Gg, Gs^Fp, Gs^Fp, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Rd, Rd, Gg, Gg, Gg, Gg, Gg, Re, Re, Gg, Gs^Fp, Gg, Gg, Ss, Ww, Ww
+Gg, Gg, Gg, Gg, Rd, Rd, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Re, Re, Gg, Gg, Ww, Ss, Ss
+Gg, Gg, Gg, Gg, Rd, Gg, Gs^Fp, Gg, Gg, Gg, Gg, Gg, Gs^Fp, Gg, Gg, Gg, Re, Ss, Gs^Fp, Ss, Ss, Ss
+Gg, Gg, Gg, Rd, Gg, Gs^Fp, Gs^Fp, Gg, Gg, Gg, Gg, Gg, Gs^Fp, Ss, Ss, Gs^Fp, Gs^Fp, Re, Re, Gs^Fp, Ss, Ss
+Gg, Gg, Rd, Rd, Gg, Gs^Fp, Gs^Fp, Gg, Gg, Gg, Gs^Fp, Gg, Gs^Fp, Ss, Ss, Ss, Gs^Fp, Gs^Fp, Re, Gs^Fp, Gs^Fp, Gs^Fp
+Rd, Rd, Gg, Gg, Gg, Gs^Fp, Gg, Gg, Gg, Gg, Gg, Gs^Fp, Gg, Gg, Ss, Ss, Ss, Gs^Fp, Gs^Fp, Re, Re, Re
+Rd, Rd, Gg, Gg, Gg, Gs^Fp, Gg, Gg, Gg, Gg, Gg, Gs^Fp, Gg, Gg, Ss, Ss, Ss, Gs^Fp, Gs^Fp, Re, Re, Re
