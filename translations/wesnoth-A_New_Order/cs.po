@@ -612,7 +612,7 @@ msgid ""
 "become warriors, joining armies not only in defense, but also in raids "
 "against neighbouring lands."
 msgstr ""
-"Trávíce svůj čas v neustálých bojích a nájezdech, stalo se mnoho příslušníků "
+"Trávivše svůj čas v neustálých bojích a nájezdech, stalo se mnoho příslušníků "
 "akladijských klanů válečníky. Ti se přidali do řad armády nejen pro účely "
 "obrany, ale i pro nájezdy do sousedních zemí."
 
