@@ -16525,7 +16525,7 @@ msgstr "Drží tu v kleci pár Akladijců. Mám je zabít?"
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:474
 msgid "No! This is my friend, Reme! Reme, are you ok?"
-msgstr "NE! Jsou to můj přítel Reme! Reme, jsi v pořádku?"
+msgstr "NE! Tohle je můj přítel Reme! Reme, jsi v pořádku?"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:484
