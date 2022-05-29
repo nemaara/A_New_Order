@@ -17716,7 +17716,7 @@ msgid ""
 "I doubt we'll need to do so; since lizards are cold-blooded, they should be "
 "weaker this time of year."
 msgstr ""
-"Pochybuji, že to budeme muset udělat. Ještěráci jsou chladnokrevní, měly by "
+"Pochybuji, že to budeme muset udělat. Ještěráci jsou chladnokrevní, měli by "
 "být v tomto ročním období slabší."
 
 #. [event]
