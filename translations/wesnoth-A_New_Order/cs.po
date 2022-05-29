@@ -21389,7 +21389,7 @@ msgid ""
 "...but I brought gold, 100 gold pieces from Luc and 100 gold pieces from "
 "Gauri."
 msgstr ""
-"...ale přinesl jsem zlato. 100 zlatých od Luca a 100 zlatých od Gauriho."
+"... ale přinesl jsem zlato. 100 zlatých od Luca a 100 zlatých od Gauriho."
 
 #. [event]
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:180
