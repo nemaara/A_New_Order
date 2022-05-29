@@ -515,7 +515,7 @@ msgid ""
 "Having light armour, they put all their hope into the mastering of the sword."
 msgstr ""
 "Akladijští rychlonohové jsou členy osobních gard akladijských lordů. Jsou to "
-"vetšinou žoldáci vyzbrojovaní svými pány. Disponují lehkým brněním a tak "
+"vetšinou žoldáci vyzbrojovaní svými pány. Disponují lehkým brněním, a tak "
 "jsou plně odkázáni na svoje mistrovství v boji s mečem."
 
 #. [unit_type]: id=Akladian Homeguard, race=akladian
