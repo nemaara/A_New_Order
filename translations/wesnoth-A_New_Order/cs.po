@@ -22313,7 +22313,7 @@ msgstr ""
 msgid ""
 "I thought we agreed not to use your barbarian language's names for things."
 msgstr ""
-"Myslela jsem, že jsme se dohodli, že pro nazývaní věcí nebudem používat "
+"Myslela jsem, že jsme se dohodli, že pro nazývání věcí nebudem používat "
 "obraty vašeho barbarského jazyka."
 
 #. [event]
