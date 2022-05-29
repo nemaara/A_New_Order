@@ -585,7 +585,7 @@ msgid ""
 "experiences of Wesnothians, and learned a few valuable tricks in the process."
 msgstr ""
 "Jen velmi málo příslušníků akladijských kmenů se stane kouzelníky. Jsou to "
-"ti, kteří se celý svůj život věnují studiu léčení. Učí se doknce ze "
+"ti, kteří se celý svůj život věnují studiu léčení. Učí se dokonce ze "
 "zkušeností Wesnoťanů, od kterých si osvojili několik užitečných triků."
 
 #. [attack]: type=impact
