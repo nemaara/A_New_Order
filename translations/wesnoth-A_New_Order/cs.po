@@ -627,7 +627,7 @@ msgid ""
 "Akladian Wisemans are those very few from the tribes, who study herbs and "
 "ways to heal, instead of how to harm and kill people"
 msgstr ""
-"Akladijští mudrci jsou jedni z mála z příslušníků kmenů, kteří se místo "
+"Akladijští mudrci jsou jedni z mála příslušníků kmenů, kteří se místo "
 "technik ubližování a zabíjení zabývají studiem bylinek a léčení."
 
 #. [unit_type]: id=Akladian Leader, race=akladian
