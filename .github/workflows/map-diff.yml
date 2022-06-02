@@ -31,6 +31,7 @@ jobs:
         git clone --depth 1 https://github.com/wesnoth/wesnoth.git
         mv wesnoth/data .
         cp wesnoth/images/misc/hover-hex*.png images/misc
+        mv wesnoth/images/editor images
         cd ./utils/wesnoth-map-diff
 
         ## Get maps changed
