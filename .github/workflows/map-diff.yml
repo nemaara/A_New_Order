@@ -27,6 +27,9 @@ jobs:
         sudo apt-get install -y pngquant
         comment_body=""
 
+        git clone --depth 1 git@github.com:wesnoth/wesnoth.git
+        mv wesnoth/data .
+        cp wesnoth/images/misc/hover-hex*.png images/misc
         cd ./utils/wesnoth-map-diff
 
         ## Get maps changed
