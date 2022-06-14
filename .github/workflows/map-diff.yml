@@ -46,7 +46,7 @@ jobs:
 
           ## Run map diff
           diff_image=${map_filename%.map}.png
-          node ./build/index.js "./$map_filename" "../../$map_path" "./$diff_image"
+          node ./build/index.js "../../$map_path" "./$map_filename" "./$diff_image"
 
           ## Compress image
           pngquant "$diff_image" -o "$diff_image" --force
