@@ -27,6 +27,11 @@ jobs:
         sudo apt-get install -y pngquant
         comment_body=""
 
+        echo "cloning wesnoth repo"
+        git clone --depth 1 https://github.com/wesnoth/wesnoth.git
+        mv wesnoth/data .
+        cp wesnoth/images/misc/hover-hex*.png images/misc
+        mv wesnoth/images/editor images
         cd ./utils/wesnoth-map-diff
 
         ## Get maps changed
@@ -41,7 +46,7 @@ jobs:
 
           ## Run map diff
           diff_image=${map_filename%.map}.png
-          node ./build/index.js "./$map_filename" "../../$map_path" "./$diff_image"
+          node ./build/index.js "../../$map_path" "./$map_filename" "./$diff_image"
 
           ## Compress image
           pngquant "$diff_image" -o "$diff_image" --force
