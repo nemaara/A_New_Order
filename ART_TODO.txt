@@ -18,7 +18,7 @@ this campaign was first written:
 is welcome)
 
 If you are an artist who is new to Wesnoth, here are some links to resources that
-you may find helpful:
+you may find helpful for matching Wesnoth style:
 * "Create art" central navigation page: https://wiki.wesnoth.org/Create_Art
 * "How to Shade": https://wiki.wesnoth.org/How_to_Shade
 * "Portrait Tutorial": https://wiki.wesnoth.org/Portrait_Tutorial
@@ -62,6 +62,9 @@ PORTRAITS
 * A shadowy version of Grekulak's portrait, to foreshadow his appearance, without
   spoiling him before he's revealed (e.g. in Deorien's story) (it might actually
   be possible to just do this with IPFs; I'll have to check...)
+  (update: the ~BW(255) IPF works for making his portrait shadowy, the tricky part
+  is then just finding the right coordinates to blit it onto on the relevant story
+  images...)
 
 STORY IMAGES
 ------------
