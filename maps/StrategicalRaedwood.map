@@ -1,27 +1,24 @@
-border_size=1
-usage=map
-
-Ha          , Ha          , Ha          , Ha          , Ha          , Aa          , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Rd          , Aa^Fpa      , Aa          , Aa          , Aa          , Aa          , Aa          
-Ha          , Ha          , Ha          , Ha          , Ha          , Aa          , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Rd          , Aa^Fpa      , Aa          , Aa          , Aa          , Aa          , Aa          
-Ha          , Ha          , Aa          , Aa          , Aa          , Aa          , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Rd          , Aa^Fpa      , Aa          , Aa          , Aa          , Aa          , Aa          
-Ha          , Ha          , Ha          , Aa          , Ha          , Aa          , Aa          , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Rd          , Rd          , Aa^Fpa      , Aa^Fpa      , Aa          , Aa          , Aa          , Aa          
-Ha          , Ha          , Ha          , Ha          , Ha          , Ha          , Aa          , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Rd          , Rd          , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa          , Aa          , Aa          , Aa          
-Ha          , Ha          , Ha          , Ha          , Ha          , Ha          , Aa          , Aa          , Aa          , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Rd          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          
-Ha          , Ha          , Ha          , Aa^Vha      , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Rd          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          
-Ha          , Ha          , Ha          , Ha          , Ha          , Aa          , Aa          , Aa          , Aa          , Aa          , 1 Kh        , Rd          , Aa^Fpa      , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          
-Ha          , Ha          , Ha          , Ha          , Ha          , Aa          , Aa          , Aa          , Aa          , Aa          , Rd          , Rd          , Rd          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          
-Ha          , Ha          , Ha          , Ha          , Rd          , Aa          , Rd          , Aa          , Rd          , Rd          , Aa          , Aa^Vha      , Aa          , Rd          , Rd          , Aa          , Aa^Fpa      , Aa          , Aa          , Aa          , Aa          , Aa          
-Ha          , Ha          , Aa          , Aa^Fpa      , Rd          , Rd          , Aa^Fpa      , Rd          , Rd          , Aa          , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Ai          , Ss          , Rd          , Rd          , Aa^Fpa      , Aa^Fpa      , Aa          , Aa          , Aa          
-Aa          , Aa          , Rd          , Rd          , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Rd          , Aa^Fpa      , Aa          , Aa          , Aa^Fpa      , Ai          , Aa^Fpa      , Ss          , Aa^Fpa      , Rd          , Rd          , Aa^Fpa      , Aa          , Aa          
-Aa          , Aa          , Rd          , Aa          , Aa          , Aa          , Aa          , Aa^Fpa      , Aa          , Rd          , Aa          , Aa          , Ss          , Aa^Fpa      , Ss          , Ss          , Ss          , Aa^Fpa      , Rd          , Aa^Fpa      , Ai          , Ai          
-Rd          , Rd          , Aa          , Aa          , Aa          , Ha          , Aa          , Aa^Fpa      , Rd          , Rd          , Aa          , Aa^Fpa      , Ss          , Aa^Fpa      , Ss          , Ai          , Ss          , Aa^Fpa      , Rd          , Ss          , Ss          , Ss          
-Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa^Fpa      , Rd          , Aa          , Aa          , Aa          , Aa^Fpa      , Ss          , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Ss          , Rd          , Rd          , Rd          
-Ha          , Ha          , Ha          , Ha          , Aa          , Aa          , Aa          , Aa          , Rd          , Aa          , Aa          , Aa          , Aa          , Aa^Fpa      , Aa          , Ss          , Ai          , Ai          , Ss          , Ss          , Ai          , Ai          
-Ha          , Ha          , Ha          , Ha          , Aa          , Aa          , Aa^Fpa      , Aa          , Rd          , Ha          , Ha          , Aa          , Aa          , Aa          , Aa          , Aa^Fpa      , Aa^Fpa      , Aa^Fpa      , Aa          , Ai          , Aa^Fpa      , Aa^Fpa      
-Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Ha          , Ha          , Rd          , Aa^Fpa      , Ha          , Ha          , Ha          , Aa^Fpa      , Aa^Fpa      , Aa          , Aa          , Aa          , Aa          , Aa^Fpa      , Rd          , Rd          
-Aa          , Aa          , Aa          , Aa          , Aa          , Aa^Fpa      , Aa^Fpa      , Rd          , Rd          , Aa^Fpa      , Aa^Fpa      , Ha          , Aa^Fpa      , Ha          , Ha          , Aa^Fpa      , Aa^Fpa      , Aa          , Aa^Fpa      , Rd          , Aa^Fpa      , Aa^Fpa      
-Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa^Vha      , Rd          , Aa^Fpa      , Aa          , Aa          , Aa^Fpa      , Aa          , Aa^Fpa      , Aa          , Aa^Fpa      , Rd          , Rd          , Rd          , Rd          , Aa          , Aa          
-Aa          , Aa          , Aa          , Aa          , Aa          , Aa^Fpa      , Aa^Fpa      , Rd          , Rd          , Rd          , Aa          , Aa          , Aa          , Aa^Fpa      , Rd          , Rd          , Aa          , Aa^Fpa      , Aa          , Aa          , Aa          , Aa          
-Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
-Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          
-Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          
+Ha, Ha, Ha, Ha, Ha, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Rd, Aa^Fpa, Aa, Aa, Aa, Aa, Aa
+Ha, Ha, Ha, Ha, Ha, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Rd, Aa^Fpa, Aa, Aa, Aa, Aa, Aa
+Ha, Ha, Aa, Aa, Aa, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Rd, Aa^Fpa, Aa, Aa, Aa, Aa, Aa
+Ha, Ha, Ha, Aa, Ha, Aa, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Rd, Rd, Aa^Fpa, Aa^Fpa, Aa, Aa, Aa, Aa
+Ha, Ha, Ha, Ha, Ha, Ha, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Rd, Rd, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa, Aa, Aa, Aa
+Ha, Ha, Ha, Ha, Ha, Ha, Aa, Aa, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Rd, Aa, Aa, Aa, Aa, Aa, Aa, Aa, Aa, Aa
+Ha, Ha, Ha, Aa^Vha, Aa, Aa, Aa, Aa, Aa, Aa, Aa, Aa, Rd, Aa, Aa, Aa, Aa, Aa, Aa, Aa, Aa, Aa
+Ha, Ha, Ha, Ha, Ha, Aa, Aa, Aa, Aa, Aa, 1 Kh, Rd, Aa^Fpa, Aa, Aa, Aa, Aa, Aa, Aa, Aa, Aa, Aa
+Ha, Ha, Ha, Ha, Ha, Aa, Aa, Aa, Aa, Aa, Rd, Rd, Rd, Aa, Aa, Aa, Aa, Aa, Aa, Aa, Aa, Aa
+Ha, Ha, Ha, Ha, Rd, Aa, Rd, Aa, Rd, Rd, Aa, Aa^Vha, Aa, Rd, Rd, Aa, Aa^Fpa, Aa, Aa, Aa, Aa, Aa
+Ha, Ha, Aa, Aa^Fpa, Rd, Rd, Aa^Fpa, Rd, Rd, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Ai, Ss, Rd, Rd, Aa^Fpa, Aa^Fpa, Aa, Aa, Aa
+Aa, Aa, Rd, Rd, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Rd, Aa^Fpa, Aa, Aa, Aa^Fpa, Ai, Aa^Fpa, Ss, Aa^Fpa, Rd, Rd, Aa^Fpa, Aa, Aa
+Aa, Aa, Rd, Aa, Aa, Aa, Aa, Aa^Fpa, Aa, Rd, Aa, Aa, Ss, Aa^Fpa, Ss, Ss, Ss, Aa^Fpa, Rd, Aa^Fpa, Ai, Ai
+Rd, Rd, Aa, Aa, Aa, Ha, Aa, Aa^Fpa, Rd, Rd, Aa, Aa^Fpa, Ss, Aa^Fpa, Ss, Ai, Ss, Aa^Fpa, Rd, Ss, Ss, Ss
+Aa, Aa, Aa, Aa, Aa, Aa, Aa, Aa^Fpa, Rd, Aa, Aa, Aa, Aa^Fpa, Ss, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Ss, Rd, Rd, Rd
+Ha, Ha, Ha, Ha, Aa, Aa, Aa, Aa, Rd, Aa, Aa, Aa, Aa, Aa^Fpa, Aa, Ss, Ai, Ai, Ss, Ss, Ai, Ai
+Ha, Ha, Ha, Ha, Aa, Aa, Aa^Fpa, Aa, Rd, Ha, Ha, Aa, Aa, Aa, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa, Ai, Aa^Fpa, Aa^Fpa
+Aa, Aa, Aa, Aa, Aa, Aa, Ha, Ha, Rd, Aa^Fpa, Ha, Ha, Ha, Aa^Fpa, Aa^Fpa, Aa, Aa, Aa, Aa, Aa^Fpa, Rd, Rd
+Aa, Aa, Aa, Aa, Aa, Aa^Fpa, Aa^Fpa, Rd, Rd, Aa^Fpa, Aa^Fpa, Ha, Aa^Fpa, Ha, Ha, Aa^Fpa, Aa^Fpa, Aa, Aa^Fpa, Rd, Aa^Fpa, Aa^Fpa
+Aa, Aa, Aa, Aa, Aa, Aa, Aa^Vha, Rd, Aa^Fpa, Aa, Aa, Aa^Fpa, Aa, Aa^Fpa, Aa, Aa^Fpa, Rd, Rd, Rd, Rd, Aa, Aa
+Aa, Aa, Aa, Aa, Aa, Aa^Fpa, Aa^Fpa, Rd, Rd, Rd, Aa, Aa, Aa, Aa^Fpa, Rd, Rd, Aa, Aa^Fpa, Aa, Aa, Aa, Aa
+Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu
+Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd
+Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd, Rd
