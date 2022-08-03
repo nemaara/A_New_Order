@@ -29,11 +29,11 @@ may consider making animations for sprites, or correct existing sprites.
 
 PORTRAITS
 ---------
-* Generic "good" Akladian high level unit, specifically the Darknite (being
-  commissioned to chloe thomas, @chloe191thomas)
+* Generic "good" Akladian high level unit, specifically the Darknite
 * "Broken" Ruvio, after Fall of Freetown (preferrably bought from Santiago Iborra,
   if we can find the funds, which seems unlikely...)
-  (being commissioned to Olivia Lucy, @olivia_lucy46)
+  (commissioned to Olivia Lucy, @olivia_lucy46, who has completed it... just need
+  to integrate it now)
 * Generic low-level Akladian unit with swords (Raiders+Sturmknight) 
 * Generic Akladian unit with spears (Warrior and LightInfantry still remain)
   (Clansman already exists as akladian_generic.png and Pikeneer already exists as
