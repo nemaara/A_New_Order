@@ -39,6 +39,9 @@ The previous version of Grekulak: "Fluffy!!!" <crowbar.assassin@gmail.com>
 Medic.png is a frankenportrait (by egallager) of the Mage and Necromancer portraits
 from mainline Wesnoth.
 
+ruvio_broken.png was commissioned from a Twitter user who uses the handle
+@olivia_lucy46
+
 other were made by me (A.D.Danilecki). In general, if a portrait is ugly, most
 likely I did it :)
 
@@ -111,4 +114,6 @@ OTHER
 -----
 Some images and tiles were created by Reiner "Tiles" Prokein. Snowshoes image was
 made by Mathbrush (aka brirush84) for SotBEEE. Souls are from the Default L0 Era by
-MoonyDragon (aka moonymeric).
+MoonyDragon (aka moonymeric). Hero-leader ellipses are taken from mainline Wesnoth
+and renamed so that they are used when appropriate. The halo for the "obscures"
+ability is taken from The Dark Hordes.

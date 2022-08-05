@@ -1,29 +1,49 @@
-This is my personal list of what I'd love to have. If you 
+This is my (szopen's) personal list of what I'd love to have. If you 
 are an artist and want to contribute, please look at this list and think whether
 you could do these portraits. You can also hire someone to do them, or 
-sent me 20-40 euros and I will pay my artist to do them. In general,
+send me 20-40 euros and I will pay my artist to do them. In general,
 I pay between 13 to 20 euros per portrait (though "broken Ruvio" and "another
 Karen" probably would need twice as much, as they would have to be ordered
 from Santiago Iborra), and between 20 to 40 euros per story image (assuming
-euro ~~ 4PLN, since I pay in PLN). Paypal charges about 5%.
+euro ~~ 4PLN, since I pay in PLN). Paypal charges about 5%. Note that since this
+is an old campaign, some of these euro/PLN amounts may need to be adjusted for
+inflation. In times when this campaign has an American maintainer (e.g. egallager),
+payments may need to be in USD instead. The inflation calculator I found gives the
+following amounts for 2022, assuming that the original amounts were from 2005, when
+this campaign was first written:
+* €13 in 2005 = €17.10 in 2022 (~$17.84 USD)
+* €20 in 2005 = €26.31 in 2022 (~$27.44 USD)
+* €40 in 2005 = €52.61 in 2022 (~$54.88 USD)
+(Note that I have been informed that these prices are rather low, so negotiation
+is welcome)
 
-They are sorted in order of importance.  In addition, you may consider making
-animations for sprites, or correct existing sprites.
+If you are an artist who is new to Wesnoth, here are some links to resources that
+you may find helpful for matching Wesnoth style:
+* "Create art" central navigation page: https://wiki.wesnoth.org/Create_Art
+* "How to Shade": https://wiki.wesnoth.org/How_to_Shade
+* "Portrait Tutorial": https://wiki.wesnoth.org/Portrait_Tutorial
+* "Armor Tutorial": https://wiki.wesnoth.org/Armour_Tutorial
+
+The following wishlist items are sorted in order of importance.  In addition, you
+may consider making animations for sprites, or correct existing sprites.
 
 PORTRAITS
 ---------
-* Generic "good" Akladian high level unit (e.g. Protector, Darknite, maybe 
-  also Fastfoot)
-* "Broken" Ruvio, after Fall of Freetown (preferrably bought from Santiago Iborra,
-  if we can find the funds, which seems unlikely...)
+* Generic "good" Akladian high level unit, specifically the Darknite
 * Generic low-level Akladian unit with swords (Raiders+Sturmknight) 
-* Generic Akladian unit with spears (Pikeneer, Warrior, Clansman, LightInfantry)
+* Generic Akladian unit with spears (Warrior and LightInfantry still remain)
+  (Clansman already exists as akladian_generic.png and Pikeneer already exists as
+  profile_pikinier.png)
+* A winter version of Yahyazad's portrait (Hailey Gill @haileygill1999 might be
+  able to take this one)
+* Another Reme portrait (for the "m"-suffixed message macro for him)
 * Generic leading units (Chieftain+leader - this is very low priority)
+* Generic Wiseman-line units (Wiseman, Holyman, Wonderman) (being commissioned to
+  AMY, @ameliolivera1)
 * A winter version of Karen's portrait (low priority, and it'd be more expensive)
   (there's one in the ANO_art repo, but it doesn't match her usual look, so one of
-  the two would have to be updated)
-* A winter version of Yahyazad's portrait
-* Another Reme portrait (for the "m"-suffixed message macro for him)
+  the two would have to be updated) (Hailey Gill @haileygill1999 might be able to
+  take this one)
 * Heinric the Redbeard (enemy leader from the first scenario; can be either a City
   Militia or a Lieutenant, depending on difficulty) (low priority)
 * better older-looking mage for the medic who heals Gawen in S01 (low priority)
@@ -36,7 +56,11 @@ PORTRAITS
 * unique portrait for Maurice (a Red Mage), to replace the generic White Mage
   portrait that doesn't even match his unit type
 * A shadowy version of Grekulak's portrait, to foreshadow his appearance, without
-  spoiling him before he's revealed (e.g. in Deorien's story)
+  spoiling him before he's revealed (e.g. in Deorien's story) (it might actually
+  be possible to just do this with IPFs; I'll have to check...)
+  (update: the ~BW(255) IPF works for making his portrait shadowy, the tricky part
+  is then just finding the right coordinates to blit it onto on the relevant story
+  images...)
 
 STORY IMAGES
 ------------
