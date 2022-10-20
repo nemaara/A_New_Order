@@ -59,7 +59,8 @@ Anyways, here are my per-scenario notes:
   arise when using debug mode. For porting to BfW 1.16, I split up some messages to
   make the player pay more attention, tweaked enemy AI further, made Uri van Roe's
   attack on Barnon work better and include more units, edited some debug messages,
-  and added an easter egg.
+  and added an easter egg. The code for this scenario is getting so long that it's
+  getting kind of hard to summarize new changes to it now...
 05 The Swamp Things: ADVICES.txt says it's not supposed to be hard, and that
   it's "easily winnable with proper tactics (and enough high-level loyal
   akladians)". Well guess what, I didn't have enough high-level loyal
@@ -94,13 +95,15 @@ Anyways, here are my per-scenario notes:
   renaming, add message captions, add some additional story images
 10 Siege of Haeltin: gold/income tweaks, vary STARTING_VILLAGES radius with
   difficulty, other misc. changes (e.g. copyediting and message captions), add
-  additional fortifications on EASY, add snowshoes (2 plus a 3rd for Reumario)
+  additional fortifications on EASY, add snowshoes (2 plus a 3rd for Reumario),
+  ensure Lorin knows race of unit she's killing
 11 Council in Freetown: copyediting, and added message captions, ensure elves'
   abilities persist after advancing
 12 Leaving Raedwood: turns/gold/income tweaks, use LIMIT_CONTEMPORANEOUS_RECRUITS,
   add code to address how only one leader has an interrogation, add snowshoes,
   adjust recruitment pattern
-13 Scouting: copyediting, message captions, address some issues with nonlinearity
+13 Scouting: copyediting, message captions, address some issues with nonlinearity,
+  add additional assistance dialogue from Ruvio at camp
 14a Scouting Near Barnon: copyediting, turns/gold/income tweaks, simplify ifdefs,
   message captions, allow undoing if choosing not to withdraw at the signpost, vary
   loot amounts by difficulty, add snowshoes
