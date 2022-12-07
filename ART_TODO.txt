@@ -32,7 +32,7 @@ may consider making animations for sprites, or correct existing sprites.
 
 PORTRAITS
 ---------
-* Higher-level Wiseman-line units (Holyman, Wonderman)
+* Final Wiseman-line unit (i.e. the Wonderman)
 * Generic "good" Akladian high level unit, specifically the Darknite (one that
   matches its sprite better)
 * Generic low-level Akladian unit with swords (Raiders+Sturmknight) 
