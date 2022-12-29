@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-29 19:10 UTC\n"
-"PO-Revision-Date: 2010-12-06 16:37+0100\n"
+"PO-Revision-Date: 2022-12-29 07:55+0100\n"
 "Last-Translator: kele <kele@neszmely.eu>\n"
 "Language-Team: Hungarian Wesnoth Translation Team\n"
 "Language: hu\n"
@@ -11,9 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-Language: Hungarian\n"
-"X-Poedit-Country: HUNGARY\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 3.2\n"
 
 #. [unit_type]: id=Peasant girl, race=human
 #: A_New_Order/units/others/Peasant_girl.cfg:5
@@ -31,10 +30,8 @@ msgstr ""
 
 #. [unit_type]: id=Old Peasant Woman
 #: A_New_Order/units/others/Peasant_girl.cfg:35
-#, fuzzy
-#| msgid "Village leader"
 msgid "Senior Village Elder"
-msgstr "Falufőnök"
+msgstr "Nagyöreg"
 
 #. [unit_type]: id=Old Peasant Woman
 #: A_New_Order/units/others/Peasant_girl.cfg:39
@@ -44,11 +41,15 @@ msgid ""
 "their shoulders. Provincial officials tend to choose senior village elders "
 "as magistrates so that legal and customary authority will coincide."
 msgstr ""
+"Az egész falu tiszteli a nagyöregeket bölcsességükért, hozzájuk fordulnak "
+"útmutatásért. A falu jóllétének terhét ezek a nagyöregek viselik a vállukon. "
+"A tartományi hivatalnokok gyakran választanak körükből vezetőket, így "
+"tekintélyük mellé hivatalos hatalmat is nyernek."
 
 #. [female]
 #: A_New_Order/units/others/Peasant_girl.cfg:41
 msgid "female^Senior Village Elder"
-msgstr ""
+msgstr "Nagyasszony"
 
 #. [unit_type]: id=City Militia, race=human
 #: A_New_Order/units/others/City_Militia.cfg:4
@@ -98,12 +99,6 @@ msgstr "Karen"
 
 #. [unit_type]: id=Ruvios Daughter, race=human
 #: A_New_Order/units/others/Ruvios_Daughter.cfg:21
-#, fuzzy
-#| msgid ""
-#| "Being one of four daughters of great warrior was never an easy task. "
-#| "Hearing from childhood about battles, knights and great deeds of her "
-#| "father, Karen early decided that being a good housewife is definetely not "
-#| "her destiny."
 msgid ""
 "Being one of four daughters of a great warrior was never an easy task. "
 "Hearing from childhood about battles, knights, and great deeds of her "
@@ -112,7 +107,7 @@ msgid ""
 msgstr ""
 "Egy nagy harcos négy lánya közül egynek lenni nehéz feladat. Gyerekkorától "
 "csatákról, lovagokról és atyja dicső tetteiről hallva Karen korán "
-"elhatározta, hogy a háziasszonyi lét nem neki való feladat."
+"elhatározta, hogy a jó háziasszonyi lét nem neki való feladat."
 
 #. [attack]: type=blade
 #: A_New_Order/units/others/Ruvios_Daughter.cfg:27
@@ -152,11 +147,6 @@ msgstr "Ruvio"
 
 #. [unit_type]: id=Ruvio, race=human
 #: A_New_Order/units/others/Ruvio.cfg:21
-#, fuzzy
-#| msgid ""
-#| "Always loyally serving royal family of Wesnoth, Ruvio skills in sword and "
-#| "crossbow became better than above average, to say it modestly; Even "
-#| "though the age had its impact on Ruvio, he still is dangerous opponent."
 msgid ""
 "Always loyally serving royal family of Wesnoth, Ruvio's skills with the "
 "sword and crossbow became better than above average, to say it modestly. "
@@ -182,14 +172,6 @@ msgstr "Portyázó zsivány"
 
 #. [unit_type]: id=Outlaw Raider, race=human
 #: A_New_Order/units/others/Outlaw_Raider.cfg:34
-#, fuzzy
-#| msgid ""
-#| "After a four or five robbings any Brigands that last that long will "
-#| "usually find a sword of some type. Usually this is a saber because "
-#| "fencers are their most regular prey as they often wander around lonely "
-#| "backroads looking for a fights most of the time. They also usually build "
-#| "or buy (or steal) a better crossbow and their accuracy and skill have "
-#| "both improved with practice."
 msgid ""
 "After four or five robbings, any Brigands that last that long will usually "
 "find a sword of some type. Usually this is a saber because fencers are their "
@@ -202,7 +184,7 @@ msgstr ""
 "leginkább vívók szerepelnek, akik idejük nagy részében Wesnoth mellékútjain "
 "barangolnak, s ellenfelet keresnek. Rendszerint készítenek vagy vesznek "
 "(lopnak) egy jobb számszeríjat is, s gyakorlatozásaik révén fejlődik a "
-"jártasságuk a fegyverek használatában is."
+"jártasságuk e fegyverek használatában is."
 
 #. [attack]: type=blade
 #: A_New_Order/units/others/Outlaw_Raider.cfg:38
@@ -224,7 +206,7 @@ msgid ""
 msgstr ""
 "A sarlószerű fegyvert viselő lovas brigantik odahagyták a farmerlétet, s kis "
 "csoportokban Wesnoth mellékútjain az utazók kifosztásából élnek. Bár durva "
-"számszeríjat is hordoznak magukkal, kezelésében kevésbé jártasak."
+"számszeríjat is hordoznak magukkal, kezelésében kevéssé jártasak."
 
 #. [attack]: type=blade
 #: A_New_Order/units/others/Brigand.cfg:30
@@ -237,10 +219,13 @@ msgid ""
 "\n"
 "Notes: "
 msgstr ""
+"\n"
+"\n"
+"Megjegyzés:"
 
 #: A_New_Order/units/macros/abilities.cfg:19
 msgid "dauntless"
-msgstr ""
+msgstr "rendíthetetlen"
 
 #: A_New_Order/units/macros/abilities.cfg:21
 msgid ""
@@ -248,10 +233,13 @@ msgid ""
 "While attacking, this unit's resistances are doubled, up to a maximum of 50. "
 "Weaknesses are not affected."
 msgstr ""
+"Rendíthetetlen:\n"
+"Támadás közben ennek az egységnek az ellenállásai megduplázódnak, de "
+"legfeljebb 50%-ra nőnek. A gyengeségei nem változnak."
 
 #: A_New_Order/units/macros/abilities.cfg:25
 msgid "sylvan spark"
-msgstr ""
+msgstr "erdei szikra"
 
 #: A_New_Order/units/macros/abilities.cfg:28
 msgid ""
@@ -259,12 +247,13 @@ msgid ""
 "While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
 "is poisoned, it will remove the poison instead of healing."
 msgstr ""
+"Erdei szikra:\n"
+"Növényzettel borított területen ez az egység 5 ÉP-vel gyógyul körönként. Ha "
+"megmérgeződött, akkor gyógyulás helyett kikúrálódik a mérgezésből."
 
 #: A_New_Order/units/macros/abilities.cfg:49
-#, fuzzy
-#| msgid "Separation"
 msgid "ability^protection"
-msgstr "Elválás"
+msgstr "pártfogás"
 
 #: A_New_Order/units/macros/abilities.cfg:50
 msgid ""
@@ -272,11 +261,15 @@ msgid ""
 "Adjacent units of lower level from this side receive a +20% bonus to all "
 "resistances (up to a maximum of 50%)."
 msgstr ""
+"Pártfogás: \n"
+"Az egység mellett az alacsonyabb szintű baráti egységek +20% "
+"többletellenállást szereznek minden fajtából (de legfeljebb 50%-ra nő az "
+"ellenállásuk)."
 
 #. [illuminates]: id=obscure
 #: A_New_Order/units/macros/abilities.cfg:81
 msgid "ability^obscures"
-msgstr ""
+msgstr "homályosítás"
 
 #. [illuminates]: id=obscure
 #: A_New_Order/units/macros/abilities.cfg:82
@@ -288,12 +281,16 @@ msgid ""
 "Any units adjacent to this unit will fight as if it were dusk when it is "
 "day, and as if it were night when it is dusk."
 msgstr ""
+"Homályosítás:\n"
+"Az egység elsötétíti a szomszédos mezőket, a törvénytelen egységek jobban, "
+"az igazságos egységek rosszabbul harcolnak a szomszédságában.\n"
+"\n"
+"Ennek az egységnek a szomszédságában minden egység úgy harcol nappal, mintha "
+"szürkület lenne, s úgy harcol szürkületben, mintha éjszaka lenne."
 
 #: A_New_Order/units/macros/abilities.cfg:91
-#, fuzzy
-#| msgid "Moerro"
 msgid "ability^terror"
-msgstr "Moerro"
+msgstr "megfélemlítés"
 
 #: A_New_Order/units/macros/abilities.cfg:92
 msgid ""
@@ -305,11 +302,18 @@ msgid ""
 "enemy unit of the same or lower level is adjacent and engages in combat, its "
 "attacks do 15% less damage times the difference in their levels + 15%."
 msgstr ""
+"Ez az egység megrettenti a mellette harcoló ellenséges egységeket, így azok "
+"rosszabbul harcolnak.\n"
+"\n"
+"A szomszédos alacsonyabb szintű ellenséges egységek sebzése csökken a "
+"csatában. Az azonos szintű egységek sebzése 15%-kal csökken, az alacsonyabb "
+"szintű egységek sebzése ezen felül annyiszor 15%-kal csökken, amennyi a két "
+"egység szintkülönbsége."
 
 #. [leadership]: id=intimidates_terror
 #: A_New_Order/units/macros/abilities.cfg:120
 msgid "ability^intimidates"
-msgstr ""
+msgstr "fenyegető"
 
 #. [leadership]: id=intimidates_terror
 #: A_New_Order/units/macros/abilities.cfg:121
@@ -320,13 +324,18 @@ msgid ""
 "Affected units engaging in combat deal 25% less damage and become unable to "
 "exert their zone of control over those adjacent to the intimidating unit."
 msgstr ""
+"Az egység a szomszédos 0-1 szintű egységeket fenyegeti, így azok gyengébben "
+"harcolnak.\n"
+"\n"
+"Az érintett egységek sebzése 25%-kal csökken, s a fenyegető egység melletti "
+"egységek ellenében zónakontrolra sem képesek."
 
 #. [heals]: id=sylvan_essence_healing_nounion
 #. [illuminates]: id=sylvan_essence_illum
 #: A_New_Order/units/macros/abilities.cfg:180
 #: A_New_Order/units/macros/abilities.cfg:218
 msgid "ability^sylvan essence"
-msgstr ""
+msgstr "erdei eszencia"
 
 #. [heals]: id=sylvan_essence_healing_nounion
 #: A_New_Order/units/macros/abilities.cfg:182
@@ -337,6 +346,12 @@ msgid ""
 "its enemies. It can also regenerate (but not unpoison) 3 HP per-turn, but "
 "only in vegetated terrains."
 msgstr ""
+"Erdei eszencia:\n"
+"Az egység képes meggyógyítani a szomszédos baráti egységeket körönként "
+"legfeljebb 8 ÉP-vel illetve kikúrálni őket a mérgezésből. Növényzettel "
+"borított területen képes elrejtőzni az ellenségei elől, s itt maga is képes "
+"gyógyulni körönként legfeljebb 3 ÉP-vel, de a mérgezésből nem képes "
+"kikúrálódni."
 
 #. [illuminates]: id=sylvan_essence_illum
 #: A_New_Order/units/macros/abilities.cfg:219
@@ -352,48 +367,47 @@ msgid ""
 "from its enemies. It can also regenerate (but not unpoison) 4 HP per-turn, "
 "but only in vegetated terrains."
 msgstr ""
+"Erdei eszencia:\n"
+"Az egység megvilágítja a szomszédos mezőket, így az igazságos egységek "
+"jobban, a törvénytelen egységek rosszabbul harcolnak. A szomszédos egységek "
+"úgy harcolnak éjszaka, mintha szürkület lenne, s szürkületben úgy, mintha "
+"nappal lenne.\n"
+"\n"
+"Az egység képes meggyógyítani a szomszédos baráti egységeket körönként "
+"legfeljebb 8 ÉP-vel illetve kikúrálni őket a mérgezésből. Növényzettel "
+"borított területen képes elrejtőzni az ellenségei elől, s itt maga is képes "
+"gyógyulni körönként legfeljebb 4 ÉP-vel, de a mérgezésből nem képes "
+"kikúrálódni."
 
 #. [advancement]: id=armoured
 #: A_New_Order/units/macros/amla.cfg:7
-#, fuzzy
-#| msgid "Armoured"
 msgid "AMLA^Armoured"
 msgstr "Páncélos"
 
 #. [advancement]: id=fast
 #: A_New_Order/units/macros/amla.cfg:37
-#, fuzzy
-#| msgid "Fast"
 msgid "AMLA^Fast"
-msgstr "Gyorsaság"
+msgstr "Gyors"
 
 #. [advancement]: id=fighter
 #: A_New_Order/units/macros/amla.cfg:67
-#, fuzzy
-#| msgid "Fighter"
 msgid "AMLA^Fighter"
 msgstr "Harcos"
 
 #. [advancement]: id=fast_attack
 #: A_New_Order/units/macros/amla.cfg:89
-#, fuzzy
-#| msgid "Fast Attack"
 msgid "AMLA^Fast Attack"
-msgstr "Gyors ütés"
+msgstr "Gyors támadás"
 
 #. [advancement]: id=sword_dancer
 #: A_New_Order/units/macros/amla.cfg:111
-#, fuzzy
-#| msgid "Sword Dancer"
 msgid "AMLA^Sword Dancer"
 msgstr "Pengetáncos"
 
 #. [advancement]: id=tough
 #: A_New_Order/units/macros/amla.cfg:134
-#, fuzzy
-#| msgid "Tough"
 msgid "AMLA^Tough"
-msgstr "Életerő"
+msgstr "Viharedzett"
 
 #. [unit_type]: id=Lord Hagarthen, race=akladian
 #: A_New_Order/units/akladians/Lord_Hagarthen.cfg:4
@@ -402,25 +416,18 @@ msgstr "Lord Hagarthen"
 
 #. [unit_type]: id=Lord Hagarthen, race=akladian
 #: A_New_Order/units/akladians/Lord_Hagarthen.cfg:28
-#, fuzzy
-#| msgid ""
-#| "It takes usually many years until young Hagarthen clan members are "
-#| "consired worth to become kings. Such Hagarthen clan members are then "
-#| "called lords."
 msgid ""
 "It usually takes many years until young Hagarthen clan members are "
 "considered worthy enough to become kings. Such Hagarthen clan members are "
 "then called lords."
 msgstr ""
-"Rendszerint sok évet vesz igénybe, míg az ifjú Hagarthen klánbelieket "
+"Rendszerint sok évet vesz igénybe, míg a Hagarthen klánbeli ifjakat "
 "alkalmasnak találják a trónra. Az ilyen embereket aztán uraknak nevezik."
 
 #. [unit_type]: id=Lord Bor Cryne, race=akladian
 #: A_New_Order/units/akladians/Lord_Bor_Cryne.cfg:4
-#, fuzzy
-#| msgid "Bor Cryne"
 msgid "Lord Bor Cryne"
-msgstr "Bor Cryne"
+msgstr "Lord Bor Cryne"
 
 #. [unit_type]: id=Lord Bor Cryne, race=akladian
 #: A_New_Order/units/akladians/Lord_Bor_Cryne.cfg:28
@@ -436,6 +443,17 @@ msgid ""
 "was traditional. He always despised the customs of Wesnothians and disliked "
 "those lords who enjoyed courts more than battlefields."
 msgstr ""
+"Két generáció nőtt fel Wesnoth meghódítása óta, az akladiai vezetők - bár "
+"állításuk szerint lenézték a wesnothiakat - elkezdték utánozni a wesnothi "
+"előkelők szokásait. S a klánok vezetői, az \"urak\" egyre inkább komolyan "
+"vették a leszármazást. Ennek következtében egyre ritkább lett az, hogy egy "
+"úr nem az előző úr fia lett volna. Bor Cryne előkelő családból származott, "
+"de nem a főurak közül, így elvileg vezér is lehetett belőle. Gyakorlott "
+"harcosként vezetési tapasztalatokkal rendelkezve minden adott volt ahhoz, "
+"hogy klánjának vezetőjévé váljon, miután a hagyományokat követve "
+"párviadalban megölte az előző vezért. Bor mélységesen lenézte a wesnothi "
+"szokásokat, és azokat az urakat is megvetette, akik az udvar kényelmét "
+"választották a csatamező helyett."
 
 #. [unit_type]: id=Hagarthen, race=akladian
 #: A_New_Order/units/akladians/Hagarthen.cfg:4
@@ -444,11 +462,6 @@ msgstr "Hagarthen"
 
 #. [unit_type]: id=Hagarthen, race=akladian
 #: A_New_Order/units/akladians/Hagarthen.cfg:28
-#, fuzzy
-#| msgid ""
-#| "When the youth of the Gawen Hagarthen had passed, he understood that to "
-#| "became respected amongst his tribe he must became skilled in sword as "
-#| "well as in politics."
 msgid ""
 "When Gawen Hagarthen's youth had passed, he understood that to become "
 "respected amongst his tribe, he must become skilled in the way of the sword, "
@@ -465,12 +478,6 @@ msgstr "Akladiai könnyűgyalogos"
 
 #. [unit_type]: id=Akladian Light Infantry, race=akladian
 #: A_New_Order/units/akladians/Akladian_LightInfantry.cfg:17
-#, fuzzy
-#| msgid ""
-#| "The best of Akladian warriors are choosed by their lords to serve in "
-#| "their regular armies, and they became professional soldiers. They have to "
-#| "equip themselves, however, which results in light armour and spear being "
-#| "their weapon of choice."
 msgid ""
 "The best Akladian warriors are chosen by their lords to serve in their "
 "regular armies, and they became professional soldiers. They have to equip "
@@ -478,8 +485,9 @@ msgid ""
 "being their weapon of choice."
 msgstr ""
 "A legjobb akladiai harcosokat uraik választották ki, hogy a reguláris "
-"seregükben szolgáljanak, s később válnak hivatásos katonákká. Maguk szerelik "
-"fel magukat, emiatt választják a könnyű vértet és a dárdát, mint fegyvert."
+"seregükben szolgáljanak, s így válnak hivatásos katonákká. Maguk kénytelenek "
+"felszerelni magukat, emiatt választják a könnyű vértet önvédelemre és "
+"fegyverként a dárdát."
 
 #. [unit_type]: id=Akladian Protector, race=akladian
 #. [campaign]: id=A_New_Order
@@ -490,11 +498,6 @@ msgstr "Akladiai védelmező"
 
 #. [unit_type]: id=Akladian Protector, race=akladian
 #: A_New_Order/units/akladians/Akladian_Protector.cfg:24
-#, fuzzy
-#| msgid ""
-#| "Veterans of many fights and surviving many defenses against invading "
-#| "enemies, Protectors forms caste of excellent warriors with their own "
-#| "codex, devoting whole their life for protecting their clans."
 msgid ""
 "Veterans of many fights and surviving many defenses against invading "
 "enemies, Protectors form a caste of excellent warriors with their own codex, "
@@ -507,7 +510,7 @@ msgstr ""
 #. [attack]: type=impact
 #: A_New_Order/units/akladians/Akladian_Protector.cfg:33
 msgid "greatmace"
-msgstr ""
+msgstr "csonttörő"
 
 #. [unit_type]: id=Akladian Queen, race=akladian
 #: A_New_Order/units/akladians/Akladian_Queen.cfg:4
@@ -520,19 +523,13 @@ msgstr "Királynő"
 #: A_New_Order/units/akladians/Akladian_Queen.cfg:27
 #: A_New_Order/units/akladians/Akladian_Lady.cfg:23
 #: A_New_Order/units/akladians/Akladian_Princess.cfg:22
-#, fuzzy
-#| msgid ""
-#| "While relationship between sexes in Akladian society is far from equal "
-#| "treatment, all woman are expected to be able to handle weapons, and those "
-#| "who are wifes or children of great warriors are commonly thought to "
-#| "master use of the sword as well as their husbands or fathers."
 msgid ""
 "While the relationship between sexes in Akladian society is far from equal "
 "treatment, all women are expected to be able to handle weapons, and those "
 "who are wives or children of great warriors are commonly thought to master "
 "use of the sword as well as their husbands or fathers."
 msgstr ""
-"Míg a nemek közti egyenlőség nem jellemző az akladiai társadalomban, minden "
+"Bár a nemek közti egyenlőség nem jellemző az akladiai társadalomban, minden "
 "nőnek tudnia kell a fegyverekkel bánni, a nagy harcosok feleségeiről és "
 "gyermekeiről általánosan elterjedt, hogy férjükhöz vagy apjukhoz hasonlóan "
 "mesterei a kardforgatásnak."
@@ -545,17 +542,12 @@ msgstr "Akladiai gyorslábú"
 #. [unit_type]: id=Akladian Fastfoot, race=akladian
 #. FIXME: maybe the plural of "Fastfoot" should be "Fastfeet" instead of "Fastfoots"? I dunno; it's a made-up term, so, whatever...
 #: A_New_Order/units/akladians/Akladian_Fastfoot.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Akladian Fastfoots are members of personal armies of Akladian lords. They "
-#| "are almost professional soldiers, being equipped by their masters. Having "
-#| "light armour, they put all their hope in mastering of the sword."
 msgid ""
 "Akladian Fastfoots are members of the personal armies of Akladian lords. "
 "They are almost professional soldiers, being equipped by their masters. "
 "Having light armour, they put all their hope into the mastering of the sword."
 msgstr ""
-"Az akladiai gyorslábúk az akladiai urak személyzetének tagjai. Majdnem "
+"Az akladiai gyorslábúk az akladiai urak testőrségének tagjai. Majdnem "
 "hivatásos katonák, akiket uraik szerelnek fel. Könnyű pajzsuk lévén a "
 "kardjukban bíznak leginkább."
 
@@ -566,24 +558,19 @@ msgstr "Akladiai honvédő"
 
 #. [unit_type]: id=Akladian Homeguard, race=akladian
 #: A_New_Order/units/akladians/Akladian_Homeguard.cfg:25
-#, fuzzy
-#| msgid ""
-#| "Facing hostility of all other nations, Akladians had to create special "
-#| "units devoting whole their life to guarding the settlements of the clans."
 msgid ""
 "Facing hostility from all other nations, Akladians had to create special "
 "units who would devote their whole lives to guarding the settlements of the "
 "clans."
 msgstr ""
 "A többi nép ellenséges érzéseivel szembesülve az akladiaiak olyan egységeket "
-"képeztek ki, akik egész életüket a klánok településeinek megvédésének "
-"szentelik."
+"képeztek ki, akik egész életüket a klánok települései megvédésének szentelik."
 
 #. [attack]: type=impact
 #: A_New_Order/units/akladians/Akladian_Homeguard.cfg:30
 #: A_New_Order/units/akladians/Akladian_Shieldguard.cfg:29
 msgid "mace"
-msgstr ""
+msgstr "buzogány"
 
 #. [unit_type]: id=Akladian Clansman, race=akladian
 #. [campaign]: id=A_New_Order
@@ -593,13 +580,6 @@ msgstr "Akladiai klántag"
 
 #. [unit_type]: id=Akladian Clansman, race=akladian
 #: A_New_Order/units/akladians/Akladian_Clansman.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Akladian Clansmen are core of Akladian tribes. They are raised in culture "
-#| "promoting violence and hearing from childhood that their destination is "
-#| "to rule over the world. While very lightly armoured and badly armed they "
-#| "still can be dangerous, especially when used in larger groups. They are "
-#| "recruited only for defense of their kingdoms."
 msgid ""
 "Akladian Clansmen are the core of the Akladian tribes. They are raised in a "
 "culture promoting violence and hearing from childhood that their destination "
@@ -624,11 +604,6 @@ msgstr "Akladiai csodatévő"
 
 #. [unit_type]: id=Akladian Wonderman, race=akladian
 #: A_New_Order/units/akladians/Akladian_Wonderman.cfg:27
-#, fuzzy
-#| msgid ""
-#| "Very rare amongst Akladian tribes, Wonderman are those who spend their "
-#| "whole life studying ways of healing. They do not ignore even experiences "
-#| "of Wesnothians, and learned few valuable tricks in process."
 msgid ""
 "Very rare amongst Akladian tribes, Wonderman are those who have spent their "
 "whole life studying ways of healing. They have even learned from the "
@@ -658,11 +633,6 @@ msgstr "Akladiai harcos"
 
 #. [unit_type]: id=Akladian Warrior, race=akladian
 #: A_New_Order/units/akladians/Akladian_Warrior.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Spending their times in constant fights and raids, many Akladian clansmen "
-#| "become warriors, joining army not only in defense but also in raids "
-#| "against neighbouring lands."
 msgid ""
 "Spending their times in constant fights and raids, many Akladian clansmen "
 "become warriors, joining armies not only in defense, but also in raids "
@@ -670,7 +640,7 @@ msgid ""
 msgstr ""
 "A klántagok a folyamatos harcoknak és portyáknak köszönhetően harcossá "
 "érnek, s csatlakoznak a seregekhez, nemcsak a védelemben, hanem a szomszédos "
-"földekre irányuló portyákban is. "
+"földekre irányuló portyákban is."
 
 #. [unit_type]: id=Akladian Wiseman, race=akladian
 #: A_New_Order/units/akladians/Akladian_Wiseman.cfg:4
@@ -679,10 +649,6 @@ msgstr "Akladiai bölcs"
 
 #. [unit_type]: id=Akladian Wiseman, race=akladian
 #: A_New_Order/units/akladians/Akladian_Wiseman.cfg:31
-#, fuzzy
-#| msgid ""
-#| "Akladian Wisemans are those very few from tribes, who study herbs and "
-#| "ways to heal, instead to harm and kill people"
 msgid ""
 "Akladian Wisemans are those very few from the tribes, who study herbs and "
 "ways to heal, instead of how to harm and kill people."
@@ -698,19 +664,14 @@ msgstr "Akladiai vezér"
 
 #. [unit_type]: id=Akladian Leader, race=akladian
 #: A_New_Order/units/akladians/Akladian_Leader.cfg:28
-#, fuzzy
-#| msgid ""
-#| "Some of the Akladian warriors because of their personal achievements or "
-#| "their descendency are leading the others, starting their career which "
-#| "some day may result in leading the whole tribe."
 msgid ""
 "Some of the Akladian warriors, because of their personal achievements or "
 "their heritage, are charged with leading the others, starting their career "
 "which some day may result in leading the whole tribe."
 msgstr ""
-"Az akladiai harcosok személyes adottságaik vagy származásuk okán mások "
-"vezetőivé lettek, ráléptek arra az útra, amely egy napon a törzs vezetéséhez "
-"is elvezethet."
+"Az akladiai harcosok némelyike személyes adottságaik vagy származásuk okán "
+"mások vezetőivé lettek, ráléptek arra az útra, amely egy napon a törzs "
+"vezetéséhez is elvezethet."
 
 #. [unit_type]: id=Akladian Lord, race=akladian
 #: A_New_Order/units/akladians/Akladian_Lord.cfg:4
@@ -719,16 +680,12 @@ msgstr "Akladiai úr"
 
 #. [unit_type]: id=Akladian Lord, race=akladian
 #: A_New_Order/units/akladians/Akladian_Lord.cfg:28
-#, fuzzy
-#| msgid ""
-#| "Those of chieftain who gained enough reputation and fame may end as "
-#| "leaders of whole tribes."
 msgid ""
 "Those chieftains who gained enough reputation and fame may end up as leaders "
 "of whole tribes."
 msgstr ""
-"Azok a törzsfőnökök, akik elég tiszteletet és megbecsülést vívtak ki "
-"maguknak, végül a teljes törzs vezetőjévé válhatnak."
+"Azok a vezérek, akik elég tekintélyt és megbecsülést vívtak ki maguknak, "
+"végül a teljes törzs vezetőjévé válhatnak."
 
 #. [unit_type]: id=Akladian Holyman, race=akladian
 #: A_New_Order/units/akladians/Akladian_Holyman.cfg:4
@@ -737,15 +694,11 @@ msgstr "Akladiai szent"
 
 #. [unit_type]: id=Akladian Holyman, race=akladian
 #: A_New_Order/units/akladians/Akladian_Holyman.cfg:27
-#, fuzzy
-#| msgid ""
-#| "Devoting their whole life to task of healing and curing, Akladian "
-#| "Holymans are respected amongst tribes, and useful to Akladian lords."
 msgid ""
 "Devoting their whole life to the task of healing and curing, Akladian "
 "Holymans are respected amongst the tribes, and useful to Akladian lords."
 msgstr ""
-"Egész életüket a gyógyításnak, méregűzésnek szentelve, az akladiai szentek "
+"Egész életüket a gyógyításnak, méregűzésnek szentelve az akladiai szentek "
 "nagy tiszteletnek örvendenek a törzsek közt, s az urak is nagy hasznukat "
 "veszik."
 
@@ -756,11 +709,6 @@ msgstr "Akladiai éjlovag"
 
 #. [unit_type]: id=Akladian Darknite, race=akladian
 #: A_New_Order/units/akladians/Akladian_Darknite.cfg:24
-#, fuzzy
-#| msgid ""
-#| "After spending whole their life in constant fight, Darknites are "
-#| "excellent warriors and formidable opponents, hated and feared in world of "
-#| "Wesnoth. They know no pity and except none."
 msgid ""
 "After spending their whole life in constant fighting, Darknites are "
 "excellent warriors and formidable opponents, hated and feared in the world "
@@ -768,14 +716,12 @@ msgid ""
 msgstr ""
 "Mivel egész életüket harcban élik, az éjlovagok kiváló harcosok és "
 "félelmetes ellenségek, gyűlöltek és rettegettek Wesnoth világában. Nem "
-"irgalmaznak soha, és senkinek."
+"irgalmaznak soha senkinek, s maguknak sem kérnek kegyelmet."
 
 #. [attack]: type=blade
 #: A_New_Order/units/akladians/Akladian_Darknite.cfg:34
-#, fuzzy
-#| msgid "sword"
 msgid "greatsword"
-msgstr "kard"
+msgstr "pallos"
 
 #. [unit_type]: id=Akladian Sturmknight, race=akladian
 #: A_New_Order/units/akladians/Akladian_Sturmknight.cfg:4
@@ -784,15 +730,11 @@ msgstr "Akladiai viharlovag"
 
 #. [unit_type]: id=Akladian Sturmknight, race=akladian
 #: A_New_Order/units/akladians/Akladian_Sturmknight.cfg:24
-#, fuzzy
-#| msgid ""
-#| "Raids are well paid job and thanks to them many Akladians manage to equip "
-#| "themselves with better armour and weapons."
 msgid ""
 "Raids are well-paid jobs, and thanks to them many Akladians manage to equip "
 "themselves with better armour and weapons."
 msgstr ""
-"A portyák jól fizető vállalkozások, ezeknek köszönhetik az akladiaiak, hogy "
+"A portyák jól fizető vállalkozások, ezeknek köszönheti sok akladiai, hogy "
 "jobb fegyverekkel és vértekkel tudják felszerelni magukat."
 
 #. [unit_type]: id=Young Hagarthen, race=akladian
@@ -802,11 +744,6 @@ msgstr "Ifjú Hagarthen"
 
 #. [unit_type]: id=Young Hagarthen, race=akladian
 #: A_New_Order/units/akladians/Young_Hagarthen.cfg:28
-#, fuzzy
-#| msgid ""
-#| "The clan of Hagarthen was ruling the Akladian kingdoms for many "
-#| "generation. This heritage and this burden causes even young Hagarthen to "
-#| "try (sometimes without big results) to become better warriors than others."
 msgid ""
 "The clan of Hagarthen was ruling the Akladian kingdoms for many generations. "
 "This heritage and this burden causes even young Hagarthen men to try "
@@ -833,12 +770,6 @@ msgstr "Akladiai pikás"
 
 #. [unit_type]: id=Akladian Pikeneer, race=akladian
 #: A_New_Order/units/akladians/Akladian_Pikeneer.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Akladian Pikeneers are members of permanent personal armies of Akladian "
-#| "lords, being closest thing to regular army Akladians have. They receive "
-#| "all needed supplies and their weapons from their master, whom they owe "
-#| "personal loyalty."
 msgid ""
 "Akladian Pikeneers are members of permanent personal armies of Akladian "
 "lords, being the closest thing to a regular army that Akladians have. They "
@@ -868,17 +799,12 @@ msgstr "Akladiai vértes"
 
 #. [unit_type]: id=Akladian Shieldguard, race=akladian
 #: A_New_Order/units/akladians/Akladian_Shieldguard.cfg:24
-#, fuzzy
-#| msgid ""
-#| "Those of Akladians who can afford it, wear better armour forming units "
-#| "which become last stands of hope if the enemy seeking revenge for the "
-#| "raids siegs home settlements of the clans."
 msgid ""
 "Those Akladians who can afford it wear better armour, forming units which "
 "become the last strands of hope if the enemy is seeking revenge for Akladian "
 "raids, and then besieges the home settlements of the clans."
 msgstr ""
-"Azoki az akladiaiak, akik megtehetik, jobb fegyverekkel szerelkeznek fel, s "
+"Azok az akladiaiak, akik megtehetik, jobb fegyverekkel szerelkeznek fel, s "
 "ők alkotják a remény utolsó bástyáit, ha a portyák miatt bosszút álló "
 "ellenséges hadak a klánok otthonát ostromolják."
 
@@ -894,8 +820,6 @@ msgstr "Akladiai törzsfőnök"
 
 #. [unit_type]: id=Akladian Chieftain, race=akladian
 #: A_New_Order/units/akladians/Akladian_Chieftain.cfg:29
-#, fuzzy
-#| msgid "The best of Akladian warriors are choosed to lead their clans."
 msgid "The best of the Akladian warriors are chosen to lead their clans."
 msgstr "A legjobb akladiai harcosok, akiket a klán vezetésére megválasztottak."
 
@@ -906,16 +830,12 @@ msgstr "Akladiai portyázó"
 
 #. [unit_type]: id=Akladian Raider, race=akladian
 #: A_New_Order/units/akladians/Akladian_Raider.cfg:25
-#, fuzzy
-#| msgid ""
-#| "Many Akladians join the armies of their lords, making the war their true "
-#| "profession. War provides them sense of life and means of life."
 msgid ""
 "Many Akladians join the armies of their lords, making the war their true "
 "profession. War provides them both a sense of life and the means for life."
 msgstr ""
 "Sok akladiai csatlakozik ura seregéhez, hogy a háború művészetét "
-"főfoglalkozásként műveljék. A háború az életük értelme, és a háború "
+"főfoglalkozásként művelje. A háború az életük értelme, és a háború "
 "biztosítja a létfenntartásukat is."
 
 #. [race]: id=akladian
@@ -945,6 +865,29 @@ msgid ""
 "large amount of power). Those few old men that manage to survive are "
 "outcasts, regarded as cowards and shunned."
 msgstr ""
+"Az akladiaiak vad barbárok. A zord kelet született harcosai. Erősebbek, "
+"mozgékonyabbak és gyorsabbak, mint más népek fiai. Kultúrájuk teljesen a "
+"háborúra alapszik.\n"
+"\n"
+"Egy istenben hisznek, aki számukra az egyetlen. Azt vallják, hogy istenük "
+"adta nekik a világot, amivel azt tehetnek, amit csak akarnak. Választott "
+"népnek hiszik magukat — a többi népet alsóbbrendűnek tekintik. Mítoszaik "
+"elmondják, hogy egy hamis angyal rabságban tartotta őket, mígnem az első "
+"Hagarthen lázadást szított, s kivezette a népet a fogságból sivatagokon, "
+"mocsarakon, erdőkön keresztül.\n"
+"Csak a kardban hisznek, mivel ezt tekintik az igazi fegyvernek, amit "
+"forgatni a legmerészebb dolog, de a legbonyolultabb dolog uralni — ezért ezt "
+"már igen korán elkezdik tanulni az akladiaiak. Az íjat és más messzehordó "
+"fegyvereket használó népeket gyávának tekintik. Gyűlölik a tündéket, akiket "
+"csak Zöld Ördögöknek neveznek, s lenézik a mágusokat is.\n"
+"\n"
+"Kevés férfi éri meg az idős kort, mivel legtöbbjük áldozatul esik a "
+"folyamatos háborúskodásnak, amelyet az uralkodó s az előkelők vívnak "
+"egymással vagy más népekkel ( mivel az akladiaiak természetükből fakadóan "
+"nem alkotnak egységes nemzetet, s sokan közülük ellenérzéssel viseltetnek az "
+"uralkodó elit iránt, amely túl nagy hatalmat birtokol ). A kevés öreg férfi, "
+"akinek mégis sikerül megérni az idős kort, kirekesztetté válik, mivel "
+"gyávának és nyúlszívűnek tartják őket."
 
 #. [race]: id=akladian
 #: A_New_Order/units/_main.cfg:11
@@ -980,39 +923,52 @@ msgid ""
 "Arglebargle,Aeioeeu,Aieoiu,Genghis,Kublai,Eeoeeu,Barburien,Trevoree,"
 "Burbarurkian"
 msgstr ""
+"Reuke,Aorenor,Reme,Terao,Aoeree,Reeoe,Larao,Borien,Rouenoe,Eoleree,Leenore,"
+"Oreoke,Lauroe,Rumethe,Theorien,Rukeen,Aeorei,Raori,Neiae,Ien,Ian,Iain,"
+"Ioeneree,Karnee,Kromoe,Kreneo,Savireo,Raulien,Urenaye,Yeorgh,Yeorimo,"
+"Quenerien,Thurimarien,Mariaele,Orieo,Boraeo,Uriliaen,Eoremar,Rioulien,Naiyen,"
+"Barukee,Rauoli,Graeme,Graukin,Ruke,Urke,Erke,Reeanoo,Mareele,Eolan,Eolorien,"
+"Iree,Stromeoeo,Reonee,Raoke,Oyre,Auree,Aueree,Oeme,Moro,Moreo,Nome,Oeame,"
+"Roule,Moerro,Urheare,Mirro,Umeari,Rioto,Lioato,Moerre,Reuluigi,Raole,Quivre,"
+"Kariv,Rouke,Raban,Marlin,Burke,Barien,Eesterregge,Barbarbar,Burien,Telen,"
+"Dulen,Beren,Buren,Boren,Rebarnon,Wutan,Askarial,Bark,Rurk,Rauke,Dauri,Conan,"
+"Larkin,Aire,Raven,Rumpel,Cimper,Camper,Gauri,Attila,Alaric,Odoacer,Theodoric,"
+"Gaeseric,Geiseric,Genseeriec,Euriac,Odaovacer,Totila,Huneric,Hilderic,"
+"Beowuelfe,Atreides,Enkidu,Tamerlan,Timuree,Turanee,Kimeree,Skythike,Touman,"
+"Arglebargle,Aeioeeu,Aieoiu,Genghis,Kublai,Eeoeeu,Barburien,Trevoree,"
+"Burbarurkian"
 
 #. [race]: id=akladian
 #. I don't think this female_names list actually gets used anywhere; feel free to skip:
 #: A_New_Order/units/_main.cfg:19
-#, fuzzy
-#| msgid ""
-#| "Lorin,Laorin,Aoerin,Uyenaya,Rianna,Yeorienna,Thurienna,Marioellin,Eena"
 msgid ""
 "Lorin,Laorin,Aoerin,Uyenaya,Rianna,Yeorienna,Thurienna,Marioellin,Eena,"
 "Nemaara,Xena,Ayla"
-msgstr "Lorin,Laorin,Aoerin,Uyenaya,Rianna,Yeorienna,Thurienna,Marioellin,Eena"
+msgstr ""
+"Lorin,Laorin,Aoerin,Uyenaya,Rianna,Yeorienna,Thurienna,Marioellin,Eena,"
+"Nemaara,Xena,Ayla"
 
 #. We can't assume gender here, so word this in a gender-neutral fashion:
 #: A_New_Order/macros/items.cfg:18
 msgid "$unit.name finds some snowshoes. Put them on?"
-msgstr ""
+msgstr "$unit.name talál egy pár hócipőt. Felvegye?"
 
 #: A_New_Order/macros/items.cfg:19
 msgid "snowshoes^Take them"
-msgstr ""
+msgstr "Vegye fel!"
 
 #: A_New_Order/macros/items.cfg:20
 msgid "snowshoes^Leave them"
-msgstr ""
+msgstr "Hagyja ott!"
 
 #: A_New_Order/macros/items.cfg:21
 msgid "$unit.name finds some snowshoes, but can't put them on."
-msgstr ""
+msgstr "$unit.name talál egy számára használhatatlan hócipőt."
 
 #. [object]: id={ID}
 #: A_New_Order/macros/items.cfg:25
 msgid "Snowshoes"
-msgstr ""
+msgstr "Hócipő"
 
 #. [object]: id={ID}
 #: A_New_Order/macros/items.cfg:27
@@ -1020,22 +976,22 @@ msgid ""
 "Snowshoes grant their wearers greater mobility on frozen terrain, such as "
 "snow!"
 msgstr ""
+"A hócipő könnyű járást biztosít viselőjének a havas, illetve a fagyott "
+"területeken."
 
 #. [trait]: id=snow_shoes
 #: A_New_Order/macros/items.cfg:40
 msgid "snowshoes"
-msgstr ""
+msgstr "hócipő"
 
 #. [trait]: id=snow_shoes
 #: A_New_Order/macros/items.cfg:41
 msgid "The snowshoes allow movement on frozen terrain."
-msgstr ""
+msgstr "Hócipőben a fagyott területeken lehet járni."
 
 #. [message]: speaker=unit
 #. Kyobaine, female Elf
 #: A_New_Order/macros/elvish_macros.cfg:11
-#, fuzzy
-#| msgid "I will never again see our beautiful forests.."
 msgid "I will never again see our beautiful forests..."
 msgstr "Sosem látom újra a gyönyörű erdeinket..."
 
@@ -1048,11 +1004,9 @@ msgstr "Nézzétek, így hal meg egy tünde: félelem nélkül!"
 #. [message]: speaker=unit
 #. Elorain, female Elf
 #: A_New_Order/macros/elvish_macros.cfg:35
-#, fuzzy
-#| msgid "Now, I will meet best marksman.. Death never misses."
 msgid "Now, I will meet the best marksman... Death never misses."
 msgstr ""
-"Találkozom a legkiválóbb mesterlövészekkel... A halál sosem véti el a célt."
+"Találkozom a legkiválóbb mesterlövésszel... A halál sosem véti el a célt."
 
 #. [message]: speaker=Elorain
 #: A_New_Order/macros/elvish_macros.cfg:51
@@ -1069,22 +1023,18 @@ msgstr "Ha! $ano_milildur_$random "
 #. The message 'I fought with you for so many battles..' etc. will be spoken by both male, Milildur, and Elorain, female. Make it gender neutral.
 #: A_New_Order/macros/elvish_macros.cfg:79
 #: A_New_Order/macros/elvish_macros.cfg:96
-#, fuzzy
-#| msgid ""
-#| "My lord, I fought with you so many battles.. I can accept money from you "
-#| "no more. Please, treat me like a friend, not like a hired soldier."
 msgid ""
 "My lord, I fought with you for so many battles... I can accept money from "
 "you no more. Please, treat me like a friend, not like a hired soldier."
 msgstr ""
 "Uram, oly sok csatában harcoltam már melletted... nem fogadhatok el több "
-"pénzt tőled. Kérlek tekints rám barátként, s ne egy toborzott zsoldosként."
+"pénzt tőled. Kérlek tekints rám barátként, s ne egy toborzott zsoldosként!"
 
 #. [event]
 #. a more phonetic spelling of "Ahem" (noise made when clearing one's throat):
 #: A_New_Order/macros/elvish_macros.cfg:114
 msgid "Ekhem."
-msgstr ""
+msgstr "Khmmm."
 
 #. [event]
 #. [then]
@@ -1099,12 +1049,12 @@ msgstr "Tessék?"
 #. Gawen is speaking to Kyobaine, an elvish woman. He is repeating what Milildur and Elorain were earlier speaking; these strings should be similar. Elorain earlier said: My lord, I fought with you so many battles etc
 #: A_New_Order/macros/elvish_macros.cfg:118
 msgid "Well, you fought with me so many battles..."
-msgstr ""
+msgstr "Nos, oly sok csatában harcoltál már mellettem..."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:120
 msgid "...Aaand?"
-msgstr ""
+msgstr "...Éééésss?"
 
 #. [event]
 #. again, see previously:
@@ -1113,17 +1063,18 @@ msgid ""
 "Well, you know, I thought that I should no longer treat you like a hired "
 "soldier..."
 msgstr ""
+"Nos, szóval arra gondoltam, hogy te már nem is egy toborzott zsoldos vagy..."
 
 #. [event]
 #. "ask me out" as in, on a date:
 #: A_New_Order/macros/elvish_macros.cfg:124
 msgid "What?!? Are you trying to ask me out or something?"
-msgstr ""
+msgstr "Mi van?!? Meg akarsz környékezni vagy valami ilyesmit?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:125
 msgid "...Eee?"
-msgstr ""
+msgstr "...Ööö?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:126
@@ -1133,6 +1084,10 @@ msgid ""
 "Good. Let's get back to the business. And don't forget about my 20 gold "
 "pieces."
 msgstr ""
+"Ne vedd sértésnek, de... ez nem olyan, hogy én gyűlölöm a férfiakat úgy "
+"általában. Inkább arról van szó, hogy én a kevésbé szőröseket kedvelem. És a "
+"kevésbé... embereket. Van még valami más? Nincs? Jól van. Akkor beszéljünk "
+"inkább az üzletről! És ne feledkezz el a 20 aranyamról!"
 
 #. [event]
 #. Kyobaine advances to Elvish Druid
@@ -1141,6 +1096,8 @@ msgid ""
 "How on earth I am supposed to walk in these clothes during winter? It's "
 "frigging cold!"
 msgstr ""
+"Az isten szerelmére, ilyen rongyokban kell járnom télen? Csontig hatol a "
+"hideg!"
 
 #. [event]
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
@@ -1148,13 +1105,12 @@ msgstr ""
 msgid ""
 "Oooh, no. I refuse to fight in these conditions, as long as I'm clad as such."
 msgstr ""
+"Óh, nem! Ilyen állapotban nem harcolok, csak ha megfelelően felruházkodom."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:161
-#, fuzzy
-#| msgid "What do you mean by that?"
 msgid "What do you mean? Your clothes are just fine."
-msgstr "Mire célzol?"
+msgstr "Mire célzol? A ruházatod tökéletesen megfelelő."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:163
@@ -1162,16 +1118,18 @@ msgid ""
 "<i>For the spring</i>. The least you can do is to give me proper shoes. You "
 "expect me to walk in this snow <i>barefoot</i>??"
 msgstr ""
+"<i>Persze, tavasszal.</i>A legkevesebb, hogy egy megfelelő cipőt adsz nekem. "
+"Azt akarod, hogy a hóban <i>mezítláb</i> járjak??"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:164
 msgid "That's ridiculous."
-msgstr ""
+msgstr "Ez felháborító!"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:165
 msgid "I couldn't agree more. Call me when you have new shoes."
-msgstr ""
+msgstr "Nincs igazad. Szólj, ha beszerezted az új cipőmet!"
 
 #. [event]
 #. [scenario]: id=25_The_Awakening
@@ -1195,14 +1153,12 @@ msgstr "Rendben..."
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:168
 msgid "All right, how about I give you 25 gold pieces instead of 20?"
-msgstr ""
+msgstr "Rendben, mit szólnál hozzá, ha 20 helyett 25 aranyat adnék?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:169
-#, fuzzy
-#| msgid "All right, I accept your offer."
 msgid "All right, we will wait for the spring."
-msgstr "Rendben, elfogadom az ajánlatodat."
+msgstr "Rendben, megvárjuk a tavaszt."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:171
@@ -1210,32 +1166,28 @@ msgid ""
 "You think you can bribe me, an elvish druid, with gold? Oh well. This will "
 "allow me to buy better winter clothes."
 msgstr ""
+"Azt hiszed, hogy engem, egy tünde druidát arannyal le tudsz kenyerezni? Na "
+"jó. Végül is ebből jobb téli ruhát tudok venni."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:183
 msgid "Hey, give back my gold!"
-msgstr ""
+msgstr "Hé, add vissza az aranyamat!"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:187
 msgid "Stingy bastard."
-msgstr ""
+msgstr "Sóher krapek."
 
 #: A_New_Order/macros/ano_macros.cfg:422
-#, fuzzy
-#| msgid "getunit $x1 : $y1 : $ano_tmp.id"
 msgid "getunit $x1 : $y1 : $ano_tmp.description"
-msgstr "getunit $x1 : $y1 : $ano_tmp.id"
+msgstr "getunit $x1 : $y1 : $ano_tmp.description"
 
 #: A_New_Order/macros/ano_macros.cfg:426
 msgid "getunit $x1 : $y1 : $ano_tmp.id"
 msgstr "getunit $x1 : $y1 : $ano_tmp.id"
 
 #: A_New_Order/macros/ano_macros.cfg:864
-#, fuzzy
-#| msgid ""
-#| "This is debug message. If you see it, then it means I forgot to delete it "
-#| "from release scenario."
 msgid ""
 "This is a debug message. If you see it, then it means I forgot to delete it "
 "from the release scenario."
@@ -1245,10 +1197,6 @@ msgstr ""
 
 #. trailing space is intentional here:
 #: A_New_Order/macros/ano_macros.cfg:873
-#, fuzzy
-#| msgid ""
-#| "This is debug message. If you see it, then it means I forgot to delete it "
-#| "from release scenario."
 msgid ""
 "This is a debug message. If you see it, then it means I forgot to delete it "
 "from the release scenario. "
@@ -1283,11 +1231,6 @@ msgstr "Megjegyzés a küldetéshez:"
 
 #. [part]
 #: A_New_Order/macros/conversations.cfg:4
-#, fuzzy
-#| msgid ""
-#| "When the battle was ended, many bodies were found on fields near Barnon; "
-#| "but Gawen's body was not among them. Furious, Bor Cryne ordered a search "
-#| "of the whole battlefield, but the efforts of his men proved fruitless."
 msgid ""
 "When the battle had ended, many bodies were found on fields near Barnon, but "
 "Gawen's body was not among them. Furious, Bor Cryne ordered a search of the "
@@ -1295,7 +1238,7 @@ msgid ""
 msgstr ""
 "Amikor a csata véget ért, Barnon mellett rengeteg holttest feküdt; de Gawen "
 "holtteste nem került elő. A tomboló Bor Cryne elrendelte, hogy újra "
-"vizsgálják át a csatamezőt, de az átvizsgálás sem járt eredménnyel. "
+"vizsgálják át a csatamezőt, de az újravizsgálás sem járt eredménnyel."
 
 #. [part]
 #: A_New_Order/macros/conversations.cfg:8
@@ -1309,8 +1252,6 @@ msgstr ""
 "katonák arcán."
 
 #: A_New_Order/macros/conversations.cfg:15
-#, fuzzy
-#| msgid "I can't believe this happened... He's dead.."
 msgid "I can't believe this happened... He's dead..."
 msgstr "Nem hiszem el, hogy ez megtörténhetett... Meghalt..."
 
@@ -1339,11 +1280,6 @@ msgid "I... I'm sorry Reme. I just... What we are going to do now?"
 msgstr "Én... Sajnálom, Reme. Én csak... Mihez kezdünk most?"
 
 #: A_New_Order/macros/conversations.cfg:20
-#, fuzzy
-#| msgid ""
-#| "We? There is no we, Lady Lorin. I have orders to bring you to a safe "
-#| "place, and I will do it. After that we will part ways. I will allow you "
-#| "to choose five of my best warriors and that's it."
 msgid ""
 "We? There is no we, Lady Lorin. I have orders to bring you to a safe place, "
 "and I will do so. After that we will part ways. I will allow you to choose "
@@ -1354,8 +1290,6 @@ msgstr ""
 "útjaink. Kiválaszthatod az öt legjobb harcosomat testőrnek, s ennyi."
 
 #: A_New_Order/macros/conversations.cfg:21
-#, fuzzy
-#| msgid "But.. But.."
 msgid "But... But..."
 msgstr "De... De..."
 
@@ -1405,15 +1339,9 @@ msgstr ""
 "után fiai alapítottak. Itt Buffin Hagarthen uralkodott, egy gyanakvó és "
 "maradi öregúr. Képes volt elfojtani a wesnothiak lázadását az országában, "
 "már a negyediket uralkodásának kezdete óta, s ezért nagyon óvatos és "
-"előrelátó uralkodó hírében állt. "
+"előrelátó uralkodó hírében állt."
 
 #: A_New_Order/macros/conversations.cfg:42
-#, fuzzy
-#| msgid ""
-#| "It's strange, but I have a premonition of succes, the likes of which I "
-#| "have had never before. Our soldiers are really the best of their kind; "
-#| "the true elite. It's been more than a month since we left Raedwood, and "
-#| "we have already routed forces larger than ours."
 msgid ""
 "It's strange, but I have a premonition of success, the likes of which I have "
 "had never before. Our soldiers are really the best of their kind; the true "
@@ -1422,7 +1350,7 @@ msgid ""
 msgstr ""
 "Különös, de most bízom a sikerben, pedig korábban nem hittem. A mi katonáink "
 "tényleg a legjobbak, igazi szuperhősök. Jó hónapja hagytuk el Raedwoodot, s "
-"máris megsemmisítettünk egy nálunknál nagyobb sereget."
+"máris megsemmisítettünk egy a miénknél nagyobb sereget."
 
 #: A_New_Order/macros/conversations.cfg:44
 msgid "A month? Are you sure it's been more than a month?"
@@ -1474,10 +1402,6 @@ msgstr ""
 "Uram, nem szeretnék zavarni, de a felderítőink ellenséges sereget jeleztek."
 
 #: A_New_Order/macros/conversations.cfg:67
-#, fuzzy
-#| msgid ""
-#| "Hmm.. It seems we will have to fight this army to continue our journey. "
-#| "It should be easy."
 msgid ""
 "Hmm... It seems we will have to fight this army to continue our journey. It "
 "should be easy."
@@ -1510,7 +1434,7 @@ msgid ""
 msgstr ""
 "Most, hogy elhagytuk Raedwoodot, meg kéne keresnünk Deorient. Valahol "
 "Okladiában kell lennie, egy másik akladiai királyságban, amelyet a "
-"nagybátyád ural. Bár, hogy pontosan hol is lakik, arról gőzünk sincs."
+"nagybátyád ural. Bár, hogy pontosan hol is lakik... arról gőzünk sincs."
 
 #: A_New_Order/macros/conversations.cfg:79
 msgid ""
@@ -1522,33 +1446,24 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/deaths.cfg:12 A_New_Order/macros/deaths.cfg:101
-#, fuzzy
-#| msgid "I can't hold my sword anymore.. I can't ..."
 msgid "I can't hold my sword anymore... I can't..."
 msgstr "Többé nem vehetem kézbe a kardomat... Soha többé..."
 
 #. [event]
 #: A_New_Order/macros/deaths.cfg:22
-#, fuzzy
-#| msgid "My ancestors, I am coming to you! I hope I have not failed you.."
 msgid "My ancestors, I am coming to you! I hope I have not failed you..."
-msgstr ""
-"Őseim, megtérek hozzátok! Remélem méltó voltam hozzátok, s befogadtok..."
+msgstr "Őseim, megtérek hozzátok! Remélem, méltó voltam hozzátok..."
 
 #. [event]
 #: A_New_Order/macros/deaths.cfg:33
-#, fuzzy
-#| msgid "I'm not afraid.. I would just want to smoke a little longer.."
 msgid "I'm not afraid... I would just want to smoke a little longer..."
 msgstr "Nincs bennem félelem... Csak még egy kicsit füstölhetnék..."
 
 #. [event]
 #: A_New_Order/macros/deaths.cfg:43 A_New_Order/scenarios/23_Trapped.cfg:580
 #: A_New_Order/scenarios/23_Trapped.cfg:593
-#, fuzzy
-#| msgid "Khalifa die without fear!"
 msgid "Dunefolk die without fear!"
-msgstr "Az khalifatok félelem nélkül halnak meg!"
+msgstr "A dűnelakók félelem nélkül halnak meg!"
 
 #. [event]
 #: A_New_Order/macros/deaths.cfg:62
@@ -1665,15 +1580,12 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-01_06macros.cfg:105
-#, fuzzy
-#| msgid ""
-#| "Who sent me? Fate! And there will be others after me. (scream of pain) "
-#| "Aaaargh!"
 msgid ""
 "Who sent me? Fate! And there will be others after me. (<i>scream of pain</"
 "i>) Aaaargh!"
 msgstr ""
-"Ki küldött? A sors... S mások is jönnek utánam. (fájdalmas sikoly) Ááááhhh!"
+"Ki küldött? A végzet! S mások is jönnek utánam. (<i>velőtrázó sikoly <i>) "
+"Ááááhhh!"
 
 #. [event]
 #: A_New_Order/macros/ano-01_06macros.cfg:106
@@ -1687,12 +1599,6 @@ msgstr "Úrnőm, kérlek, hagyd abba, ez csak egy szerencsétlen..."
 
 #. [event]
 #: A_New_Order/macros/ano-01_06macros.cfg:108
-#, fuzzy
-#| msgid ""
-#| "I can't tell you! (Aaargh) I don't know his name! I was given this task "
-#| "by our elders... of the Outlaw Place. All I know is one of Akladian lords "
-#| "paid us in gold! The price for the Hagarthens was three hundred gold "
-#| "pieces for the father and two hundred for the son! Aiieeee!!!"
 msgid ""
 "I can't tell you! (Aaargh) I don't know his name! I was given this task by "
 "our elders... of the Outlaw Place. All I know is one of the Akladian lords "
@@ -1768,40 +1674,28 @@ msgid ""
 "You really thought I would send my son to Vattin? You are so easy to fool! "
 "That boy at Vattin is not of my blood. Now, prepare to go straight to hell."
 msgstr ""
-"Hát valóban azt hitted, hogy az igazi fiamat küldöm Vattinba? Nagyon naív "
+"Hát valóban azt hitted, hogy az igazi fiamat küldöm Vattinba? Nagyon naiv "
 "vagy! Az elsőszülöttemet nem küldtem el Vattinba. Most pedig készüljetek, a "
 "pokolra küldünk benneteket!"
 
 #: A_New_Order/macros/ano-01_06macros.cfg:191
-#, fuzzy
-#| msgid ""
-#| "This isn't a total surprise to me. My king, we have to escape. We have "
-#| "two ways to out of this trap: one to the west..."
 msgid "This isn't a total surprise to me. My king, we have to escape."
 msgstr ""
 "Nem igazán lep meg a dolgok ilyetén alakulása. Királyom, ki kell vágnunk "
-"magunkat. Két út is kínálkozik: az egyik nyugatra..."
+"magunkat!"
 
 #: A_New_Order/macros/ano-01_06macros.cfg:192
 msgid "How?"
-msgstr ""
+msgstr "Hogyan?"
 
 #. this was previously part of Reme's previous string, but I split it off to make the player pay more attention:
 #: A_New_Order/macros/ano-01_06macros.cfg:194
-#, fuzzy
-#| msgid ""
-#| "This isn't a total surprise to me. My king, we have to escape. We have "
-#| "two ways to out of this trap: one to the west..."
 msgid "We have two ways to out of this trap: there is one way to the west..."
-msgstr ""
-"Nem igazán lep meg a dolgok ilyetén alakulása. Királyom, ki kell vágnunk "
-"magunkat. Két út is kínálkozik: az egyik nyugatra..."
+msgstr "Két út is kínálkozik: az egyik nyugatra..."
 
 #: A_New_Order/macros/ano-01_06macros.cfg:208
-#, fuzzy
-#| msgid "...and another to the east."
 msgid "...and another way to the east."
-msgstr "A másik pedig keletre."
+msgstr "… a másik pedig keletre."
 
 #: A_New_Order/macros/ano-01_06macros.cfg:222
 msgid "Which one is better?"
@@ -1851,15 +1745,13 @@ msgid ""
 "safely out of this mess. And make sure to bring some loyal guards with you, "
 "too!"
 msgstr ""
+"Ez parancs! Reme, ha elfutnék a csatából, ki tisztelne ezek után? Hidd el, "
+"nem rohanok a halálba! Neked különben is élned kell: parancsot adtam, hogy "
+"kísérd Lady Lorint biztonságos helyre. És vigyél magaddal néhány megbízható "
+"testőrt is!"
 
 #. [objectives]
 #: A_New_Order/macros/ano-01_06macros.cfg:234
-#, fuzzy
-#| msgid ""
-#| "Any unit which reaches either signpost will be evacuated. Units not "
-#| "recalled will be lost. Gawen must not escape, or he would be considered "
-#| "an unworthy coward by his soldiers. You will get a bonus for each turn "
-#| "resisted beyond the required limit."
 msgid ""
 "Any unit which reaches either signpost will be evacuated and join Lorin and "
 "Reme's party. Gawen will be refunded the cost of evacuated loyal units. "
@@ -1868,10 +1760,11 @@ msgid ""
 "soldiers. Lorin will get a bonus for each turn Gawen resists beyond the "
 "required limit."
 msgstr ""
-"Bármelyik egység, amelyik eléri valamelyik útjelzőt, megmenekül. Azok az "
-"egységek, amelyeket nem hívsz vissza, elvesznek. Gawen nem szökhet meg, "
-"különben gyáva nyúlként tekintenének rá a harcosai. Jutalmat kapsz minden "
-"plusz körért, amíg a szükséges szám felett kitartasz."
+"Bármelyik egység, amelyik eléri valamelyik útjelzőt, megmenekül és "
+"csatlakozik Lorin és Reme csapatához. Azok az egységek, amelyeket nem hívsz "
+"vissza, elvesznek. Gawen nem szökhet meg, különben gyáva nyúlként "
+"tekintenének rá a harcosai. Jutalmat kapsz minden plusz körért, amíg a "
+"szükséges szám felett kitartasz."
 
 #. [objective]: condition=lose
 #: A_New_Order/macros/ano-01_06macros.cfg:240
@@ -1932,15 +1825,11 @@ msgstr "Légy óvatos, Reme Carrenemoe!"
 
 #. [else]
 #: A_New_Order/macros/ano-01_06macros.cfg:387
-#, fuzzy
-#| msgid "Respect, my king. Follow us as soon as possible"
 msgid "Respect, my king. Follow us as soon as possible!"
 msgstr "Tisztelettel, uram. Kövess minket, amint lehet!"
 
 #. [else]
 #: A_New_Order/macros/ano-01_06macros.cfg:388
-#, fuzzy
-#| msgid "Yes... of course. I'm afraid that means.. never."
 msgid "Yes... of course. I'm afraid that means... never."
 msgstr "Igen... persze. Amint lehet, vagyis... soha."
 
@@ -1957,22 +1846,22 @@ msgstr "Nem! Én nem hagylak el! Nem akarom! Haljunk meg együtt!"
 #. [else]
 #: A_New_Order/macros/ano-01_06macros.cfg:425
 msgid "Take her to safety, men!"
-msgstr "Helyezzétek biztonságba, emberek!"
+msgstr "Helyezzétek biztonságba, katonák!"
 
 #. [set_menu_item]: id=set_scenario
 #: A_New_Order/macros/debug.cfg:10
 msgid "set scenario"
-msgstr ""
+msgstr "küldetés beállítása"
 
 #. [message]: speaker=narrator
 #: A_New_Order/macros/debug.cfg:17
 msgid "Set scenario status to..."
-msgstr ""
+msgstr "Küldetés státuszának beállítása..."
 
 #. [option]
 #: A_New_Order/macros/debug.cfg:20
 msgid "this spot."
-msgstr ""
+msgstr "erre a pontra."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:20
@@ -2049,11 +1938,6 @@ msgstr ""
 "előkészítenek, mire megjössz."
 
 #: A_New_Order/macros/ano-20macros.cfg:54
-#, fuzzy
-#| msgid ""
-#| "Will you allow me to finish? Who said I have agreed? I want to be neither "
-#| "a king nor a messiah. Why me? Why not someone else? This is all insane! I "
-#| "will happily lead the army, but ..."
 msgid ""
 "Will you allow me to finish? Who said I have agreed? I want to be neither a "
 "king nor a messiah. Why me? Why not someone else? This is all insane! I will "
@@ -2065,14 +1949,6 @@ msgstr ""
 
 #. Translation note: 'doom' in the sense that Deorien uses here means 'fate' or 'destiny':
 #: A_New_Order/macros/ano-20macros.cfg:56
-#, fuzzy
-#| msgid ""
-#| "(sigh) Once again, it can't be anyone else. Only you can unite "
-#| "Wesnothians and Akladians, because only YOU are have the blood of the "
-#| "royal lines of both nations flowing in your veins. I thought I explained "
-#| "that to you already. I'm afraid you were born to this doom, Gawen, you "
-#| "have no choice... unless you want to leave this whole country in chaos, "
-#| "instead."
 msgid ""
 "(<i>sigh</i>) Once again, it can't be anyone else. Only you can unite "
 "Wesnothians and Akladians, because only YOU are have the blood of the royal "
@@ -2080,11 +1956,11 @@ msgid ""
 "you already. I'm afraid you were born to this doom, Gawen, you have no "
 "choice... unless you want to leave this whole country in chaos, instead."
 msgstr ""
-"Hajh. Még egyszer elmondom, más nem lehet. Csak te egyesítheted a "
-"wesnothiakat és az akladiaiakat, mert te vagy az EGYETLEN, aki mindkét "
-"királyi család sarja vagy. Azt hittem, már világosan elmagyaráztam. "
-"Egyszerűen nincs más választásod. Persze, elegánsan le is léphetsz, s "
-"káoszban hagyhatod az egész országot."
+"(<i>sóhaj</i>)  Még egyszer elmondom, mert más nem lehet. Csak te "
+"egyesítheted a wesnothiakat és az akladiaiakat, mert te vagy az EGYETLEN, "
+"aki mindkét királyi család sarja vagy. Azt hittem, már világosan "
+"elmagyaráztam. Egyszerűen nincs más választásod. Persze, elegánsan le is "
+"léphetsz, s káoszban hagyhatod az egész országot."
 
 #: A_New_Order/macros/ano-20macros.cfg:57
 msgid ""
@@ -2154,31 +2030,36 @@ msgstr "Há! Egy kis aranyat rejtettek el itt!"
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:373
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:473
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:655
-#, fuzzy
-#| msgid "You have received 20 gold pieces"
 msgid "You have received $gold_amt gold pieces."
-msgstr "Hozzájutsz 20 aranyhoz"
+msgstr "Hozzájutsz $gold_amt aranyhoz."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:142
 msgid ""
 "OOPS. There is a bug with looting Robert the Hefty's keep; please report it."
 msgstr ""
+"HOPPÁ! Hiba történt Izomrobi várának kifosztása során; kérlek jelezd a "
+"fórumon!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:182
 msgid "OOPS. There is a bug with looting Uri van Roe's keep; please report it."
 msgstr ""
+"HOPPÁ! Hiba történt Uri van Roe várának kifosztása során; kérlek jelezd a "
+"fórumon!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:205
 msgid "OOPS. There is a bug with looting Borlug's keep; please report it."
 msgstr ""
+"HOPPÁ! Hiba történt Borlug várának kifosztása során; kérlek jelezd a fórumon!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:228
 msgid "OOPS. There is a bug with looting Bor Cryne's keep; please report it."
 msgstr ""
+"HOPPÁ! Hiba történt Bor Cryne várának kifosztása során; kérlek jelezd a "
+"fórumon!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:269
@@ -2196,7 +2077,7 @@ msgid ""
 "as I know. But you, Cryne... you despoiled and then brutally killed Karen."
 msgstr ""
 "Én még sosem kínoztam foglyokat, s nem bántottam az ártatlanokat, amennyire "
-"tudom. De te, Cryne... Te megölted Karent."
+"tudom. De te, Cryne... Te meggyaláztad, majd kegyetlenül megölted Karent."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:271
@@ -2220,6 +2101,9 @@ msgid ""
 "tales of your deeds, and that is not your style. You, like Reme Carrenemoe, "
 "are honour incarnate and could never stoop so low."
 msgstr ""
+"Te nem teszel ilyet, korcs. Régóta ismerlek, s sokat hallottam dicső "
+"tetteidről, ez nem a te stílusod. Te, akárcsak Reme Carrenemoe, a "
+"megtestesült tisztesség vagy, te nem alacsonyodnál le ilyen mélyre."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:274
@@ -2302,7 +2186,7 @@ msgstr ""
 #. should be unreachable, but just in case:
 #: A_New_Order/macros/ano-20macros.cfg:299
 msgid "What was that? Speak up, you mumbler!"
-msgstr ""
+msgstr "Mi van? Artikulálj, ne motyogj!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:308
@@ -2364,17 +2248,13 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:319
-#, fuzzy
-#| msgid "Human.. killed me.. Human..."
 msgid "Human... killed me... Human..."
 msgstr "Ember... ölt meg... ember..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:320
-#, fuzzy
-#| msgid "Listen, orc.."
 msgid "Listen, orc..."
-msgstr "Idehallgass, ork..."
+msgstr "Hallgass ide, ork..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:321
@@ -2392,7 +2272,7 @@ msgid ""
 "Yes, a human killed you - and humans will kill all your soldiers, to the "
 "last orc..."
 msgstr ""
-"Ember ölt meg - és emberek fogják megölni az összes harcosodat, az utolsót "
+"Ember ölt meg - és emberek fogják megölni az összes harcosodat, az utolsó "
 "orkot is..."
 
 #. [event]
@@ -2407,7 +2287,7 @@ msgid ""
 "eternal enmity between our kinds, and our two races cannot live together on "
 "this world created by Mother Earth."
 msgstr ""
-"Sosem hallottam még, hogy egy ember így szóljon az orkokról... Szomorú, hogy "
+"Sosem hallottam még, hogy egy ember így szóljon az orkokhoz... Szomorú, hogy "
 "zsigeri gyűlölet él a népeink közt, s népeink nem élhetnek együtt "
 "békességben a Földanya teremtette világban."
 
@@ -2427,9 +2307,9 @@ msgid ""
 "I am asking myself, what for? Why should more of them die here? They would "
 "die here gaining nothing for themselves. Will you allow my warriors to leave?"
 msgstr ""
-"Ne, várj még... mielőtt meghalok... A harcosaim itt pusztulnak, de kérhetnék "
-"valamit tőled? Miért kellene még többüknek meghalnia? Meghalni a semmiért "
-"idegen földön. Hagynád őket, hogy elvonuljanak?"
+"Ne, várj még... mielőtt meghalok... A harcosaim itt pusztulnak, de most sem "
+"értem. hogy miért. Miért kellene még többüknek meghalnia? Meghalni a "
+"semmiért idegen földön. Hagynád őket, hogy elvonuljanak?"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:332
@@ -2439,7 +2319,7 @@ msgstr "Sajnos, nem kockáztathatok."
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:333
 msgid "I agree, as long as they immediately quit the field."
-msgstr ""
+msgstr "Egyetértek, ha azonnal eltűnnek innen."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:336
@@ -2455,7 +2335,9 @@ msgstr ""
 msgid ""
 "Yes, I will agree. I will let your soldiers go, but they must quit the field "
 "of battle immediately."
-msgstr "Nos, rendben van. Elmehetnek a harcosaid."
+msgstr ""
+"Nos, rendben van. Elmehetnek a harcosaid, de most azonnal szedjék a "
+"sátorfájukat."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:339
@@ -2475,10 +2357,8 @@ msgstr "Ne, várj még, ne halj meg - kérlek válaszolj pár kérdésemre..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:351
-#, fuzzy
-#| msgid "And why.. should I do it?"
 msgid "And why... should I do it?"
-msgstr "És miért... tenném?"
+msgstr "És miért... kellene megtennem?"
 
 #. [event]
 #. [scenario]: id=13_Scouting
@@ -2502,10 +2382,6 @@ msgstr "Mert a királyod kérdez."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:358
-#, fuzzy
-#| msgid ""
-#| "You are trying to scare me? Ha, ha.. I am dying already... And I won't "
-#| "tell you anything."
 msgid ""
 "You are trying to scare me? Ha, ha... I am dying already... And I won't tell "
 "you anything."
@@ -2515,8 +2391,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:360
-#, fuzzy
-#| msgid "My king? Ha, ha, that's funny.. I have no king..."
 msgid "My king? Ha, ha, that's funny... I have no king..."
 msgstr "Királyom? Ha, ha, de vicces vagy... nekem nincs királyom..."
 
@@ -2604,11 +2478,9 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:416
-#, fuzzy
-#| msgid "Yes... I remember it. Indeed, they bought poison from us. (cough)"
 msgid ""
 "Yes... I remember it. Indeed, they bought poison from us. (<i>cough</i>)"
-msgstr "Igen... Emlékszem. Valóban vettek tőlünk mérget. (köhög)"
+msgstr "Igen... Emlékszem. Valóban vettek tőlünk mérget. (<i>köhög</i>)"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:417
@@ -2626,11 +2498,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:419
-#, fuzzy
-#| msgid ""
-#| "Everything I've heard about your mother's death fits the symptoms of our "
-#| "poison perfectly. I can't be sure, of course, but I would guess that "
-#| "Lorin's clan bought the poison to kill your mother... (cough)"
 msgid ""
 "Everything I've heard about your mother's death fits the symptoms of our "
 "poison perfectly. I can't be sure, of course, but I would guess that Lorin's "
@@ -2638,20 +2505,16 @@ msgid ""
 msgstr ""
 "Abból, amit az édesanyád haláláról hallottam, ráismertem a mérgünkre. Persze "
 "száz százalékig nem lehetek benne biztos, de azt hiszem, hogy Lorin klánja "
-"szerezte be a mérget, amivel megmérgezték édesanyádat. (köhög)"
+"szerezte be a mérget, amivel megmérgezték édesanyádat. (<i>köhög</i>)"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:422
-#, fuzzy
-#| msgid ""
-#| "As an outlaw, you know probably a lot about poisons.. My mother was "
-#| "poisoned.. Do you know who could have done it?"
 msgid ""
 "As an outlaw, you know probably a lot about poisons... My mother was "
 "poisoned... Do you know who could have done it?"
 msgstr ""
-"Törvényen kívüliként biztosan sokat tudsz a mérgekről. Az édesanyámat "
-"megmérgezték... Tudsz róla valamit?"
+"Törvényenkívüliként biztosan sokat tudsz a mérgekről... Az édesanyámat "
+"megmérgezték... Nem tudod, ki tehette?"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:423
@@ -2690,16 +2553,12 @@ msgstr "Akladiai? Ki volt az?"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:428
-#, fuzzy
-#| msgid ""
-#| "Who else but Bor Cryne... <cough> If you have any other questions, hurry, "
-#| "because I can feel death is just a few steps from me..."
 msgid ""
 "Who else but Bor Cryne... (<i>cough</i>) If you have any other questions, "
 "hurry, because I can feel death is just a few steps from me..."
 msgstr ""
-"Ki más, mint Bor Cryne... (köhög) Ha még van kérdésed, igyekezz, érzem a "
-"halál lehelletét az arcomon..."
+"Ki más, mint Bor Cryne... (<i>köhög</i>) Ha még van kérdésed, igyekezz, "
+"érzem a halál leheletét az arcomon..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:438
@@ -2707,8 +2566,8 @@ msgid ""
 "One necromancer goes down - and the world seems a little bit brighter "
 "because of this."
 msgstr ""
-"Egy holtidéző megsemmisült - érzitek, hogy a világ is mintha megkönnyebbült "
-"volna..."
+"Egy holtidéző megsemmisült - érzitek, hogy a világ is mintha világosabbá "
+"vált volna."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:439
@@ -2716,15 +2575,10 @@ msgid ""
 "I am not really dying! I am just moving on from this existence to another "
 "level..."
 msgstr ""
-"Valójában nem halok meg! Éppencsak egy más létsíkra transzformálom magam..."
+"Valójában nem halok meg! Éppen csak egy más létsíkra transzformálom magam..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:444
-#, fuzzy
-#| msgid ""
-#| "Wait! You could be my right hand. You could be second only to the God "
-#| "ruling the world. All the gold of every continent, any woman, anyything "
-#| "you could dream of... "
 msgid ""
 "Wait! You could be my right hand. You could be second only to the God ruling "
 "the world. All the gold of every continent, any woman, anything you could "
@@ -2800,8 +2654,8 @@ msgid ""
 "Why such hate? I do not hate you. Why you are fighting us? The fruits of our "
 "defeat will be harvested by Grekulak alone."
 msgstr ""
-"Mi ez a féktelen gyűlölet? Én nem gyűlöllek téged. Miért harcoltok ellenünk? "
-"A mi megsemmisítésünk gyümölcseit csak Grekulak aratja le."
+"Miért ez a féktelen gyűlölet? Én nem gyűlöllek téged. Miért harcoltok "
+"ellenünk? A mi megsemmisítésünk gyümölcseit csak Grekulak aratja le."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:461
@@ -2853,8 +2707,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:473
-#, fuzzy
-#| msgid "That one wish I can grat you, Bor."
 msgid "That one wish I can grant you, Bor."
 msgstr "Teljesítem az utolsó kívánságodat, Bor."
 
@@ -2903,6 +2755,8 @@ msgid ""
 "I always was suspicious of you, Uri, even before you betrayed us... time for "
 "you to face God's punishment."
 msgstr ""
+"Mindig is gyanús voltál nekem, Uri, már az árulásod előtt is... Itt az "
+"ideje, hogy szembesülj Isten büntetésével."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:492
@@ -2912,13 +2766,15 @@ msgstr "Én ismerlek téged - már hallottam rólad! Haeltin Nőstényfarkasa!"
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:493
 msgid "Thank you, yes, I AM the She-wolf of Haeltin."
-msgstr "Ó, köszönöm, igen, én vagyok Haeltin Nőstényfarkasa."
+msgstr "Ó, köszönöm, igen, ÉN vagyok Haeltin Nőstényfarkasa."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:494
 msgid ""
 "Then it is not such a great disgrace as I thought to be felled by a woman..."
-msgstr "Akkor ez nem is akkora szégyen, mint azt először gondoltam..."
+msgstr ""
+"Akkor ez nem is akkora szégyen, mint azt először gondoltam, egy nő kezétől "
+"esni el..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:495
@@ -2979,18 +2835,21 @@ msgstr "Ááááhhhh!"
 msgid ""
 "Oh, for shame! He was more heavily wounded than I thought. He just passed "
 "away so suddenly... sorry..."
-msgstr "Ó, istenem! Túlzottan súlyos volt a sebe. Kimúlt."
+msgstr ""
+"Ó, istenem! Túlzottan súlyos volt a sebe. Túl hamar kimúlt... sajnálom..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:512
 msgid ""
 "This is for your outlaws' attack on the Carrenemoe clan, and my capture!"
 msgstr ""
+"Ezt a törvényenkívülijeid Carrenemoe klán elleni támadása miatt kapod, s az "
+"elfogásom miatt!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:518
 msgid "Wait, Reme, I had some questions I wanted to ask him!"
-msgstr ""
+msgstr "Várj Reme, lenne hozzá néhány kérdésem!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:519
@@ -2998,6 +2857,8 @@ msgid ""
 "I apologize, Gawen, the heat of battle got to me. I'll try not to let it "
 "happen again."
 msgstr ""
+"Sajnálom Gawen, a harc heve magával ragadott. Igyekszem uralkodni magamon, "
+"hogy újból ez ne történjen meg."
 
 #. [event]
 #. use of "me" instead of "my" here (and in Rob Roe's response) is to give him a bit of an accent:
@@ -3006,6 +2867,8 @@ msgid ""
 "Wait a minute... Rob Roe? What are you doing, me fellow Rob? What happened "
 "to our bandit fellowship?"
 msgstr ""
+"Várj egy kicsit... Rob Roe? Mit művelsz ejdes Robom? Mi van a cinkos "
+"barátságunkkal?"
 
 #. [event]
 #. "'snothing" is a contraction for "it's nothing":
@@ -3014,16 +2877,18 @@ msgid ""
 "Oh, you know how things go, me fellow Rob... allegiances change. 'snothing "
 "personal, you see... strictly business."
 msgstr ""
+"Tudod, hogy mennek a dolgok, ejdes Robom… a körülmények változnak, sémmi "
+"személyes... szigorúan csak üzlet."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:528
 msgid "Oh well, it figures..."
-msgstr ""
+msgstr "Igen, értem..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:533
 msgid "Oh no! A Necromancer. I hate all necromancers."
-msgstr ""
+msgstr "Jaj ne! Egy holtidéző. Gyűlölöm a holtidézőket."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:534
@@ -3031,6 +2896,8 @@ msgid ""
 "And? What will you do, stupid fleshbag? Ha ha, I am afraid of nothing! "
 "Nothing! Death will be just beginning of my path!"
 msgstr ""
+"És? Mit fogsz csinálni, húskupac? Hahaha, én nem félek semmitől! SEMMITŐL! A "
+"halál csak a kezdete az utamnak!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:535
@@ -3038,11 +2905,13 @@ msgid ""
 "Well, think about this: after I kill you I will cut off you head. Could you "
 "still be raised from the dead without your head? "
 msgstr ""
+"Nos, ezen gondolkodom: miután megöllek, levágom a fejed. Fej nélkül is "
+"vissza tudsz térni a halálból?"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:536
 msgid "Of course! Stupid woman, you know nothing about our art, don't you?"
-msgstr ""
+msgstr "Persze! Ostoba nőszemély, nem tudsz semmit a mi művészetünkről..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:537
@@ -3050,11 +2919,13 @@ msgid ""
 "Hm... You know, we Akladians have traditions about making sure someone is "
 "not brought back from the grave. Anyone have a wooden stick?"
 msgstr ""
+"Hmmm… Nekünk, akladiaiaknak vannak eszközeink arra, hogy megakadályozzuk a "
+"sírbatettek visszatérését. Van valakinél egy fapálca?"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:538
 msgid "Ha, ha, ha, you think that will work?"
-msgstr ""
+msgstr "Hahaha, azt hiszed, ez működik?"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:539
@@ -3063,6 +2934,9 @@ msgid ""
 "heart, cut off the head, and place it between the legs. We will start with "
 "the stick..."
 msgstr ""
+"Nincsenek tapasztalataim, de a legendáink szerint működik. Fapálcával "
+"átszúrni a szívet, levágni a fejet és a lábak közé helyezni. Akkor kezdjük a "
+"fapálcával..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:544
@@ -3075,10 +2949,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:545
-#, fuzzy
-#| msgid ""
-#| "Stupid woman, I am your God! I created you! Whole your race! You are "
-#| "mine, you will always be mine!"
 msgid ""
 "Stupid woman, I am your God! I created you! Your whole race! You are mine, "
 "you will always be mine!"
@@ -3097,8 +2967,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:558
-#, fuzzy
-#| msgid "Oh nooo... Woman.. Human woman has killed me.."
 msgid "Oh nooo... Woman... Human woman has killed me..."
 msgstr "Ó neee... egy nő... Egy asszony kezétől esem el..."
 
@@ -3151,10 +3019,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:580
-#, fuzzy
-#| msgid "What do you have to say now, Cryne? You heinous coward, you.. you.."
 msgid "What do you have to say now, Cryne? You heinous coward, you... you..."
-msgstr "És ehhez mit szólsz, Cryne? Te alávaló, herélt... "
+msgstr "És ehhez mit szólsz, Cryne? Te alávaló, herélt... te... te..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:581
@@ -3166,8 +3032,8 @@ msgid ""
 msgstr ""
 "Ha, ha, ha! Köpök rád, nemtelen! Mit sem változtathatsz már azon, hogy "
 "megvolt nekem a feleséged és a lányaid is! A lelked háborogva fog bolyongani "
-"az ősök földjén az idők végezetéig, s nem lesz aki továbbvigye az emlékedet, "
-"nem lesznek utódaid!"
+"az ősök földjén az idők végezetéig, s nem lesz, aki továbbvigye az "
+"emlékedet, nem lesznek utódaid!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:582
@@ -3197,7 +3063,7 @@ msgid ""
 "father's sins."
 msgstr ""
 "Mit akarsz tenni, Ruvio? Nem engedem, hogy Cryne gyermekén állj bosszút az "
-"apja bűne miatt."
+"apja bűnei miatt."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:591
@@ -3209,6 +3075,12 @@ msgid ""
 "quality that they will more than redeem the offenses that Bor himself has "
 "wrought upon the land."
 msgstr ""
+"Egy ujjal sem bántom Cryne fiát, uram - hiszen most már árva, szegény; "
+"örökbe szeretném fogadni, felnevelem őt, mint wesnothit és megtanítom neki "
+"azt, amit Bor nem taníthatott meg neki... nemesnek és tisztességesnek "
+"lenni... idővel talán még a Crynék vére is megváltozik saját jószántukból "
+"annyira, hogy nagyszerű tetteket visznek végbe, hogy lemossák a gyalázatot, "
+"amit az ősük, Bor vétett a világ ellen."
 
 #. [event]
 #. Translation note: 'timbre' refers to the richness or quality of a sound; the phrase 'all hear the timbre of your soul' is used here metaphorically to describe that Ruvio's response to Gawen demonstrates the richness and greatness of Ruvio's character:
@@ -3218,6 +3090,9 @@ msgid ""
 "timbre of your noble soul. You have my blessing... and my promise that I "
 "will help you, Ruvio."
 msgstr ""
+"Ruvio, öreg barátom, a szférák zenéjét hallom ki a szavaidból, amelyek "
+"tükrözik nemes lelkedet. Áldásom kísérje munkálkodásodat... de, ígérem, "
+"személyesen is segítek neked, Ruvio."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:599
@@ -3239,14 +3114,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:601
-#, fuzzy
-#| msgid ""
-#| "Wesnothians! Bunch of flabby wimps! Band of stinking lobs! (coughs) "
-#| "You... you..."
 msgid ""
 "Wesnothians! Bunch of flabby wimps! Band of stinking lobs! (<i>coughs</i>) "
 "You... you..."
-msgstr "Wesnothiak! Hitvány girhes népség! Büdös fajankók! (köhög) Te... te..."
+msgstr ""
+"Wesnothiak! Hitvány girhes népség! Büdös fajankók! (<i>köhög</i>) Te... te..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:602
@@ -3285,8 +3157,6 @@ msgstr "Mal-Raylal szelleme"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:682
-#, fuzzy
-#| msgid "Arise, my slave, arise! Why you are deaf to my calls?"
 msgid "Arise, my slave, arise! Why are you deaf to my calls?"
 msgstr "Emelkedj, szolgám, emelkedj fel a porból! Miért nem engedelmeskedsz?"
 
@@ -3295,6 +3165,8 @@ msgstr "Emelkedj, szolgám, emelkedj fel a porból! Miért nem engedelmeskedsz?"
 #: A_New_Order/macros/ano-20macros.cfg:700
 msgid "He who dies by my hand is freed from the chains of necromancy forever."
 msgstr ""
+"Aki az én kezem által vész el, az mentesül a holtidézés veszélyétől, örök "
+"időkre."
 
 #. [event]
 #. This should probably be unreachable, but just in case:
@@ -3302,6 +3174,8 @@ msgstr ""
 msgid ""
 "Hm, it seems that this necromancer has strayed rather far from his master..."
 msgstr ""
+"Hmmm, úgy látszik, ez a holtidéző elég messze esett a fájától, a "
+"mesterétől..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:699
@@ -3314,16 +3188,18 @@ msgid ""
 "Wait! Deorien! Heal him before he passes, so that I may have a chance to "
 "strike the final blow!"
 msgstr ""
+"Várj, Deorien! Gyógyítsd meg, mielőtt kimúlik, én akarom megadni neki a "
+"kegyelemdöfést!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:703
 msgid "I'm sorry, Ruvio, but it looks as though it's already too late..."
-msgstr ""
+msgstr "Sajnálom, Ruvio, de úgy tűnik, elkéstél..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:719
 msgid "Bor, hear now my command to you, my slave. Arise, arise!"
-msgstr "Bor, én szólítlak! Emelkedj föl a porból!"
+msgstr "Bor, urad szólít! Emelkedj föl a porból szolgám! Kelj föl!"
 
 #. [unit]: type=Draug, id=Undead Bor Cryne
 #: A_New_Order/macros/ano-20macros.cfg:726
@@ -3344,7 +3220,7 @@ msgstr "Így legalább van esélyem végezni veled!"
 #. Case where Bor Cryne dies before Grekulak has arrived:
 #: A_New_Order/macros/ano-20macros.cfg:760
 msgid "Just you wait... Once Grekulak comes..."
-msgstr ""
+msgstr "Várjatok csak... Ha majd Grekulak megjön..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:775
@@ -3374,12 +3250,12 @@ msgstr ""
 msgid ""
 "Why... Why, my lord? I have only ever asked for but one thing, and yet it "
 "was denied me..."
-msgstr "De miért... csak ezt az egyet kértem, s ez se teljesült..."
+msgstr ""
+"De miért... Miért, uram? Csak ezt az egyet kértem tőled, s ezt se "
+"teljesítetted..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:852
-#, fuzzy
-#| msgid "Rise up, rise up! Join my army! ... Why do you not rise up!?"
 msgid "Rise up, rise up! Join my army! ...Why do you not rise up!?"
 msgstr "Emelkedjetek! Emelkedjetek föl a porból! Miért nem engedelmeskedtek!?"
 
@@ -3415,6 +3291,9 @@ msgid ""
 "they are separate from him! Something truly strange must have happened... Be "
 "on your guards!"
 msgstr ""
+"Hát ez meg hogy lehet? Az élőholtak megjelenése Grekulak érkezésével "
+"történhetne, itt nélküle jelentek meg! Valami nagyon különös dolog "
+"történt... Védjétek magatokat!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:888
@@ -3422,6 +3301,8 @@ msgid ""
 "OOPS. If one of the undead sides is killing you before Grekulak has come, "
 "then that is a bug; please report it."
 msgstr ""
+"HOPPÁ! Ha valamelyik élőholt ellenség megöl Grekulak érkezése előtt, akkor "
+"ez hiba; kérlek jelezd a fórumon!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:897
@@ -3495,20 +3376,16 @@ msgstr "Számoljunk!"
 #. [event]
 #: A_New_Order/macros/ano-14macros.cfg:40
 msgid "Don't start again, kid. I won't play that game this time."
-msgstr "Ne kezdd újra, kislány. Most nincs kedvem játszani."
+msgstr "Ne kezdd újra, kislány! Most nincs kedvem játszani."
 
 #. [event]
 #: A_New_Order/macros/ano-14macros.cfg:46
-#, fuzzy
-#| msgid ""
-#| "Hey, Lorin, or whatever is your name, did you see that? Now you know why "
-#| "underlings give weapons to 'children'"
 msgid ""
 "Hey, Lorin, or whatever your name is, did you see that? Now you know why "
 "underlings give weapons to 'children'!"
 msgstr ""
 "Hé, Lorin, vagy hogy is hívnak, láttad ezt? Most már láthatod, miért adnak a "
-"nemtelenek fegyvert a 'gyerekeknek'."
+"nemtelenek fegyvert a 'gyerekeknek'!"
 
 #. [event]
 #: A_New_Order/macros/ano-14macros.cfg:50
@@ -3661,10 +3538,9 @@ msgid "Do you think, little child, that I will honour you with an answer?"
 msgstr "Azt hiszed, kislány, hogy válaszra méltatlak?"
 
 #: A_New_Order/macros/ano-14macros.cfg:152
-#, fuzzy
-#| msgid "By the way, I won. Scored $ano_competition_l"
 msgid "By the way, I won: I scored $ano_competition_l|."
-msgstr "Mindent összevetve, én nyertem. A végeredmény $ano_competition_l"
+msgstr ""
+"Mindent összevetve, én nyertem. Levágott ellenség száma: $ano_competition_l|."
 
 #: A_New_Order/macros/ano-14macros.cfg:154
 #: A_New_Order/macros/ano-14macros.cfg:159
@@ -3672,14 +3548,13 @@ msgid ""
 "Girls, what do you exactly mean by 'scored'? Is it because you are slicing "
 "up your fallen foes?"
 msgstr ""
-"Lányok, pontosan mit értetek az alatt, hogy 'számoljunk'? Lorin, velem is "
-"számolsz?"
+"Lányok, pontosan mit értetek az alatt, hogy 'levágott'? A megölt ellenség "
+"szeleteire céloztok?"
 
 #: A_New_Order/macros/ano-14macros.cfg:157
-#, fuzzy
-#| msgid "By the way, I won. Scored $ano_competition_k"
 msgid "By the way, I won: I scored $ano_competition_k|."
-msgstr "Mindent összevetve, én nyertem. A végeredmény $ano_competition_k"
+msgstr ""
+"Mindent összevetve, én nyertem. Levágott ellenség száma: $ano_competition_k|."
 
 #: A_New_Order/macros/ano-14macros.cfg:162
 msgid "Why such an angry look, Lorin?"
@@ -3870,7 +3745,7 @@ msgid ""
 "to shelter him from God's wrath."
 msgstr ""
 "Nem tudom befejezni. Vigyáznom kell Gawenre. Én vagyok a nevelőanyja, s meg "
-"kell őt tartsam Isten hitében."
+"kell őt védjem Isten haragjától."
 
 #. [then]
 #: A_New_Order/scenarios/20_Okladia.cfg:138
@@ -3884,10 +3759,6 @@ msgstr "Ugyan miért? Valami ostoba fogadalom miatt, amit az anyjának tettél?"
 
 #. [then]
 #: A_New_Order/scenarios/20_Okladia.cfg:140
-#, fuzzy
-#| msgid ""
-#| "His mother... Gawen's, Haldric's mother... she was my... fiancee. We even "
-#| "had the date of our wedding fixed."
 msgid ""
 "His mother... Gawen's, Haldric's mother... she was my... fiancée. We even "
 "had the date of our wedding fixed."
@@ -3908,6 +3779,9 @@ msgid ""
 "were betrothed, nor after she married Gawen's father. Gawen is assuredly "
 "Hagarthen flesh and blood."
 msgstr ""
+"Nem, Lorin. Ez nem jelent semmit. Nem érintkeztünk egymással, sem a "
+"jegyesség alatt, sem azután, hogy Gawen apjának felesége lett. Gawen ereiben "
+"Hagarthen vér csörgedezik."
 
 #. [then]
 #: A_New_Order/scenarios/20_Okladia.cfg:144
@@ -4009,8 +3883,6 @@ msgstr "Nos, nem biztos."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:176
-#, fuzzy
-#| msgid "My lord, we already visited that place and we found Deorien there"
 msgid "My lord, we already visited that place, and we found Deorien there."
 msgstr "Uram, már voltunk ott, s megtaláltuk Deorient."
 
@@ -4022,10 +3894,8 @@ msgstr "Akkor meglátogatjuk a kísértetjárta romokat?"
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:196
 #: A_New_Order/scenarios/20_Okladia.cfg:214
-#, fuzzy
-#| msgid "My lord, we already visited that place"
 msgid "My lord, we already visited that place."
-msgstr "Uram, már meglátogattuk a Jósnőt"
+msgstr "Uram, már meglátogattuk azt a helyet."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:204
@@ -4152,10 +4022,8 @@ msgstr "Kérlek fogadd el ezt a szerénységet hálánk jeléül."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:281
-#, fuzzy
-#| msgid "You have received 20 gold pieces"
 msgid "You have received $bride_gold_amt gold pieces."
-msgstr "Hozzájutsz 20 aranyhoz"
+msgstr "Hozzájutsz $bride_gold_amt aranyhoz."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:290
@@ -4267,14 +4135,10 @@ msgstr "Mi újság van mostanában?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:312
-#, fuzzy
-#| msgid ""
-#| "Hard and grueling times are ahead, I can't release anyone to join your "
-#| "army"
 msgid ""
 "Hard and grueling times are ahead, I can't release anyone to join your army."
 msgstr ""
-"Kemény, embertpróbáló idők elé nézünk, senkit nem engedhetek el a seregedbe."
+"Kemény, emberpróbáló idők elé nézünk, senkit nem engedhetek el a seregedbe."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:314
@@ -4343,7 +4207,7 @@ msgstr ""
 "Úgy hallottam, hogy Perient, Easkladia királyát a wesnothiak saját várában "
 "ostromolják. Guilcortában a testvérek, Luc és Gauri, egymással veszekednek. "
 "A királyunk, Buffin úgy döntött, hogy maga hívja meg magát Vakladia "
-"trónjára. S úgy véli, senki sem fog ellenállni neki. "
+"trónjára. S úgy véli, senki sem fog ellenállni neki."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:326
@@ -4370,10 +4234,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:345
-#, fuzzy
-#| msgid "You have received 20 gold pieces"
 msgid "You have received $haunted_gold_amt gold pieces."
-msgstr "Hozzájutsz 20 aranyhoz"
+msgstr "Hozzájutsz $haunted_gold_amt aranyhoz."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:356
@@ -4423,6 +4285,8 @@ msgid ""
 "The greatest news is that you have defeated the ghosts which plagued the "
 "neighbourhood."
 msgstr ""
+"A legnagyszerűbb hír az, hogy leszámoltál a szellemekkel, amik megszállták a "
+"szomszédságot."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:389
@@ -4540,7 +4404,7 @@ msgstr "Beszélj még nekem kettőtökről, az édesanyámról és rólad!"
 #: A_New_Order/scenarios/20_Okladia.cfg:474
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:577
 msgid "Tell me about Karen"
-msgstr "Beszélj nekem Karenről"
+msgstr "Beszélj nekem Karenről!"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:477
@@ -4553,17 +4417,13 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:479
-#, fuzzy
-#| msgid ""
-#| "There's not much to talk about. I told you she was my fiancee. But a few "
-#| "days before our wedding... Gawen, please, don't ask me. It's too painful."
 msgid ""
 "There's not much to talk about. I told you she was my fiancée. But a few "
 "days before our wedding... Gawen, please, don't ask me. It's too painful."
 msgstr ""
 "Túl sok mindent nem tudok mondani. Azt már mondtam, hogy a menyasszonyom "
 "volt, s pár nappal az esküvőnk előtt... Gawen... Kérlek, ne kérdezősködj, ez "
-"túlontúl fájdalmas."
+"túlontúl fájdalmas emlék."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:480
@@ -4737,6 +4597,8 @@ msgid ""
 "If Oracle is so respected by Akladians, why does not she simply declare "
 "Akladians should love Wesnothians?"
 msgstr ""
+"Ha a Jósnőt annyira tisztelik az akladiaiak, akkor miért nem hirdeti ki, "
+"hogy az akladiaiaknak szeretniük kell a wesnothiakat?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:531
@@ -4784,11 +4646,16 @@ msgid ""
 "contradict their beliefs. I believe they would quickly declare her a tool of "
 "false God once they would stop to like what she tells them."
 msgstr ""
+"Mert vannak dolgok, amiket csak akkor hallanak meg a hallgatók, ha van fülük "
+"a halláshoz. Nézd, ifjú király, én nem tudhatom, miért tisztelik az "
+"akladiaiak a Jósnőt, s miért hallgatnak rá. Talán azért, mert amit hirdet, "
+"az nincs szöges ellentétben a hitvallásukkal. Ha másképp tenne, gyorsan egy "
+"hamis isten szócsövévé nyilvánítanák,"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:537
 msgid "Then why do you think they won't ignore what she tells them now?"
-msgstr ""
+msgstr "S miért gondolod, hogy most más lesz a helyzet?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:538
@@ -4798,6 +4665,10 @@ msgid ""
 "to admit that. Mind you, I may be wrong; but I think they simply need "
 "someone to tell them they must change."
 msgstr ""
+"Az akladiaiak reménytelen helyzetben vannak. Azt hiszem, a lelkük mélyén a "
+"legtöbbjük változást akar --- ugyanakkor nem hajlandók ezt elismerni. Nézd, "
+"lehet, hogy tévedek, de azt hiszem, egyszerűen kell valaki, aki helyettük "
+"kimondja, hogy változniuk kell."
 
 #. [scenario]: id=25_The_Awakening
 #: A_New_Order/scenarios/25_The_Awakening.cfg:3
@@ -4942,8 +4813,6 @@ msgstr "Már itt kellene lennie! Hol késlekedik?"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:632
-#, fuzzy
-#| msgid "My lord... This man, they call a messiah.."
 msgid "My lord... This man, they call a messiah..."
 msgstr "Uram... az az ember, a megváltó..."
 
@@ -4957,8 +4826,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:634
-#, fuzzy
-#| msgid "But.. What about if he really IS a messiah?"
 msgid "But... What about if he really IS a messiah?"
 msgstr "De... Mi van, ha mégis Ő a megváltó?"
 
@@ -5005,17 +4872,13 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:640
-#, fuzzy
-#| msgid ""
-#| "I don't want to interrupt you your interesting discussion, but _I_ think "
-#| "you will have chance to ask this Gawen directly about everything."
 msgid ""
 "I don't want to interrupt you your interesting discussion, but <i><u>I</u></"
 "i> think you will have chance to ask this Gawen directly about everything."
 msgstr ""
-"Nem akarom megakasztani kétségkívül érdekfeszítő beszélgetéseteket, de _ÉN_ "
-"azt hiszem, könnyen eldönthetitek a kérdést, magát Gawent is "
-"megkérdezhetitek."
+"Nem akarom megakasztani kétségkívül érdekfeszítő beszélgetéseteket, de "
+"<i><u>ÉN</u></i> azt hiszem, könnyen eldönthetitek a kérdést, magát Gawent "
+"is megkérdezhetitek."
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:641
@@ -5084,7 +4947,7 @@ msgid ""
 "I don't know what to think. But there IS one way to determine whether you "
 "are really what you claim to be... whether you are able to defeat us."
 msgstr ""
-"Nem tudom, mit higgyek. De VAN egy mód, hogy helyretegyük a dolgokat. Ha "
+"Nem tudom, mit higgyek. De VAN egy mód, hogy helyre tegyük a dolgokat. Ha "
 "legyőzöl minket, akkor tényleg igaz, amit hirdetsz magadról..."
 
 #. [event]
@@ -5229,7 +5092,7 @@ msgid ""
 "Innocent? No Akladian is innocent! Even if they didn't participate in the "
 "massacres, maybe their husbands or uncles did, and..."
 msgstr ""
-"Ártatlan? Nics ártatlan akladiai. Mégha közvetlenül nem vesznek is részt a "
+"Ártatlan? Nics ártatlan akladiai. Még ha közvetlenül nem vesznek is részt a "
 "gyilkosságokban, a férjük, a családtagjaik igen, és..."
 
 #. [event]
@@ -5361,7 +5224,7 @@ msgstr "Keményen támadnak minket, királyom. Igazán jól jönne egy kis segí
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:959
 msgid "The barbarians attack me! I need help NOW!"
-msgstr ""
+msgstr "A barbárok megtámadtak! AZONNAL szükségem van segítségre!"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1020
@@ -5375,8 +5238,6 @@ msgstr "Mi történt? Megsebesültél, anyám?"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1022
-#, fuzzy
-#| msgid "No... I'm ok.. I'm ok... It was nothing."
 msgid "No... I'm ok... I'm ok... It was nothing."
 msgstr "Nem... Jól vagyok... Tényleg... Semmi bajom."
 
@@ -5450,7 +5311,7 @@ msgid ""
 "with the Akladian army which burned Freetown?"
 msgstr ""
 "Mielőtt elmész,  egy egyszerű, nagyon egyszerű kérdésre válaszolj nekem. Te "
-"is tagja voltál annak az akladiai seregnek, amelyik felégette Barnont?"
+"is tagja voltál annak az akladiai seregnek, amelyik felégette Freetownt?"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1103
@@ -5482,10 +5343,8 @@ msgstr "Tudod, ki mérgezte meg az anyámat?"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1113
-#, fuzzy
-#| msgid "Whenever he is, he should be here!"
 msgid "Whenever he is, he should be here instead!"
-msgstr "Nem tudom hol van, de már rég itt kellene lennie."
+msgstr "Nem tudom hol van, de már rég itt kellene lennie!"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1115
@@ -5529,8 +5388,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1176
-#, fuzzy
-#| msgid "How this could be possible?"
 msgid "How could this be possible?"
 msgstr "Hát ez meg hogy lehet?"
 
@@ -5557,7 +5414,7 @@ msgstr ""
 "előtt állt: mit is kéne csinálni, hogy Mithrandil kérését teljesítsék. Gawen "
 "nem volt benne biztos, hogy mit is jelent az, hogy 'Az ork-akladiai "
 "szövetség pontos célját akarjuk megtudni', s végképp nem volt elképzelése "
-"arról, hogyan kezdjen hozzá a feladathoz. "
+"arról, hogyan kezdjen hozzá a feladat végrehajtásához. "
 
 #. [part]
 #. Spoken by Lorin
@@ -5574,13 +5431,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/13_Scouting.cfg:30
-#, fuzzy
-#| msgid ""
-#| "...and now he keeps the company of underlings.... an underling child who "
-#| "tries to behave like a woman, an underling man who looks like a veteran "
-#| "of many battles, underling soldiers, and even worse: elves. The green "
-#| "devils. But since I have been amongst underlings for months myself, this "
-#| "moves me much less than I would have thought."
 msgid ""
 "...and now he keeps the company of underlings... an underling child who "
 "tries to behave like a woman, an underling man who looks like a veteran of "
@@ -5588,7 +5438,7 @@ msgid ""
 "But since I have been amongst underlings for months myself, this moves me "
 "much less than I would have thought."
 msgstr ""
-"És nemtelenek vannak körülötte. Egy nemtelen kislány, aki nőként akar "
+"...és nemtelenek vannak körülötte. Egy nemtelen kislány, aki nőként akar "
 "viselkedni, egy nemtelen férfi, aki láthatólag sok csatát élt már át, "
 "nemtelen harcosok, s ami még ennél is rosszabb: tündék. A zöld ördögök. "
 "Hónapok óta nemtelenek közt élek, tehát annyira nem vagyok előítéletes, mint "
@@ -5611,11 +5461,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/13_Scouting.cfg:39
-#, fuzzy
-#| msgid ""
-#| "Gawen ordered his soldiers to march quickly to the temporary base that "
-#| "had established in the plains north of Barnon. He was afraid that more "
-#| "enemy forces would arrive, and wanted to tend to his wounded."
 msgid ""
 "Gawen ordered his soldiers to march quickly to the temporary base that had "
 "been established in the plains north of Barnon. He was afraid that more "
@@ -5651,12 +5496,6 @@ msgstr ""
 #. [part]
 #. Spoken by Reme Carrenemoe
 #: A_New_Order/scenarios/13_Scouting.cfg:53
-#, fuzzy
-#| msgid ""
-#| "I am finally free! I still can hardly believe it. Not only am I free, but "
-#| "also Gawen, my king, is alive. It is a very real relief for me; the "
-#| "thought that I had abandoned him during th Battle of Barnon has haunted "
-#| "me for weeks now."
 msgid ""
 "I am finally free! I still can hardly believe it. Not only am I free, but "
 "also Gawen, my king, is alive. It is a very real relief for me; the thought "
@@ -5683,13 +5522,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/13_Scouting.cfg:62
-#, fuzzy
-#| msgid ""
-#| "I am surprised that he is surrounded by Underlings. But then, Gawen has "
-#| "demanded that I should never use that word again, that I should start to "
-#| "think of them as 'Wesnothians'. I think the girl with red hair has a "
-#| "crush on Gawen, and despite Lorin calling her 'a mite of a child' she is "
-#| "a woman already, and quite pretty."
 msgid ""
 "I am surprised that he is surrounded by Underlings. But then, Gawen has "
 "demanded that I should never use that word again, that I should start to "
@@ -5698,8 +5530,8 @@ msgid ""
 msgstr ""
 "Furcsa, hogy nemtelenek veszik körül. S az is, hogy Gawen megtiltotta, hogy "
 "ezt a szót kimondjam, s helyette hívjam őket 'wesnothiaknak'. Azt hiszem, az "
-"a vöröshajú fruska mély benyomást tett rá, s annak ellenére, hogy Lorin csak "
-"'gyereklány'-ként emlegeti, a fruska igenis kész nő, és igen csinoska."
+"a vöröshajú fruska mély benyomást tett rá, bár még igen fiatal, máris kész "
+"nő és igen csinoska."
 
 #. [part]
 #: A_New_Order/scenarios/13_Scouting.cfg:67
@@ -5709,7 +5541,8 @@ msgid ""
 "melancholy."
 msgstr ""
 "Reme kiszabadításának kudarca megülte Gawen lelkét. Reme halálának híre "
-"hamarosan elérte az ideiglenes bázist is."
+"hamarosan elérte az ideiglenes bázist is, mély szomorúság lett úrrá a "
+"táborban."
 
 #. [part]
 #: A_New_Order/scenarios/13_Scouting.cfg:82
@@ -5733,6 +5566,9 @@ msgid ""
 "disappearance. Outlaws were startled by the event and many of them refused "
 "to follow Gawen's orders any more."
 msgstr ""
+"Rob Roe nem jelent meg Gawen seregében. Egy éjszaka eltűnt, senki nem tudta, "
+"miért, még a törvényenkívüliek sem. A törvényenkívüliek Rob hirtelen "
+"eltűnése után megtagadták az engedelmességet Gawennek."
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:112
@@ -5757,21 +5593,17 @@ msgstr "Reme? Sose hallottam még róla."
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:117
-#, fuzzy
-#| msgid ""
-#| "Bontom? of course I know about it. It is a nice place a little bit west "
-#| "from here! My wife is from that area."
 msgid ""
 "Bontom? Of course I know about it. It is a nice place a little bit west from "
 "here! My wife is from that area."
 msgstr ""
-"Bontom? Persze, hallottam már róla. Nyugatra van, kellemes egy hely. Szép "
-"falvak vannak arrafelé, a feleségem is onnan származik."
+"Bontom? Persze, hallottam már róla. Nyugatra van, kellemes egy hely. A "
+"feleségem is onnan származik."
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:150
 msgid "No offense, but you've already asked me that question."
-msgstr "Nem akarlak megbántani, de ezt már kérdezted"
+msgstr "Nem akarlak megbántani, de ezt már kérdezted."
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:153
@@ -5792,10 +5624,8 @@ msgstr "Ha nem, akkor felgyújtom ezt a falut"
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:156
-#, fuzzy
-#| msgid "I will spare your life."
 msgid "I will pay you in gold."
-msgstr "Megkímélem az életedet."
+msgstr "Arannyal fizetek."
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:157
@@ -5804,28 +5634,20 @@ msgstr "Esélyed van harcolni az orkok és az akladiaiak ellen"
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:160
-#, fuzzy
-#| msgid "No offense, but I value my life more than gold"
 msgid "No offense, but I value my life more than gold."
-msgstr "Nem akarlak megbántani, de az én életem többet ér, mint az arany"
+msgstr "Nem akarlak megbántani, de az én életem többet ér, mint az arany."
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:162
-#, fuzzy
-#| msgid ""
-#| "That supposed to convince me?!? Go away, little butcher. I will talk to "
-#| "you no more!"
 msgid ""
 "That is supposed to convince me?!? Go away, little butcher. I will talk to "
 "you no more!"
 msgstr ""
-"S azt hiszed, hogy ezzel meggyőztél?!? Távozz tőlünk, te kis mészáros. Látni "
+"S azt hiszed, hogy ezzel meggyőztél?!? Távozz tőlünk, te kis mészáros! Látni "
 "sem akarlak többet."
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:165
-#, fuzzy
-#| msgid "And this is good reason, because..?"
 msgid "And this is a good reason, because...?"
 msgstr "És ez olyan nagy dolog, miért is...?"
 
@@ -5937,7 +5759,8 @@ msgid ""
 "Oh, Akladian lords, yeah, I've heard about them. They are big and bad and "
 "you should avoid them, boy."
 msgstr ""
-"Akladiai nemesek, ja, hallottam róluk. Állati gonoszok, kerüljétek el őket."
+"Akladiai nemesek, ja, hallottam róluk. Állati gonoszok, kerüljétek el őket, "
+"fiúk."
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:233
@@ -5964,21 +5787,17 @@ msgid ""
 "I'm too old ta be leavin my village, but there is one boy who could fight "
 "for you, why not."
 msgstr ""
-"Én már öreg vagyok a csatárkhoz, de van itt egy fiú, aki szívesen harcolna "
+"Én már öreg vagyok a csatákhoz, de van itt egy fiú, aki szívesen harcolna "
 "érted."
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:240
-#, fuzzy
-#| msgid ""
-#| "One of local peasants joins your army. It's an untrained but LOYAL and "
-#| "STRONG unit."
 msgid ""
 "One of local peasants joins your army. It's an untrained but LOYAL, STRONG, "
 "and RESILIENT unit."
 msgstr ""
 "A parasztok közül egy ifjú csatlakozik a seregedhez. Képzetlen még, de "
-"HŰSÉGES és ERŐS is."
+"HŰSÉGES és ERŐS valamint ÜGYESKEZŰ is."
 
 #. [unit]: type=Peasant, id=John the Baldhead
 #: A_New_Order/scenarios/13_Scouting.cfg:247
@@ -6030,7 +5849,7 @@ msgstr ""
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:288
 msgid "...but we could probably find something about orcs there, right?"
-msgstr "...de talán megtudhatunk valamit az orkokról, ugye?"
+msgstr "...de ott talán megtudhatunk valamit az orkokról, ugye?"
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:291
@@ -6054,8 +5873,6 @@ msgstr ""
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:297
-#, fuzzy
-#| msgid "We could also to for the swamps."
 msgid "We could also go for the swamps."
 msgstr "Benézhetünk a mocsarakba is."
 
@@ -6151,7 +5968,7 @@ msgid ""
 "real identity under a beard?"
 msgstr ""
 "Gaumhaldric... Tehát emiatt nem borotválkozik a fiam? Szakáll mögé rejti az "
-"igazi arcát..."
+"igazi arcát?"
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:418
@@ -6159,15 +5976,11 @@ msgid ""
 "No, no, no. He HAS to have a beard. All of our great Wesnothian kings had "
 "beards!"
 msgstr ""
-"Dehogyis. Szakállt növeszt, mert az összes nagy királyunk szakállas volt."
+"Dehogyis. Szakállt KELL növesztenie, mert az összes nagy királyunk szakállas "
+"volt!"
 
 #. [objectives]
 #: A_New_Order/scenarios/13_Scouting.cfg:430
-#, fuzzy
-#| msgid ""
-#| "This is a large-scale map, where you may choose a way to go. Move Gawen "
-#| "to any of the signpost or any other location to trigger moving to the "
-#| "next scenario. Move Gawen to the tent to talk with his friends."
 msgid ""
 "This is a large-scale map, where you may choose a way to go. Move Gawen to a "
 "signpost or any other location to move to a new scenario. Move Gawen to the "
@@ -6175,7 +5988,7 @@ msgid ""
 msgstr ""
 "Ez egy áttekintő térkép, ahol eldöntheted, merre mész tovább. Vidd Gawent "
 "bármelyik útjelzőhöz, vagy fontos helyszínhez, hogy elkezdd a következő "
-"küldetést! Vidd Gawent a sátorhoz, hogy a barátaival beszélgessen."
+"küldetést! Vidd Gawent a sátorhoz, hogy a barátaival beszélgessen!"
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:459
@@ -6284,12 +6097,10 @@ msgstr "Ki gyütt? Mit akarsz idegen?"
 #: A_New_Order/scenarios/13_Scouting.cfg:597
 msgid "Don't be afraid, I want ask you few question and then I will go."
 msgstr ""
-"Semmi okod a félelelmre, csak néhány kérdést tennék fel, aztán elmegyek."
+"Semmi okod a félelemre, csak néhány kérdést tennék fel, aztán elmegyek."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:559
-#, fuzzy
-#| msgid "So go on an' ask us"
 msgid "So go on an' ask us, then."
 msgstr "Elő vele, kérdezz!"
 
@@ -6368,8 +6179,6 @@ msgstr "Raedwood-erdő szabad emberei! Mindig szívesen látunk titeket."
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:673
 #: A_New_Order/scenarios/13_Scouting.cfg:682
-#, fuzzy
-#| msgid "Majid Yahyazad"
 msgid "Yahyazad"
 msgstr "Majid Yahyazad"
 
@@ -6382,7 +6191,7 @@ msgstr "Szerinted hol lehet Reme Carrenemoe?"
 #: A_New_Order/scenarios/13_Scouting.cfg:710
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:576
 msgid "Advise me what could we do now."
-msgstr "Mihez kellene most kezdenem."
+msgstr "Mihez kellene most kezdenem?"
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:711
@@ -6392,7 +6201,7 @@ msgstr "Mit tudsz az édesanyámról?"
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:716
 msgid "You are joking, right? He is in our camp!"
-msgstr "Most viccelsz? Itt van velünk..."
+msgstr "Most viccelsz? Itt van velünk!"
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:718
@@ -6434,13 +6243,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:732
-#, fuzzy
-#| msgid ""
-#| "I think eventually she even warmed to your father, the king. When she "
-#| "gave birth to you, she gave everything she had for you. But behind her "
-#| "back Akladian clans were conspiring... and finally someone gave her a "
-#| "poisoned cup. She died, slowly, and painfully. I was able to be near her "
-#| "in her final hours. I promised her that I would take care of you."
 msgid ""
 "I think eventually she even warmed up to your father, the king. When she "
 "gave birth to you, she gave everything she had for you. But behind her back "
@@ -6466,16 +6268,12 @@ msgstr "Nem tudom, senki se tudja."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:736
-#, fuzzy
-#| msgid ""
-#| "Rob Roe mentioned Lorin clan once bought some special poison from "
-#| "Outlaws... "
 msgid ""
 "Rob Roe mentioned Lorin's clan once bought some special poison from "
 "Outlaws... "
 msgstr ""
 "Rob Roe említette, hogy Lorin családja egyszer beszerzett valamilyen "
-"speciális mérget a törvényen kívüliektől..."
+"speciális mérget a törvényenkívüliektől..."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:737
@@ -6494,14 +6292,14 @@ msgid ""
 "You might say it's their national sport. But still... yes, it had escaped my "
 "attention before."
 msgstr ""
-"Igazad van, Gawen. Az akladiaiak közt dívik egymás megmérgezése.Mmondhatnánk "
+"Igazad van, Gawen. Az akladiaiak közt dívik egymás megmérgezése. Mondhatnánk "
 "azt is, hogy sportot űznek belőle. Habár... igen, ez a lehetőség elkerülte a "
 "figyelmemet eddig."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:744
 msgid "Hey Karen, what's up?"
-msgstr "Szia, karen, mi újság?"
+msgstr "Szia, Karen, mi újság?"
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:745
@@ -6579,6 +6377,9 @@ msgid ""
 "unbreakable fortress... but I think I can find a way into her heart. With "
 "time and patience, I'm sure I can discover a way to break down those walls. "
 msgstr ""
+"Ez szerencse számomra. Úgy tűnik, bevehetetlen erődbe zárta a szívét... de "
+"én akkor is találok utat hozzá. Idővel és türelemmel csak áttörök azokon a "
+"most még áthatolhatatlan falakon."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:759
@@ -6587,6 +6388,9 @@ msgid ""
 "tenderness, even to me. I have always known her to be a harsh and "
 "unforgiving woman."
 msgstr ""
+"Majid Yahyazad, Lorin a nevelőanyám, de én soha nem láttam, hogy gyengéden "
+"viseltetett volna valaki iránt, irántam se. Mindig is nyers és könyörtelen "
+"volt."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:760
@@ -6595,6 +6399,9 @@ msgid ""
 "love is a weakness... she seems more interested in war and finding new ways "
 "to cause pain to others."
 msgstr ""
+"Azt hiszem, az ostromodért súlyos árat kell fizetned. Szerintem a szerelmet "
+"gyengeségnek tartja... sokkal jobban érdekli a háború és az, hogy hogyan "
+"tudna még nagyobb kínokat okozni másoknak."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:761
@@ -6603,6 +6410,9 @@ msgid ""
 "her heart, I am prepared to wage it. I am well-acquainted with the ways of "
 "war."
 msgstr ""
+"Ah, Gaumhaldric, lehet, hogy igazad van, s tényleg háborúskodásra van "
+"szükség, hogy meglágyítsam a szívét irántam, de én készen állok erre a "
+"csatározásra. Ismerem a háborúk csínját-bínját."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:762
@@ -6610,16 +6420,19 @@ msgid ""
 "Besides, in the end, the war for the affection of a worthy woman is the only "
 "war where the price to win is a privilege, not a burden, to pay."
 msgstr ""
+"Végső soron ez az egyetlen háborús ár, ami kitüntetés, hogy egy nagyszerű "
+"asszony kegyeibe férkőzzünk, ez nem kidobott pénz."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:763
 msgid "You find my step-mother... a worthy challenge, then? "
-msgstr ""
+msgstr "Úgy gondolod, hogy a nevelőanyám... egy nagyszerű kihívás?"
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:764
 msgid "I do... and shall gladly pay the price to try to win her heart. "
 msgstr ""
+"Igen... és bármilyen árat képes vagyok megfizetni, hogy meghódítsam a szívét."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:765
@@ -6627,6 +6440,8 @@ msgid ""
 "You have my blessing, noble Majid, for what it's worth. Sometimes the "
 "ruthlessness of the 'She-Wolf of Haeltin' still scares even me. "
 msgstr ""
+"Hát, nemes Majid, a magam részéről csak drukkolni tudok, hogy sikerrel járj. "
+"Haeltin Nőstényfarkasának könyörtelensége olykor még engem is elborzaszt."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:770
@@ -6673,7 +6488,7 @@ msgid ""
 "Yes, I noticed that. I think one would have to be blind NOT to notice that. "
 "But I am not interested in him."
 msgstr ""
-"Igen, észrevettem. Vaknak kellene lennem, hogy ne vegyem észre. De ő engem "
+"Igen, észrevettem. Vaknak kellene lennem, hogy NE vegyem észre. De ő engem "
 "nem érdekel. "
 
 #. [event]
@@ -6766,8 +6581,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:807
-#, fuzzy
-#| msgid "Your mother? Your.. why you are asking ME about your mother?"
 msgid "Your mother? Your... why you are asking ME about your mother?"
 msgstr "Édesanyádról? Hát... miért ENGEM kérdezel az édesanyádról?"
 
@@ -6788,7 +6601,7 @@ msgid ""
 "mother died or who poisoned her."
 msgstr ""
 "Nem! Nem ismertem! Én... én sajnálom, Gawen, de nem tudom, hogyan halt meg "
-"édesanyád, s ki mérgezte meg."
+"édesanyád, vagy ki mérgezte meg."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:811
@@ -6949,83 +6762,65 @@ msgstr "Mithrandil"
 #. [event]
 #. EASY difficulty, use most explicit/obvious version of wording for players like me who don't pay attention:
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:155
-#, fuzzy
-#| msgid ""
-#| "... so, you will take twelve of your best troops and search for this "
-#| "great mage, to try to convince him to join our cause. "
 msgid ""
 "...so, you will take eighteen of your very best troops and search for this "
 "great mage, Deorien, to try to convince him to join our cause."
 msgstr ""
-"... Tehát magad mellé veszed a tizenkét legjobb harcosod, és útnak indulsz a "
-"nagy mágus megkeresésére, s megpróbálod meggyőzni őt, hogy álljon az ügyünk "
-"mellé."
+"... tehát magad mellé veszed a tizennyolc legjobb harcosod, és útnak indulsz "
+"a nagy mágus, Deorien megkeresésére, s megpróbálod meggyőzni őt, hogy álljon "
+"az ügyünk mellé."
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:156
-#, fuzzy
-#| msgid "I understand. My twelve best soldiers. When should I go?"
 msgid ""
 "I understand. My eighteen very best, most experienced soldiers. When should "
 "I go?"
-msgstr "Értem. A tanácsadóm és tizenkét harcos. Mikor kellene indulnom?"
+msgstr ""
+"Értem. A tizennyolc legjobb, legtapasztaltabb harcosom. Mikor kellene "
+"indulnom?"
 
 #. [event]
 #. NORMAL difficulty, keep this wording closest to what it was before the difficulty split:
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:160
-#, fuzzy
-#| msgid ""
-#| "... so, you will take twelve of your best troops and search for this "
-#| "great mage, to try to convince him to join our cause. "
 msgid ""
 "...so, you will take fifteen of your best troops and search for this great "
 "mage, to try to convince him to join our cause."
 msgstr ""
-"... Tehát magad mellé veszed a tizenkét legjobb harcosod, és útnak indulsz a "
+"... tehát magad mellé veszed a tizenöt legjobb harcosod, és útnak indulsz a "
 "nagy mágus megkeresésére, s megpróbálod meggyőzni őt, hogy álljon az ügyünk "
 "mellé."
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:161
-#, fuzzy
-#| msgid "I understand. My twelve best soldiers. When should I go?"
 msgid "I understand. My fifteen best soldiers. When should I go?"
-msgstr "Értem. A tanácsadóm és tizenkét harcos. Mikor kellene indulnom?"
+msgstr "Értem. A tizenöt legjobb harcosom. Mikor kellene indulnom?"
 
 #. [event]
 #. HARD difficulty, somewhat vaguer than the previous two:
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:165
-#, fuzzy
-#| msgid ""
-#| "... so, you will take twelve of your best troops and search for this "
-#| "great mage, to try to convince him to join our cause. "
 msgid ""
 "...so, you'll take twelve of your troops and search for that mage, to try to "
 "convince him to join our cause."
 msgstr ""
-"... Tehát magad mellé veszed a tizenkét legjobb harcosod, és útnak indulsz a "
+"... tehát magad mellé veszed a tizenkét legjobb harcosod, és útnak indulsz a "
 "nagy mágus megkeresésére, s megpróbálod meggyőzni őt, hogy álljon az ügyünk "
 "mellé."
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:166
-#, fuzzy
-#| msgid "I understand. My twelve best soldiers. When should I go?"
 msgid "I understand. Twelve soldiers. When should I go?"
-msgstr "Értem. A tanácsadóm és tizenkét harcos. Mikor kellene indulnom?"
+msgstr "Értem. Tizenkét harcos. Mikor kellene indulnom?"
 
 #. [event]
 #. NIGHTMARE difficulty, vaguest:
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:170
 msgid "...so, nine troops. Search for that mage. Got it?"
-msgstr ""
+msgstr "...szóval kilenc zsoldos. Megkeresni azt a mágust. Világos?"
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:171
-#, fuzzy
-#| msgid "I understand. My twelve best soldiers. When should I go?"
 msgid "I understand. Nine soldiers. When should I go?"
-msgstr "Értem. A tanácsadóm és tizenkét harcos. Mikor kellene indulnom?"
+msgstr "Értem. Kilenc harcos. Mikor kellene indulnom?"
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:173
@@ -7054,11 +6849,8 @@ msgstr "Ha gondolod, néhány tünde is elkísérhet."
 #. [event]
 #. "Swordsmen" were included in this line previously, but he no longer offers them, so I removed them:
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:178
-#, fuzzy
-#| msgid "I could give you some of my soldiers. Swordsmen, Bowmen or Spearmen."
 msgid "I could give you some of my soldiers: Bowmen, or Spearmen."
-msgstr ""
-"Elkísérhet néhány katonám is, ha szükséges. Kardforgatók, íjászok, dárdások."
+msgstr "Elkísérhet néhány katonám is, ha szükséges: íjászok, dárdások."
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:179
@@ -7075,52 +6867,43 @@ msgid ""
 "consider them as counting against the limit. Choose up to four soldiers now, "
 "or more gold if you already have enough soldiers to choose from."
 msgstr ""
+"Megjegyzés:Hamarosan ki kell választanod a legjobb tizennyolc harcosodat. "
+"Mithrandil tündéi és Huon emberei szintén részei a választható egységeknek, "
+"tehát ők is beleszámítanak a kvótába. Most válassz négy harcost, vagy növeld "
+"az aranyaid számát, ha már van elegendő számú választható harcosod!"
 
 #. [event]
 #. NORMAL difficulty, should be most normal:
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:186
-#, fuzzy
-#| msgid ""
-#| "Note: you will have to choose twelve your best soldiers soon. Elves and "
-#| "soldiers given by Huon and Mithrandil count against this limit. Choose "
-#| "four soldiers now."
 msgid ""
 "Note: you will have to choose fifteen of your best soldiers soon. Elves and "
 "soldiers given by Huon and Mithrandil count against this limit. Choose four "
 "soldiers now."
 msgstr ""
-"Megjegyzés: hamarosan ki kell választanod a tizenkét legjobb harcosodat. A "
-"tündék és a katonák ezen felül számítanak. Most válassz négy egységet."
+"Megjegyzés: hamarosan ki kell választanod a tizenöt legjobb harcosodat. "
+"Mithrandil tündéi és Huon katonái beleszámítanak a kvótába. Most válassz "
+"négy egységet!"
 
 #. [event]
 #. HARD difficulty, should be vaguer:
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:190
-#, fuzzy
-#| msgid ""
-#| "Note: you will have to choose twelve your best soldiers soon. Elves and "
-#| "soldiers given by Huon and Mithrandil count against this limit. Choose "
-#| "four soldiers now."
 msgid ""
 "Note: you will have to choose twelve soldiers soon. Elves and soldiers given "
 "by Huon and Mithrandil count against this limit. Choose four soldiers now."
 msgstr ""
-"Megjegyzés: hamarosan ki kell választanod a tizenkét legjobb harcosodat. A "
-"tündék és a katonák ezen felül számítanak. Most válassz négy egységet."
+"Megjegyzés: hamarosan ki kell választanod a tizenkét legjobb harcosodat. "
+"Mithrandil tündéi és Huon katonái beleszámítanak a kvótába. Most válassz "
+"négy egységet!"
 
 #. [event]
 #. NIGHTMARE difficulty, should be vaguest:
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:194
-#, fuzzy
-#| msgid ""
-#| "Note: you will have to choose twelve your best soldiers soon. Elves and "
-#| "soldiers given by Huon and Mithrandil count against this limit. Choose "
-#| "four soldiers now."
 msgid ""
 "Note: you'll have to choose nine soldiers soon. Choose four now (which may "
 "count against the limit)."
 msgstr ""
-"Megjegyzés: hamarosan ki kell választanod a tizenkét legjobb harcosodat. A "
-"tündék és a katonák ezen felül számítanak. Most válassz négy egységet."
+"Megjegyzés: hamarosan ki kell választanod kilenc harcosodat. Most válassz "
+"négy egységet (beleszámít a kvótába)!"
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:199
@@ -7144,10 +6927,8 @@ msgstr "Nincs szükségem semmi többre"
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:207
-#, fuzzy
-#| msgid "You received 25 golden pieces."
 msgid "You received 25 gold pieces."
-msgstr "Kaptál 25 aranyat"
+msgstr "Kaptál 25 aranyat."
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:213
@@ -7247,7 +7028,7 @@ msgstr "Itt kell maradnom."
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:274
 msgid "It is the way of the woman. Don't ask."
-msgstr ""
+msgstr "Ez női dolog. Ne kíváncsiskodj!"
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:275
@@ -7270,32 +7051,26 @@ msgstr "Terrrrmészetesen."
 #. [event]
 #. EASY difficulty:
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:302
-#, fuzzy
-#| msgid "So, let's choose our twelve best troops."
 msgid "So, let's choose our eighteen very best, most experienced troops."
-msgstr "Akkor válasszuk ki a megfelelő embereket!"
+msgstr "Akkor válasszuk ki a tizennyolc legjobb, legtapasztaltabb harcost!"
 
 #. [event]
 #. NORMAL difficulty:
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:306
-#, fuzzy
-#| msgid "So, let's choose our twelve best troops."
 msgid "So, let's choose our fifteen best troops."
-msgstr "Akkor válasszuk ki a megfelelő embereket!"
+msgstr "Akkor válasszuk ki a tizenöt legjobb harcost!"
 
 #. [event]
 #. HARD difficulty:
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:310
-#, fuzzy
-#| msgid "So, let's choose our twelve best troops."
 msgid "So, let's choose twelve troops."
-msgstr "Akkor válasszuk ki a megfelelő embereket!"
+msgstr "Akkor válasszuk ki a tizenkét harcost!"
 
 #. [event]
 #. NIGHTMARE difficulty:
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:314
 msgid "So, nine troops."
-msgstr ""
+msgstr "Tehát kilenc harcos."
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:6
@@ -7382,15 +7157,11 @@ msgid ""
 "On the other hand, leaving me was quite easy for him. It seems he just "
 "needed some practice."
 msgstr ""
-"Engem bezzeg nem esett nehezére magamra hagyni. Közben úgy látszik "
+"Engem bezzeg nem esett nehezére magamra hagyni. Közben úgy látszik, "
 "belejött..."
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:224
-#, fuzzy
-#| msgid ""
-#| "Let's be careful. Scouts reported orcs garrisoned east from here. Now, we "
-#| "just have to capture their leader and ..."
 msgid ""
 "Let's be careful. Scouts reported orcs garrisoned east from here. Now, we "
 "just have to capture their leader and..."
@@ -7400,15 +7171,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:225
-#, fuzzy
-#| msgid ""
-#| "... and we will see our great future king Gaumhaldric defeat his enemies "
-#| "in an epic battle, which will be described by bards forevermore!"
 msgid ""
 "...and we will see our great future king Gaumhaldric defeat his enemies in "
 "an epic battle, which will be described by bards forevermore!"
 msgstr ""
-"...És látni fogjuk jövendő nagy királyunk, Gaumhaldric hőstettét, amint egy "
+"...és látni fogjuk jövendő nagy királyunk, Gaumhaldric hőstettét, amint egy "
 "legendás csatában megsemmisíti az ellenségeit, s amit a lantosok örök időkig "
 "énekelnek majd."
 
@@ -7434,7 +7201,7 @@ msgid ""
 "Oh, do not worry. Those are probably our people returning from making a deal "
 "with the outlaw underlings."
 msgstr ""
-"Ugyan már, ne pánikolj! Biztosan az embereink jöttek vissza, akiket a "
+"Ugyan már, ne pánikolj! Biztosan a harcosaink jöttek vissza, akiket a "
 "nemtelen törvényen kívüliekhez küldtünk egyezkedni."
 
 #. [objectives]
@@ -7550,29 +7317,23 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:332
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:357
-#, fuzzy
-#| msgid "He doesn't know anything. Let him go"
 msgid "He doesn't know anything. Let him go."
 msgstr "Nem tud semmit. Hadd menjen!"
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:333
-#, fuzzy
-#| msgid "Mother, put down that knife! That is an order!"
 msgid "Put down that knife!  You can't - Aaargh!"
-msgstr "Anyám, tedd el azt a kést! Ez parancs."
+msgstr "Tedd el azt a kést! Te nem - Áááhhh!"
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:334
-#, fuzzy
-#| msgid "Mother?!?"
 msgid "Mother!"
-msgstr "Anyád?!?"
+msgstr "Anyám!"
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:335
 msgid "What? You should have heard what he sang he wanted to do to me..."
-msgstr ""
+msgstr "Mi? Hallanod kellett volna, mit óbégatott, hogy mit tesz velem..."
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:350
@@ -7600,7 +7361,7 @@ msgid ""
 "they are keeping him in some place called Bontom. They will sell him to Bor "
 "Cryne, I think."
 msgstr ""
-"Reme klánját megtámadták a törvényen kívüliek. Elfogták, és valami Bontom "
+"Reme klánját megtámadták a törvényenkívüliek. Elfogták, és valami Bontom "
 "nevű helyen tartják fogva. Bor Crynével tárgyalnak a sorsáról, azt hiszem. "
 
 #. [event]
@@ -7614,8 +7375,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:373
-#, fuzzy
-#| msgid "He knows nothing. Let him go"
 msgid "He knows nothing. Let him go."
 msgstr "Nem tud semmit. Hadd menjen!"
 
@@ -7639,6 +7398,8 @@ msgid ""
 "Mother earth, a human woman is trying to save me? Such care for a fallen "
 "enemy is so rarely found!"
 msgstr ""
+"Szentséges isten, egy ember, egy nő akar megmenteni engem? Ritkán találkozik "
+"az ember az elesett ellenség iránti ilyen gondoskodással!"
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:388
@@ -7650,7 +7411,7 @@ msgid ""
 msgstr ""
 "Ki akar téged megmenteni? Nos, nem egészen erről van szó. Én téged meg "
 "akarlak... hogy is fejezzem ki magam pontosan... félemlíteni, ez pontosan "
-"kifejezi, mit akarok. kezdjük az elején! Ez egy kés. Amikor a kés behatol "
+"kifejezi, mit akarok. Kezdjük az elején! Ez egy kés. Amikor a kés behatol "
 "egy emberbe - illetve ez esetben egy orkba - nos, az fájdalmat okoz."
 
 #. [event]
@@ -7660,13 +7421,6 @@ msgstr "Anyám, hagyd abba! Ez gusztustalan, s nem engedélyezem!"
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:391
-#, fuzzy
-#| msgid ""
-#| "Hmm.. You know what, orc? Let's make a deal... If you will tell me why "
-#| "are you here, allied with Akladians, then I will let you die peacefully. "
-#| "If not, despite my son's cries I will demonstrate to you other "
-#| "fascinating aspects on the topic of what suffering can be induced by a "
-#| "simple knife in hands of an able woman."
 msgid ""
 "Hmm... You know what, orc? Let's make a deal... If you will tell me why are "
 "you here, allied with Akladians, then I will let you die peacefully. If not, "
@@ -7731,7 +7485,7 @@ msgstr ""
 #: A_New_Order/scenarios/14b_Bontom.cfg:712
 msgid ""
 "Grekulak? That's something to report. We should go back to Freetown then."
-msgstr "Grekulak? Ez fontos lehet. vissza kéne térjünk Freetownba."
+msgstr "Grekulak? Ez fontos lehet. Vissza kéne térjünk Freetownba."
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:403
@@ -7783,10 +7537,8 @@ msgstr "Há! Egy kis aranyat rejtettek el itt!"
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:563
-#, fuzzy
-#| msgid "You have received 20 gold pieces"
 msgid "You have received $orc_gold_amt gold pieces."
-msgstr "Hozzájutsz 20 aranyhoz"
+msgstr "Hozzájutsz $orc_gold_amt aranyhoz."
 
 #. [scenario]: id=23c_Trapped
 #. [scenario]: id=23b_Trapped
@@ -7807,7 +7559,7 @@ msgstr "Lehetséges ez? Lorin? Te még élsz?"
 #. [event]
 #: A_New_Order/scenarios/23c_Trapped.cfg:19
 msgid "Uhm... Yes. But who exactly are you!?"
-msgstr "Hümm... Igen. Pontosan ki is vagy te?!"
+msgstr "Hmm... Igen. Pontosan ki is vagy te?!"
 
 #. [event]
 #: A_New_Order/scenarios/23c_Trapped.cfg:20
@@ -7830,7 +7582,7 @@ msgid ""
 "Gaumhaldric, and he answered Gaumhaldric. How can he possibly be our king?"
 msgstr ""
 "Nem, nem a királyom. Hallottam, hogy megkérdezték tőle, hogy a neve Gawen "
-"vagy Gaumhaldric, és ős azt válaszolta, hogy Gaumhaldric. Hogy lehetne ő a "
+"vagy Gaumhaldric, és ő azt válaszolta, hogy Gaumhaldric. Hogy lehetne ő a "
 "királyom?"
 
 #. [event]
@@ -7927,11 +7679,6 @@ msgstr "Gawen, mint már említettem, titokban kellene tartanod a kilétedet."
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:17
-#, fuzzy
-#| msgid ""
-#| "It is for advisers to advise, and the leader to choose whether to follow "
-#| "that advice. Raban, there can be no treachery in ignorance. If you didn't "
-#| "know it was me, you are no traitor."
 msgid ""
 "It is for advisors to advise, and the leader to choose whether to follow "
 "that advice. Raban, there can be no treachery in ignorance. If you didn't "
@@ -7948,7 +7695,7 @@ msgid ""
 "even in defeat."
 msgstr ""
 "Hallottam már ezt a nevet... Egy új, nemtelen vezér. Megtiszteltetés, hogy "
-"harcolhattunk, mégha el is buktam."
+"harcolhattunk, még ha el is buktam."
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
 #. [message]: speaker=Lady Lorin
@@ -8057,9 +7804,9 @@ msgid ""
 "require. He won't be Akladian - at least not fully Akladian - the rumors are "
 "not totally clear about that."
 msgstr ""
-"Igen. Ő fog újra az Isten útjára vezetni minket, új útra vezet minket. De "
-"nem akladiai, illetve nem teljesen az, habár a hírek e tekintetben elég "
-"zavarosak."
+"Igen. Ő fog új szövetséget kötni az Istennel. Isten útjára vezet minket, új "
+"hagyományokat teremt. De nem akladiai, illetve nem teljesen az, habár a "
+"hírek e tekintetben elég zavarosak."
 
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:61
@@ -8213,7 +7960,7 @@ msgid ""
 "women anyway? If our old king could do it, why not us lesser men?"
 msgstr ""
 "Ne nevezd így, már mondtam. Különben is, mi a rossz abban, ha egy wesnothi "
-"nőt veszek el? Ha a királyunk megtehette, mi kisemberek miért ne tehetnénk "
+"nőt veszek el? Ha a királyunk megtehette, mi alattvalók miért ne tehetnénk "
 "meg?"
 
 #. [event]
@@ -8231,11 +7978,14 @@ msgstr ""
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:378
 msgid "Why? At least Wesnothian woman guarantee healthy children."
 msgstr ""
+"Mi a baj? A wesnothi nők legalább garantáltan egészséges utódokat szülnek."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:379
 msgid "There is a gossip that this unknown curse put on our women will end. "
 msgstr ""
+"Azt csiripelik a verebek, hogy ez az átok, ami az asszonyainkat sújtja, el "
+"fog múlni."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:379
@@ -8269,38 +8019,26 @@ msgstr ""
 #. [event]
 #. EASY difficulty:
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:385
-#, fuzzy
-#| msgid ""
-#| "I want to avoid fighting. I only have twelve seasoned troops, and in this "
-#| "neigborhood I can recruit only peasants. I won't be able to find "
-#| "replacements for any of my veterans, and this is just the beginning of "
-#| "our quest."
 msgid ""
 "I want to avoid fighting. I only have eighteen seasoned troops, and in this "
 "neigborhood I can recruit only peasants. I won't be able to find "
 "replacements for any of my veterans, and this is just the beginning of our "
 "quest."
 msgstr ""
-"Szeretném elkerülni a csatát. Mindössze tizenkét kipróbált harcosom van, s "
+"Szeretném elkerülni a csatát. Mindössze tizennyolc kipróbált harcosom van, s "
 "csak parasztokkal tudnám bővíteni a csapatot. Velük nem pótolhatnám a "
 "harcedzett harcosokat, s még csak a küldetésünk elején vagyunk."
 
 #. [event]
 #. NORMAL difficulty:
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:389
-#, fuzzy
-#| msgid ""
-#| "I want to avoid fighting. I only have twelve seasoned troops, and in this "
-#| "neigborhood I can recruit only peasants. I won't be able to find "
-#| "replacements for any of my veterans, and this is just the beginning of "
-#| "our quest."
 msgid ""
 "I want to avoid fighting. I only have fifteen seasoned troops, and in this "
 "neigborhood I can recruit only peasants. I won't be able to find "
 "replacements for any of my veterans, and this is just the beginning of our "
 "quest."
 msgstr ""
-"Szeretném elkerülni a csatát. Mindössze tizenkét kipróbált harcosom van, s "
+"Szeretném elkerülni a csatát. Mindössze tizenöt kipróbált harcosom van, s "
 "csak parasztokkal tudnám bővíteni a csapatot. Velük nem pótolhatnám a "
 "harcedzett harcosokat, s még csak a küldetésünk elején vagyunk."
 
@@ -8320,29 +8058,18 @@ msgstr ""
 #. [event]
 #. NIGHTMARE difficulty:
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:397
-#, fuzzy
-#| msgid ""
-#| "I want to avoid fighting. I only have twelve seasoned troops, and in this "
-#| "neigborhood I can recruit only peasants. I won't be able to find "
-#| "replacements for any of my veterans, and this is just the beginning of "
-#| "our quest."
 msgid ""
 "I want to avoid fighting. I barely have any seasoned troops, and in this "
 "neigborhood I can recruit only peasants. I won't be able to find "
 "replacements for any of my veterans, and this is just the beginning of our "
 "quest."
 msgstr ""
-"Szeretném elkerülni a csatát. Mindössze tizenkét kipróbált harcosom van, s "
-"csak parasztokkal tudnám bővíteni a csapatot. Velük nem pótolhatnám a "
-"harcedzett harcosokat, s még csak a küldetésünk elején vagyunk."
+"Szeretném elkerülni a csatát. Alig néhány kipróbált harcosom van, s csak "
+"parasztokkal tudnám bővíteni a csapatot. Velük nem pótolhatnám a harcedzett "
+"harcosokat, s még csak a küldetésünk elején vagyunk."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:399
-#, fuzzy
-#| msgid ""
-#| "If so, then it is up to you to figure out a strategy which will avoid any "
-#| "losses. While will have to pass near the guards, and may skirmish with "
-#| "them, there is no need to get into a stand-up fight with them."
 msgid ""
 "If so, then it is up to you to figure out a strategy which will avoid any "
 "losses. While we will have to pass near the guards, and may skirmish with "
@@ -8368,14 +8095,14 @@ msgid ""
 "want to manage our resources, too - my guess is that we should have at least "
 "250 golden coins at the end of this battle."
 msgstr ""
-"Ezzel a hozzáállással kész csoda, hogy még élsz, ó hatalmas SZUPER-nemes. "
-"Akárhogy döntesz, a következő küldetéshez legalább 250 aranyra szükségünk "
-"lesz."
+"Ezzel a hozzáállással kész csoda, hogy még élsz. Okosan kell gazdálkodnunk "
+"az erőforrásainkkal - akárhogy döntesz, a következő küldetéshez legalább 250 "
+"aranyra szükségünk lesz."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:402
 msgid "Hm, there are certainly many decisions to be made here..."
-msgstr ""
+msgstr "Hmmm, sok mindent kell még itt elrendezni..."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:404
@@ -8383,6 +8110,8 @@ msgid ""
 "Well, Gawen, which path will you take? The stealthy route proposed by Ruvio, "
 "or the violent route proposed by your stepmother?"
 msgstr ""
+"Nos, Gawen, melyik utat választod? A lopakodást, ahogy Ruvio javasolta, vagy "
+"az átgázolást, ahogy nevelőanyád mondta?"
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:407
@@ -8390,6 +8119,8 @@ msgid ""
 "Well, Gawen, which path will you take? The stealthy route proposed by the "
 "underling, or the violent route proposed by the 'She-Wolf of Haeltin'?"
 msgstr ""
+"Nos, Gawen, melyik utat választod? A lopakodást, ahogy a nemtelen javasolta, "
+"vagy az átgázolást, ahogy Haeltin Nőstényfarkasa mondta?"
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:409
@@ -8397,21 +8128,23 @@ msgid ""
 "Well, Gawen, which path will you take? The stealthy route I proposed, or the "
 "violent route proposed by your stepmother?"
 msgstr ""
+"Nos, Gawen, melyik utat választod? A lopakodást, ahogy én javasoltam, vagy "
+"az átgázolást, ahogy nevelőanyád mondta?"
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:412
 msgid "I think I'll take the stealthy strategy"
-msgstr ""
+msgstr "Azt hiszem a lopakodás a célravezető út."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:413
 msgid "I think I'll take the violent strategy"
-msgstr ""
+msgstr "Azt hiszem, az átgázolás a célravezető."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:414
 msgid "I think I'll forge my own path"
-msgstr ""
+msgstr "Azt hiszem, saját útra lépek."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:416
@@ -8419,6 +8152,8 @@ msgid ""
 "Since you have chosen the stealthy strategy, for this scenario only, your "
 "units will be more stealthy than normal."
 msgstr ""
+"Mivel a lopakodást választottad, ebben a küldetésben az egységeid a "
+"megszokotthoz képest jobban álcázzák magukat."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:469
@@ -8426,6 +8161,8 @@ msgid ""
 "Since you have chosen the violent strategy, for this scenario only, your "
 "units will be more violent than normal."
 msgstr ""
+"Mivel az átgázolást választottad, ebben a küldetésben az egységeid a "
+"megszokottnál sokkal erőszakosabban harcolnak."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:565
@@ -8434,22 +8171,18 @@ msgid ""
 "your units in an unmodified state, as would have been the case before this "
 "choice existed."
 msgstr ""
+"Mivel saját utat választottál, az egységeid a megszokott módon harcolnak."
 
 #. [objectives]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:569
-#, fuzzy
-#| msgid ""
-#| "You can interrogate enemy leaders in this scenario with Gawen, Ruvio, "
-#| "Reme or Lorin, but the effects may - or may not - be different, depending "
-#| "on the enemy leader and interrogating hero."
 msgid ""
 "You can interrogate enemy leaders in this scenario with Gawen, Ruvio, Reme, "
 "or Lorin, but the effects may - or may not - be different, depending on the "
 "enemy leader and interrogating hero."
 msgstr ""
 "Kivallathatod az ellenséges vezéreket Gawennel, Ruvióval, Remével vagy "
-"Lorinnal, de a válaszok eléggé küllönbözhetnek - vagy nem -, tehát "
-"mérlegelj, kivel kit vallatsz ki. "
+"Lorinnal, de a válaszok eléggé különbözhetnek - vagy nem -, tehát mérlegelj, "
+"kivel kit vallatsz ki."
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:571
@@ -8465,20 +8198,18 @@ msgstr "Megölöd az ellenséges vezéreket"
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:600
-#, fuzzy
-#| msgid "Who are you, and what are you doing here?"
 msgid "Wait, Karl, why aren't you guarding Karen?"
-msgstr "Ki vagy, és mit csinálsz itt?"
+msgstr "Megállj, Karl, miért nem vigyázol Karenre?"
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:601
 msgid "You asked me to come with you, remember?"
-msgstr ""
+msgstr "Te kérted, hogy csatlakozzak hozzád, nem emlékszel?"
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:602
 msgid "Right, I did... I'm sure she'll be fine..."
-msgstr ""
+msgstr "Igen, én... bízom benne, hogy beválik..."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:625
@@ -8514,10 +8245,8 @@ msgstr ""
 #. [event]
 #. Note to translators: A gelding is an animal that has been castrated.
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:648
-#, fuzzy
-#| msgid "You can feel THIS. How does IT feel?"
 msgid "And you will be soon a gelding. How does IT feel?"
-msgstr "Majd adok én neked! NESZE! ENNEK örülhetsz..."
+msgstr "Hamarosan csak egy herélt leszel. EHHEZ mit szólsz?"
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:655
@@ -8527,10 +8256,8 @@ msgstr "Tartogatott egy kis aranyat a kastélyában."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:657
-#, fuzzy
-#| msgid "You receive 50 golden pieces."
 msgid "You receive $bar_gold_amt golden pieces."
-msgstr "Szerzel 50 aranyat."
+msgstr "Szerzel $bar_gold_amt aranyat."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:667
@@ -8614,22 +8341,18 @@ msgstr "Nos, azért megpróbáltam. De ideje, hogy a kis késem lépjen akcióba
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:702
-#, fuzzy
-#| msgid "You receive 50 golden pieces."
 msgid "You receive $quivre_gold_amt golden pieces."
-msgstr "Szerzel 50 aranyat."
+msgstr "Szerzel $quivre_gold_amt aranyat."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:730
-#, fuzzy
-#| msgid "I think we killed him, my lord!"
 msgid "I killed this one, my lord."
-msgstr "Azt hiszem, uram, megöltük!"
+msgstr "Azt hiszem, uram, megöltük."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:731
 msgid "A shame we didn't get a chance to interrogate him... oh well."
-msgstr ""
+msgstr "Szégyen, hogy még esélyünk sincs kivallatni.. hááát, ez van."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:737
@@ -8768,16 +8491,12 @@ msgstr "És most merre menjünk tovább?"
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:808
-#, fuzzy
-#| msgid ""
-#| "I say to hell with that mage. Let's go to Vattin and announce that the "
-#| "king has returned...."
 msgid ""
 "I say to hell with that mage. Let's go to Vattin and announce that the king "
 "has returned..."
 msgstr ""
-"Azt mondom, pokolba azzal a mágussal. Gyerünk Vattinba, és hirdessük ki, "
-"hogy a király visszatért!"
+"Azt mondom, pokolba azzal a mágussal! Gyerünk Vattinba, és hirdessük ki, "
+"hogy a király visszatért..."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:809
@@ -8791,7 +8510,7 @@ msgid ""
 "interrupt me when I speak."
 msgstr ""
 "S ha megérkeztünk Vattinba, elsőnek azokat végeztetjük ki, akik "
-"közbeszólnak, miközben beszélek..."
+"közbeszólnak, miközben beszélek."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:811
@@ -8820,7 +8539,7 @@ msgid ""
 msgstr ""
 "Egy nő, akit látnoki képességgel áldott meg a teremtő. Őt még az akladiaiak "
 "sem bántották, nem tudom, miért. Amikor egy jósnő meghal, a tanítványai "
-"közül egyvalaki átveszi a helyét. Ő TALÁN tudja, hol lakik Deorien, mivel ő "
+"közül egyvalaki átveszi a helyét. Ő talán tudja, hol lakik Deorien, mivel ő "
 "is mágikus képességekkel rendelkezik."
 
 #. [event]
@@ -8839,12 +8558,12 @@ msgstr ""
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:816
 msgid "Stop calling him an underling. STOP using that word."
 msgstr ""
-"Elég ebből a kárálásból. A nemtelen szót sem akarom tőled többet hallani."
+"Elég ebből a kárálásból. A nemtelen szót SEM akarom tőled többet hallani."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:817
 msgid "But what SHOULD I call him? He IS an underling."
-msgstr "Akkor minek nevezzem? Hiszen AZ!"
+msgstr "Akkor MINEK nevezzem? Hiszen AZ! Nemtelen."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:818
@@ -8869,7 +8588,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:820
 msgid "At this point, I don't care."
-msgstr "Őszintén szólva, nem érdekelnek a gondolataid."
+msgstr "Őszintén szólva, nem érdekel."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:821
@@ -8879,14 +8598,12 @@ msgstr "Akkor talán... esetleg... Gawennek?"
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:822
 msgid "I told you, I don't care."
-msgstr "Őszintén szólva, nem érdekelnek a gondolataid."
+msgstr "Mondtam, nem érdekel."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:823
-#, fuzzy
-#| msgid "(to herself) But I... I think I care."
 msgid "(<i>to herself</i>) But I... I think I care."
-msgstr "(magában) De engem.. azt hiszem, engem érdekel."
+msgstr "(<i>magában</i>) De engem.. azt hiszem, engem érdekel."
 
 #. [event]
 #. NIGHTMARE difficulty:
@@ -8897,13 +8614,13 @@ msgid ""
 "This is not some skirmish! I think this is a situation which calls for using "
 "emergency reserves of gold."
 msgstr ""
+"Ez nem egyszerűen egy csatározás! Azt hiszem ez egy olyan vészhelyzet, "
+"amikor mozgósítani kell a vésztartalékokat."
 
 #. [scenario]: id=21d_Ruins_of_Weldyn
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:3
-#, fuzzy
-#| msgid "Ruins of the Past"
 msgid "Ruins of Weldyn"
-msgstr "Elmúlt idők romjai"
+msgstr "Weldyn romjai"
 
 #. [part]
 #. spoken by Gawen
@@ -8919,21 +8636,16 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Lorin said that Akladians were at first unable to take Weldyn; without "
-#| "artillery nor bows, they never were good at taking fortified cities. They "
-#| "sieged the city for years, storming the walls with ferocity and fanatical "
-#| "courage."
 msgid ""
 "Lorin said that Akladians were at first unable to take Weldyn; without "
 "artillery nor bows, they never were good at taking fortified cities. They "
 "besieged the city for years, storming the walls with ferocity and fanatical "
 "courage."
 msgstr ""
-"Azt mondják, hogy az akladiaiak nem tudták bevenni Weldynt, sosem voltak túl "
-"jók az erődítések ostromában. Évekig ostromolták a várost, rohamozták "
-"kitartó szívóssággal a falait."
+"Lorin azt mondta, hogy az akladiaiak először nem tudták bevenni Weldynt; "
+"ostromgépek és íjak nélkül sosem voltak túl jók az erődítések ostromában. "
+"Évekig ostromolták a várost, rohamozták kitartó szívóssággal és "
+"elszántsággal a falait."
 
 #. [part]
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:22
@@ -9017,10 +8729,6 @@ msgstr "Igen, az."
 #. [event]
 #. Lorin is about to say "underling" again but catches herself:
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:100
-#, fuzzy
-#| msgid ""
-#| "If this is your will, Gawen, I will kill that under.. uhm... man-like "
-#| "creature later."
 msgid ""
 "If this is your will, Gawen, I will kill that under... uhm... man-like "
 "creature later."
@@ -9107,10 +8815,6 @@ msgstr "Igen, én vagyok."
 
 #. [event]
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:160
-#, fuzzy
-#| msgid ""
-#| "We need your help. A great army is about to invade Wesnoth, and without "
-#| "mages, we.."
 msgid ""
 "We need your help. A great army is about to invade Wesnoth, and without "
 "mages, we..."
@@ -9190,6 +8894,8 @@ msgid ""
 "beginning twisted and confused with the passing generations. Listen to me "
 "now."
 msgstr ""
+"És igen. A mítoszok kiindulópontja általában valamilyen valós esemény, amely "
+"a továbbadás során elhomályosult, összezavarodott. Hallgassatok ide!"
 
 #. [scenario]: id=07_Ally_From_the_Past
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:3
@@ -9255,8 +8961,6 @@ msgstr "Ne aggódj, Haldric! Barátok közt vagy."
 
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:298
-#, fuzzy
-#| msgid "But, how.. wait, what did you call me? Haldric?"
 msgid "But, how... wait, what did you call me? Haldric?"
 msgstr "De, hogy... Mit mondtál? Haldric?"
 
@@ -9267,10 +8971,6 @@ msgstr "Igen, édesanyád így hívott."
 
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:300
-#, fuzzy
-#| msgid ""
-#| "My mother never.. wait, you are talking about my REAL mother, aren't you? "
-#| "You knew my mother?"
 msgid ""
 "My mother never... wait, you are talking about my REAL mother, aren't you? "
 "You knew my mother?"
@@ -9289,8 +8989,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:302
-#, fuzzy
-#| msgid "I remember nothing. But, how.."
 msgid "I remember nothing. But, how..."
 msgstr "Semmire sem emlékszem. De, hogy..."
 
@@ -9330,7 +9028,7 @@ msgid ""
 msgstr ""
 "Ne légy hozzá szigorú, apám! Tényleg megpróbálta. Szóval ez az a kis "
 "Haldric, akiről beszéltél nekünk? Egészen normálisnak néz ki, nem hasonlít "
-"az akladiaiakra. "
+"az akladiaiakra."
 
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:335
@@ -9340,6 +9038,10 @@ msgid ""
 "that unlike her sisters, Karen inherited my temperment, not my wife's - she "
 "absolutely refuses to stay at home!"
 msgstr ""
+"Gawen Hagarthen, bemutatom a lányomat, Karent. Képzeld el, hogy rajta kívül "
+"még három lányom van otthon, akik mind az anyjuk vörös haját örökölték. A "
+"nővéreitől eltérően Karen nem az anyja temperamentumát örökölte, hanem az "
+"enyémet; képtelen megülni odahaza."
 
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:336
@@ -9362,7 +9064,7 @@ msgid ""
 msgstr ""
 "Nem, kevesen vagyunk. A nemtelenek felülkerekednének rajtunk. Azonnal "
 "értesítenünk kell Bor Crynét, jó pénzt kapunk a hírért, majd ő hoz elég "
-"embert, s elintézik ezt a nemtelen csürhét.  "
+"embert, s elintézik ezt a nemtelen csürhét."
 
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:339
@@ -9379,13 +9081,14 @@ msgid ""
 "Kill the enemy leader and all enemy units. Don't allow any enemy unit to "
 "reach the north-western signpost, or the village nearby."
 msgstr ""
+"Megölöd az ellenséges vezért, s minden ellenséges egységet. Egyetlen "
+"ellenséges egység sem érheti el északnyugaton az útjelzőt, vagy a hozzá "
+"közeli falut."
 
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:359
-#, fuzzy
-#| msgid "Any enemy unit reaches north-eastern signpost"
 msgid "Any enemy unit reaches north-western signpost"
-msgstr "Ellenséges egység éri el az északkeleti útjelzőt"
+msgstr "Ellenséges egység éri el az északnyugati útjelzőt."
 
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:391
@@ -9487,10 +9190,6 @@ msgstr "Látod, én mondtam, hogy menni fog."
 
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:601
-#, fuzzy
-#| msgid ""
-#| "Yes, but only because they had limited soldiers and a fool of a "
-#| "commander. Where to go now?"
 msgid ""
 "Yes, but only because they had limited soldiers and a fool for a commander. "
 "Where to go now?"
@@ -9583,13 +9282,13 @@ msgid ""
 "I am thinking more about your safety amongst the Wesnothians inside of "
 "Freetown. Hagarthens were never really popular there. Let's go."
 msgstr ""
-"Én most a freetowni wesnothiakra gondolok. Hagarthen sosem volt népszerű a "
-"körükben. De induljunk!"
+"Én most a freetowni wesnothiakra gondolok. A Hagarthenek sosem voltak "
+"népszerűek a köreikben. De induljunk!"
 
 #. [then]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:664
 msgid "(<i>low whistle</i>)"
-msgstr ""
+msgstr "(<i>halk suttogás</i>)"
 
 #. [then]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:666
@@ -9632,18 +9331,14 @@ msgstr "Arlgor Maunarr"
 
 #. [event]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:226
-#, fuzzy
-#| msgid ""
-#| "...anyway, this is territory of my friend, loyal to Gawen Hagarthen. He "
-#| "will help us cure our wounded and provide us supplies to continue our "
-#| "journey."
 msgid ""
 "...anyway, this is the territory of my friend, who is loyal to Gawen "
 "Hagarthen. He will help us cure our wounded and provide us supplies to "
 "continue our journey."
 msgstr ""
-"Akárhogy is, ez a terület a barátomé, s ő hűséges Gawen Hagarthenhez. "
-"Segíteni fog minket, ellátja a sebesültjeinket, s ellát minket munícióval."
+"...akárhogy is, ez a terület a barátomé, s ő hűséges Gawen Hagarthenhez. "
+"Segíteni fog minket, ellátja a sebesültjeinket, s ellát minket munícióval, "
+"hogy folytathassuk az utunkat."
 
 #. [then]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:237
@@ -9657,7 +9352,7 @@ msgstr ""
 #. [objective]: condition=win
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:243
 msgid "Explore and try to find if Reme's friend is anywhere nearby"
-msgstr ""
+msgstr "Felderíted, kipuhatolod, hogy Reme barátja a közelben van-e."
 
 #. [event]
 #. discussion between two orcs
@@ -9682,16 +9377,12 @@ msgstr "Megölni mindet! Mind megölni! Emberek!"
 
 #. [event]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:314
-#, fuzzy
-#| msgid ""
-#| "(sigh) Sometimes I feel I was born in the wrong time, wrong place and "
-#| "wrong race."
 msgid ""
 "(<i>sigh</i>) Sometimes I feel I was born in the wrong time, wrong place, "
 "and wrong race."
 msgstr ""
-"Hajh. Néha az az érzésem, hogy rossz időben, rossz helyre és rossz fajba "
-"születtem."
+"(<i>sóhaj</i>) Néha az az érzésem, hogy rossz időben, rossz helyre és rossz "
+"fajba születtem."
 
 #. [event]
 #. This is a hint as to which orc Lorin should bother interrogating:
@@ -9703,10 +9394,6 @@ msgstr "Úgy látszik, az északi orkok egy kicsit intelligensebbek a déliekné
 
 #. [event]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:356
-#, fuzzy
-#| msgid ""
-#| "We are liberated! Hurray! Wait a moment.. those are Akladians. I never "
-#| "thought I would be glad to see them!"
 msgid ""
 "We are liberated! Hurray! Wait a moment... those are Akladians. I never "
 "thought I would be glad to see them!"
@@ -9722,10 +9409,6 @@ msgstr "Istenem! Mi történt itt?"
 
 #. [event]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:369
-#, fuzzy
-#| msgid ""
-#| "One thing is for sure... we will find no shelter, no supplies and none of "
-#| "Reme's friends here."
 msgid ""
 "One thing is for sure... we will find no shelter, no supplies, and none of "
 "Reme's friends here."
@@ -9744,22 +9427,17 @@ msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:388
-#, fuzzy
-#| msgid ""
-#| "Wait! I hate when you kill people before I have chance to interrogate "
-#| "them."
 msgid ""
 "Wait! I hate when you kill people before I have chance to interrogate them. "
 "Again."
 msgstr ""
-"Megállj! Gyűlölöm, hogy megölöd az embereket, mielőtt kivallathatnám őket."
+"Megállj! Gyűlölöm, hogy megölöd az embereket, mielőtt kivallathatnám őket. "
+"Már megint."
 
 #. [then]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:389
-#, fuzzy
-#| msgid "What do you mean?"
 msgid "'Again?' What do you mean?"
-msgstr "Mire gondolsz?"
+msgstr "Már megint? Mire gondolsz?"
 
 #. [then]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:390
@@ -9788,8 +9466,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:406
-#, fuzzy
-#| msgid "Kill the humans.. good meat."
 msgid "Kill the humans... good meat."
 msgstr "Öljétek meg az embereket... finom a húsuk."
 
@@ -9800,16 +9476,12 @@ msgstr "Ehh. Semmi keresnivalónk itt. Az a másik sokkal értelmesebbnek tűnt.
 
 #. [else]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:420
-#, fuzzy
-#| msgid ""
-#| "Sigh. It seems we will get more from the second Orcish leader. This one "
-#| "is... I mean was.. far less intelligent."
 msgid ""
 "Sigh. It seems we will get more from the second Orcish leader. This one "
 "is... I mean was... far less intelligent."
 msgstr ""
-"Ehhh. Azt hiszem a másik ork vezértől többet meg fogunk tudni. Ez egy elég "
-"ostoba jószág... vagyis ostoba jószág volt."
+"Ehhh. Azt hiszem, a másik ork vezértől többet meg fogunk tudni. Ez egy elég "
+"ostoba jószág... vagyis ostoba jószág... volt."
 
 #. [event]
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:434
@@ -9963,17 +9635,15 @@ msgstr "Mit tudsz a vakladiai helyzetről?"
 
 #. [scenario]: id=21a_Abducted_Bride
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:25
-#, fuzzy
-#| msgid "Because I wanted too. "
 msgid "Because I wanted to. "
-msgstr "Ez minden, amit tudni akartam."
+msgstr "Mert megkívántam."
 
 #. [event]
 #. [scenario]: id=21a_Abducted_Bride
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:577
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:25
 msgid "I don't have to explain myself to anyone."
-msgstr "Mert megkívántam. Nem gondolom, hogy bárkinek magyarázkodnom kellene."
+msgstr "Nem gondolom, hogy bárkinek magyarázkodnom kellene."
 
 #. [scenario]: id=21a_Abducted_Bride
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:27
@@ -10016,6 +9686,7 @@ msgstr "Innen északra, egy kis ketrecben."
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:53
 msgid "I don't know. Only the king would know what his plans are."
 msgstr ""
+"Nem tudom. Csak a királyok tudják, hogy milyen tervet forgatnak a fejükben."
 
 #. [scenario]: id=21a_Abducted_Bride
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:55
@@ -10082,7 +9753,7 @@ msgstr ""
 "Miféle pletyka? Szellemek szállták meg a kastélyokat? Rurk, azt hittem, te "
 "egy komoly ember vagy. A szellemek és élőholtak csak a wesnothiak meséiben "
 "léteznek, szerintem ezeket a pletykákat maga Buffin király terjeszti, hogy "
-"elriassza a wesnothiakat a lázadás gondolatától is. "
+"elriassza a wesnothiakat a lázadás gondolatától is."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:318
@@ -10105,12 +9776,10 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:321
-#, fuzzy
-#| msgid "... and of course we should kill the cretins who kidnapped her."
 msgid "...and of course we should kill the cretins who kidnapped her."
 msgstr ""
-"... ééésss természetesen ki kell irtanunk az összes vadállatot, akik "
-"elrabolták őt."
+"... és természetesen ki kell irtanunk az összes vadállatot, akik elrabolták "
+"őt."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:322
@@ -10125,28 +9794,24 @@ msgstr "Tudom."
 #. [event]
 #. slightly different from the generic Avenger string, to make it easier to tell which branch is being taken (also Elorain may still be a Ranger):
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:327
-#, fuzzy
-#| msgid ""
-#| "My Lord, this seems to be an ideal task for an Elvish Avenger. I can "
-#| "sneak right up to the cage and free that girl!"
 msgid ""
 "My Lord, this seems to be an ideal task for an Elf who can ambush like I "
 "can. I can sneak right up to the cage and free that girl!"
 msgstr ""
-"Uram, ez tökéletes feladat egy tünde vadásznak. Odaosonok a ketrechez, és "
-"kiszabadítom azt a lányt."
+"Uram, ez tökéletes feladat egy tünde vadásznak, a rajtaütés mesterének. "
+"Odaosonok a ketrechez, és kiszabadítom azt a lányt."
 
 #. [event]
 #. EASY difficulty; Gawen's request is reason for Elorain getting new abilities:
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:330
 msgid "Okay, but you had best be quick about it; we don't have much time here."
-msgstr ""
+msgstr "Jól van, csak igyekezz, mert nem időzhetünk itt túl sokáig."
 
 #. [event]
 #. EASY difficulty; "hurry" means "get new abilities" here:
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:332
 msgid "Indeed, I shall hurry on this mission!"
-msgstr ""
+msgstr "Rendben, megpróbálok sietni."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:364
@@ -10214,7 +9879,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:467
 msgid "Our task here is finished. Should we withdraw now, my lord?"
-msgstr "A küldetésünk itt végetért. Visszavonulhatunk, uram?"
+msgstr "A küldetésünk itt véget ért. Visszavonulhatunk, uram?"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:479
@@ -10222,6 +9887,8 @@ msgid ""
 "Understood. We shall continue to fight any remnants of her captors' forces "
 "until it is completely safe."
 msgstr ""
+"Értem. Folytatjuk a harcot a foglyul ejtőivel, amíg teljesen biztonságba nem "
+"helyeztük a lányt."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:488
@@ -10290,8 +9957,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:558
-#, fuzzy
-#| msgid "You think I will be.. AAAARGH!"
 msgid "You think I will be... AAAARGH!"
 msgstr "Azt hiszed, hogy megij... ÁÁÁáááhhhh!"
 
@@ -10314,11 +9979,14 @@ msgid ""
 "children and many of them are born sick. A Wesnothian woman could give me a "
 "son!"
 msgstr ""
+"Mellesleg a mi asszonyainkat ismeretlen átok sújtja: csak kevés gyereknek "
+"adnak életet, s azok többsége is betegen születik. A wesnothi nő egészséges "
+"fiút adhat nekem!"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:574
 msgid "A slave cannot give a son to a Akladian lord!"
-msgstr ""
+msgstr "Egy szolga nem adhat fiat egy akladiai úrnak!"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:575
@@ -10326,11 +9994,13 @@ msgid ""
 "I don't care! If she would give a life to my son, I would free her, I would "
 "made her my first wife, just as she would be of worthy people!"
 msgstr ""
+"Nem érdekel! Ha egészséges fiút szül, felszabadítom, első feleségemmé "
+"teszem, mivel kiérdemli ezt!"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:576
 msgid "You are making me angry. What if she would give a life to a daughter?"
-msgstr ""
+msgstr "Felingerelsz. És akkor mi van, ha leányt szül?"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:579
@@ -10361,10 +10031,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:585
-#, fuzzy
-#| msgid "I don't know that."
 msgid "I don't know who that is!"
-msgstr "Nem tudom."
+msgstr "Nem tudom, ki az ott."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:632
@@ -10375,30 +10043,24 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:637
-#, fuzzy
-#| msgid "Eeek! They killed the boss! Bring reinforcements!"
 msgid "We must do likewise! Bring our own reinforcements!"
-msgstr "Eeek! Megölték a főnököt! Hívjatok erősítést!"
+msgstr "Nekünk is így kell cselekednünk! Hívjatok erősítést!"
 
 #: A_New_Order/scenarios/23_Trapped.cfg:8
-#, fuzzy
-#| msgid ""
-#| "Those are Khalifate troops! Excellent! Listen, I knew your leader, Majid "
-#| "Yahyazad, and..."
 msgid ""
 "Those are Dunefolk troops! Excellent! Listen, I knew your leader, Majid "
 "Yahyazad, and..."
 msgstr ""
-"Azok ott khalifatok! Remek! Hallgassatok ide, ismerem a vezetőtöket, Majid "
-"Yahyazad, és... "
+"Azok ott dűnelakók! Remek! Hallgassatok ide, ismerem a vezetőtöket, Majid "
+"Yahyazadot, és..."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:9
 msgid ""
 "Majid Yahyazad is not my leader. His Ostan is far away from here. The Ostan "
 "of Mahour - and this tribe - is ruled by me, and no other rules over me."
 msgstr ""
-"Yahyazad nem a mi vezetőnk. A sziecse messze van innen. Ezt a sziecset és "
-"ezt a törzset én vezetem, s fölöttem senki nem uralkodik."
+"Yahyazad nem a mi vezetőnk. Az oázisa messze van innen. Ezt az oázist és ezt "
+"a törzset én vezetem, s fölöttem senki nem uralkodik."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:10
 msgid "Show more respect, this is king Gawen Haldric Hagarthen."
@@ -10423,16 +10085,12 @@ msgstr ""
 "támadjatok minket."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:13
-#, fuzzy
-#| msgid ""
-#| "Who said we won't join you? If can pay, we will readily join your army! "
-#| "The price is 250 gold pieces."
 msgid ""
 "Who said we won't join you? If can pay, we will readily join your army! The "
 "price is $dunefolk_price gold pieces."
 msgstr ""
 "Ki mondta, hogy nem csatlakozunk hozzád? Ha megfizettek, természetesen "
-"csatlakozunk! Az ár 250 arany."
+"csatlakozunk! Az ár $dunefolk_price arany."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:21
 msgid "We will pay."
@@ -10447,21 +10105,17 @@ msgid "Why not. Here is your gold."
 msgstr "Miért is ne. Tessék az arany."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:25
-#, fuzzy
-#| msgid ""
-#| "Ha! We have a deal, then, my king. You may recruit now Khalifa from my "
-#| "Ostan."
 msgid ""
 "Ha! We have a deal, then, my king. You may now recruit Dunefolk from my "
 "Ostan."
 msgstr ""
-"Há! Akkor megegyeztünk, királyom. Mostantól aragwaithokat is toborozhatsz a "
-"sziecsemből."
+"Há! Akkor megegyeztünk, királyom. Mostantól dűnelakókat is toborozhatsz az "
+"oázisomból."
 
 #. EASY difficulty; the healer in question is a Dune Herbalist:
 #: A_New_Order/scenarios/23_Trapped.cfg:65
 msgid "As a gesture of goodwill, I am sending you a healer, too."
-msgstr ""
+msgstr "Jóindulatom jeléül küldök neked egy gyógyítót is."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:70
 msgid "We are not interested in hiring you."
@@ -10511,16 +10165,13 @@ msgstr "Dauri Hurionen"
 #. [side]: id=Arsham Mahouri, type=Dune Warmaster
 #: A_New_Order/scenarios/23_Trapped.cfg:320
 msgid "Arsham Mahouri"
-msgstr ""
+msgstr "Arsham Mahouri"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:410
-#, fuzzy
-#| msgid ""
-#| "Who are you, stranger brave or foolhardy enough to enter Khalifa land?"
 msgid "Who are you, stranger brave or foolhardy enough to enter Dunefolk land?"
 msgstr ""
-"Ki vagy te, különösen merész vagy elég ostoba, hogy aragwaith földre lépsz?"
+"Ki vagy te, különösen merész vagy elég ostoba, hogy dűnelakó földre lépsz?"
 
 #. [unit]: id=Messenger, type=Akladian Homeguard
 #. [unit]: type=Akladian Clansman, id=Messenger
@@ -10575,6 +10226,8 @@ msgid ""
 " You must return home, with every able soldier in your army, as soon as "
 "possible or we shall surely perish!"
 msgstr ""
+"Vissza kell térned haza, minden katonáddal együtt, különben mindannyian "
+"elpusztulunk!"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:449
@@ -10622,16 +10275,12 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:492
-#, fuzzy
-#| msgid ""
-#| " 'This is the Khalifate territory of Mahour. If you wish to join us, you "
-#| "are welcome; if you wish to fight us, you shall perish.'"
 msgid ""
 " 'This is the Dunefolk territory of Mahour. If you wish to join us, you are "
 "welcome; if you wish to fight us, you shall perish.'"
 msgstr ""
-"'Ez a terület az khalifa ostan, Mahour. Ha csatlakozni akarsz hozzánk, légy "
-"üdvözölve, ha harcolni akarsz, halott vagy.'"
+"'Ez a dűnelakó terület Mahour felségterülete. Ha csatlakozni akarsz hozzánk, "
+"légy üdvözölve, ha harcolni akarsz, halott vagy.'"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:500
@@ -10654,10 +10303,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:522
-#, fuzzy
-#| msgid "I really am Gawen Hagarthen"
 msgid "I really am Gawen Hagarthen."
-msgstr "Én tényleg Gawen Hagarthen vagyok"
+msgstr "Én tényleg Gawen Hagarthen vagyok."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:523
@@ -10693,10 +10340,6 @@ msgstr "Nem, nemes Reumario. Becsülettel küzdöttél, nyugodj békében."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:540
-#, fuzzy
-#| msgid ""
-#| "King Buffin, my uncle, it has been an honour to fight you. You were a "
-#| "tough opponent"
 msgid ""
 "King Buffin, my uncle, it has been an honour to fight you. You were a tough "
 "opponent."
@@ -10705,19 +10348,15 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:541
-#, fuzzy
-#| msgid ""
-#| "Your uncle? Me? You are just an underling! Even if you ARE really Gawen "
-#| "Hagarthen, your mother was one of those curs! (coughs) My cousin should "
-#| "never have desecrated our family name by marrying her! I spit on you!"
 msgid ""
 "Your uncle? Me? You are just an underling! Even if you ARE really Gawen "
 "Hagarthen, your mother was one of those curs! (<i>coughs</i>) My cousin "
 "should never have desecrated our family name by marrying her! I spit on you!"
 msgstr ""
-"Nagybátyád? Én? Te csak egy nemtelen vagy! Még ha te vagy az IGAZI Gawen "
-"Hagarthen, az anyád csak egyike volt azoknak a kutyáknak! (köhög) Az "
-"unokafivéremnek nem kellett volna feleségül vennie! Köpök rád!"
+"Nagybátyád? Én? Te csak egy nemtelen vagy! Még ha te vagy is az IGAZI Gawen "
+"Hagarthen, az anyád csak egyike volt azoknak a szukáknak! (<i>köhög</i>) Az "
+"unokafivéremnek nem kellett volna beszennyezni a nevünket azzal, feleségül "
+"vette! Köpök rád!"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:542
@@ -10744,7 +10383,7 @@ msgid ""
 "women... (cough)"
 msgstr ""
 "Szóval te vagy Lorin a Galleroe klánból... Az akladiai nők közt a legjobb "
-"kardozó. (köhög)"
+"kardozó... (köhög)"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:548
@@ -10771,7 +10410,7 @@ msgid ""
 "rumors about strange things in the eastern part of Okladia. What strange "
 "things?"
 msgstr ""
-"Megállj, ne halj még meg! Hallottam, hogy az embereid mindenféle pletykákról "
+"Megállj, ne halj még meg! Hallottam, hogy a földijeid mindenféle pletykákról "
 "beszéltek, amelyek Okladia keleti részén történt eseményeket emlegettek. "
 "Miféle dolgokról van szó?"
 
@@ -10804,18 +10443,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:558
-#, fuzzy
-#| msgid "I am really Gawen Hagarthen"
 msgid "I am really Gawen Hagarthen."
-msgstr "Én tényleg Gawen Hagarthen vagyok"
+msgstr "Én tényleg Gawen Hagarthen vagyok."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:563
-#, fuzzy
-#| msgid ""
-#| "Another lord killed by my delicate hand. I really should think about "
-#| "starting a collection of souvenirs from each defeated lord. Hmm.. maybe "
-#| "the ears?"
 msgid ""
 "Another lord killed by my delicate hand. I really should think about "
 "starting a collection of souvenirs from each defeated lord. Hmm... maybe the "
@@ -10854,17 +10486,12 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:594
-#, fuzzy
-#| msgid ""
-#| "See, noble and independent but not-so-smart Khalifa leader, you could "
-#| "still be alive and on our side instead of being just another body in our "
-#| "path..."
 msgid ""
 "See, noble and independent but not-so-smart Dunefolk leader, you could still "
 "be alive and on our side instead of being just another body in our path..."
 msgstr ""
-"Látod, te nemes, olyannyira szabad, de nem túl okos aragwaith vezér, "
-"élhettél volna, ha mellénk állsz, ahelyett, hogy az utunkba állsz..."
+"Látod, te nemes, olyannyira szabad, de nem túl okos dűnelakó vezér, élhettél "
+"volna, ha mellénk állsz, ahelyett, hogy az utunkba állsz..."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:649
@@ -10875,15 +10502,13 @@ msgstr "Há, megérkezett a seregem többi része!"
 #. EASY difficulty; reference to how the other difficulties provide him with more Clansmen:
 #: A_New_Order/scenarios/23_Trapped.cfg:680
 msgid "Hm? I thought another unit of my army would be arriving now..."
-msgstr ""
+msgstr "Hmmm? Azt gondoltam, hogy valamivel többen leszünk..."
 
 #. [event]
 #. EASY difficulty; reference to how the other difficulties provide him with more Clansmen:
 #: A_New_Order/scenarios/23_Trapped.cfg:711
-#, fuzzy
-#| msgid "Ha, the rest of my army is coming!"
 msgid "Where is the rest of that army of mine?!"
-msgstr "Há, megérkezett a seregem többi része!"
+msgstr "Hol van a seregem többi része?!"
 
 #: A_New_Order/scenarios/23_Trapped.cfg:785
 msgid ""
@@ -10903,15 +10528,11 @@ msgstr ""
 "ismételgetnem kell, hogy élek."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:788
-#, fuzzy
-#| msgid ""
-#| "NO! Gawen Ha.. No, you are not him! You are... some underling pretending "
-#| "to be my beloved nephew! Kill him!"
 msgid ""
 "NO! Gawen Ha... No, you are not him! You are... some underling pretending to "
 "be my beloved nephew! Kill him!"
 msgstr ""
-"NEM! Gawen hal... Nem, te nem lehetsz ő! Te csak egy nyomorult nemtelen "
+"NEM! Gawen hal... Nem, te nem lehetsz ő! Te csak egy... nyomorult nemtelen "
 "vagy, aki az én szeretett unokaöcsémnek adja ki magát! Öljétek meg!"
 
 #: A_New_Order/scenarios/23_Trapped.cfg:790
@@ -10932,6 +10553,8 @@ msgid ""
 " helping us this won't be as difficult as it might otherwise be, but we "
 "still should be prepared for serious losses."
 msgstr ""
+"segítségével nem lesz olyan nehéz a dolgunk, mint nélküle lenne, de komoly "
+"veszteségekre kell készülnünk."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:868
 msgid ""
@@ -10997,12 +10620,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/29_Epilogue.cfg:26
-#, fuzzy
-#| msgid ""
-#| "But your father never called me to his bed, he never even touched me. You "
-#| "have no idea how I hated him... and you.  You have no idea about the "
-#| "poisonous dreams which filled my head then. And yet, I felt... something "
-#| "strange about you. Always."
 msgid ""
 "But your father never called me to his bed, he never even touched me. You "
 "have no idea how I hated him... and you. You have no idea about the "
@@ -11011,8 +10628,8 @@ msgid ""
 msgstr ""
 "De apád soha nem engedett az ágyába, még csak hozzám sem ért. El sem tudod "
 "képzelni, mennyire gyűlöltem őt... és téged is. S el sem tudod képzelni, "
-"milyen őrült gondolatok kergették egymást  a fejemben. És mégis éreztem... "
-"valami különöset benned. Mindig."
+"milyen őrült gondolatok kergették egymást a fejemben. És mégis éreztem... "
+"valami különöset irántad. Mindig."
 
 #. [part]
 #: A_New_Order/scenarios/29_Epilogue.cfg:30
@@ -11761,10 +11378,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/28_Lorin.cfg:228
-#, fuzzy
-#| msgid "(whispering to himself) Oh no, Majid..."
 msgid "(<i>whispering to himself</i>) Oh no, Majid..."
-msgstr "(magában motyog) Istenem, Majid..."
+msgstr "(<i>magában motyog</i>) Istenem, Majid..."
 
 #. [event]
 #: A_New_Order/scenarios/28_Lorin.cfg:229
@@ -11927,10 +11542,9 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/28_Lorin.cfg:266
-#, fuzzy
-#| msgid "Mage... I... (pause) Lady Lorin thanks you."
 msgid "Mage... I... (<i>pause</i>) Lady Lorin thanks you."
-msgstr "Mágus... Én... Lorin köszöni neked."
+msgstr ""
+"Mágus... Én... (<i>vesz egy mély levegőt</i>) Lady Lorin köszöni neked."
 
 #. [event]
 #: A_New_Order/scenarios/28_Lorin.cfg:267
@@ -12512,10 +12126,6 @@ msgstr "Segítsen neked az ördög, kövér boszorkány!"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:627
-#, fuzzy
-#| msgid ""
-#| "Fat? That's really unfair. I am didn't say anything about you being bald. "
-#| "Now, tell me what happened recently in Vakladia, and..."
 msgid ""
 "Fat? That's really unfair. I didn't say anything about you being bald. Now, "
 "tell me what happened recently in Vakladia, and..."
@@ -12671,17 +12281,13 @@ msgstr "Hmmm... Rejtegetett egy kis aranyat..."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:692
-#, fuzzy
-#| msgid "You have received 200 gold pieces"
 msgid "Bal Riddon has received 40 gold pieces."
-msgstr "Kapsz 200 aranyat"
+msgstr "Bal Riddon Kap 40 aranyat"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:707
-#, fuzzy
-#| msgid "You have received 200 gold pieces"
 msgid "Dauri Travil has received 40 gold pieces."
-msgstr "Kapsz 200 aranyat"
+msgstr "Dauri Travil kap 40 aranyat"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:716
@@ -15334,10 +14940,8 @@ msgstr ""
 #. [event]
 #. I was so sure our warriors will kill that
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2204
-#, fuzzy
-#| msgid "pike"
 msgid "pikeneer"
-msgstr "pika"
+msgstr "pikás"
 
 #. [event]
 #. I was so sure our warriors will kill that
@@ -15561,10 +15165,8 @@ msgstr "Anyám?"
 
 #. [event]
 #: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:139
-#, fuzzy
-#| msgid "Mother?!?"
 msgid "“Mother?”!?"
-msgstr "Anyád?!?"
+msgstr "\"Anyám?\"!?"
 
 #. [event]
 #: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:140
@@ -23371,6 +22973,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:659
+#, fuzzy
 msgid ""
 "LADY Lorin. Why would I want to be called a She-Wolf? Do they expect me to "
 "howl or something?"
