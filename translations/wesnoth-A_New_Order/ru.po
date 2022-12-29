@@ -1,5 +1,5 @@
 # translation of wesnoth-A_New_Order.po to Russian
-# Alexey Remizov <alexey@remizov.pp.ru>, 2006.
+# Alexey Remizov, 2006.
 # Information for translators: http://www.wesnoth.org/wiki/CampaignANewOrder:RussianTranslation
 #
 msgid ""
@@ -8,8 +8,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-29 19:10 UTC\n"
 "PO-Revision-Date: 2012-03-23 17:54+0100\n"
-"Last-Translator: Alexey Remizov <alexey@remizov.pp.ru>\n"
-"Language-Team: Russian <ru@li.org>\n"
+"Last-Translator: Alexey Remizov\n"
+"Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
