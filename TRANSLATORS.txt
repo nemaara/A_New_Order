@@ -44,6 +44,9 @@ GUIDE FOR TRANSLATION
 * "Underling" should *not* be translated as "subhuman". In Polish, finally I stuck
   with "pariah" which was suggested by another Polish translator (Piotr Cychowski).
   You may create your own word.
+* Please ensure that you save your po files with Unix-style line endings when
+  editing your translation, to minimize confusion in the version control system.
+  Poedit has a setting for this under its advanced preferences.
 
 USEFUL LINKS
 ------------
