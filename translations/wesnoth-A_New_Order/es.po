@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-29 19:10 UTC\n"
-"PO-Revision-Date: 2023-02-26 02:47+0100\n"
+"PO-Revision-Date: 2023-02-26 08:30+0100\n"
 "Last-Translator: Toranks <toranksmervat@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -21323,7 +21323,7 @@ msgstr "Normal"
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:52
 msgid "Difficult"
-msgstr "Difícil"
+msgstr ""
 
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:53
@@ -21345,17 +21345,6 @@ msgid ""
 "(Intermediate level, 45 scenarios. Requires BfW 1.16)\n"
 "Version "
 msgstr ""
-"El antiguo reino de Wesnoth ha caído ante las hordas bárbaras. Los bárbaros "
-"ocupantes están al borde de la guerra civil, las semillas de la rebelión de "
-"Wesnoth se mantienen vivas gracias a viejas leyendas, mientras que los "
-"bandidos y mercenarios barjanes deambulan por las tierras. ¿Podrá Gawen "
-"Hagarthen unir estas facciones tan dispares contra un enemigo común?\n"
-"\n"
-"Nota: esta campaña contiene temas para adultos, algunos de los cuales pueden "
-"no ser adecuados para niños.\n"
-"\n"
-"(Nivel intermedio, 45 escenarios. Requiere BfW v1.16)\n"
-"Versión "
 
 #. [about]
 #: A_New_Order/about.cfg:13
