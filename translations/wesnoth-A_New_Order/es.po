@@ -3,14 +3,15 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-29 19:10 UTC\n"
-"PO-Revision-Date: 2006-10-30 23:38-0600\n"
-"Last-Translator: Eduardo Jose Papa <epapa@gigared.com>\n"
+"PO-Revision-Date: 2023-02-26 08:34+0100\n"
+"Last-Translator: Toranks <toranksmervat@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. [unit_type]: id=Peasant girl, race=human
 #: A_New_Order/units/others/Peasant_girl.cfg:5
@@ -13058,19 +13059,14 @@ msgstr ""
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:632
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1324
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2117
-#, fuzzy
-#| msgid ""
-#| "Reach either eastern or western signpost with both Lorin AND Reme. After "
-#| "that, hold on at least $ano_howmanyturns turns before the honorable death "
-#| "of Gawen Hagarthen."
 msgid ""
 "Reach either the eastern or western signpost with both Lorin AND Reme. After "
 "that, hold on at least $ano_howmanyturns turns before the honorable death of "
 "Gawen Hagarthen."
 msgstr ""
 "Alcance el poste indicador oriental u occidental con Lorin y Reme. Después "
-"de eso, resista por lo menos CINCO turnos antes de la muerte honorable de "
-"Gawen Hagarthen."
+"de eso, resista por lo menos $ano_howmanyturns turnos antes de la muerte "
+"honorable de Gawen Hagarthen."
 
 #. [then]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:618
@@ -21322,7 +21318,7 @@ msgstr "Normal"
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:52
 msgid "Difficult"
-msgstr ""
+msgstr "Difícil"
 
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:53
@@ -21344,6 +21340,17 @@ msgid ""
 "(Intermediate level, 45 scenarios. Requires BfW 1.16)\n"
 "Version "
 msgstr ""
+"El antiguo reino de Wesnoth ha caído ante las hordas bárbaras. Los bárbaros "
+"ocupantes están al borde de la guerra civil, las semillas de la rebelión de "
+"Wesnoth se mantienen vivas gracias a viejas leyendas, mientras que los "
+"bandidos y mercenarios barjanes deambulan por las tierras. ¿Podrá Gawen "
+"Hagarthen unir estas facciones tan dispares contra un enemigo común?\n"
+"\n"
+"Nota: esta campaña contiene temas para adultos, algunos de los cuales pueden "
+"no ser adecuados para niños.\n"
+"\n"
+"(Nivel intermedio, 45 escenarios. Requiere BfW v1.16)\n"
+"Versión "
 
 #. [about]
 #: A_New_Order/about.cfg:13
