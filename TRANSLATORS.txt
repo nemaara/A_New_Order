@@ -22,10 +22,10 @@ Finally, read the remarks below.
 
 GUIDE FOR TRANSLATION
 ---------------------
-* Akladians should speak in pompuous way, with a lot of emphasis etc.. I don't
-  know whether that is achieved in English, since I am not a native speaker. But
-  they should employ archaic words, archaic grammar etc. -- also they should talk 
-  in a very epic-like manner.
+* Akladians should speak in a pompuous way, with a lot of emphasis, et cetera. I
+  don't know whether that is achieved in English, since I am not a native speaker.
+  But they should employ archaic words, archaic grammar etc. -- also they should
+  talk in a very epic-like manner.
 * Lorin speaks fast and to the point, whenever possible.
 * Karen may employ slang and more colloquialisms.
 * Wesnothians may sometimes do grammar mistakes or confuse words. You are 
