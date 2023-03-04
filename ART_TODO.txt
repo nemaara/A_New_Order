@@ -46,9 +46,6 @@ PORTRAITS
   the two would have to be updated)
 * Heinric the Redbeard (enemy leader from the first scenario; can be either a City
   Militia or a Lieutenant, depending on difficulty) (low priority)
-* Portrait of Kyobaine with the winter clothes she was able to buy after convincing
-  Gawen to give her some extra money (see {KYOBAINE_DRUID} macro in
-  macros/elvish_macros.cfg)
 * better older-looking mage for the medic who heals Gawen in S01 (low priority)
 * portraits for some of the less-important units with descriptive names, e.g.
   "John the Baldhead" (a peasant discoverable in S13), "Fat Bart" (an enemy
