@@ -42,8 +42,8 @@ from mainline Wesnoth.
 ruvio_broken.png was commissioned from a Twitter user who uses the handle
 @olivia_lucy46
 
-akladian_wiseman.png, akladian_holyman.png, and akladian_wonderman.png were
-commissioned from Onehourlate
+akladian_wiseman.png, akladian_holyman.png, akladian_wonderman.png, and
+kyobaine_winter.png were commissioned from Onehourlate
 
 other were made by me (A.D.Danilecki). In general, if a portrait is ugly, most
 likely I did it :)
@@ -109,7 +109,7 @@ STORY IMAGES
   which I then rendered with my tablet and modified.
 * ruins of weldyn, ruvio at freetown, story ruvio, story_leftme, story_cametome,
   fall of freetown, haeltin_defense: Łukasz Zaręba.
-  Made especially for ANO :) Story_leftme was slightly retouched (changing colour
+  Made especially for ANO :-D Story_leftme was slightly retouched (changing color
   of hair and some little touches to Lorin's face) by me, but those changes are
   almost invisible.
 
@@ -119,4 +119,6 @@ Some images and tiles were created by Reiner "Tiles" Prokein. Snowshoes image wa
 made by Mathbrush (aka brirush84) for SotBEEE. Souls are from the Default L0 Era by
 MoonyDragon (aka moonymeric). Hero-leader ellipses are taken from mainline Wesnoth
 and renamed so that they are used when appropriate. The halo for the "obscures"
-ability is taken from The Dark Hordes.
+ability is taken from The Dark Hordes. Young (level 0) saurians are taken from UMC
+"Across The Ocean" by SkyOne, Inky, and Alex Jarocha-Ernst. Rancher is from UMC
+"A Story of the Northlands" by zepko.
