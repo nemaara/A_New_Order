@@ -2486,7 +2486,6 @@ msgstr "¿Y por qué.. debo hacerlo?"
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:232
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:382
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:493
-#, fuzzy
 msgid "Because..."
 msgstr "Porque..."
 
