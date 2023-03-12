@@ -20926,12 +20926,12 @@ msgstr "Padre de Luke Skywalker"
 #. Żwirek i Muchomorek are from a Czech movie for children. You are free to replace them with characters from a favourite foreign movie for children in your country:
 #: A_New_Order/about.cfg:261
 msgid "Żwirek i Muchomorek"
-msgstr "Żwirek i Muchomorek"
+msgstr "Epi y Blas"
 
 #. [entry]
 #: A_New_Order/about.cfg:263
 msgid "Famous Czech gay actors"
-msgstr "Actores chechos gay famosos"
+msgstr "Actores españoles gay famosos"
 
 #. [about]
 #. Polish president (from 2010 to 2015), he can't spell. Famous for dozens of idiotic sentences and sayings. You are free to replace him with some politician from your country:
