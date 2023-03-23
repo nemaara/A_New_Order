@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-03-04 23:18 UTC\n"
-"PO-Revision-Date: 2023-03-21 11:36+0100\n"
+"PO-Revision-Date: 2023-03-23 23:38+0100\n"
 "Last-Translator: Toranks <toranksmervat@gmail.com>\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -10225,7 +10225,7 @@ msgstr "Bark O Skagrrak"
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:316
 msgid "Rurk, report about your preparations."
-msgstr ""
+msgstr "Rurk, informa sobre tus preparativos."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:317
@@ -10233,10 +10233,11 @@ msgid ""
 "We are ready, my lord. Where will we be going? Is the gossip I've heard "
 "about the hordes on our eastern border true?"
 msgstr ""
+"Estamos listos, mi señor. ¿A dónde iremos? ¿Son ciertas las habladurías que "
+"he oído sobre las hordas en nuestra frontera oriental?"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:318
-#, fuzzy
 msgid ""
 "What gossip? Ghosts invading the castles? Rurk, I thought you were a "
 "reasonable man. Ghosts and undead are stories for Wesnothians. I think king "
@@ -10245,19 +10246,18 @@ msgid ""
 msgstr ""
 "¿Qué cotilleos? ¿Fantasmas invadiendo los castillos? Rurk, pensé que eras un "
 "hombre razonable. Fantasmas y muertos vivientes son historias para "
-"Wesnothians. Creo que el rey Buffin está plantando esos chismes él mismo "
-"para asustar a los Wesnothianos y distraerlos de pensar en rebelarse de "
-"nuevo."
+"wesnodianos. Creo que el rey Buffin está plantando esos chismes él mismo "
+"para asustar a los wesnodianos y distraerlos de pensar en rebelarse de nuevo."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:319
 msgid "So why are we preparing our army?"
-msgstr ""
+msgstr "Entonces, ¿por qué estamos preparando nuestro ejército?"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:320
 msgid "You don't need to know. You need only to fulfill my orders."
-msgstr ""
+msgstr "No necesitas saber. Sólo necesitas cumplir mis órdenes."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:321
@@ -10265,22 +10265,23 @@ msgid ""
 "They are keeping that poor girl somewhere north of their castle. We have to "
 "release her and help her return to her father."
 msgstr ""
+"Retienen a esa pobre chica en algún lugar al norte de su castillo. Tenemos "
+"que liberarla y ayudarla a volver con su padre."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:322
 msgid "...and of course we should kill the cretins who kidnapped her."
-msgstr ""
+msgstr "...y por supuesto deberíamos matar a los cretinos que la secuestraron."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:323
 msgid "That isn't necessary."
-msgstr ""
+msgstr "Eso no es necesario."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:324
-#, fuzzy
 msgid "I know."
-msgstr "Lo sé, lo sé, no hay necesidad de preocuparse tanto. ¡Muy bien, vamos!"
+msgstr "Lo sé."
 
 #. [event]
 #. slightly different from the generic Avenger string, to make it easier to tell which branch is being taken (also Elorain may still be a Ranger):
@@ -10289,18 +10290,20 @@ msgid ""
 "My Lord, this seems to be an ideal task for an Elf who can ambush like I "
 "can. I can sneak right up to the cage and free that girl!"
 msgstr ""
+"Mi Señor, esta parece ser una tarea ideal para un elfo que sabe emboscar "
+"como yo. ¡Puedo acercarme sigilosamente a la jaula y liberar a esa chica!"
 
 #. [event]
 #. EASY difficulty; Gawen's request is reason for Elorain getting new abilities:
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:331
 msgid "Okay, but you had best be quick about it; we don't have much time here."
-msgstr ""
+msgstr "Vale, pero será mejor que te des prisa, no tenemos mucho tiempo."
 
 #. [event]
 #. EASY difficulty; "hurry" means "get new abilities" here:
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:333
 msgid "Indeed, I shall hurry on this mission!"
-msgstr ""
+msgstr "¡Por supuesto, daré lo mejor de mí para esta misión!"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:365
@@ -10308,6 +10311,8 @@ msgid ""
 "My Lord, this seems to be an ideal task for an Elvish Avenger. I can sneak "
 "right up to the cage and free that girl!"
 msgstr ""
+"Mi señor, esta parece ser una tarea ideal para un vengador élfico. ¡Puedo "
+"escabullirme hasta la jaula y liberar a esa chica!"
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:372
@@ -10316,29 +10321,30 @@ msgstr ""
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:461
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:177
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:168
-#, fuzzy
 msgid "Kill all enemy leaders OR"
-msgstr "Muerte de todos los líderes enemigos"
+msgstr ""
+"Mata a todos los líderes enemigos\n"
+"O"
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:376
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:405
-#, fuzzy
 msgid ""
 "Release the peasant girl being kept in a cage and move her to the northern "
 "edge of the map."
-msgstr "Mueva a Gawen al borde sur del mapa O"
+msgstr ""
+"Libera a la campesina que está encerrada en una jaula y muévela al borde "
+"norte del mapa."
 
 #. [unit]: id=Euridica, type=Peasant girl
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:439
 msgid "Euridica"
-msgstr ""
+msgstr "Euridica"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:449
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:247
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:282
-#, fuzzy
 msgid "Thank you! Thank you!"
 msgstr "¡Gracias! ¡Gracias!"
 
@@ -10348,23 +10354,27 @@ msgid ""
 "Don't thank me, it's not over yet. You have to escape. I think we can escape "
 "to the north."
 msgstr ""
+"No me des las gracias, aún no ha terminado. Tienes que escapar. Creo que "
+"podemos huir por el norte."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:451
-#, fuzzy
 msgid "Move the peasant girl to the northern edge of the map."
-msgstr "Mueva a Gawen al borde sur del mapa O"
+msgstr "Mueve a la campesina al borde norte del mapa."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:462
 msgid ""
 "Thank you once again! Now I can go to my village, to my family and fiance!"
 msgstr ""
+"¡Gracias otra vez! ¡Ahora podré ir a mi pueblo, con mi familia y con mi "
+"prometido!"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:469
 msgid "Our task here is finished. Should we withdraw now, my lord?"
 msgstr ""
+"Nuestra tarea aquí ha terminado. ¿Deberíamos retirarnos ahora, mi señor?"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:481
@@ -10372,21 +10382,23 @@ msgid ""
 "Understood. We shall continue to fight any remnants of her captors' forces "
 "until it is completely safe."
 msgstr ""
+"Comprendido. Continuaremos luchando contra los restos de las fuerzas de sus "
+"captores hasta que sea completamente seguro."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:490
 msgid "Father! Father! Everything is going dark!"
-msgstr ""
+msgstr "¡Padre! ¡Padre! ¡Todo se está oscureciendo!"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:491
 msgid "Oh no! We have failed our mission!"
-msgstr ""
+msgstr "¡Oh, no! ¡Hemos fallado en nuestra misión!"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:544
 msgid "The poor girl is saved and we may now continue our quest."
-msgstr ""
+msgstr "La pobre niña se salvó y ya podemos continuar nuestra búsqueda."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:545
@@ -10394,6 +10406,8 @@ msgid ""
 "Yes - Gawen Hagarthen, a great destiny waits for you. Do not permit it to "
 "wait for too long."
 msgstr ""
+"Sí - Gawen Hagarthen, te espera un gran destino. No permitas que espere "
+"demasiado."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:555
@@ -10401,6 +10415,8 @@ msgid ""
 "Welcome, noble Bark O Skagrrak. My name is Lorin of Gallorae. Some call me "
 "the She-wolf of Haeltin. Have you heard about me?"
 msgstr ""
+"Bienvenido, noble Bark O Skagrrak. Mi nombre es Lorin de Gallorae. Algunos "
+"me llaman la Loba de Haeltin. ¿Has oído hablar de mí?"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:556
@@ -10408,6 +10424,8 @@ msgid ""
 "Yes... I've heard about you. You're the hag wife of Hagarthen, the drab "
 "harlot from Vattin."
 msgstr ""
+"Sí... he oído hablar de ti. Eres la bruja de Hagarthen, la insípida ramera "
+"de Vattin."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:557
@@ -10415,57 +10433,55 @@ msgid ""
 "Such a funny man you are, Bark. So willing to mock and flout. I wonder "
 "whether you will be equally ready to die."
 msgstr ""
+"Qué hombre tan gracioso eres, Bark. Tan dispuesto a burlarse y mofarse. Me "
+"pregunto si estarás igualmente dispuesto a morir."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:558
-#, fuzzy
 msgid "Mother, please..."
-msgstr "¡Madre!"
+msgstr "Madre, por favor..."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:559
-#, fuzzy
 msgid ""
 "You've heard what he called me! Bark O Skagrrak, my name is Lady Lorin of "
 "the Gallorae clan. And my knife is called Truth-sayer. Say hello to it."
 msgstr ""
 "¡Ya has oído cómo me ha llamado! Bark O Skagrrak, mi nombre es Lady Lorin "
-"del clan Gallorae. Y mi cuchillo se llama Truth-sayer. Salúdalo."
+"del clan Gallorae. Y mi cuchillo se llama Confesor. Salúdalo."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:560
-#, fuzzy
 msgid "You think I will be... AAAARGH!"
-msgstr "¡Aaaargh! ¡Muero!"
+msgstr "Crees que voy a... ¡AAAARG!"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:566
-#, fuzzy
 msgid "Why have you kidnapped this poor girl?"
-msgstr "¿Por qué ha secuestrado a esta muchacha pobre?"
+msgstr "¿Por qué has secuestrado a esta pobre muchacha?"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:574
 msgid ""
 "She is so beautiful... I want her as a wife and slave, for all eternity."
 msgstr ""
+"Es tan hermosa... La quiero como esposa y esclava, por toda la eternidad."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:575
-#, fuzzy
 msgid ""
 "Besides, our women are under an unknown curse; they give birth to few "
 "children and many of them are born sick. A Wesnothian woman could give me a "
 "son!"
 msgstr ""
 "Además, nuestras mujeres están bajo una maldición desconocida; dan a luz "
-"pocos hijos y muchos de ellos nacen enfermos. ¡Una mujer wesnothiana podría "
+"pocos hijos y muchos de ellos nacen enfermos. ¡Una mujer wesnodiana podría "
 "darme un hijo!"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:576
 msgid "A slave cannot give a son to a Akladian lord!"
-msgstr ""
+msgstr "¡Un esclavo no puede dar un hijo a un señor akladiano!"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:577
@@ -10473,16 +10489,18 @@ msgid ""
 "I don't care! If she would give a life to my son, I would free her, I would "
 "made her my first wife, just as she would be of worthy people!"
 msgstr ""
+"¡No me importa! Si ella diera vida a mi hijo, la liberaría, la haría mi "
+"primera esposa, ¡así sería digna de ello!"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:578
 msgid "You are making me angry. What if she would give a life to a daughter?"
-msgstr ""
+msgstr "Me estas cabreando. ¿Y si diera vida a una hija?"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:581
 msgid "Why should I tell you? This is a secret of my king."
-msgstr ""
+msgstr "¿Por qué debería decirtelo? Es un secreto de mi rey."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:582
@@ -10490,10 +10508,11 @@ msgid ""
 "Secret? I love secrets! I'm a woman, you know. Please share it with me. "
 "Preeeetty pleaaaase!"
 msgstr ""
+"¿Secreto? ¡Me encantan los secretos! Soy una mujer, ya sabes. Por favor, "
+"compártelo conmigo. ¡Por favor, por favor!"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:583
-#, fuzzy
 msgid ""
 "Aaargh! Stop it! I will tell you! King Buffin is preparing to invade "
 "Vakladia and claim the throne in Vattin. It is empty and it seems that no "
@@ -10507,129 +10526,114 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:587
-#, fuzzy
 msgid "I don't know who that is!"
-msgstr "No conozco ese nombre."
+msgstr "¡No sé quién es!"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:634
 msgid ""
 "Curses! They are more dangerous that I thought! Bring the reinforcements!"
 msgstr ""
+"¡Maldición! ¡Son más peligrosos de lo que pensaba! ¡Trae los refuerzos!"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:639
 msgid "We must do likewise! Bring our own reinforcements!"
-msgstr ""
+msgstr "¡Debemos hacer lo mismo! ¡Traed nuestros propios refuerzos!"
 
 #: A_New_Order/scenarios/23_Trapped.cfg:8
-#, fuzzy
 msgid ""
 "Those are Dunefolk troops! Excellent! Listen, I knew your leader, Majid "
 "Yahyazad, and..."
 msgstr ""
-"¡Ésos son Khalifa! ¡Excelente! Escuche, conocí a su líder, Majid Yahyazad, "
-"y..."
+"¡Eso son tropas barjanas! ¡Excelente! Escucha, conocí a su líder, Majid "
+"Yahyazad, y..."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:9
-#, fuzzy
 msgid ""
 "Majid Yahyazad is not my leader. His Ostan is far away from here. The Ostan "
 "of Mahour - and this tribe - is ruled by me, and no other rules over me."
 msgstr ""
-"Yahyazad no es mi líder. Su ostan está lejos de aquí. Este sietch y esta "
-"tribu es gobernada por mí, y ningún otro gobierna sobre mí."
+"Yahyazad no es mi líder. Su ostan está lejos de aquí. El ostan de Mahour, y "
+"esta tribu, están gobernados por mí, y nadie más me gobierna."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:10
-#, fuzzy
 msgid "Show more respect, this is king Gawen Haldric Hagarthen."
 msgstr "Muestre más respeto, éste es el rey Gawen Haldric Hagarthen."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:11
-#, fuzzy
 msgid ""
 "King? We have never been joined by a king before. If he wants to be one of "
 "us, he will be welcomed, but he must understand that his of chances being "
 "called 'his majesty' are zero."
 msgstr ""
-"Rey? Nunca fuimos unidos por reyes antes. Si quiere ser uno de nosotros, se "
-"le dará la bienvenida, pero tendría que entender que las oportunidades de "
-"que lo llamen 'su majestad' son nulos."
+"¿Rey? Nunca antes se nos había unido un rey. Si quiere ser uno de nosotros, "
+"se le dará la bienvenida, pero tendrá que entender que las oportunidades de "
+"que lo llamen 'su majestad' son nulas."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:12
-#, fuzzy
 msgid ""
 "We are not your enemies. If you won't join us, will you at least not attack "
 "us?"
-msgstr ""
-"No somos sus enemigos. ¿Si usted nos uniéramos, no nos atacará por lo menos?"
+msgstr "No somos sus enemigos. ¿Si no te nos unes, al menos no nos atacaréis?"
 
 #: A_New_Order/scenarios/23_Trapped.cfg:13
-#, fuzzy
 msgid ""
 "Who said we won't join you? If can pay, we will readily join your army! The "
 "price is $dunefolk_price gold pieces."
 msgstr ""
-"¿Quién dijo que nos uniéramos? ¡Si nos paga, nos uniremos a su ejército, por "
-"supuesto! El precio es de 250 piezas de oro."
+"¿Quién dijo que no nos uniríamos? ¡Si nos paga, nos uniremos a su ejército, "
+"por supuesto! El precio son $dunefolk_price piezas de oro."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:21
-#, fuzzy
 msgid "We will pay."
 msgstr "Pagaremos"
 
 #: A_New_Order/scenarios/23_Trapped.cfg:22
-#, fuzzy
 msgid "We won't pay."
 msgstr "No pagaremos"
 
 #: A_New_Order/scenarios/23_Trapped.cfg:24
-#, fuzzy
 msgid "Why not. Here is your gold."
-msgstr "Por qué no. Aquí es su oro."
+msgstr "¿Por qué no? Aquí tienes el oro."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:25
-#, fuzzy
 msgid ""
 "Ha! We have a deal, then, my king. You may now recruit Dunefolk from my "
 "Ostan."
 msgstr ""
-"Ha! Tenemos un trato, entonces, mi rey. Puede reclutar Khalida ahora de mi "
-"ostan."
+"¡Ja! Tenemos un trato, entonces, mi rey. Ahora puedes reclutar barjanes de "
+"mi ostan."
 
 #. EASY difficulty; the healer in question is a Dune Herbalist:
 #: A_New_Order/scenarios/23_Trapped.cfg:65
 msgid "As a gesture of goodwill, I am sending you a healer, too."
-msgstr ""
+msgstr "Como gesto de buena voluntad, también te envío un sanador."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:70
-#, fuzzy
 msgid "We are not interested in hiring you."
-msgstr "No estamos interesados en contratarlo."
+msgstr "No estamos interesados en contratarle."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:71
 #: A_New_Order/scenarios/23_Trapped.cfg:84
-#, fuzzy
 msgid "Then leave in peace, or prepare to fight."
-msgstr "Entonces salga en paz, o prepárese para luchar."
+msgstr "Entonces vaya en paz, o prepárese para luchar."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:83
-#, fuzzy
 msgid "Unfortunately, we do not have that much gold."
-msgstr "No tenemos oro tanto, desgraciadamente."
+msgstr "No tenemos tanto oro, desgraciadamente."
 
 #. [part]
 #. spoken by Gawen
 #: A_New_Order/scenarios/23_Trapped.cfg:108
-#, fuzzy
 msgid ""
 "King Buffin's army was right behind us - we could almost feel their breath "
 "on our necks. As though this were not enough, we marched right into a knot "
 "of Akladians."
 msgstr ""
-"El ejército del rey Buffin está detrás nuestro y casi sentíamos sus "
-"respiraciones en nuestra retaguardia. Y si esto no fuera bastante, marchamos "
-"derecho a las unidades de Akladianos."
+"El ejército del rey Buffin nos pisaba los talones, casi sentíamos su "
+"respiración en la retaguardia. Por si no fuera bastante, marchábamos "
+"directos hacia un grupo de akladianos."
 
 #. [side]: id=Larkin O Travil, type=Akladian Lord
 #: A_New_Order/scenarios/23_Trapped.cfg:147
@@ -10643,9 +10647,8 @@ msgstr "Rey Buffin"
 
 #. [side]: id={NAME}, type=Akladian Lord
 #: A_New_Order/scenarios/23_Trapped.cfg:259
-#, fuzzy
 msgid "{NAME}"
-msgstr "{NAME}"
+msgstr ""
 
 #. [side]: id=Dauri Hurionen, type=Akladian Lord
 #: A_New_Order/scenarios/23_Trapped.cfg:290
@@ -10655,62 +10658,56 @@ msgstr "Dauri Hurionen"
 #. [side]: id=Arsham Mahouri, type=Dune Warmaster
 #: A_New_Order/scenarios/23_Trapped.cfg:321
 msgid "Arsham Mahouri"
-msgstr ""
+msgstr "Arsham Mahouri"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:414
-#, fuzzy
 msgid "Who are you, stranger brave or foolhardy enough to enter Dunefolk land?"
-msgstr "¿Quién eres extraño, bastante valiente o tonto para entrar en Khalifa?"
+msgstr ""
+"¿Quién eres, extraño? ¿Bastante valiente o bastante tonto para entrar en "
+"tierras barjanas?"
 
 #. [unit]: id=Messenger, type=Akladian Homeguard
 #. [unit]: type=Akladian Clansman, id=Messenger
 #: A_New_Order/scenarios/23_Trapped.cfg:439
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:277
-#, fuzzy
 msgid "Messenger"
 msgstr "Mensajero"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:446
-#, fuzzy
 msgid "King Buffin! King Buffin! I bring terrible news for you!"
 msgstr "¡Rey Buffin! ¡Rey Buffin! ¡Traigo noticias terribles para usted!"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:448
-#, fuzzy
 msgid "King Buffin is dead, boy."
 msgstr "El rey Buffin está muerto, muchacho."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:449
-#, fuzzy
 msgid "Dead? How can that be! "
 msgstr "¿Muerto? ¡Cómo puede ser! "
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:449
 #: A_New_Order/scenarios/23_Trapped.cfg:452
-#, fuzzy
 msgid ""
 "Okladia is in need - undead have invaded our country, they are razing the "
 "countryside and murdering our people! "
 msgstr ""
-"Okladia lo está necesitando - los no muertos han invadido el país, están "
-"saqueando y asesinando. "
+"¡Okladia lo necesita, los no muertos han invadido el país, están saqueando y "
+"asesinando nuestra gente!"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:449
-#, fuzzy
 msgid "Without King Buffin, who will lead our army against them?"
-msgstr "¿Sin el rey Buffin quien conducirá nuestro ejército contra ellos?"
+msgstr "¿Sin el rey Buffin, quién conducirá nuestro ejército contra ellos?"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:451
-#, fuzzy
 msgid "What? Speak quickly, I am a little bit busy here!"
-msgstr "¡Que? Hable rápido, estoy algo ocupado aquí!"
+msgstr "¿Qué? ¡Habla rápido, estoy ocupado aquí!"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:452
@@ -10723,17 +10720,19 @@ msgid ""
 " You must return home, with every able soldier in your army, as soon as "
 "possible or we shall surely perish!"
 msgstr ""
+"¡Debes regresar a casa, con todos los soldados capaces de tu ejército, tan "
+"pronto como sea posible, o seguramente pereceremos!"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:453
-#, fuzzy
 msgid ""
 "Undead? So the reports I've been hearing were true, after all! You are "
 "fortunate, false Gawen, that I my duty to my people calls me away from "
 "here... for now."
 msgstr ""
-"¿No muertos? ¡Entonces los chismes que he oído eran verdad! Tiene suerte, "
-"Gawen falso, que me tengo que ir..."
+"¿No muertos? ¡Entonces los reportes que he oído eran ciertos, al fin y al "
+"cabo! Tienes suerte, falso Gawen, que mi deber para con mi pueblo me llame "
+"lejos de aquí... por ahora."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:459
@@ -10741,55 +10740,53 @@ msgid ""
 "That's not good. I think the wise thing to do would be to withdraw, because "
 "without Buffin we will be too weak to defeat this army..."
 msgstr ""
+"Eso no es bueno. Creo que lo más inteligente sería retirarnos, porque sin "
+"Buffin seremos demasiado débiles para derrotar a este ejército..."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:482
 msgid "Who's there? Ruvio! Finally, my friend!"
-msgstr ""
+msgstr "¿Quién está ahí? Ruvio! ¡Al fin, mi amigo!"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:483
-#, fuzzy
 msgid "My lord..."
-msgstr "¡Pero... señor!"
+msgstr "Mi señor..."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:484
 msgid "What? Why the long face? Cheer up! Where is Karen?"
-msgstr ""
+msgstr "¿Qué? ¿Por qué esas caras largas? ¡Animaos! ¿Dónde está Karen?"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:485
-#, fuzzy
 msgid ""
 "My lord... Gawen, my lord, please forgive me if I can't speak clearly "
 "enough. What I saw... I... I don't know if I can even describe it... if I "
 "can bear the task of describing it. "
 msgstr ""
 "Mi señor... Gawen, mi señor, por favor perdóneme si no puedo hablar con "
-"suficiente claridad. Lo que vi... I... No sé si puedo siquiera "
-"describirlo... si puedo soportar la tarea de describirlo."
+"suficiente claridad. Lo que vi... Yo... No sé si puedo siquiera "
+"describirlo... o soportar la tarea de describirlo."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:496
-#, fuzzy
 msgid ""
 " 'This is the Dunefolk territory of Mahour. If you wish to join us, you are "
 "welcome; if you wish to fight us, you shall perish.'"
 msgstr ""
-" este es el territorio Dunefolk de Mahour. Si queréis uniros a nosotros, "
-"sois bienvenidos; si queréis luchar contra nosotros, pereceréis'"
+"\"Este es el territorio barján de Mahour. Si queréis uniros a nosotros, "
+"seréis bienvenidos; si queréis luchar contra nosotros, pereceréis\""
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:504
 msgid "My ancestors, I am coming to you with sword in my hand!"
-msgstr ""
+msgstr "¡Mis ancestros, vengo a vosotros espada en mano!"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:505
-#, fuzzy
 msgid "They are more powerful than I thought! Reinforcements!"
-msgstr "Parece que estos humanos son más poderosos de lo que pensaba. Ugh."
+msgstr "¡Son más poderosos de lo que pensaba! ¡Refuerzos!"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:525
@@ -10797,12 +10794,13 @@ msgid ""
 "I am finished! But your leader... before I die, is his name really Gawen "
 "Hagarthen?"
 msgstr ""
+"¡Estoy perdido! Pero antes de morir..., tu líder... ¿se llama realmente "
+"Gawen Hagarthen?"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:526
-#, fuzzy
 msgid "I really am Gawen Hagarthen."
-msgstr "Muerte de Gawen Hagarthen"
+msgstr "Realmente soy Gawen Hagarthen."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:527
@@ -10812,6 +10810,8 @@ msgid ""
 "Then I am doomed! My spirit will never find rest amongst my ancestors, since "
 "I fought my king!"
 msgstr ""
+"¡Entonces estoy condenado! ¡Mi espíritu nunca encontrará descanso entre mis "
+"ancestros, luché contra mi rey!"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:532
@@ -10820,17 +10820,20 @@ msgid ""
 "I am dying... are you going to try to intimidate me, as your step-mother "
 "used to do?"
 msgstr ""
+"Me estoy muriendo... ¿Vas a intentar intimidarme, como solía hacer tu "
+"madrastra?"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:533
 msgid "No, noble Reumario. It was honour for me to fight you. Die in peace."
-msgstr ""
+msgstr "No, noble Reumario. Fue un honor para mí pelear contigo. Muere en paz."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:539
 msgid ""
 "No, noble Aire Reumario. It was honour for me to fight you. Die in peace."
 msgstr ""
+"No, noble Aire Reumario. Fue un honor para mí pelear contigo. Muere en paz."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:544
@@ -10838,18 +10841,19 @@ msgid ""
 "King Buffin, my uncle, it has been an honour to fight you. You were a tough "
 "opponent."
 msgstr ""
+"Rey Buffin, mi tío, ha sido un honor luchar contigo. Fuiste un duro oponente."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:545
-#, fuzzy
 msgid ""
 "Your uncle? Me? You are just an underling! Even if you ARE really Gawen "
 "Hagarthen, your mother was one of those curs! (<i>coughs</i>) My cousin "
 "should never have desecrated our family name by marrying her! I spit on you!"
 msgstr ""
-"¿Tu tío? ¿Yo? ¡Tú no eres más que un subordinado! ¡Incluso si eres realmente "
-"Gawen Hagarthen, tu madre era una de esas malditas! (¡Mi primo nunca debió "
-"profanar el nombre de nuestra familia casándose con ella! ¡Te escupo!"
+"¿Tu tío? ¿Yo? ¡Tú no eres más que un plebeyo! ¡Incluso si eres realmente "
+"Gawen Hagarthen, tu madre era una de esas malditas! (<i>toses</i>) ¡Mi primo "
+"nunca debió profanar el nombre de nuestra familia casándose con ella! ¡Te "
+"escupo!"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:546
@@ -10857,6 +10861,8 @@ msgid ""
 "Let this be a lesson to you, my idealistic step-son. To some people you may "
 "speak only with knife in hand."
 msgstr ""
+"Que esto te sirva de lección, mi idealista hijastro. A algunas personas sólo "
+"puedes hablarles con un cuchillo en la mano."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:550
@@ -10864,6 +10870,8 @@ msgid ""
 "A king! Ooh, I've never killed a king before. You know, I should feel more "
 "exhilirated."
 msgstr ""
+"¡Un rey! Ooh, nunca he matado a un rey antes. Sabes, debería sentirme más "
+"emocionado."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:551
@@ -10871,6 +10879,8 @@ msgid ""
 "So you are Lorin from the Galloraes... best sword-arm among Akladian "
 "women... (cough)"
 msgstr ""
+"Así que eres Lorin de los Galloraes... la mejor espada entre las mujeres de "
+"Akladia... (tos)"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:552
@@ -10878,6 +10888,8 @@ msgid ""
 "You have heard about me even in Okladia!? That's a pleasant surprise. Now, "
 "tell me, why were you here, and with a large army to boot?"
 msgstr ""
+"¿Has oído hablar de mí incluso en Okladia? Esa es una agradable sorpresa. "
+"Ahora, dime, ¿por qué estabas aquí, y con un gran ejército preparado?"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:553
@@ -10885,10 +10897,10 @@ msgid ""
 "To introduce peace and order into Vakladia and to unite it with my kingdom, "
 "Okladia."
 msgstr ""
+"Introducir la paz y el orden en Vakladia y unirlo con mi reino, Okladia."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:554
-#, fuzzy
 msgid ""
 "Wait, do not die yet! I've heard that some of your people were mentioning "
 "rumors about strange things in the eastern part of Okladia. What strange "
@@ -10900,7 +10912,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:555
-#, fuzzy
 msgid ""
 "Ghosts, the long-dead who were seen walking again... zombies... my scouts "
 "were giving me contradictory reports. Some of my lords disappeared. I was "
@@ -10914,12 +10925,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:556
-#, fuzzy
 msgid "He's died."
-msgstr ""
-"Tú rescataste a mi hermano, y aunque murió luchando, murió con la muerte de "
-"un guerrero en vez de la de un cobarde. Por eso te lo agradezco. Tomaré su "
-"lugar y te ayudaré a alcanzar la superficie."
+msgstr "Está muerto."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:561
@@ -10927,12 +10934,13 @@ msgid ""
 "I am finished! Death is less than fifty paces from me... but before she "
 "takes me, please tell me... are you really Gawen Hagarthen?"
 msgstr ""
+"¡Estoy perdido! La muerte a menos de cincuenta pasos de mí... pero antes de "
+"que me lleve, por favor dime... ¿eres realmente Gawen Hagarthen?"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:562
-#, fuzzy
 msgid "I am really Gawen Hagarthen."
-msgstr "Muerte de Gawen Hagarthen"
+msgstr "Realmente soy Gawen Hagarthen."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:567
@@ -10941,25 +10949,27 @@ msgid ""
 "starting a collection of souvenirs from each defeated lord. Hmm... maybe the "
 "ears?"
 msgstr ""
+"Otro señor asesinado por mi delicada mano. Realmente debería pensar en "
+"comenzar una colección de recuerdos de cada señor derrotado. Hmm... ¿quizás "
+"las orejas?"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:568
 msgid ""
 "What are you doing with that underling cur, aren't you Lorin of Gallorae?"
-msgstr ""
+msgstr "¿Qué estás haciendo con ese vil plebeyo, no eres Lorin de Gallorae?"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:569
 msgid ""
 "Yes, I am. And he is no underling, he is your lord, your king, Gawen "
 "Hagarthen."
-msgstr ""
+msgstr "Sí, lo soy. Y no es un plebeyo, es tu señor, tu rey, Gawen Hagarthen."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:570
-#, fuzzy
 msgid "Is that so? "
-msgstr "¿Qué?"
+msgstr "¿Es eso así?"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:585
@@ -10967,6 +10977,8 @@ msgid ""
 "We don't really care how underlings die, as long as they do it quickly and "
 "without making too much trouble."
 msgstr ""
+"Realmente no nos importa cómo mueren los plebeyos, siempre y cuando lo hagan "
+"rápidamente y sin causar muchos problemas."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:598
@@ -10974,23 +10986,26 @@ msgid ""
 "See, noble and independent but not-so-smart Dunefolk leader, you could still "
 "be alive and on our side instead of being just another body in our path..."
 msgstr ""
+"Mira, noble e independiente pero no tan inteligente líder barján, aún "
+"podrías estar vivo y de nuestro lado en lugar de ser solo otro cadáver en "
+"nuestro camino..."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:653
 msgid "Ha, the rest of my army is coming!"
-msgstr ""
+msgstr "¡Ja, el resto de mi ejército está llegando!"
 
 #. [event]
 #. EASY difficulty; reference to how the other difficulties provide him with more Clansmen:
 #: A_New_Order/scenarios/23_Trapped.cfg:684
 msgid "Hm? I thought another unit of my army would be arriving now..."
-msgstr ""
+msgstr "¿Hmm? Pensé que otra unidad de mi ejército estaría llegando ahora..."
 
 #. [event]
 #. EASY difficulty; reference to how the other difficulties provide him with more Clansmen:
 #: A_New_Order/scenarios/23_Trapped.cfg:715
 msgid "Where is the rest of that army of mine?!"
-msgstr ""
+msgstr "¡¿Dónde está el resto de mi ejército?!"
 
 #: A_New_Order/scenarios/23_Trapped.cfg:789
 msgid ""
@@ -10998,41 +11013,53 @@ msgid ""
 "peace and order to your lands after the untimely death of your king, my "
 "beloved cousin, Gawen Hagarthen. I..."
 msgstr ""
+"Akladianos de Vakladia! Soy el Rey Buffin. He venido a vosotros para "
+"reintroducir la paz y el orden en vuestras tierras después de la prematura "
+"muerte de nuestro rey, mi amado primo, Gawen Hagarthen. Yo..."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:791
 msgid ""
 "I AM Gawen Hagarthen. I am starting to tire of repeating that I am alive."
 msgstr ""
+"YO SOY Gawen Hagarthen. Estoy empezando a cansarme de repetir que estoy vivo."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:792
 msgid ""
 "NO! Gawen Ha... No, you are not him! You are... some underling pretending to "
 "be my beloved nephew! Kill him!"
 msgstr ""
+"¡NO! Gawen Ha... ¡No, tú no eres él! ¡Eres... un plebeyo que finge ser mi "
+"amado sobrino! ¡Mátalo!"
 
 #: A_New_Order/scenarios/23_Trapped.cfg:794
 msgid ""
 "We will, but not because we welcome you, Buffin of Okladia. Though you are "
 "Hagarthen, nobody has invited you here. But we will discuss that issue later."
 msgstr ""
+"Lo haremos, pero no porque te demos la bienvenida, Buffin de Okladia. Aunque "
+"eres Hagarthen, nadie te ha invitado aquí. Pero hablaremos de ese tema más "
+"adelante."
 
 #. example of full sentence "I hope that with Reumario helping us this won't be as difficult as it might..." etc
 #: A_New_Order/scenarios/23_Trapped.cfg:870
-#, fuzzy
 msgid "I hope that with "
-msgstr "¡Espero que la bruja se esté quemando en el infierno!"
+msgstr "Espero que con "
 
 #: A_New_Order/scenarios/23_Trapped.cfg:870
 msgid ""
 " helping us this won't be as difficult as it might otherwise be, but we "
 "still should be prepared for serious losses."
 msgstr ""
+" ayudándonos con esto no será tan difícil como podría ser, pero aun así "
+"debemos estar preparados para graves pérdidas."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:872
 msgid ""
 "I'm afraid this battle may be extremely difficult. We must be prepared for "
 "serious losses, unfortunately."
 msgstr ""
+"Me temo que esta batalla puede ser extremadamente difícil. Debemos estar "
+"preparados para pérdidas graves, por desgracia."
 
 #. [objectives]
 #. [note]
@@ -11040,15 +11067,13 @@ msgstr ""
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:175
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:166
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1537
-#, fuzzy
 msgid "There are no interrogations in this scenario."
-msgstr "Hay diferentes tipos de muerte, Reumario."
+msgstr "No hay interrogatorios en este escenario."
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/23_Trapped.cfg:885
-#, fuzzy
 msgid "Survive to the end of time limit"
-msgstr "ninguno"
+msgstr "Sobrevive hasta el final del límite de tiempo"
 
 #. [scenario]: id=29_Epilogue
 #: A_New_Order/scenarios/29_Epilogue.cfg:3
@@ -11232,7 +11257,7 @@ msgstr ""
 "que murieron luchando contra la amenaza de los muertos vivientes. Se casó "
 "con una princesa wesnodiana de Elensefar. Unió tres reinos de Akladia, "
 "mientras que el cuarto, Guilcorta, se convirtió en su feudo. Hizo alianzas "
-"con los barjanes Ostans dentro de sus fronteras, pero les permitió un "
+"con los ostans barjanes dentro de sus fronteras, pero les permitió un "
 "considerable autogobierno. Hizo vasallos a la mayoría de los antiguos reinos "
 "de Wesnoth, uniendo casi todo Wesnoth en su punto más glorioso."
 
@@ -11258,7 +11283,7 @@ msgid ""
 "there was no doubt of their devotion to each other; they spent the rest of "
 "their days together."
 msgstr ""
-"Lorin viajó entre los barjanes Ostans, tomando los votos necesarios para "
+"Lorin viajó entre los ostans barjanes, tomando los votos necesarios para "
 "unirse a ellos, mientras buscaba a Majid Yahyazad. Él cuidó de ella y de su "
 "hijo, criándolo como si fuera su propio hijo, y mostrándole el amor y el "
 "respeto que sentía que se le debía a la Loba de Haeltin. Si bien los rumores "
