@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-03-04 23:18 UTC\n"
-"PO-Revision-Date: 2023-03-23 23:38+0100\n"
+"PO-Revision-Date: 2023-03-25 03:05+0100\n"
 "Last-Translator: Toranks <toranksmervat@gmail.com>\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -1719,7 +1719,7 @@ msgid ""
 "i>) Aaaargh!"
 msgstr ""
 "¿Quién me envió? El destino... Pero habrá otros tras de mí. (<i>grito de "
-"dolor</i>) ¡Aaaargh!"
+"dolor</i>) ¡Aaaarg!"
 
 #. [event]
 #: A_New_Order/macros/ano-01_06macros.cfg:106
@@ -2587,7 +2587,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:349
 msgid "Aargh! I feel... so cold..."
-msgstr "¡Aargh! Me siento... frío..."
+msgstr "¡Aarg! Me siento... frío..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:350
@@ -2970,7 +2970,7 @@ msgid ""
 "your mother died? Have you... aaargh!"
 msgstr ""
 "¡Ja, ja, menuda eres para hablar! Oye, Gawen, ¿alguna vez le preguntaste a "
-"Lorin cómo murió tu madre? ¿Has... aaargh!"
+"Lorin cómo murió tu madre? ¿Has... aaarg!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:482
@@ -3055,7 +3055,7 @@ msgstr ""
 #: A_New_Order/macros/ano-20macros.cfg:506
 #: A_New_Order/macros/ano-20macros.cfg:586
 msgid "Aaargh!"
-msgstr "¡Aaaargh!"
+msgstr "¡Aaaarg!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:507
@@ -7774,7 +7774,7 @@ msgstr "Él no sabe nada. Déjalo ir."
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:334
 msgid "Put down that knife!  You can't - Aaargh!"
-msgstr "¡Baja ese cuchillo! No puedes - ¡Aaargh!"
+msgstr "¡Baja ese cuchillo! No puedes - ¡Aaarg!"
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:335
@@ -10519,8 +10519,8 @@ msgid ""
 "one will oppose Buffin. The two brothers in Guilcorta are now too busy, so "
 "it's a perfect opportunity. The army is ready already."
 msgstr ""
-"¡Aaargh! ¡Para! ¡Te lo diré! El Rey Buffin se prepara para invadir Vakladia "
-"y reclamar el trono en Vattin. Está vacío y parece que nadie se opondrá a "
+"¡Aaarg! ¡Para! ¡Te lo diré! El Rey Buffin se prepara para invadir Vakladia y "
+"reclamar el trono en Vattin. Está vacío y parece que nadie se opondrá a "
 "Buffin. Los dos hermanos en Guilcorta están ahora muy ocupados, así que es "
 "una oportunidad perfecta. El ejército ya está listo."
 
@@ -11358,7 +11358,6 @@ msgstr "¡Venganza!"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:145
-#, fuzzy
 msgid ""
 "I think they keep captured villagers in the dungeons of their castles. It's "
 "time to free them and kill the orcs!"
@@ -11368,30 +11367,27 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:146
-#, fuzzy
 msgid ""
 "All right. We are going to free the peasants, kill the orcs, and remember "
 "that we have to interrogate their leaders. Maybe they know something of "
 "interest to us."
 msgstr ""
 "Bien. Vamos a liberar a esos campesinos, matar a los orcos y recuerden: "
-"tenemos que interrogar a sus líderes. ¿Quizá sepan algo que podría sernos "
-"útil?"
+"tenemos que interrogar a sus líderes. Quizá sepan algo que podría sernos "
+"útil."
 
 #. [objectives]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:150
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:162
-#, fuzzy
 msgid ""
 "You may withdraw by moving Gawen Hagarthen to the signpost south of your "
 "initial position."
 msgstr ""
-"Se puede retirar moviendo a Gawen Hagarthen al poste indicador, al sur de su "
-"posición inicial."
+"Te puedes retirar moviendo a Gawen Hagarthen al poste indicador, al sur de "
+"su posición inicial."
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:187
-#, fuzzy
 msgid "We have no time and forces to defeat the orcs here. Retreat!"
 msgstr ""
 "No tenemos el tiempo ni las fuerzas para derrotar a los orcos aquí. "
@@ -11399,99 +11395,86 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:197
-#, fuzzy
 msgid ""
 "Listen up, you large orc in my small hands. How high can a big orc sing when "
 "I use this knife?"
 msgstr ""
-"Oiga, oiga, orco grande en mis manos pequeñas. Ahora, ¿que tan alto pueden "
-"cantar los orcos grandes cuándo yo uso este cuchillo?"
+"Oye, tú, orco grande en mis manos pequeñas. ¿Cómo de fuerte puede cantar un "
+"orco grande cuando uso este cuchillo?"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:198
-#, fuzzy
 msgid "Wait wait wait, human woman. Do orc no harm."
-msgstr "Espera espera espera, mujer humana. No le hagas al orco ningún daño."
+msgstr "Espera, espera, espera, mujer humana. No hagas orco daño."
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:199
-#, fuzzy
 msgid ""
 "This human woman will do no harm if the orcish idiot will answer all my "
 "questions. Why are you here? Why are you allied with Akladians?"
 msgstr ""
-"La mujer humana no le hará daño si el idiota del orco contesta todas las "
-"preguntas. ¿Por qué está aquí? ¿Por qué se alío con los Akladianos?"
+"La mujer humana no le hará daño si el idiota del orco contesta todas mis "
+"preguntas. ¿Por qué estás aquí? ¿Por qué te aliaste con los akladianos?"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:200
-#, fuzzy
 msgid ""
 "My boss know everything, I know nothing. We are here for having fun and good "
 "meat I think."
 msgstr ""
-"Mi jefe sabe todo, yo no sé nada. Creo que estamos aquí para tener diversión "
-"y buena carne."
+"Mi jefe sabe todo, yo no sé nada. Estamos aquí para tener diversión y buena "
+"carne, creo."
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:206
-#, fuzzy
 msgid "Hey, hey, don't die so fast, I haven't finished asking you!"
-msgstr "Eh, eh, no se muera tan rápido, ¡no he terminado de preguntar!"
+msgstr "Eh, eh, no te mueras tan rápido, ¡no he terminado de preguntar!"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:211
-#, fuzzy
 msgid ""
 "I don't want to waste too much time, so answer me now: There is an alliance "
 "between traitors from the Akladian race and Orcs. Why?"
 msgstr ""
-"No quiero perder demasiado tiempo, así que contésteme rápido: Hay alianza "
-"entre los traidores de raza Akladiana y los Orcos. ¿Por qué?"
+"No quiero perder demasiado tiempo, así que contéstame rápido: Hay una "
+"alianza entre los traidores de raza akladiana y los orcos. ¿Por qué?"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:212
-#, fuzzy
 msgid "And why should I tell you, stupid woman?"
-msgstr "¿Y por qué se lo debo decir, mujer tonta?"
+msgstr "¿Y por qué te lo diría, mujer estúpida?"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:213
-#, fuzzy
 msgid "THAT is for calling me stupid woman. And THAT is gratis. Speak!"
-msgstr "ESO es por llamarme mujer tonta. Y ESO es gratis. ¡Hable!"
+msgstr "ESO es por llamarme estúpida. Y ESO es gratis. ¡Habla!"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:214
-#, fuzzy
 msgid ""
 "Don't... We were ordered by Grekulak to listen to the Akladians... why he "
 "ordered us to ally with them I do not know.."
 msgstr ""
-"No espere... Grekulak nos ordenó oír a los Akladianos.. Por qué él nos "
-"ordenó aliarnos con ellos, no lo sé.."
+"No... Grekulak nos ordenó escuchar a los akladianos... Por qué nos ordenó "
+"aliarnos con ellos, no lo sé..."
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:215
-#, fuzzy
 msgid "Who is Grekulak? Why he allied with Akladian traitors?"
-msgstr "¿Quién es ese Grekulak? ¿Por qué se alió con los traidores Akladianos?"
+msgstr "¿Quién es ese Grekulak? ¿Por qué se alió con los traidores akladianos?"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:216
-#, fuzzy
 msgid "Grekulak... is... our... guide... he..."
-msgstr "Grekulak.. es.. nuestro.. guía.. él.."
+msgstr "Grekulak... es... nuestro... guía... él..."
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:217
-#, fuzzy
 msgid "He? He what? Answer me, come on!"
-msgstr "¿Él? ¿Él que? ¡Contésteme, vamos!"
+msgstr "¿Él? ¿Él que? ¡Contéstame, vamos!"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:223
-#, fuzzy
 msgid "Lady Lorin, stop it. He is dead. He can't tell us anything more."
 msgstr "Señora Lorin, deténgase. Está muerto. No dirá una palabra más."
 
@@ -11501,113 +11484,102 @@ msgid ""
 "This is what you wanted, right? To know who is behind this alliance? Now you "
 "know, it is 'Grekulak' - who or whatever that is."
 msgstr ""
+"Eso es lo que querías, ¿no? Saber quién está detrás de esta alianza. Pues ya "
+"lo sabes, es 'Grekulak', sea quién o qué sea."
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:226
-#, fuzzy
 msgid "Maybe you are right. We should go back to Freetown then."
-msgstr ""
-"¿Grekulak? Eso es algo para informar. Debemos regresar entonces a Freetown."
+msgstr "Quizás estés en lo cierto. Deberíamos volver a Freetown entonces."
 
+# Para hacer juego de palabras con crujir, es lo único que se me ocurrió
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:232
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:267
-#, fuzzy
 msgid "I will let you live, if you will tell me few things."
-msgstr "Le permitiré vivir, si me dice algunas cosas."
+msgstr "Te permitiré huir, si me dices algunas cosas."
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:233
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:268
-#, fuzzy
 msgid ""
 "Yes, yes, I will answer, yummie... liver. What kind of liver it would be?"
-msgstr "Sí, sí, contestaré, yummie.. hígado. ¿Qué tipo de hígado sería? ."
+msgstr "Sí, sí, rico... y crujiente. ¿Qué tipo de manjar sería? ."
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:234
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:269
-#, fuzzy
 msgid "What??"
-msgstr "¿QUE?"
+msgstr "¿¿Qué??"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:235
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:270
-#, fuzzy
 msgid ""
 "What kind of liver it will be? Human liver, uhmm, or delicious liver of "
 "Elvish woman?"
 msgstr ""
-"Qué tipo de hígado será. ¿Un hígado humano, uhmm, o el hígado delicioso de "
-"una mujer Elfa?"
+"¿Qué tipo de crujiente manjar será? ¿Huesos humanos, o deliciosos huesos de "
+"mujer elfa?"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:236
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:271
-#, fuzzy
 msgid ""
 "No, no, you did not understand me. I will LET you LIVE, not GET you LIVER. "
 "Why are you here, allied with Akladians?"
 msgstr ""
-"No, no, no me entendió. Le permitiré VIVIR, no le daré HÍGADO. ¿Por qué se "
-"alió con los Akladianos?"
+"No, no, no me entendiste. Le permitiré HUIR, no CRUJIR. ¿Por qué os "
+"aliasteis con los akladianos?"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:237
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:272
-#, fuzzy
 msgid ""
 "My boss would know. I know nothing, I am great warrior, not great thinker."
-msgstr ""
-"Mi jefe sabría. Yo no sé nada, soy un gran guerrero, no un gran pensador. "
+msgstr "Mi jefe sabría. Yo no sé nada, soy gran guerrero, no gran pensador."
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:239
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:274
-#, fuzzy
 msgid ""
 "My lord! Do not let him go! He was beating and killing my friends and family "
 "members! If you won't kill him, I will!"
 msgstr ""
-"¡Mi señor! ¡No le permita vivir! ¡Él estaba pegando y matando a mis amigos y "
-"a mi familia! ¡Si no lo mata, lo haré yo!"
+"¡Mi señor! ¡No le permita huir! ¡Estaba pegando y matando a mis amigos y a "
+"mi familia! ¡Si no lo mata, lo haré yo!"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:242
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:277
-#, fuzzy
 msgid "Should I spare him?"
-msgstr "¿Debo eliminarlo yo?"
+msgstr "¿Debería prescindir de él?"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:244
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:279
 msgid "No."
-msgstr ""
+msgstr "No."
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:249
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:284
-#, fuzzy
 msgid "Aaaargh!!"
-msgstr "Aaaargh!!"
+msgstr "¡¡Aaaarg!!"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:256
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:291
 #: A_New_Order/scenarios/14b_Bontom.cfg:690
 #: A_New_Order/scenarios/14b_Bontom.cfg:706
-#, fuzzy
 msgid "I will allow you to live, if you will tell me few things."
-msgstr "Le permitiré vivir, si me dice algunas cosas."
+msgstr "Te permitiré vivir, si me respondes algunas preguntas."
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:257
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:292
 #: A_New_Order/scenarios/14b_Bontom.cfg:691
 #: A_New_Order/scenarios/14b_Bontom.cfg:707
-#, fuzzy
 msgid "Ask then, human."
 msgstr "Pregunte entonces, humano."
 
@@ -11618,44 +11590,39 @@ msgstr "Pregunte entonces, humano."
 #: A_New_Order/scenarios/14b_Bontom.cfg:618
 #: A_New_Order/scenarios/14b_Bontom.cfg:692
 #: A_New_Order/scenarios/14b_Bontom.cfg:708
-#, fuzzy
 msgid "Why are you allied with Akladians?"
-msgstr "¿Por qué se han alíado con Akladianos?"
+msgstr "¿Por os habéis aliado con los akladianos?"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:306
 msgid "That's what waits for all orcs that fall into my hands!!"
-msgstr ""
+msgstr "¡¡Eso es lo que espera a todos los orcos que caen en mis manos!!"
 
 #. [unit]: type=Peasant, id=John the Smith
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:320
-#, fuzzy
 msgid "John the Smith"
-msgstr "John Fasthood"
+msgstr "Juan el Herrero"
 
 #. [unit]: type=Peasant, id=Paul the Small
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:334
-#, fuzzy
 msgid "Paul the Small"
-msgstr "mini relámpago"
+msgstr "Pablo el Pequeño"
 
 #. [unit]: type=Peasant, id=Quick Herman
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:349
-#, fuzzy
 msgid "Quick Herman"
-msgstr "rápido"
+msgstr "Rápido Germán"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:360
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:413
-#, fuzzy
 msgid "Hurray! We are free! Now, death to the orcs!"
-msgstr "¡Que bien! ¡Somos libres! ¡Ahora, muerte a los orcos!"
+msgstr "¡Hurra! ¡Somos libres! ¡Ahora, muerte a los orcos!"
 
 #. [unit]: type=Peasant, id=Gonzales the Steelhand
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:374
 msgid "Gonzales the Steelhand"
-msgstr ""
+msgstr "González Manoacero"
 
 #. [unit]: type=Peasant, id=Owaec
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:388
@@ -12087,7 +12054,6 @@ msgstr "Dejando Okladia"
 #. [part]
 #. spoken by Gawen
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:22
-#, fuzzy
 msgid ""
 "When Deorien declared to my soldiers that they should address me by the name "
 "of 'King Gawen Haldric Hagarthen,' they showed a great deal of enthusiasm. I "
@@ -12096,12 +12062,11 @@ msgid ""
 msgstr ""
 "Cuando Deorien declaró a mis soldados que debían dirigirse a mí con el "
 "nombre de \"Rey Gawen Haldric Hagarthen\", mostraron un gran entusiasmo. "
-"Creo que este título les sorprendió poco. Pero su estridente entusiasmo fue "
-"sin duda una sorpresa para mí."
+"Creo que a ellos este título les sorprendió poco. Pero su estridente "
+"entusiasmo fue sin duda una sorpresa para mí."
 
 #. [part]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:25
-#, fuzzy
 msgid ""
 "We had hoped that our small army could sneak successfully out of Okladia, "
 "but on the border we marched suddenly into outposts of the Okladian army. "
@@ -12111,26 +12076,26 @@ msgid ""
 msgstr ""
 "Teníamos la esperanza de que nuestro pequeño ejército pudiera escabullirse "
 "con éxito fuera de Okladia, pero en la frontera marchamos repentinamente "
-"hacia puestos avanzados del ejército Okladiano. Los exploradores nos "
+"hacia puestos avanzados del ejército okladiano. Los exploradores nos "
 "informaron de que el ejército principal del rey Buffin estaba a nuestras "
 "espaldas, por lo que no tuvimos tiempo de encontrar otro camino. Tuvimos que "
-"abrirnos paso a través de las filas de Akladian."
+"abrirnos paso a través de las filas akladianas."
 
 #. [then]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:71
 msgid "Treacherous dog! Harnen has joined the rebels! Bring reinforcements!"
 msgstr ""
+"¡Perro traicionero! ¡Harnen se ha unido a los rebeldes! ¡Trae refuerzos!"
 
 #. [then]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:72
 msgid "Bring it on! We have our own reinforcements!"
-msgstr ""
+msgstr "¡Dale! ¡Tenemos nuestros propios refuerzos!"
 
 #. [then]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:74
-#, fuzzy
 msgid "As do we!"
-msgstr "¿Dónde ir ahora?"
+msgstr "¡Como nosotros!"
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:132
@@ -12139,18 +12104,19 @@ msgid ""
 "for I think I saw your face some time ago, and now... Maybe I heard it "
 "wrong, but aren't your people calling you Gawen Hagarthen?"
 msgstr ""
+"¡Esperad! Antes de que crucemos nuestras espadas, debo saber algo. Dime tu "
+"nombre: porque creo que vi tu rostro hace algún tiempo, y ahora... Tal vez "
+"lo escuché mal, pero ¿tu gente no te llama Gawen Hagarthen?"
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:133
-#, fuzzy
 msgid "I am Gawen Hagarthen."
-msgstr "Muerte de Gawen Hagarthen"
+msgstr "Soy Gawen Hagarthen."
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:134
-#, fuzzy
 msgid "Gawen Hagarthen, king of Vakladia?"
-msgstr "Muestre más respeto, éste es el rey Gawen Haldric Hagarthen."
+msgstr "¿Gawen Hagarthen, rey de Vakladia?"
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:135
@@ -12158,6 +12124,8 @@ msgid ""
 "I am Gawen Hagarthen. I was crowned king in Vattin and betrayed by my own "
 "lords during the battle of Barnon."
 msgstr ""
+"Soy Gawen Hagarthen. Fui coronado rey en Vattin y traicionado por mis "
+"propios señores durante la batalla de Barnon."
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:138
@@ -12166,6 +12134,9 @@ msgid ""
 "then. I am your hand, my sword is your sword, my king, my blood is yours to "
 "spill."
 msgstr ""
+"¡Detened la lucha! Este es nuestro legítimo rey. Entonces mi hermano me dijo "
+"la verdad. Soy tu mano, mi espada es tu espada, mi rey, mi sangre es tuya "
+"para derramarla."
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:141
@@ -12173,12 +12144,13 @@ msgid ""
 "Gawen Hagarthen? But.. you were fighting with Raban Harnen, my brother "
 "recently, isn't that right?"
 msgstr ""
+"¿Gawen Hagarthen? Pero... estuviste peleando recientemente con Raban Harnen, "
+"mi hermano, ¿no es así?"
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:142
-#, fuzzy
 msgid "Yes, I was."
-msgstr "Sí, tengo la poción de invisibilidad."
+msgstr "Sí, lo hice."
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:143
@@ -12187,6 +12159,9 @@ msgid ""
 "Either you are lying now or you were lying then. A base liar couldn't be the "
 "rightful king of the Akladian people. Prepare to die!"
 msgstr ""
+"Te preguntó por tu nombre, y respondiste que tu nombre era Gaumhaldric. O "
+"miente ahora o miente entonces. Un vil mentiroso no podría ser el legítimo "
+"rey del pueblo de Akladia. ¡Prepárate para morir!"
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:146
@@ -12194,19 +12169,20 @@ msgid ""
 "My brother... my brother died... he was killed by someone called "
 "'Gaumhaldric.' Do you... do you know who 'Gaumhaldric' is?"
 msgstr ""
+"Mi hermano... mi hermano murió... lo mató alguien llamado 'Gaumhaldric'. "
+"¿Sabes... sabes quién es 'Gaumhaldric'?"
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:148
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:171
-#, fuzzy
 msgid "This was a name I used in the past."
-msgstr "El nombre utilizado para hacer referencia a la duración de veto."
+msgstr "Este era un nombre que usé en el pasado."
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:149
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:172
 msgid "No idea who he could be."
-msgstr ""
+msgstr "Ni idea de quién podría ser."
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:152
@@ -12216,28 +12192,29 @@ msgid ""
 "see whether you would have the courage to admit that. A base liar couldn't "
 "be the rightful king of the Akladian people. Prepare to die!"
 msgstr ""
+"¡Mentiroso! Sé que luchaste bajo el nombre de Gaumhaldric. Sólo estaba "
+"comprobando si tendrías el coraje de admitirlo. Un vil mentiroso no podría "
+"ser el legítimo rey del pueblo de Akladia. ¡Prepárate para morir!"
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:154
-#, fuzzy
 msgid "So, you killed my brother!"
-msgstr "¡Matasteis a mi familia! ¡Morid!"
+msgstr "Entonces, ¡mataste a mi hermano!"
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:156
 msgid "Yes. It was good fight and your brother was brave fighter."
-msgstr ""
+msgstr "Sí. Fue una buena pelea y tu hermano fue un valiente luchador."
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:157
-#, fuzzy
 msgid "Yes. Now it will be your turn."
-msgstr "Es el turno de $name"
+msgstr "Sí. Y ahora será tu turno."
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:160
 msgid "We will see who will kill whom. Prepare to die!"
-msgstr ""
+msgstr "Veremos quién mata a quién. ¡Prepárate a morir!"
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:162
@@ -12245,6 +12222,8 @@ msgid ""
 "He had an honourable death. My king, my brother only opposed you because he "
 "didn't know it was you. Please, forgive him."
 msgstr ""
+"Tuvo una muerte honorable. Mi rey, mi hermano solo se opuso a vos porque no "
+"sabía que eras vos. Por favor, perdónele."
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:163
@@ -12252,7 +12231,7 @@ msgstr ""
 msgid ""
 "I honour the memory of your brother. He did nothing which would have to be "
 "forgiven."
-msgstr ""
+msgstr "Honro la memoria de tu hermano. No hizo nada que deba ser perdonado."
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:164
@@ -12261,6 +12240,8 @@ msgid ""
 "Stop fighting! This is our rightful king. I am your hand, my sword is your "
 "sword, my king, my blood is yours to spill."
 msgstr ""
+"¡Detened la pelea! Este es nuestro legítimo rey. Soy tu mano, mi espada es "
+"tu espada, mi rey, mi sangre es tuya para derramarla."
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:169
@@ -12268,6 +12249,8 @@ msgid ""
 "My brother fought with soldiers led by someone called 'Gaumhaldric.' Do "
 "you.. Do you know who Gaumhaldric is?"
 msgstr ""
+"Mi hermano luchó contra soldados dirigidos por alguien llamado "
+"'Gaumhaldric'. ¿Sabes quién es Gaumhaldric?"
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:177
@@ -12275,6 +12258,8 @@ msgid ""
 "My king, my brother only opposed you because he didn't know it was you. "
 "Please, forgive him."
 msgstr ""
+"Mi rey, mi hermano solo se opuso a vos porque no sabía que eras vos. Por "
+"favor, perdónele."
 
 #. [side]: id=Rauke Harnen, type=Akladian Lord
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:204
@@ -12294,32 +12279,27 @@ msgstr "Dauri Travil"
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:426
 msgid "Have you heard, Rauke? You will have another king very soon now."
-msgstr ""
+msgstr "¿Has oído, Rauke? Tendrás otro rey muy pronto."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:427
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:429
-#, fuzzy
 msgid "No kidding."
-msgstr ""
-"¡Tienes que estar bromeando! ¡Nunca pensé que eras <b> esto </b> no era "
-"confiable! ¡Ahora vuelve aquí, o serás ejecutado!"
+msgstr "Sin bromas."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:428
-#, fuzzy
 msgid ""
 "No, really. Now, when Gawen Hagarthen was killed and you were unable to "
 "impose any sign of order, our king, which as it seems will soon be also your "
 "king, decided to help you and bring back the law."
 msgstr ""
-"No, en serio. Ahora, cuando Gawen Hagarthen fue asesinado y no pudisteis "
-"imponer ningún signo de orden, nuestro rey, que según parece pronto será "
-"también vuestro rey, decidió ayudaros y traer de vuelta la ley."
+"No, en serio. Cuando Gawen Hagarthen fue asesinado y no pudisteis imponer el "
+"orden, nuestro rey, que según parece pronto será también vuestro rey, "
+"decidió ayudaros y traer de vuelta la ley."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:430
-#, fuzzy
 msgid ""
 "After he cleans Vakladia of the marauders, brawlers and bandits, he will "
 "call for an election for a new king, where you, of course, will have the "
@@ -12335,22 +12315,22 @@ msgid ""
 "Are you going somewhere with this speech, or are you just talking because "
 "you love to hear yourself talk?"
 msgstr ""
+"¿Vas a alguna parte con este discurso, o simplemente estás hablando porque "
+"te encanta escucharte hablar?"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:432
-#, fuzzy
 msgid ""
 "Well, Rauke, what will you do when King Buffin Hagarthen appears here? You "
 "will of course join us? I know a few people who are quite close to the king, "
 "I might just put in a good word with them for you..."
 msgstr ""
 "Bueno, Rauke, ¿qué harás cuando el rey Buffin Hagarthen aparezca por aquí? "
-"¿Te unirás a nosotros, por supuesto? Conozco a algunas personas que son "
-"bastante cercanas al rey, podría hablarles bien de ti..."
+"¿Te unirás a nosotros, digo yo? Conozco a algunas personas que son bastante "
+"cercanas al rey, podría hablarles bien de ti..."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:435
-#, fuzzy
 msgid ""
 "Anyone who tries to pass my outpost with arms in his hands and treachery in "
 "his heart will never return to his home. Gawen Hagarthen is alive. My "
@@ -12360,11 +12340,10 @@ msgstr ""
 "Cualquiera que intente pasar mi puesto de avanzada con armas en sus manos y "
 "traición en su corazón nunca regresará a su hogar. Gawen Hagarthen está "
 "vivo. Mi hermano Raban lo vio e incluso habló con él. Es nuestro legítimo "
-"rey y volverá a nosotros."
+"rey, y volverá a nosotros."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:437
-#, fuzzy
 msgid ""
 "I will do as my heart leads me. Not long ago, my brother fought a Wesnothian "
 "leader, Gaumhaldric. He told me this Gaumhaldric looked just like our king "
@@ -12373,7 +12352,7 @@ msgid ""
 "Gaumhaldric - he lied and is therefore unworthy to be our king."
 msgstr ""
 "Haré lo que mi corazón me guíe. No hace mucho, mi hermano luchó contra un "
-"líder Wesnothiano, Gaumhaldric. Me dijo que este Gaumhaldric se parecía a "
+"líder wesnodiano, Gaumhaldric. Me dijo que este Gaumhaldric se parecía a "
 "nuestro rey Gawen... pero cuando le pregunté, respondió que su nombre era "
 "'Gaumhaldric' Creo que nuestro trono debe estar vacío. O Gawen está muerto, "
 "o -si en verdad era Gaumhaldric- mintió y por lo tanto no es digno de ser "
@@ -12381,33 +12360,30 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:440
-#, fuzzy
 msgid ""
 "I don't know what to think about this. My brother, Raban, died recently "
 "fighting with someone who - according to many - looked like our king Gawen's "
 "twin brother."
 msgstr ""
-"No sé qué pensar sobre esto. Mi hermano, Raban, murió hace poco luchando con "
-"alguien que -según muchos- se parecía al hermano gemelo de nuestro rey Gawen."
+"No sé qué pensar sobre eso. Mi hermano, Raban, murió hace poco luchando con "
+"alguien que -según muchos- parecía el hermano gemelo de nuestro rey Gawen."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:442
-#, fuzzy
 msgid ""
 "I don't know what to think about this. My brother, Raban, fought with "
 "someone who - according to many - looked like our king Gawen's twin brother. "
 "He was left alive by one of the Wesnothians fighting for this young leader, "
 "who goes by the name 'Gaumhaldric.' There are many rumors about him..."
 msgstr ""
-"No sé qué pensar de esto. Mi hermano, Raban, luchó con alguien que -según "
+"No sé qué pensar de eso. Mi hermano, Raban, luchó con alguien que -según "
 "muchos- se parecía al hermano gemelo de nuestro rey Gawen. Fue dejado con "
-"vida por uno de los wesnothianos que luchaban por este joven líder, que "
+"vida por uno de los wesnodianos que luchaban por este joven líder, que "
 "responde al nombre de 'Gaumhaldric' Hay muchos rumores sobre él..."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:446
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:449
-#, fuzzy
 msgid ""
 "This doesn't look good, my lord. We weren't expecting this many enemies "
 "here. And our scouts are reporting that Buffin's army is just behind us."
@@ -12418,20 +12394,19 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:453
-#, fuzzy
 msgid ""
 "Aaah, the glory of battle! My son, fodder for our swords lies ahead. Let's "
 "kill them all, and if they are worthy opponents, let's cut their hearts out "
 "and eat them. Speaking of eating, I am really hungry..."
 msgstr ""
-"¡Aaah, la gloria de la batalla! Hijo mío, nos espera forraje para nuestras "
+"¡Aaah, la gloria de la batalla! Hijo mío, nos espera pienso para nuestras "
 "espadas. Matémoslos a todos, y si son oponentes dignos, arranquémosles el "
-"corazón y comámoslos. Hablando de comer, tengo mucha hambre..."
+"corazón y comámoslos. Hablando de comer, me está dando mucha hambre..."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:454
 msgid "My king, is mother of your majesty always this... hmm..."
-msgstr ""
+msgstr "Mi rey, es la madre de su majestad siempre así de... hmm..."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:455
@@ -12440,24 +12415,24 @@ msgid ""
 "mother, you should really stop eating so much. You are starting to gain "
 "weight."
 msgstr ""
+"¿Sanguinaria? No estoy seguro. Se ha estado comportando de forma muy extraña "
+"últimamente... madre, deberías dejar de comer tanto. Estás empezando a subir "
+"de peso."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:456
-#, fuzzy
 msgid "I will lose it in battle. Charge!"
-msgstr "¿Qué? Yo... no puedo... perder..."
+msgstr "Lo perderé en la batalla. ¡Carguemos!"
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:465
-#, fuzzy
 msgid "Reach the northern edge of the map with Gawen."
-msgstr "Mueva a Gawen al borde sur del mapa O"
+msgstr "Alcanza el borde norte del mapa con Gawen."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:509
-#, fuzzy
 msgid "For our king, Gawen Haldric Hagarthen!"
-msgstr "Muestre más respeto, éste es el rey Gawen Haldric Hagarthen."
+msgstr "¡Por nuestro rey, Gawen Haldric Hagarthen!"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:510
@@ -12465,18 +12440,20 @@ msgid ""
 "Your king? You are fighting for the ghost of long dead boy? And why would "
 "you call him Haldric?"
 msgstr ""
+"¿Tu rey? ¿Estás luchando por el fantasma de un niño muerto hace mucho "
+"tiempo? ¿Y por qué lo llamarías Haldric?"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:536
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:568
 msgid "You oppose Gawen Hagarthen, your own king."
-msgstr ""
+msgstr "Te opones a Gawen Hagarthen, tu propio rey."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:537
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:569
 msgid "Our king? And where is he? Is he hiding behind your backs?"
-msgstr ""
+msgstr "¿Nuestro rey? ¿Y dónde está? ¿Se esconde detrás de tu espalda?"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:545
@@ -12484,73 +12461,69 @@ msgid ""
 "Now, feel the wrath of ancient power. Your God is expressing his anger "
 "through me, because you are opposing his messiah!"
 msgstr ""
+"Ahora, siente la ira del antiguo poder. ¡Tu Dios está expresando su ira a "
+"través de mí, porque te estás oponiendo a su mesías!"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:570
 msgid "My name is Reme Carrenemoe. You doubt my word?"
-msgstr ""
+msgstr "Mi nombre es Reme Carrenemoe. ¿Dudas de mi palabra?"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:571
 msgid "If he is really Gawen Hagarthen, why does he send others to fight?"
-msgstr ""
+msgstr "Si realmente es Gawen Hagarthen, ¿por qué envía a otros a luchar?"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:593
-#, fuzzy
 msgid ""
 "He lost consciousness already? Sigh. I hoped we could ask him few questions. "
 "But then again, he didn't seem like a guy who would actually KNOW anything."
 msgstr ""
-"¿Ya perdió la conciencia? Suspiro. Esperaba poder preguntarle algunas cosas. "
-"Pero bueno, no parecía un tipo que SUPIERA algo realmente."
+"¿Ya perdió la consciencia? Suspiro. Esperaba poder preguntarle algunas "
+"cosas. Pero bueno, no parecía un tipo que SUPIERA algo realmente."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:599
-#, fuzzy
 msgid "What are you waiting for? Finish me!"
-msgstr "¿qué está esperando? ¡Termíneme!"
+msgstr "¿Qué estás esperando? ¡Acaba conmigo!"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:601
-#, fuzzy
 msgid "Then die, if that's what you want!"
-msgstr "¡Entonces muera, si usted quiere!"
+msgstr "¡Entonces muere, si es lo que quieres!"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:602
-#, fuzzy
 msgid "You were worthy opponent"
-msgstr "Fué un antagonista digno"
+msgstr "Fuiste un digno oponente."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:606
-#, fuzzy
 msgid "If that's your wish"
-msgstr "Si ése es su deseo"
+msgstr "Si ese es tu deseo."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:609
-#, fuzzy
 msgid ""
 "Why should I do that? You fought like a real man, and I respect you. Rauke, "
 "I want you to know that I consider you a good warrior and a fine Akladian. I "
 "will ensure your body is buried with all honours."
 msgstr ""
-"¿Por qué debo hacer eso? Luchaste como un verdaderos hombres, y te respeto. "
+"¿Por qué debo hacer eso? Luchaste como un verdadero hombre, y te respeto. "
 "Rauke, quisiera que supieras que te consideré buen guerrero y buen "
-"Akladiano. Haré todo lo necesario para enterrar tu cuerpo con todos los "
+"akladiano. Haré todo lo necesario para enterrar tu cuerpo con todos los "
 "honores."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:611
 msgid "Maybe you are worthy to be our king after all..."
-msgstr ""
+msgstr "Tal vez seas digno de ser nuestro rey después de todo..."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:612
 msgid "Tell me what has happened recently in Vakladia?"
-msgstr ""
+msgstr "Dime, ¿qué ha pasado recientemente en Vakladia?"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:614
@@ -12560,6 +12533,10 @@ msgid ""
 "the orcs, but even their successes with the rebels have not given them any "
 "authority."
 msgstr ""
+"Nada cambió demasiado. Todos están peleando contra todos. Bor Cryne y sus "
+"aliados intentan imponerse como gobernantes supremos con la ayuda de los "
+"orcos, pero ni siquiera sus éxitos con los rebeldes les ha dado alguna "
+"autoridad."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:615
@@ -12570,6 +12547,11 @@ msgid ""
 "undecided, but the Easkladian capital was saved and the underlings withdrew "
 "without their king."
 msgstr ""
+"En Easkladia, el rey Perien murió durante la batalla final contra los "
+"wesnodianos. Rompió las líneas westnodian directamente a su rey. Mató a su "
+"rey, pero a su vez fue asesinado por sus plebeyos. La batalla luego terminó, "
+"indecisa, pero la capital de Easkladia se salvó y los plebeyos se retiraron "
+"sin su rey."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:616
@@ -12580,13 +12562,16 @@ msgid ""
 "Akladians and lead them into true greatness... (<i>coughs</i>) ...and... "
 "(<i>coughs</i>)"
 msgstr ""
+"Hay múltiples rumores sobre un mesías que vendrá y unirá a todos los "
+"akladianos y los guiará hacia la verdadera grandeza... (<i>tos</i>) ...y... "
+"(<i>tos</i> )"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:617
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:648
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:660
 msgid "He is dead now. Lie in peace, warrior. I will keep my promise"
-msgstr ""
+msgstr "Ya está muerto. Descansa en paz, guerrero. Mantendré mi promesa"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:622
@@ -12595,6 +12580,8 @@ msgid ""
 "A mage! A mage has defeated me! A creature from the dark past allied with "
 "you? God will punish you!"
 msgstr ""
+"¡Un mago! ¡Un mago me ha derrotado! ¿Una criatura del oscuro pasado aliada "
+"contigo? ¡Dios os castigará!"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:626
@@ -12602,11 +12589,13 @@ msgid ""
 "Rauke, I like you. That's why I don't want you to scream in pain and agony. "
 "What do you say you help me out?"
 msgstr ""
+"Rauke, me caes bien. Por eso no quiero que grites de dolor y agonía. ¿Qué te "
+"parece si me ayudas?"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:627
 msgid "Help yourself, fat witch."
-msgstr ""
+msgstr "Sírvete tú misma, bruja gorda."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:628
@@ -12614,6 +12603,8 @@ msgid ""
 "Fat? That's really unfair. I didn't say anything about you being bald. Now, "
 "tell me what happened recently in Vakladia, and..."
 msgstr ""
+"¿Gorda? Eso es muy injusto. No dije nada sobre lo calvo que estás. Ahora, "
+"dime qué ha estado pasando en Vakladia, y..."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:629
@@ -12622,14 +12613,13 @@ msgstr "Y..."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:630
-#, fuzzy
 msgid "You will avoid unspeakable pain"
-msgstr "¿Por qué se han alíado con Akladianos?"
+msgstr "Evitarás indescriptibles dolores"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:631
 msgid "I will honour you by burying you properly"
-msgstr ""
+msgstr "Te honraré enterrándote apropiadamente"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:636
@@ -12637,21 +12627,23 @@ msgid ""
 "You think you can frighten me with mere words? Ha! Ha! Ha! I am an Akladian "
 "lord, and I am not afraid... I am half-dead already..."
 msgstr ""
+"¿Crees que puedes asustarme con meras palabras? ¡Ja! ¡Ja! ¡Ja! Soy un señor "
+"de Akladia, y no tengo miedo... Ya estoy medio muerto, igualmente..."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:637
 msgid "Only half-dead, mind you. It means you can still feel the pain"
-msgstr ""
+msgstr "Sólo medio muerto, ojo. Significa que todavía puedes sentir el dolor."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:638
 msgid "Aaargh! No! Not there! Aaargh! Stop, stop it!"
-msgstr ""
+msgstr "¡Aaarg! ¡No! ¡No ahí! ¡Aaarg! ¡Para, para!"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:639
 msgid "I won't allow for any more of that, mother. Stop it! Stop it right now!"
-msgstr ""
+msgstr "No permitiré más eso, madre. ¡Para! ¡Detente ahora mismo!"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:640
@@ -12659,11 +12651,13 @@ msgid ""
 "Oh, rats, I think I've lost my delicate, feminine touch. My blade slipped "
 "and I've killed him too soon. Sigh."
 msgstr ""
+"Oh, ratas, creo que he perdido mi toque delicado y femenino. Mi espada "
+"resbaló y lo maté demasiado pronto. Suspiro."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:643
 msgid "Honour me? That's so.. so unlikely of you, Lorin."
-msgstr ""
+msgstr "¿Honrarme? Eso es tan... tan poco creíble de tu parte, Lorin."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:644
@@ -12673,6 +12667,9 @@ msgid ""
 "by my step-son. Would you please tell me about what happened in Vakladia "
 "recently?"
 msgstr ""
+"SEÑORA Lorin, si no te importa. ¿Cómo sabes lo que es poco creíble de mí? "
+"Fuiste un buen guerrero, y me cansé de que mi hijastro me llamara insensible "
+"y cruel. ¿Podrías contarme qué sucedió últimamente en Vakladia?"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:645
@@ -12683,6 +12680,10 @@ msgid ""
 "of the orcs, but even their successes with the rebels have not given them "
 "any authority."
 msgstr ""
+"Nada ha cambiado mucho. Todos están peleando contra todos. Bor Cryne y sus "
+"aliados intentan imponerse como gobernantes supremos con la ayuda de los "
+"orcos, pero ni siquiera sus éxitos con los rebeldes les han dado alguna "
+"autoridad."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:646
@@ -12694,6 +12695,11 @@ msgid ""
 "undecided, but the Easkladian capital was saved and the underlings withdrew "
 "without their king."
 msgstr ""
+"En Easkladia, el rey Perien murió durante la batalla final contra los "
+"wesnodianos. Rompió las líneas wesnodianas directamente a su rey y lo mató, "
+"pero a su vez fue asesinado por sus plebeyos. La batalla terminó entonces, "
+"indecisa, pero la capital de Easkladia se salvó y los plebeyos se retiraron "
+"sin su rey."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:653
@@ -12701,6 +12707,8 @@ msgid ""
 "You were a worthy fighter, noble Rauke Harnen. I will do everything to bury "
 "your body properly according to our customs."
 msgstr ""
+"Fuiste un digno luchador digno, noble Rauke Harnen. Haré todo lo posible "
+"para enterrar tu cuerpo correctamente de acuerdo con nuestras costumbres."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:654
@@ -12708,6 +12716,8 @@ msgid ""
 "So were you, noble Reme. I've heard about the fate of your clan and family - "
 "please, accept my deepest condolences."
 msgstr ""
+"Tú también, noble Reme. Escuché sobre el destino de tu clan y su familia. "
+"Por favor, acepta mi más sentido pésame."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:655
@@ -12716,36 +12726,35 @@ msgid ""
 "Please, before you die - could you tell me about what happened in Vakladia "
 "recently?"
 msgstr ""
+"Las personas mueren y se unen a sus antepasados. Estoy feliz de que su "
+"muerte haya sido honorable. Por favor, antes de morir, ¿podrías contarme lo "
+"que sucedió recientemente en Vakladia?"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:670
-#, fuzzy
 msgid "Hmm... seems that he had some gold..."
-msgstr "Umm. Parece que tenía un mapa, ¡y algo de oro!"
+msgstr "Hmm... parece que tenía algo de oro..."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:688
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:703
-#, fuzzy
 msgid "Hmm... seems that the traitor had some gold..."
-msgstr "Umm. Parece que tenía un mapa, ¡y algo de oro!"
+msgstr "Hmm... parece que el traidor tenía algo de oro..."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:693
-#, fuzzy
 msgid "Bal Riddon has received 40 gold pieces."
-msgstr "Ha recibido 100 piezas de oro"
+msgstr "Bal Riddon ha recibido 40 piezas de oro."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:708
-#, fuzzy
 msgid "Dauri Travil has received 40 gold pieces."
-msgstr "Ha recibido 100 piezas de oro"
+msgstr "Dauri Travil ha recibido 40 piezas de oro."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:717
 msgid "Eeek! They killed the boss! Bring reinforcements!"
-msgstr ""
+msgstr "¡Eeej! ¡Mataron al jefe! ¡Traed refuerzos!"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:755
@@ -12754,12 +12763,14 @@ msgid ""
 "Bal Riddon, before you die, I want you to tell me a few things about the "
 "plans of your king, Buffin."
 msgstr ""
+"Bal Riddon, antes de que mueras, quiero que me cuentes algunas cosas sobre "
+"los planes de tu rey, Buffin."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:756
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:765
 msgid "Ask him yourself, then. I won't tell you anything."
-msgstr ""
+msgstr "Pregúntaselo tú mismo, entonces. No te diré nada."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:766
@@ -12767,6 +12778,8 @@ msgid ""
 "Nonono, you have not understood me. I WANT you to tell me few things about "
 "the plans of your king. Now, we will start with the basics."
 msgstr ""
+"Nonono, no me has entendido. EXIJO que me cuentes algunas cosas sobre los "
+"planes de tu rey. Ahora, comenzaremos con lo básico."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:767
@@ -12776,12 +12789,15 @@ msgid ""
 "Guilcorta busy with quarrels. He wants to trump up some fake election and "
 "elect himself king of Vakladia."
 msgstr ""
+"¡Espera! Te diré lo que sé. El rey Buffin quiere aprovechar la oportunidad "
+"que ve aquí, con Gawen muerto, Perien muerto y los otros dos Hagarthens en "
+"Guilcorta ocupados en disputas. Quiere falsificar las elecciones y erigirse "
+"rey de Vakladia."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:768
-#, fuzzy
 msgid "Gawen is not dead, I assure you."
-msgstr "No en el corto plazo. Eso puedo aseguraros."
+msgstr "Gawen no está muerto, te lo aseguro."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:769
@@ -12790,6 +12806,9 @@ msgid ""
 "happening at our eastern border. Many of the lords from the eastern part of "
 "Okladia have not answered the call of Buffin to assemble at his camp."
 msgstr ""
+"Pero hay algo extraño... He oído rumores preocupantes. Algo está sucediendo "
+"en nuestra frontera este. Muchos de los señores de la parte este de Okladia "
+"no han respondido al llamado de Buffin para reunirse en su campamento."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:770
@@ -12797,11 +12816,13 @@ msgid ""
 "Okladian lords are cowards, what's so strange about that? Do you know "
 "anything else? No? Die then."
 msgstr ""
+"Los señores de Okladian son cobardes, ¿qué tiene eso de extraño? ¿Sabes algo "
+"más? ¿No? Muere entonces."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:775
 msgid "You were worthy fighter, noble Bal Riddon"
-msgstr ""
+msgstr "Fuiste un digno luchador, noble Bal Riddon."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:776
@@ -12809,13 +12830,14 @@ msgid ""
 "So were you, Reme. So were you. You behaved honourably, so before I die, I "
 "want to warn you: you are headed straight into a trap."
 msgstr ""
+"Tú también, Reme. Tú también. Te comportaste con honor, así que antes de que "
+"muera, quiero advertirte: te diriges directamente a una trampa."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:777
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:158
-#, fuzzy
 msgid "What do you mean by that?"
-msgstr "¿Indigno? ¿Qué quiere decir?"
+msgstr "¿Qué quieres decir con eso?"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:778
@@ -12825,40 +12847,39 @@ msgid ""
 "trapped between those two armies. Go back to Okladia and try to find another "
 "way."
 msgstr ""
+"Un ejército de orcos y akladianos se está reuniendo al norte de aquí. "
+"Probablemente estén allí porque quieren acabar con el ejército de mi rey, "
+"Buffin. Estarás atrapado entre esos dos ejércitos. Vuelve a Okladia e "
+"intenta encontrar otra forma."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:779
-#, fuzzy
 msgid "We have no choice. We have to tread this path."
-msgstr "Desearía que hubiese otro camino, pero parece que no tenemos elección."
+msgstr "No tenemos más opción. Hay que recorrer este camino."
 
 #. [message]: speaker=narrator
 #. TODO: think of something better to put here:
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:792
-#, fuzzy
 msgid "This signpost is illegible, unfortunately."
-msgstr "Poste indicador"
+msgstr "Lamentablemente, este poste indicador es ilegible."
 
 #. [event]
 #. reference to the event where King Buffin's vanguard starts appearing:
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:855
-#, fuzzy
 msgid "Wait... the last time enemy reinforcements arrived..."
-msgstr ""
-"Tenemos que darnos prisa antes de que lleguen los refuerzos enemigos. Vamos."
+msgstr "Espera... la última vez que llegaron refuerzos enemigos..."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:856
 msgid "No, Gawen is correct! There are too many of them now!"
-msgstr ""
+msgstr "¡No, Gawen tiene razón! ¡Hay demasiados de ellos ahora!"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:873
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:322
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:312
-#, fuzzy
 msgid "We've won! What should we do now?"
-msgstr "¡Hemos ganado! ¿Qué debemos hacer ahora?"
+msgstr "¡Hemos ganado! ¿Qué deberíamos hacer ahora?"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:874
@@ -12866,6 +12887,8 @@ msgid ""
 "We march straight on to Vattin! Boy, I really feel hungry now. This fight "
 "has made me STARVING."
 msgstr ""
+"¡Marchemos directamente hacia Vattin! Chico, realmente me está dando hambre. "
+"Esta pelea me ha dejado FAMÉLICA."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:875
@@ -12874,11 +12897,15 @@ msgid ""
 "Vakladia can see you and acknowledge you as king. We must hurry, because "
 "king Buffin is right behind us."
 msgstr ""
+"Creo, mi rey, que deberíamos ir a Freetown, para que los rebeldes "
+"wesnodianos de Vakladia puedan verte y reconocerte como rey. Debemos darnos "
+"prisa, porque el rey Buffin está justo detrás de nosotros."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:876
 msgid "Nonono, not to Freetown! There is nothing worth seeing in Freetown!"
 msgstr ""
+"¡Nonono, no a Freetown! ¡No hay nada que valga la pena ver en Freetown!"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:877
@@ -12886,17 +12913,18 @@ msgid ""
 "Yes, there is definitely something worth seeing in that city. In fact, I "
 "can't wait to see her."
 msgstr ""
+"Sí, hay algo que realmente vale la pena ver en esa ciudad. De hecho, no "
+"puedo esperar a verla."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:878
-#, fuzzy
 msgid "Her?"
-msgstr "¡La encontré! ¡La encontré! ¡El Oráculo!"
+msgstr "¿Verla?"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:879
 msgid "Mother, I'll explain later. Let's go!"
-msgstr ""
+msgstr "Te lo explicaré más tarde, madre. ¡Vamos!"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:935
@@ -12904,13 +12932,15 @@ msgid ""
 "Gee, don't panic. That's only the vanguard of King Buffin's army. I assure "
 "you that we still have every opportunity to win."
 msgstr ""
+"Caramba, no entres en pánico. Esa es sólo la vanguardia del ejército del Rey "
+"Buffin. Os aseguro que todavía tenemos todas las oportunidades de ganar."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:987
 msgid ""
 "I have strange feeling of dejavu... Hey, $tmp, take care of yourself, would "
 "you? "
-msgstr ""
+msgstr "Tengo una extraña sensación de dejavu... Oye, $tmp, cuídate, ¿quieres?"
 
 #. [scenario]: id=16_Choosing_the_Best
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:48
@@ -15837,7 +15867,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:911
 msgid "Aaargh! I haven't avenged my family!"
-msgstr "¡Aaargh! ¡No he vengado a mi familia!"
+msgstr "¡Aaarg! ¡No he vengado a mi familia!"
 
 #. [event]: id=Grekulak_arrives
 #: A_New_Order/scenarios/27_Orannon.cfg:1098
