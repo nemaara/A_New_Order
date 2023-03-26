@@ -1,12 +1,13 @@
-Note: this file is outdated; see the bugtracker on GitHub instead 
+Note: this file is outdated; see the bugtracker on GitHub instead:
+https://github.com/nemaara/A_New_Order/issues
+
+Old Known Bugs:
 
 in scenario 4 Battle_of_Barnon, you can send Lorin and Reme west, and all the rest
 to the east, but still they are happily reunited in the next scenario.
 (at least there's code preventing Reme and Lorin from being separated like that)
 
-
-* In scenarios when you recall units to choose the best ones, if you withdraw your choice, it is still counted.
-* In "Orannon", the game did not end when I got Lady Lorin killed (this was after she had to return to the keep within 6 turns).
+* In "Orannon", the game did not end once when I (szopen) got Lady Lorin killed (this was after she had to return to the keep within 6 turns).
 
 wesnoth messages: 
 20120124 22:06:01 error ai/goal: bad value of protect_goal
