@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-04-01 02:55 UTC\n"
+"POT-Creation-Date: 2023-04-03 22:01 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11408,140 +11408,141 @@ msgid "Wait a minute. SHE'S your mother?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:152
+#. Gawen is about to introduce Karen next, so the person referred to by "and this is..." at the end is female:
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:153
 msgid "Yes, she is my mother... well, step-mother, actually. This is Lady Lorin. Mother, this is Ruvio, my friend, and this is..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:153
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:154
 msgid "Wait! How is it possible that you are still alive? You died at battle of Barnon, we've heard that, I've heard about that, I..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:154
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:155
 msgid "It was Ruvio who saved my life. He took my body from the battlefield and cared for me until I regained my health. This is his daughter, Karen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:155
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:156
 msgid "Wow... I just... Gawen, I'm so happy... these are the people who were caring for you, right? Underling, how can I reward you for saving my son's life?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:156
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:157
 msgid "This is getting more interesting with every moment. Dad, she was talking to you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:157
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:158
 msgid "Oh, and what a nice kid. I didn't know it was the custom among the underlings to give weapons to their children."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:158
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:159
 msgid "Nice to meet you, Lorin. You are quite good-looking for being Gawen's grandmother. You had to be quite a lass some forty or fifty winters ago."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:159
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:160
 msgid "Stop it!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:160
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:161
 msgid "Anyway, go to my castle, Gawen. Your servants will receive gold for helping you and then they may go, while we work on getting back your throne!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:161
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:162
 msgid "Hey, hey, I think must be some misunderstanding here. Gawen is our rightful king, and he has to reclaim his birthright. He's the king of Wesnoth."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:162
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:163
 msgid "Precisely! ...except that he is king of <u>Vakladia</u>. So, what do you want, underling, for saving my son's life? Speak quickly, for Gawen and I have a lot to do, and you are starting to get on my nerves... which is a dangerous thing to do."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:163
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:164
 msgid "Listen, woman, I want nothing from you. Gawen's not going anywhere with you. He is staying with us and he is going to unite Wesnoth and..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:164
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:165
 msgid "Stop it! Stop it both of you! I am not king. Not king of Vakladia! Not king of Wesnoth! And most definitely YOU WON'T DECIDE INSTEAD OF ME what should I do."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:165
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:166
 msgid "Now, we will go to the castle. My troops need to get some rest."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:166
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:167
 msgid "My son, your troops are already in the castle, and those underlings..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:167
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:168
 msgid "THESE are my troops. They have fought and bled alongside me. Don't call them underlings. After we ALL go to the castle, I want to ask you a few questions about the orcs. And then we will leave Haeltin. Mother, you are welcome to come with us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:168
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:169
 msgid "The orcs... well, did you know that they tried to take my castle? We defeated them. Would you believe that they were allied with Akladians?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:175
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:176
 msgid "Earlier, after the battle at Barnon, we spotted orcs in the hills. I got the chance to interrogate one of the Orcish leaders. He said that they were waiting for a human envoy, after burning Reme Carrenemoe friend's castle."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:184
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:185
 msgid "It seems that Bor Cryne has allied with orcs so as to be able to kill every Akladian who is not worthy to be a member of our race in Bor Cryne's eyes. That means every Akladian who has underling friends or an underling wife, or who ever even so much as looked at Cryne cross-eyed."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:193
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:194
 msgid "And what happened to Reme Carrenemoe?"
 msgstr ""
 
 #. [then]
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:194
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:195
 #: A_New_Order/scenarios/14b_Bontom.cfg:567
 #: A_New_Order/scenarios/14b_Bontom.cfg:616
 msgid "I have no idea."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:203
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:204
 msgid "You will soon meet an old friend. We were able to free Reme Carrenemoe. He was captured by enemies, and we found him close to death... We left him in our camp to recover."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:204
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:205
 msgid "(<i>whispering</i>) Old friend, my eye..."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:207
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:208
 msgid "I think you should know that Reme is alive too. We know that he is in enemy hands. I want to rescue him."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:208
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:209
 msgid "What for? He left me alone. Why not treat him the same way he treated me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:213
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:214
 msgid "So, I gather the seduction was a success? Or did I miss something? (<i>chuckle</i>) "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:214
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:215
 msgid "Because Majid Yahyazad joined you together with Lorin, you can now recruit warriors of the Dunefolk."
 msgstr ""
 
