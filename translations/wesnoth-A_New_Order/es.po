@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-03-04 23:18 UTC\n"
-"PO-Revision-Date: 2023-05-04 05:02+0200\n"
+"PO-Revision-Date: 2023-05-05 22:12+0200\n"
 "Last-Translator: Toranks <toranksmervat@gmail.com>\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -18887,18 +18887,19 @@ msgid ""
 "All right, Gawen, if you're sure about this, let's go ahead... I was only "
 "reminding you of the option to withdraw just in case..."
 msgstr ""
+"Muy bien, Gawen; si estás seguro de esto, adelante... Solo te recordaba la "
+"opción de retirarte por si acaso..."
 
 #. [then]
 #. EASY difficulty:
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:355
 msgid "See! The lizards have become sluggish from the cold!"
-msgstr ""
+msgstr "¡Mirad! ¡Las lagartijas se han vuelto perezosas por el frío!"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:375
-#, fuzzy
 msgid "Lizard thing... Uh... So... What do you know about orcs?"
-msgstr "¿Qué sabes sobre los orcos?"
+msgstr "Cosa lagarto... Hum... Entonces... ¿Qué sabes sobre los orcos?"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:376
@@ -18906,10 +18907,11 @@ msgid ""
 "Orcsss? They are big and bad and they are going around sssslaughtering "
 "humansss, which isss a good thing."
 msgstr ""
+"¿Orcosss? Son grandesss y malosss y andan matando humanosss, lo cual esss "
+"bueno."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:377
-#, fuzzy
 msgid ""
 "Ugh, you smell awful... do you not wash yourself on purpose, to scare away "
 "enemies? I can't think of any more questions in such a stench... so die, "
@@ -18921,19 +18923,20 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:384
-#, fuzzy
 msgid ""
 "You could simply have chosen not to kill him and allow us to ask him few "
 "questions instead; did such a revolutionary idea enter your mind?"
 msgstr ""
-"Podría simplemente haber optado por no matarle y permitirnos hacerle unas "
-"cuantas preguntas en su lugar; ¿se le pasó por la cabeza una idea tan "
+"Podrías simplemente haber optado por no matarle y así permitirnos hacerle "
+"unas cuantas preguntas; ¿se te pasó por la cabeza una idea tan "
 "revolucionaria?"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:385
 msgid "I think the ideas are too affraid of Lorin's mind to enter it."
 msgstr ""
+"Creo que las ideas le tienen demasiado miedo a la mente de Lorin para entrar "
+"en ella."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:391
@@ -18941,6 +18944,8 @@ msgid ""
 "Lizard, do you like your tail? If so, tell me everything you know about why "
 "orcs are in Vakladia, and do it fast."
 msgstr ""
+"Lagarto, ¿te gusta tu cola? Si es así, cuéntame todo lo que sepas sobre por "
+"qué los orcos están en Vakladia y hazlo rápido."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:392
@@ -18948,6 +18953,8 @@ msgid ""
 "Orcss creaturesss? They were invited here, by ssssome Akladian lordsss, "
 "that's all I know!"
 msgstr ""
+"¿Criaturasss orcasss? Fueron invitadosss aquí, por algunosss ssseñores "
+"akladianosss, ¡essso esss todo lo que sssé!"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:393
@@ -18955,11 +18962,13 @@ msgid ""
 "Think faster about something more, if you want to go to your lizard heaven "
 "in one piece!"
 msgstr ""
+"¡Piensa rápido en algo más, si quieres ir al cielo de los lagartos de una "
+"sola pieza!"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:394
 msgid "Lizard heaven? We do not have sssuch thing."
-msgstr ""
+msgstr "¿El cielo de losss lagartosss? No tenemosss tal cosa."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:395
@@ -18967,18 +18976,19 @@ msgid ""
 "Of course you don't, I know you are going straight to hell; that was a "
 "metaphor."
 msgstr ""
+"Por supuesto que no, sé que vas directo al infierno; eso fue una metáfora."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:396
-#, fuzzy
 msgid ""
 "No, no, I mean that our philosssophical sysstem doesn't employ such vague "
 "ideas as 'heaven' or 'hell'. Our thinking about the world, sssomething you "
 "call religion, isss much more ssssophissssticated. For example..."
 msgstr ""
-"No, no, quiero decir que nuestro sistema filosófico no emplea ideas tan "
-"vagas como \"cielo\" o \"infierno\". Nuestro pensamiento sobre el mundo, "
-"algo que ustedes llaman religión, es mucho más sofisticado. Por ejemplo..."
+"No, no, quiero decir que nuessstro sissstema filosófico no emplea ideasss "
+"tan vagasss como \"cielo\" o \"infierno\". Nuestro pensamiento sobre el "
+"mundo, lo que ustedesss llaman religión, es mucho másss sofisssticado. Por "
+"ejemplo..."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:402
@@ -18986,18 +18996,21 @@ msgid ""
 "Off with your head! Surely he looks much less sophisticated without his "
 "head, doesn't he?"
 msgstr ""
+"¡Fuera esa cabeza! Seguramente se ve mucho menos sofisticado sin su cabeza, "
+"¿no?"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:403
 msgid ""
 "Ah, I like tough girls. Tell me, Lorin, do you sleep with your sword, too?"
 msgstr ""
+"Ah, me gustan las chicas duras. Dime, Lorin, ¿tú también duermes con tu "
+"espada?"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:409
-#, fuzzy
 msgid "Do we know each other?"
-msgstr "¿Os conocéis?"
+msgstr "¿Nos conocemos?"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:410
@@ -19005,34 +19018,39 @@ msgid ""
 "We met before, lady thing... I wass wounded but I sssurvived. It wasss a "
 "hope I had I wouldn't see your feissssse again..."
 msgstr ""
+"Nosss conocimosss antes, cosa señora... Essstuve herido pero sobreviví. "
+"Tenía la esssperanza de no volver a ver tu fasss..."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:411
 msgid ""
 "My what? Anyway, whatever, you will tell me everything you know about orcs."
 msgstr ""
+"¿Mi qué? De todos modos, como sea, me dirás todo lo que sabes sobre los "
+"orcos."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:413
 msgid "You will tell me everything you know about orcs."
-msgstr ""
+msgstr "Me contarás todo lo que sepas sobre los orcos."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:416
-#, fuzzy
 msgid ""
 "And I thought this day sssstarted ssssuch beautifully... What orcs? They "
 "have two legssss, two handsss, what'sss more do you want to know? Being "
 "Akladian you ssshould know them better..."
 msgstr ""
-"Y yo que creía que este día empezaba tan bonito... ¿Qué orcos? Tienen dos "
-"pataass, dos manoss, ¿qué más quieres saber? Siendo Akladian deberías "
-"conocerlos mejor..."
+"Y yo que creía que essste día empezaba tan bonito... ¿Qué orcosss? Tienen "
+"dos patasss, dos manosss, ¿qué másss quieresss saber? Sssiendo akladiana "
+"deberías conocerlosss mejor..."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:418
 msgid "Aren't you allied now? Which issss quite natural for you, isssn't it?"
 msgstr ""
+"¿No soisss aliadosss ahora? Lo cual esss bassstante natural para ti, ¿no "
+"esss cierto?"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:419
@@ -19040,19 +19058,18 @@ msgid ""
 "We? No, not really. I guess you don't know nothing really important. Go to "
 "your ancestors, lizard!"
 msgstr ""
+"¿Nosotros? No, en realidad no. Supongo que no sabes nada realmente "
+"importante. ¡Vete con tus antepasados, lagarto!"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:420
 msgid "Thank you! Ssso you will sssave my life?"
-msgstr ""
+msgstr "¡Graciasss! ¿Asssí que me salvarásss la vida?"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:421
-#, fuzzy
 msgid "Uh, what?"
-msgstr ""
-"Uhmmm.. debo investigarlo, ¿derecho? Para que... Uhmm.. ¿Que tienes para "
-"comer en el desayuno?"
+msgstr "¿Huh, qué?"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:422
@@ -19060,75 +19077,76 @@ msgid ""
 "You are allowing me to leave, so I could go to my ancestors... some of them "
 "live quite near thisss place..."
 msgstr ""
+"Me estásss permitiendo marchar para poder ir con misss antepasadosss... "
+"algunosss de ellos viven bastante cerca de essste lugar..."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:423
-#, fuzzy
 msgid ""
 "I think you are confused... But all of a sudden I have lost my natural urge "
 "to cut your head off. Maybe I am confused, but go away now before I change "
 "my mind."
 msgstr ""
 "Creo que estás confundido... Pero de repente he perdido mi impulso natural "
-"de cortarte la cabeza. Tal vez estoy confundido, pero vete ahora antes de "
-"que cambie de opinión."
+"de cortarte la cabeza. Tal vez soy yo la que está confundida, pero vete "
+"ahora antes de que cambie de opinión."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:428
-#, fuzzy
 msgid "You will allow me to live! And you will be sspared!"
-msgstr "Le permitiré vivir, si me dice algunas cosas."
+msgstr "¡Me permitirásss vivir! ¡Y te sssalvarás!"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:429
-#, fuzzy
 msgid ""
 "Uh, what? I think your command of human language is quite limited. How on "
 "earth do you think you will sssspare me?"
 msgstr ""
 "¿Qué? Creo que tu dominio del lenguaje humano es bastante limitado. ¿Cómo "
-"diablos crees que vas a sssspararme?"
+"diablos crees que vas a sssalvarme?"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:431
 msgid ""
 "Maybe he was thinking about about some other word. Uhmmm, for example..."
-msgstr ""
+msgstr "Tal vez estaba pensando en alguna otra palabra. Hummm, por ejemplo..."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:432
 msgid "Majid, do you really want to explore the depths of my patience?"
-msgstr ""
+msgstr "Majid, ¿realmente quieres explorar la profundidad de mi paciencia?"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:433
 msgid ""
 "Majid! So you are familiar enough with me now to remember my first name!"
 msgstr ""
+"¡Majid! ¡Así que soy lo bastante familiar para ti como para recordar mi "
+"primer nombre!"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:435
 msgid ""
 "Iff you will kill me, other lizardss will find you and sssslain you and..."
-msgstr ""
+msgstr "Si me matasss, otrosss lagartosss te encontrarán y te matarán y..."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:436
 msgid ""
 "Then again, again, maybe he was thinking about another word, for example..."
 msgstr ""
+"Entonces otra vez, de nuevo, tal vez estaba pensando en otra palabra, por "
+"ejemplo..."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:437
-#, fuzzy
 msgid "Aaaaaargh!"
-msgstr "Aaaargh!!"
+msgstr "¡Aaaaaarg!"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:443
-#, fuzzy
 msgid "I hate empty threats."
-msgstr "¡Odio a los tritones!"
+msgstr "Odio las amenazas vacías."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:451
@@ -19136,79 +19154,71 @@ msgid ""
 "Ha! We're off to an easy start! See, I told you that lizards are much less "
 "dangerous in the winter. This will be a nice occasion to train our troops."
 msgstr ""
+"¡Ja! ¡Hemos tenido un fácil comienzo! Ves, te dije que las lagartijas son "
+"mucho menos peligrosas en el invierno. Esta será una buena ocasión para "
+"entrenar a nuestras tropas."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:502
 msgid "Fighting with lizards here is waste of time. Retreat!"
-msgstr ""
+msgstr "Pelear con los lagartos aquí es una pérdida de tiempo. ¡Retirada!"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:518
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:535
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:552
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:569
-#, fuzzy
 msgid "Ha! The lizards were hiding some gold here!"
-msgstr "¡Ha! ¡Los bandidos estaban escondiendo algo de oro aquí!"
+msgstr "¡Ja! ¡Los largartos estaban escondiendo algo de oro aquí!"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:519
-#, fuzzy
 msgid "You have received $gold_amt_1 gold pieces."
-msgstr "Ha recibido 100 piezas de oro"
+msgstr "Has recibido $gold_amt_1 piezas de oro"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:536
-#, fuzzy
 msgid "You have received $gold_amt_2 gold pieces."
-msgstr "Ha recibido 40 piezas de oro"
+msgstr "Has recibido $gold_amt_2 piezas de oro"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:553
-#, fuzzy
 msgid "You have received $gold_amt_3 gold pieces."
-msgstr "Ha recibido 40 piezas de oro"
+msgstr "Has recibido $gold_amt_3 piezas de oro"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:570
-#, fuzzy
 msgid "You have received $gold_amt_4 gold pieces."
-msgstr "Ha recibido 40 piezas de oro"
+msgstr "Has recibido $gold_amt_4 piezas de oro"
 
 #. [event]
 #. EASY difficulty:
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:586
 msgid "There appears to be a path through the snow here!"
-msgstr ""
+msgstr "¡Parece que hay un camino a través de la nieve aquí!"
 
 #. [event]
 #. NORMAL difficulty; condition to trigger is a bit harder than the one from EASY:
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:605
 msgid "My fight with that lizard revealed a path through the snow here!"
-msgstr ""
+msgstr "¡Mi pelea con ese lagarto reveló un camino a través de la nieve aquí!"
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:778
-#, fuzzy
 msgid ""
 "Oh no! New reinforcements have arrived to help our enemies, now we have no "
 "chance to defeat them!"
 msgstr ""
-"¡Todo está perdido! ¡Llegaron los refuerzos de nuestros enemigos! ¡No "
-"tenemos ninguna oportunidad de ganar!"
+"¡Oh, no! Han llegado nuevos refuerzos para ayudar a nuestros enemigos, "
+"¡ahora no tenemos posibilidad de derrotarlos!"
 
 #. [scenario]: id=11_Council_in_Freetown
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:3
-#, fuzzy
 msgid "Council in Freetown"
-msgstr ""
-"Supuse que no teníamos suficiente oro para lograr la tarea que nos espera. "
-"Por eso pedí ayuda a los otros del concejo de Freetown y estuvieron de "
-"acuerdo. Ahora tenemos 200 piezas de oro"
+msgstr "Consejo en Freetown"
 
 #. [part]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:17
-#, fuzzy
 msgid ""
 "The day was bright when Gawen Hagarthen entered the forests of Raedwood. "
 "There, inside the very heart of the forest, lay the city of Freetown, "
@@ -19218,9 +19228,9 @@ msgid ""
 msgstr ""
 "El día era luminoso cuando Gawen Hagarthen se adentró en los bosques de "
 "Raedwood. Allí, en el mismo corazón del bosque, se encontraba la ciudad de "
-"Freetown, fundada por refugiados de tierras bajo el pesado yugo akladiano. "
-"La vida no era fácil aquí, la comida escaseaba y, sin embargo, a menudo se "
-"veían sonrisas en los rostros de hombres y mujeres."
+"Freetown, fundada por refugiados de las tierras bajo el pesado yugo "
+"akladiano. La vida no era fácil aquí, la comida escaseaba y, sin embargo, a "
+"menudo se veían sonrisas en los rostros de hombres y mujeres."
 
 #. [part]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:20
@@ -19231,11 +19241,18 @@ msgid ""
 "he thought. Messengers waited for Ruvio, asking him to come to the meeting "
 "of the Freetown leaders. "
 msgstr ""
+"Karen dijo que se podía oler la libertad en el aire. Sin embargo, Gawen no "
+"olía nada fuera de lo común... sólo el aroma de la carne asada al fuego. "
+"\"Tal vez no sea propio de la realeza oler la libertad\", pensó. Los "
+"mensajeros esperaban a Ruvio, pidiéndole que acudiera a la reunión de los "
+"líderes de Freetown."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:208
 msgid "Welcome back to Freetown, Ruvio. You are just in time for our meeting."
 msgstr ""
+"Bienvenido de nuevo a Freetown, Ruvio. Llegas justo a tiempo para nuestra "
+"reunión."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:209
@@ -19243,11 +19260,13 @@ msgid ""
 "We also welcome your daughter. Karen, I would order you to leave this "
 "meeting and go to your mother..."
 msgstr ""
+"También le damos la bienvenida a tu hija. Karen, te ordenaría que "
+"abandonases esta reunión y fueras con tu madre..."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:210
 msgid "...but you know that you would only waste your breath."
-msgstr ""
+msgstr "...pero sabes que sólo desperdiciarías tu aliento."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:211
@@ -19255,6 +19274,9 @@ msgid ""
 "We've heard that you have battled and defeated both Akladians and Outlaws. "
 "Accept our congratulations, Ruvio. But who is this young man, your companion?"
 msgstr ""
+"Hemos oído que has luchado y derrotado tanto a akladianos como forajidos. "
+"Acepta nuestras felicitaciones, Ruvio. Pero, ¿quién es este joven, tu "
+"compañero?"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:212
@@ -19262,29 +19284,23 @@ msgid ""
 "I participated in the battles you have mentioned, but someone else should be "
 "credited for the victory. We were commanded by this young man."
 msgstr ""
+"Participé en las batallas que has mencionado, pero la victoria debe "
+"atribuirse a otra persona. Estábamos comandados por este joven."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:213
-#, fuzzy
 msgid "And his name is...?"
-msgstr ""
-"¿Queréis ver como huyen todas las criaturas mágicas de Tar-Tabar en cuanto "
-"oigan su nombre?"
+msgstr "¿Y su nombre es...?"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:214
-#, fuzzy
 msgid "Gaumhaldric."
-msgstr ""
-"Lo siento padre. No podía perder la oportunidad de ver cómo nuestro futuro "
-"gran rey hace grandes cosas heroical, con el estilo que solo los futuros "
-"grandes reyes tienen. ¿No le importa, no lo haga - Gaumhaldric?"
+msgstr "Gaumhaldric."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:215
-#, fuzzy
 msgid "(<i>grumbling</i>) I hate you."
-msgstr "Ugh, odio a los humanos."
+msgstr "(<i>quejándose</i>) Te odio."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:216
@@ -19292,15 +19308,16 @@ msgid ""
 "But now, he must leave. We have very important and secret things to talk "
 "upon."
 msgstr ""
+"Pero ahora, debe irse. Tenemos cosas muy importantes y secretas de las que "
+"hablar."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:217
 msgid "He has my full trust. He stays."
-msgstr ""
+msgstr "Tiene toda mi confianza. Se queda."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:218
-#, fuzzy
 msgid ""
 "So be it. Let's greet our honorable guest, Mithrandil of the northern Elves. "
 "He has made a long journey here and he bears important news."
@@ -19310,7 +19327,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:219
-#, fuzzy
 msgid ""
 "My respect and best wishes for everyone in this free city. I hope you will "
 "forgive me for dispensing with the formalities of a long traditional speech. "
@@ -19329,17 +19345,19 @@ msgid ""
 "No! That impossible! How that could possibly happened? They would have had "
 "to cross through the free realms of the north, and..."
 msgstr ""
+"¡No! ¡Eso es imposible! ¿Cómo podría haber ocurrido? Habrían tenido que "
+"cruzar a través de los reinos libres del norte, y..."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:221
 msgid ""
 "Mithrandil speaks the truth, Huon. You have not seen the reports I've gotten."
 msgstr ""
+"Mithrandil dice la verdad, Huon. No has visto los informes que he recibido."
 
 #. [event]
 #. presumably the "queen whose name I will not utter" is Asheviere:
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:223
-#, fuzzy
 msgid ""
 "They indeed crossed the free realms of the north. The relations among humans "
 "are none of my business. Also, I will pretend that I have not noticed that "
@@ -19353,7 +19371,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:224
-#, fuzzy
 msgid ""
 "According to what we have gathered, their presence is due to internal strife "
 "amongst the Akladians. If Akladians are slaughtering each other, even if "
@@ -19365,7 +19382,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:225
-#, fuzzy
 msgid ""
 "We elves believe that this is more than just an Orcish invasion and quarrels "
 "between Akladians. Something greater, something evil, is hiding behind this. "
@@ -19375,7 +19391,7 @@ msgid ""
 "our suspicions, but we want to be sure."
 msgstr ""
 "Los elfos creemos que esto es algo más que una invasión orca y peleas entre "
-"akladios. Algo más grande, algo maligno, se esconde detrás de esto. Lo que "
+"akladianos. Algo más grande, algo maligno, se esconde detrás de esto. Lo que "
 "es, no lo sabemos. He venido aquí para advertiros, para ayudaros y pediros "
 "ayuda. Necesitamos que averigües la verdadera razón por la que el ejército "
 "orco está aquí. También necesitamos descubrir quién se esconde detrás de la "
@@ -19383,14 +19399,13 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:226
-#, fuzzy
 msgid ""
 "We respect the wisdom of the Elves, and we will fulfill your request. We "
 "will send two armies to catch Orcish leaders and investigate them. One will "
 "be led by Ruvio, second by Huon. Agreed?"
 msgstr ""
-"Respetamos la sabiduría de los Elfos, y cumpliremos su petición. Enviaremos "
-"dos ejércitos para atrapar a los líderes Orcos e investigarlos. Uno será "
+"Respetamos la sabiduría de los elfos, y cumpliremos su petición. Enviaremos "
+"dos ejércitos para atrapar a los líderes orcos e investigarlos. Uno será "
 "liderado por Ruvio, el segundo por Huon. ¿De acuerdo?"
 
 #. [event]
@@ -19399,31 +19414,30 @@ msgid ""
 "I must insist on one slight change, Gwidle. My army will be led by this "
 "young man ... Gaumhaldric."
 msgstr ""
+"Debo insistir en un ligero cambio, Gwidle. Mi ejército será liderado por "
+"este joven... Gaumhaldric."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:228
-#, fuzzy
 msgid ""
 "I will join Huon with part of my escort, I will gave the rest of them to "
 "Ruv... er... to Gah - uhm - haldreeck. My finest archer, my best captain, "
 "two fighters and another archer. In addition, would you prefer to get a "
 "Scout or Shaman?"
 msgstr ""
-"Me uniré a Huon con parte de mi escolta, el resto se lo daré a Ruv... er... "
-"a Gah - uhm - haldreeck. Mi mejor arquero, mi mejor capitán, dos cazas y "
-"otro arquero. Además, ¿prefieres un explorador o un chamán?"
+"Me uniré a Huon con parte de mi escolta, el resto se lo daré a Ruv... eh... "
+"a Gah - uhm - haldriick. Mi mejor arquero, mi mejor capitán, dos luchadores "
+"y otro arquero. Además, ¿prefieres un explorador o una chamana?"
 
 #. [message]: speaker=Gawen Hagarthen
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:232
-#, fuzzy
 msgid "I think that..."
-msgstr "Creo... creo que están intentando atacar Halstead... ¡estúpidos!"
+msgstr "Creo que..."
 
 #. [option]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:234
-#, fuzzy
 msgid "A Shaman would be great."
-msgstr "Chaman + Mensajero"
+msgstr "Una chamana sería genial."
 
 #. [unit]: type=Elvish Shaman, id=Kyobaine
 #. [unit]: type=Elvish Scout, id=Kyobaine
@@ -19434,54 +19448,47 @@ msgstr "Chaman + Mensajero"
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:276
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:293
 msgid "Kyobaine"
-msgstr ""
+msgstr "Kyobaine"
 
 #. [option]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:250
-#, fuzzy
 msgid "A Scout could be useful."
-msgstr "¡Esplendido! Estos pájaros podrían ser muy útiles."
+msgstr "Un explorador podría ser útil."
 
 #. [option]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:271
-#, fuzzy
 msgid "No, I think I would want more fighters."
-msgstr "Yo querría tener más oro"
+msgstr "No, creo que querría más luchadores."
 
 #. [option]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:288
 msgid "Actually I would like to have one more archer."
-msgstr ""
+msgstr "En realidad me gustaría tener un arquero más."
 
 #. [unit]: type=Elvish Ranger, id=Elorain
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:318
-#, fuzzy
 msgid "Elorain"
-msgstr "¡Ah! $ano_elorain_$random"
+msgstr "Elorain"
 
 #. [unit]: type=Elvish Captain, id=Milildur
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:347
-#, fuzzy
 msgid "Milildur"
-msgstr "¡Ah! $ano_milildur_$random"
+msgstr "Milildur"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:371
-#, fuzzy
 msgid "It will be an honor to fight for you, Gaumhaldric."
-msgstr "Es un honor conoceros, Tallin."
+msgstr "Será un honor luchar por vos, Gaumhaldric."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:372
-#, fuzzy
 msgid "Your enemies are mine."
-msgstr "¡Tu alma es ahora mía!"
+msgstr "Tus enemigos son los míos."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:373
-#, fuzzy
 msgid "The honor is mine."
-msgstr "El honor es mío, señor."
+msgstr "El honor es mío."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:374
@@ -19489,47 +19496,44 @@ msgid ""
 "Karen, you will stay here, with mother and sisters. It's too dangerous for "
 "you."
 msgstr ""
+"Karen, te quedarás aquí, con tu madre y tus hermanas. Es demasiado peligroso "
+"para ti."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:375
-#, fuzzy
 msgid "Of courrrrse I will."
-msgstr "<i>¡SSSS!</i>"
+msgstr "Porrrr supuesto que lo haré."
 
 #. [unit]: type=Elvish Archer, id=Arweena
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:380
 msgid "Arweena"
-msgstr ""
+msgstr "Arweena"
 
 #. [unit]: type=Elvish Fighter, id=Giombor
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:389
-#, fuzzy
 msgid "Giombor"
 msgstr "Giombor"
 
 #. [unit]: type=Elvish Fighter, id=Urandil
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:398
 msgid "Urandil"
-msgstr ""
+msgstr "Urandil"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:419
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:429
-#, fuzzy
 msgid "Another one bites the dust."
-msgstr "Probablemente otro de los experimentos de Malifor."
+msgstr "Otro que muerde el polvo."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:420
-#, fuzzy
 msgid "My arrows never miss!"
-msgstr "¡Nunca en mi vida o después de la vida!"
+msgstr "¡Mis flechas nunca fallan!"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:421
-#, fuzzy
 msgid "My lord, I bet you are impressed!"
-msgstr "¡Kalenz, mi señor, al fin os encuentro!"
+msgstr "¡Mi señor, apuesto a que está impresionado!"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:422
@@ -19537,89 +19541,85 @@ msgid ""
 "Akladians, orcs, lizards, and all others - when facing mighty Elorain, their "
 "fate is always the same!"
 msgstr ""
+"Akladianos, orcos, lagartos y todos los demás: cuando se enfrentan a la "
+"poderosa Elorain, ¡su destino es siempre el mismo!"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:423
 msgid "No man or woman may oppose me when I have a bow or sword!"
 msgstr ""
+"¡Ningún hombre o mujer puede oponerse a mí cuando tengo un arco o una espada!"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:424
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:434
-#, fuzzy
 msgid "Straight into your heart!"
-msgstr "Con un corazón"
+msgstr "¡Directo a tu corazón!"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:425
-#, fuzzy
 msgid "Eat this!"
-msgstr ""
-"¡Urgh! Grugl intentó comer enanos, pero se atragantó con sus peligrosas "
-"hachas afiladas."
+msgstr "¡Cómete esta!"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:426
 msgid "I always shoot to kill. No need to remind me."
-msgstr ""
+msgstr "Siempre tiro a matar. No hace falta que me lo recuerdes."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:427
 msgid "I stopped counting killed enemies when I turned 50."
-msgstr ""
+msgstr "Dejé de contar los enemigos muertos al llegar a 50."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:428
 msgid "Sword or Bow, who is better than me?"
-msgstr ""
+msgstr "Espada o arco, ¿quién es mejor que yo?"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:430
-#, fuzzy
 msgid "For honour, in the name of Eloh!"
-msgstr "Eloh"
+msgstr "¡Por honor, en el nombre de Eloh!"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:431
-#, fuzzy
 msgid "Strength and honour!"
-msgstr "Poción de fortaleza"
+msgstr "¡Fuerza y honor!"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:432
 msgid "First kill this day."
-msgstr ""
+msgstr "Primera muerte del día."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:433
 msgid "Death is my companion, she walks wherever I may roam."
-msgstr ""
+msgstr "La muerte es mi compañera, camina por donde yo ando."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:435
 msgid "Killing without hate, dying without fear!"
-msgstr ""
+msgstr "¡Matar sin odio, morir sin miedo!"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:436
 msgid "This is the fate which will come to all our enemies."
-msgstr ""
+msgstr "Este es el destino que vendrá a todos nuestros enemigos."
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:437
 msgid "My sword and my honour, two unbreakable things!"
-msgstr ""
+msgstr "¡Mi espada y mi honor, dos cosas inquebrantables!"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:438
-#, fuzzy
 msgid "Death to our enemies!"
-msgstr "Muerte de Karen"
+msgstr "¡Muerte a nuestros enemigos!"
 
 #. [event]
 #: A_New_Order/scenarios/23d_Trapped.cfg:18
 msgid "Stop there! Foul underlings, your life is at an end!"
-msgstr ""
+msgstr "¡Deteneos ahí! Asquerosos plebeyos, ¡vuestra vida ha llegado a su fin!"
 
 #. [event]
 #: A_New_Order/scenarios/23d_Trapped.cfg:20
@@ -19627,12 +19627,12 @@ msgid ""
 "Noble lord, what's the punishment for saying things like that to your "
 "rightful king?"
 msgstr ""
+"Noble señor, ¿cuál es el castigo por decir cosas así a tu legítimo rey?"
 
 #. [event]
 #: A_New_Order/scenarios/23d_Trapped.cfg:21
-#, fuzzy
 msgid "My king? Ha, ha, and where is he?"
-msgstr "¿Mi rey? Ha, ha que cómico.. Yo no tengo ningún rey..."
+msgstr "¿Mi rey? Ja, ja, ¿y dónde está?"
 
 #. [event]
 #: A_New_Order/scenarios/23d_Trapped.cfg:24
@@ -19640,10 +19640,11 @@ msgid ""
 "He is here. Gawen Haldric Hagarthen. Together with his mother and with me, "
 "Reme Carrenemoe."
 msgstr ""
+"Él está aquí. Gawen Haldric Hagarthen. Junto a su madre y conmigo, Reme "
+"Carrenemoe."
 
 #. [event]
 #: A_New_Order/scenarios/23d_Trapped.cfg:25
-#, fuzzy
 msgid ""
 "My God! Indeed, this is the noble Reme, and he wouldn't possibly lie! So "
 "this is indeed... Gawen Hagarthen, our king! My sword is your sword, my lord!"
@@ -19658,18 +19659,19 @@ msgid ""
 "(<i>sigh</i>) Well, I am. King Gawen Haldric Hagarthen. Rightful heir to the "
 "thrones of Vakladia et cetera, et cetera."
 msgstr ""
+"(<i>suspiro</i>) Bueno, lo soy. Rey Gawen Haldric Hagarthen. Heredero "
+"legítimo de los tronos de Vakladia, etcétera, etcétera."
 
 #. [event]
 #: A_New_Order/scenarios/23d_Trapped.cfg:35
-#, fuzzy
 msgid ""
 "I've heard that... one of the lords from Harnen's clan was saying that you "
 "are alive... so... then... I guess my sword and my life belong to you, my "
 "king!"
 msgstr ""
-"He oído que... uno de los señores del clan de Harnen decía que estás vivo... "
-"así que... entonces... ¡Supongo que mi espada y mi vida te pertenecen, mi "
-"rey!"
+"He oído que... uno de los señores del clan de Harnen decía que estaba "
+"vivo... así que... entonces... ¡Supongo que mi espada y mi vida le "
+"pertenecen, mi rey!"
 
 #. [event]
 #: A_New_Order/scenarios/23d_Trapped.cfg:43
@@ -19677,6 +19679,8 @@ msgid ""
 "Really? I haven't heard anything about you being alive! You must be lying! I "
 "don't believe you!"
 msgstr ""
+"¿Seguro? ¡No he oído nada acerca de que continuara vivo! ¡Debes estar "
+"mintiendo! ¡No te creo!"
 
 #. [event]
 #. FIXME: the opposite of "spared" isn't necessarily "killed"; it could also be "ignored entirely" (if Gawen just escaped in S17):
@@ -19685,12 +19689,13 @@ msgid ""
 "If you were truly Gawen Hagarthen, you wouldn't have killed so many of my "
 "fellow Akladian Lords!"
 msgstr ""
+"¡Si realmente fueras Gawen Hagarthen, no habrías matado a tantos de mis "
+"compañeros señores de Akladia!"
 
 #. [scenario]: id=18_Start_of_the_Quest
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:3
-#, fuzzy
 msgid "Start of the Quest"
-msgstr "Entonces, ¿una tarea para cada uno de nosotros?"
+msgstr "Comienzo de la misión"
 
 #. [part]
 #. spoken by Gawen
@@ -19700,6 +19705,10 @@ msgid ""
 "signs of chaos and war everywhere: burned villages, refugees, bodies of the "
 "dead. In villages people were scared and tried to avoid talking with us."
 msgstr ""
+"Salimos de Raedwood y entramos en las llanuras al sureste del bosque. "
+"Veíamos signos del caos y la guerra en todas partes: pueblos quemados, "
+"refugiados, cuerpos muertos. En las aldeas la gente tenía miedo y trataba de "
+"evitar hablar con nosotros."
 
 #. [part]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:26
@@ -19710,6 +19719,11 @@ msgid ""
 "sometimes the difference was just in name - were roaming the land unchecked. "
 "Hard times were ahead."
 msgstr ""
+"Por lo que pudimos averiguar, los akladianos de Vakladia estaban luchando "
+"entre sí. Bor Cryne y su facción fueron ganando lenta pero constantemente "
+"una ventaja, gracias a la ayuda de los orcos. Bandidos y rebeldes (a veces "
+"la diferencia era solo de nombre) vagaban por la tierra sin control. Se "
+"avecinaban tiempos difíciles."
 
 #. [part]
 #. spoken by Gawen
@@ -19721,78 +19735,77 @@ msgid ""
 "categorically refused to talk about it became much more withdrawn, as though "
 "she was keeping a weighty matter to herself."
 msgstr ""
+"No estaba muy contento con los resultados de nuestra visita al Oráculo. "
+"Ninguna de sus \"respuestas\" me satisfizo. Todavía no teníamos idea de "
+"dónde buscar a Deorien, y el intercambio entre Lorin y el Oráculo me "
+"confundió aún más. Lorin se negó categóricamente a hablar de ello y se "
+"volvió mucho más retraída, como si estuviera guardando un asunto de peso "
+"para sí misma."
 
 #. [scenario]: id=18_Start_of_the_Quest
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:74
-#, fuzzy
 msgid "Burton's wood"
-msgstr "Bosque del viento oeste"
+msgstr "Leñera de Burton"
 
 #. [scenario]: id=18_Start_of_the_Quest
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:75
 msgid "Horsemills"
-msgstr ""
+msgstr "Horsemills"
 
 #. [scenario]: id=18_Start_of_the_Quest
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:76
 msgid "Porkton"
-msgstr ""
+msgstr "Porkton"
 
 #. [scenario]: id=18_Start_of_the_Quest
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:77
 msgid "Laville"
-msgstr ""
+msgstr "Laville"
 
 #. [scenario]: id=18_Start_of_the_Quest
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:78
-#, fuzzy
 msgid "To the Oracle"
-msgstr "El Oráculo"
+msgstr "Al Oráculo"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:149
-#, fuzzy
 msgid "So, should we go to the Oracle?"
-msgstr "Entonces, ¿debemos entrar en este Bontom?"
+msgstr "Entonces, ¿deberíamos ir al Oráculo?"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:159
-#, fuzzy
 msgid "My lord, we already visited the Oracle."
-msgstr "Ya luchamos con los bandidos de Bontom, mi señor."
+msgstr "Mi señor, ya visitamos el Oráculo."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:168
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:192
 msgid "My lord, I really insist we visit the Oracle first."
-msgstr ""
+msgstr "Mi señor, realmente insisto en que visitemos primero el Oráculo."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:169
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:193
-#, fuzzy
 msgid "Well, I think that..."
-msgstr ""
-"Bueno, creo que conozco lo básico. ¡Vamos! ¿Puedo continuar luchando en una "
-"batalla real?"
+msgstr "Bueno, creo que..."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:170
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:194
 msgid "I already know where Deorien may be."
-msgstr ""
+msgstr "Ya sé dónde puede estar Deorien."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:171
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:195
-#, fuzzy
 msgid "You are right. Let's go to the Oracle first."
-msgstr "Yo sugiero ir al Oráculo."
+msgstr "Tienes razón. Vayamos primero al Oráculo."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:173
 msgid "So, should we pick the route to Okladia that goes through the hills?"
 msgstr ""
+"Entonces, ¿deberíamos elegir la ruta a Okladia que atraviesa las colinas?"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:179
@@ -19802,6 +19815,9 @@ msgid ""
 "in the past, or don't care much about the story. If you do not fall in "
 "either category, consider reloading."
 msgstr ""
+"Esta opción está destinada principalmente a los jugadores que ya jugaron 'Un "
+"Nuevo Orden' en el pasado, o que no les importa mucho la historia. Si no "
+"perteneces a ninguna de las categorías, considera volver a cargar."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:181
@@ -19810,11 +19826,15 @@ msgid ""
 "could have taken a different path through the woods to get to Okladia "
 "instead, but it is too late for that now!"
 msgstr ""
+"Muy bien, tomaremos el camino a través de las colinas hasta Okladia. Ten en "
+"cuenta que podríamos haber tomado un camino diferente a través del bosque "
+"para llegar a Okladia, ¡pero ya es demasiado tarde para eso!"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:197
 msgid "So, should we pick the route to Okladia that goes through the woods?"
 msgstr ""
+"Entonces, ¿deberíamos elegir la ruta a Okladia que atraviesa el bosque?"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:205
@@ -19823,16 +19843,19 @@ msgid ""
 "could have taken a different path through the hills to get to Okladia "
 "instead, but it is too late for that now!"
 msgstr ""
+"Muy bien, tomaremos el camino a través del bosque hasta Okladia. Ten en "
+"cuenta que podríamos haber tomado un camino diferente a través de las "
+"colinas para llegar a Okladia, ¡pero ya es demasiado tarde para eso!"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:216
 msgid "Welcome to our village, noble travelers."
-msgstr ""
+msgstr "Bienvenidos a nuestro pueblo, nobles viajeros."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:217
 msgid "We are freedom fighters searching for the mage Deorien."
-msgstr ""
+msgstr "Somos luchadores por la libertad en busca del mago Deorien."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:218
@@ -19840,71 +19863,68 @@ msgid ""
 "Freedom fighters? Yeah, sure... Just, please, do not fight for freedom here. "
 "We are honest, hardworking people."
 msgstr ""
+"¿Luchadores por la libertad? Sí, claro... Sólo, por favor, no luchen por la "
+"libertad aquí. Somos personas honestas y trabajadoras."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:224
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:313
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:375
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:486
-#, fuzzy
 msgid "Do you know where the Oracle lives?"
-msgstr "¿Sabes dónde está el gran mago Deorien?"
+msgstr "¿Sabes dónde vive el Oráculo?"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:230
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:381
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:492
-#, fuzzy
 msgid "Why anyone would want to fight for you?"
-msgstr "Yo querría tener más oro"
+msgstr "¿Por qué alguien querría luchar por ti?"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:233
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:383
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:494
 msgid "You have a chance to fight for your freedom."
-msgstr ""
+msgstr "Tienes la oportunidad de luchar por tu libertad."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:234
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:384
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:495
 msgid "I may be your future king."
-msgstr ""
+msgstr "Podría ser tu futuro rey."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:235
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:385
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:496
 msgid "In my army you may change your lot."
-msgstr ""
+msgstr "En mi ejército puedes cambiar tu suerte."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:236
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:386
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:497
-#, fuzzy
 msgid "Why not?"
-msgstr "¿Pero por qué? ¿Y cuándo?"
+msgstr "¿Por qué no?"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:238
-#, fuzzy
 msgid "In this forest, we are free already."
-msgstr "El Señor Liche ya está libre."
+msgstr "En este bosque, ya somos libres."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:240
 msgid "No kidding. I mean, no kidding, your Majesty."
-msgstr ""
+msgstr "No es broma. Quiero decir, no es broma, su Majestad."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:242
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:438
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:524
-#, fuzzy
 msgid "Change my lot? What do you mean?"
-msgstr "¿Milagro? ¿Qué quieres decir?"
+msgstr "¿Cambiar mi suerte? ¿Qué quieres decir?"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:243
@@ -19914,6 +19934,8 @@ msgid ""
 "Well, you know, you may earn some gold, and if you are lucky, you may even "
 "became a knight."
 msgstr ""
+"Bueno, ya sabes, puedes ganar algo de oro, y si tienes suerte, incluso "
+"puedes convertirte en un caballero."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:244
@@ -19921,6 +19943,8 @@ msgid ""
 "A knight? Ha, ha, I thought you were serious. There are only archers in this "
 "village."
 msgstr ""
+"¿Un caballero? Ja, ja, pensé que hablabas en serio. Solo hay arqueros en "
+"este pueblo."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:245
@@ -19928,6 +19952,8 @@ msgid ""
 "The best archers earn 45 gold pieces when hired, and twenty gold pieces for "
 "each battle."
 msgstr ""
+"Los mejores arqueros ganan 45 piezas de oro cuando son contratados, y veinte "
+"piezas de oro por cada batalla."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:246
@@ -19935,6 +19961,8 @@ msgid ""
 "Fourty-five gold pieces? Ok, I just found a volunteer here. He will fight "
 "for you."
 msgstr ""
+"¿Cuarenta y cinco piezas de oro? Bien, acabo de encontrar un voluntario "
+"aquí. Él luchará por ti."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:248
@@ -19942,32 +19970,33 @@ msgid ""
 "My lord, will we accept this recruit into our army? It is not a loyal unit, "
 "just a normal Bowman."
 msgstr ""
+"Mi señor, ¿aceptaremos a este recluta en nuestro ejército? No es una unidad "
+"leal, solo un arquero normal."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:252
 msgid "A unit joined your cause."
-msgstr ""
+msgstr "Una unidad se unió a tu causa."
 
 #. [unit]: type=Bowman, id=Roman
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:256
 msgid "Roman"
-msgstr ""
+msgstr "Roman"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:270
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:442
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:528
 msgid "Because we have a lot to do in our own village, for example?"
-msgstr ""
+msgstr "¿Porque tenemos mucho que hacer en nuestro propio pueblo, por ejemplo?"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:275
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:339
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:447
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:532
-#, fuzzy
 msgid "I already answered that question."
-msgstr "Ya tengo este..."
+msgstr "Ya respondí a esa pregunta."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:279
@@ -19975,6 +20004,8 @@ msgid ""
 "Well, I don't know. But I think he lives on the Isle of Alduin, where all "
 "mages live."
 msgstr ""
+"Bueno, no lo sé. Pero creo que vive en la Isla de Alduin, donde viven todos "
+"los magos."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:281
@@ -19983,6 +20014,9 @@ msgid ""
 "Porkton. If I lived in that village, I would change its name into something "
 "different. Hogton, for example."
 msgstr ""
+"¿Quieres decir que no lo sabes? Al sur de aquí, al oeste de un pueblo más "
+"grande llamado Porkton. Si viviera en ese pueblo, cambiaría su nombre por "
+"algo diferente. Hogton, por ejemplo."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:283
@@ -19991,6 +20025,10 @@ msgid ""
 "last storm was so heavy that it broke all trees in Larry's orchard. Orcs and "
 "Akladians are slaughtering each other. Hmm... I think that's about it."
 msgstr ""
+"¿Algo interesante? Bueno, el joven Henry se está casando con Mary de "
+"Buckston. La última tormenta fue tan fuerte que rompió todos los árboles en "
+"el huerto de Larry. Orcos y akladianos se están matando unos a otros. Hmm... "
+"Creo que eso es todo."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:285
