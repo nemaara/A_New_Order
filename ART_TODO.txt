@@ -38,6 +38,8 @@ PORTRAITS
 * Generic Akladian unit with spears (Warrior and LightInfantry still remain)
   (Clansman already exists as akladian_generic.png and Pikeneer already exists as
   profile_pikinier.png)
+* Portrait for the Brigand -> Outlaw Raider unit line (might cost more due to some
+  artists charging more for horses)
 * A winter version of Yahyazad's portrait
 * Another Reme portrait (for the "m"-suffixed message macro for him)
 * Generic leading units (Chieftain+leader - this is very low priority)
