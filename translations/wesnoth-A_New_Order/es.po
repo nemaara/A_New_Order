@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-05-10 18:23 UTC\n"
-"PO-Revision-Date: 2023-05-10 23:02+0200\n"
+"PO-Revision-Date: 2023-05-11 01:07+0200\n"
 "Last-Translator: Toranks <toranksmervat@gmail.com>\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -1256,17 +1256,17 @@ msgstr ""
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:220
 msgid "Maybe I should act gentlemanly here?"
-msgstr ""
+msgstr "¿Quizás debería actuar con caballerosidad aquí?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:221
 msgid "(Offer to get the clothes for her - longer conversation)"
-msgstr ""
+msgstr "(Ofrece comprarle la ropa - conversación más larga)"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:222
 msgid "(Let her get the clothes herself - end event more quickly)"
-msgstr ""
+msgstr "(Déjala buscar la ropa ella misma - finaliza el evento más rápido)"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:224
@@ -1274,6 +1274,9 @@ msgid ""
 "Are you sure you wouldn't prefer it if I went and bought you better winter "
 "clothes instead? That way you could stay by a campfire while you wait."
 msgstr ""
+"¿Estás seguro de que no preferirías que fuera y te comprara una mejor ropa "
+"de invierno? De esa manera podrías quedarte junto a una fogata mientras "
+"esperas."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:225
@@ -1282,6 +1285,9 @@ msgid ""
 "this. Someone with judgment like that can hardly be expected to correctly "
 "purchase the clothes I require."
 msgstr ""
+"Para ser honesta, realmente no confío en ti después de que me llamaste así. "
+"Difícil esperar que alguien con un juicio así compre correctamente la ropa "
+"que necesito."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:226
@@ -1289,6 +1295,8 @@ msgid ""
 "What, do you require them in a particular size or something? What are your "
 "measurements?"
 msgstr ""
+"¿Por qué, los requieres en un tamaño particular o algo así? ¿Cuáles son tus "
+"medidas?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:227
@@ -1296,26 +1304,32 @@ msgid ""
 "My... measurements? What do you mean by that? Do you mean you humans measure "
 "yourselves before deciding what clothing to purchase?"
 msgstr ""
+"Mis... ¿medidas? ¿Qué quieres decir con eso? ¿Quiere decir que ustedes, los "
+"humanos, se miden antes de decidir qué ropa comprar?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:228
 msgid "I mean, yeah, we do; how do you elves make sure you get the proper fit?"
 msgstr ""
+"Bueno, sí, es lo que hacemos; ¿cómo se aseguran los elfos de que la ropa "
+"quede ajustada?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:229
 msgid "Why, we simply wander the woods hugging trees until -"
 msgstr ""
+"Pues simplemente deambulamos por el bosque abrazados a los árboles hasta "
+"que..."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:230
 msgid "Wait, hold up, you literally HUG TREES?!"
-msgstr ""
+msgstr "Espera, espera, ¿literalmente ABRAZAS ÁRBOLES?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:231
 msgid "Why yes, of course, haven't you ever tried it?"
-msgstr ""
+msgstr "Pues claro, ¿no lo has probado nunca?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:232
@@ -1325,6 +1339,10 @@ msgid ""
 "and thus the only interaction we are allowed to have with trees is chopping "
 "them down."
 msgstr ""
+"¡Ja, eso es gracioso! (*<i>recobra el aliento de la risa</i>*) Pero, para "
+"responder a tu pregunta, no, no lo he hecho. Los akladianos crían a sus "
+"hijos para que teman a los árboles y, por lo tanto, la única interacción que "
+"se nos permite tener con los árboles es talarlos."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:233
@@ -1335,6 +1353,13 @@ msgid ""
 "around it return our embrace in a way that feels just right, and then the "
 "vines will form new clothes for us based on this experience."
 msgstr ""
+"¡Que horrible! Realmente deberías intentar abrazar un árbol algún día, por "
+"tu propio bienestar. Pero, para volver al tema anterior, la forma en que nos "
+"aseguramos de que nuestra ropa nos quede bien es deambular por el bosque "
+"abrazando árboles hasta que uno deja que las enredaderas que crecen a su "
+"alrededor nos devuelvan el abrazo de una manera que se siente bien, y luego "
+"las enredaderas toman la forma de una ropa nueva para nosotros en base a "
+"esta experiencia."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:234
@@ -1343,11 +1368,14 @@ msgid ""
 "vines that would really feel up to that... Could you please try the human "
 "measurement system instead just this one time?"
 msgstr ""
+"Vale, bueno, es invierno, así que no creo que ninguno de los árboles de por "
+"aquí tenga enredaderas que realmente se sientan a la altura... ¿Podrías "
+"probar el sistema de medición humano solo esta vez?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:235
 msgid "All right, what measurements do you require? The length of my ears?"
-msgstr ""
+msgstr "Muy bien, ¿que medidas requieres? ¿La longitud de mis orejas?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:236
@@ -1356,21 +1384,24 @@ msgid ""
 "better to have one of your fellow females explain this to you... look, there "
 "are Lorin and Karen over there; let's go ask one of them."
 msgstr ""
+"No, es, ah, er... (*<i>se sonroja</i>*) ...¿sabes qué?, tal vez sería mejor "
+"que una de nuestras compañeras te explicara esto... mira, ahí están Lorin y "
+"Karen. Vamos a preguntarle a una de ellas."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:237
 msgid "Let's ask..."
-msgstr ""
+msgstr "Preguntemos a..."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:238
 msgid "person_to_ask^Lorin."
-msgstr ""
+msgstr "Lorin."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:239
 msgid "person_to_ask^Karen."
-msgstr ""
+msgstr "Karen."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:241
@@ -1378,17 +1409,21 @@ msgid ""
 "Hi, mother, I was just wondering if you could help explain human "
 "measurements to Kyobaine here?"
 msgstr ""
+"Hola, madre, me preguntaba si podrías ayudar a explicar las medidas humanas "
+"a Kyobaine aquí."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:242
 msgid ""
 "Measurements? You mean like how far I can drive my knife into someone's back?"
 msgstr ""
+"¿Mediciones? ¿Quieres decir hasta dónde puedo clavar mi cuchillo en la "
+"espalda de alguien?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:243
 msgid "No, of course not! I meant for clothing."
-msgstr ""
+msgstr "¡No claro que no! Quise decir para la ropa."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:244
@@ -1398,6 +1433,9 @@ msgid ""
 "returned with the clothes, so that he can't go leaking my secrets to anyone "
 "else."
 msgstr ""
+"Oh claro, ESE tipo de medidas. Yo misma no las recuerdo. Por lo general, "
+"dejo que un sirviente plebeyo las tome y luego lo mato después de que haya "
+"regresado con la ropa, para que no pueda filtrar mis secretos a nadie más."
 
 #. [event]
 #. [scenario]: id=14b_Bontom
@@ -1415,6 +1453,8 @@ msgid ""
 "You know what, forget I asked. Kyobaine, maybe you should just go get your "
 "own clothes after all."
 msgstr ""
+"Sabes qué, olvida lo que pregunté. Kyobaine, tal vez deberías ir a buscar tu "
+"propia ropa después de todo."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:248
@@ -1422,6 +1462,8 @@ msgid ""
 "Well that was a waste of time. All that talk just to get back to what my "
 "original plan was in the first place..."
 msgstr ""
+"Bueno, eso fue una pérdida de tiempo. Toda esa charla solo para volver a mi "
+"plan original en primer lugar..."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:251
@@ -1429,16 +1471,18 @@ msgid ""
 "Hey Karen, I was just wondering if you could help explain human clothing "
 "measurements to Kyobaine here?"
 msgstr ""
+"Hola Karen, me preguntaba si podrías ayudar a explicar cómo tomar medidas "
+"para la ropa humana a Kyobaine."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:252
 msgid "Oooh, clothes shopping, are we? Got a big date coming up, eh, Kyobaine?"
-msgstr ""
+msgstr "Oooh, comprando ropa, ¿verdad? Se acerca una gran cita, ¿eh, Kyobaine?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:253
 msgid "What? No! I'm just cold and need a cloak."
-msgstr ""
+msgstr "¿Qué? ¡No! Solo tengo frío y necesito una capa."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:254
@@ -1447,21 +1491,26 @@ msgid ""
 "one-size-fits-all. Size info would really only be necessary if you were "
 "going to replace your entire robe."
 msgstr ""
+"Oh, una capa, ¿eso es todo? Ni siquiera necesita tallas para eso, en su "
+"mayoría son de talla única. La información sobre el tamaño solo sería "
+"necesaria si fueras a reemplazar toda tu túnica."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:255
 msgid "Oh. So, what was this fuss about sizes all about again? ...Gawen?"
 msgstr ""
+"Oh. Entonces, ¿de qué se trataba todo este alboroto sobre las medidas? ... "
+"¿Gawen?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:256
 msgid "What? I was just trying to be helpful."
-msgstr ""
+msgstr "¿Qué? Solo estaba tratando de ser útil."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:257
 msgid "(*<i>snickers</i>*)"
-msgstr ""
+msgstr "(*<i>risitas</i>*)"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:258
@@ -1469,12 +1518,16 @@ msgid ""
 "Well, I think I shall be fine buying my own cloak, Gawen. You just stay here "
 "while I go find a tailor."
 msgstr ""
+"Bueno, creo que estaré bien comprándome mi propia capa, Gawen. Quédate aquí "
+"mientras voy a buscar un sastre."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:261
 msgid ""
 "I think I saw a tailor just back that way that you could buy something from."
 msgstr ""
+"Creo que vi a un sastre que acababa de regresar por allí al que podrías "
+"comprarle algo."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:289
@@ -2841,12 +2894,12 @@ msgstr "Porque..."
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:353
 msgid "There are different kinds of death."
-msgstr "Hay diferentes tipos de muerte"
+msgstr "Hay diferentes tipos de muerte."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:354
 msgid "Because your king asks it of you."
-msgstr "Porque es tu rey quien pregunta"
+msgstr "Porque es tu rey quien pregunta."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:358
@@ -2915,7 +2968,7 @@ msgstr "¿Vendes venenos?"
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:378
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:487
 msgid "That's all I wanted to know."
-msgstr "Eso es todo lo que quiero saber"
+msgstr "Eso es todo lo que quiero saber."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:394
@@ -5473,6 +5526,8 @@ msgid ""
 "Some peasants may have gold to give you in this scenario when you visit "
 "their villages."
 msgstr ""
+"Algunos campesinos pueden tener oro para darte en este escenario cuando "
+"visites sus aldeas."
 
 #. [event]
 #. similar to the usual "time over" message:
@@ -14248,12 +14303,12 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:297
 msgid "Yes, like finding Deorien."
-msgstr ""
+msgstr "Sí, como encontrar a Deorien."
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:300
 msgid "We'd be wise to avoid this place for now."
-msgstr ""
+msgstr "Sería prudente evitar este lugar por ahora."
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:305
@@ -14348,23 +14403,23 @@ msgid ""
 "Argh, things aren't working out for me! I'd better go retrieve that artifact "
 "from that camp, once I get a chance..."
 msgstr ""
+"¡Arg, las cosas no me están saliendo bien! Será mejor que vaya a recuperar "
+"ese artefacto del campamento, cuando tenga la oportunidad..."
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:364
 msgid "All right, here's my chance!"
-msgstr ""
+msgstr "Muy bien, ¡aquí está mi oportunidad!"
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:369
 msgid "Now let's see, where was it..."
-msgstr ""
+msgstr "Ahora vamos a ver, dónde estaba..."
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:401
-#, fuzzy
-#| msgid "...and, there we go."
 msgid "Yes, here we go!"
-msgstr "...y allá vamos."
+msgstr "¡Sí, aquí vamos!"
 
 #. [message]: speaker=second_unit
 #. this still ought to make sense even if second_unit is Deorien, i.e., translate so that it doesn't matter if he's talking to himself or not here:
@@ -14373,6 +14428,8 @@ msgid ""
 "It appears that he dropped that staff he was using to power up his magical "
 "attacks..."
 msgstr ""
+"Parece que dejó caer el bastón que estaba usando para potenciar sus ataques "
+"mágicos..."
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:434
@@ -14380,22 +14437,25 @@ msgid ""
 "It is quite the powerful artifact, I figure that I am the only mage here "
 "strong enough to wield it. It might be risky for me to do so, though..."
 msgstr ""
+"Es un artefacto bastante poderoso, me imagino que soy el único mago aquí lo "
+"suficientemente fuerte como para manejarlo. Sin embargo, podría ser "
+"arriesgado para mí hacerlo..."
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:437
 msgid "So, shall I pick up Mal-Ulrival's staff?"
-msgstr ""
+msgstr "Entonces, ¿debería recoger el bastón de Mal-Ulrival?"
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:475
 msgid "No undead will be able to stand in my way now!"
-msgstr ""
+msgstr "¡Ningún muerto viviente podrá interponerse en mi camino ahora!"
 
 #. [event]
 #. not LITERALLY (physically) "getting carried away"; it is a figure of speech meaning "having too much fun":
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:478
 msgid "Yes, I suppose I wouldn't want to risk getting carried away with it..."
-msgstr ""
+msgstr "Sí, supongo que no quiero arriesgar a dejarme llevar por eso..."
 
 #. [message]: speaker=second_unit
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:483
@@ -14404,6 +14464,9 @@ msgid ""
 "have shattered... I bet if we had found Deorien first, he could have saved "
 "it..."
 msgstr ""
+"Una pena, ese bastón que estaba usando para potenciar sus ataques mágicos "
+"parece haberse hecho añicos... Apuesto a que si hubiéramos encontrado a "
+"Deorien primero, podría haberlo salvado..."
 
 #. [scenario]: id=19c_The_Oracle
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:3
@@ -14455,37 +14518,29 @@ msgstr "Habilidad de sanación"
 
 #. [object]: id=M_R_healing_skill
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:88
-#, fuzzy
-#| msgid ""
-#| "This unit have learned basic healing skills: it can cure poison and up to "
-#| "2 HP of wounded friendly units."
 msgid ""
 "This unit has learned an odd style of healing skill: it can cure poison and "
 "heal a few HP of wounded friendly units."
 msgstr ""
 "Esta unidad ha aprendido habilidades básicas de curación: puede curar veneno "
-"y hasta 2 HP de unidades aliadas heridas."
+"y unos pocos HP de unidades aliadas heridas."
 
 #. [heals]: id=M_R_basic_healing
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:95
-#, fuzzy
-#| msgid "basic healing"
 msgid "oracular healing"
-msgstr "sanación básica"
+msgstr "curación oracular"
 
 #. [heals]: id=M_R_basic_healing
 #. String splicing here; amount of healing varies with difficulty and will be interpolated.
 #. Spliced string will read something like "heals +5, cures poison"
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:98
 msgid "heals +"
-msgstr ""
+msgstr "sana +"
 
 #. [heals]: id=M_R_basic_healing
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:98
-#, fuzzy
-#| msgid "heals +2, cures poison"
 msgid ", cures poison"
-msgstr "sana +2, cura veneno"
+msgstr ", cura veneno"
 
 #. [unit]: type=Pikeman, id=Oracle's Guard 1
 #. [unit]: type=Pikeman, id=Oracle's Guard 2
@@ -17957,6 +18012,8 @@ msgstr "Lo siento Reme, pero no pudimos conseguirlo."
 msgid ""
 "Good. Reme left me, we left him, so balance in the universe is preserved."
 msgstr ""
+"Bien. Reme me dejó, lo dejamos a él, así se conserva el equilibrio en el "
+"universo."
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:500
@@ -17964,8 +18021,8 @@ msgid ""
 "So, Reme. We meet again. Hm... I would say something to the effect of 'I'm "
 "happy to see you again', but to be honest, I am not."
 msgstr ""
-"Entonces, Rem. Nos encontramos de nuevo. Hm... Diría algo como 'Estoy feliz "
-"de verte de nuevo', pero para ser honesto, no lo estoy."
+"Entonces, Reme. Nos encontramos de nuevo. Hum... Diría algo como 'Estoy "
+"feliz de verte de nuevo', pero para ser honesta, no lo estoy."
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:502
@@ -20324,7 +20381,7 @@ msgstr "Una unidad se unió a tu causa."
 #. wordplay note: say "Roman the Bowman" aloud (it rhymes!)
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:258
 msgid "firstname^Roman"
-msgstr ""
+msgstr "Romero"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:272
@@ -20638,7 +20695,7 @@ msgstr ""
 #. see: https://tvtropes.org/pmwiki/pmwiki.php/Main/OneSteveLimit (which we are violating)
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:511
 msgid "John Tillerman"
-msgstr ""
+msgstr "John Tillerman"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:526
@@ -21841,15 +21898,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:100
-#, fuzzy
-#| msgid ""
-#| " I was only five when your grandfather died and divided his kingdom among "
-#| "his sons, six when your father quelled the first rebellion. I never "
-#| "understood why he chose your mother... was it pure physical attraction, "
-#| "or an attempt to appease the conquered by marrying a woman of their "
-#| "nobility? If it was indeed the latter that he intended, he failed "
-#| "miserably; the underlings' hatred for us only increased, and our own "
-#| "people were uneasy with having such a queen."
 msgid ""
 "I was only five when your grandfather died and divided his kingdom among his "
 "sons, six when your father quelled the first rebellion. I never understood "
@@ -21869,15 +21917,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:104
-#, fuzzy
-#| msgid ""
-#| "When your mother died, I was chosen as your father's next wife. I am not "
-#| "certain whether or not this was an act to appease the Clans, but he must "
-#| "have wanted an heir whom our people would not question. My duty was to "
-#| "bear him that son, and I failed. Our people strayed from the old ways, "
-#| "and God turned his back on us as we had to him. Glutted upon land, money, "
-#| "and slaves, the weaker Akladian lords lost their armies and lands in "
-#| "combat with the underlings."
 msgid ""
 "When your mother died, I was chosen from the Gallorae Clan as your father's "
 "next wife. I am not certain whether or not this was an act to appease the "
@@ -21887,13 +21926,13 @@ msgid ""
 "money, and slaves, the weaker Akladian lords lost their armies and lands in "
 "combat with the underlings."
 msgstr ""
-"Cuando tu madre murió, fui elegida como la siguiente esposa de tu padre. No "
-"estoy segura de si fue o no un acto para apaciguar a los clanes, pero debió "
-"de querer un heredero al que nuestro pueblo no cuestionara. Mi deber era "
-"darle ese hijo, y fallé. Nuestro pueblo se apartó de las viejas costumbres, "
-"y Dios nos dio la espalda como nosotros a él. Atiborrados de tierras, dinero "
-"y esclavos, los señores akladianos más débiles perdieron sus ejércitos y "
-"tierras en combate con los plebeyos."
+"Cuando tu madre murió, fui elegida del clan Gallorae como la siguiente "
+"esposa de tu padre. No estoy segura de si fue o no un acto para apaciguar a "
+"los clanes, pero debió de querer un heredero al que nuestro pueblo no "
+"cuestionara. Mi deber era darle ese hijo, y fallé. Nuestro pueblo se apartó "
+"de las viejas costumbres, y Dios nos dio la espalda como nosotros a él. "
+"Atiborrados de tierras, dinero y esclavos, los señores akladianos más "
+"débiles perdieron sus ejércitos y tierras en combate con los plebeyos."
 
 #. [part]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:108
@@ -21997,11 +22036,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:498
-#, fuzzy
-#| msgid ""
-#| "I fear the blade which wounded him was poisoned, my lady.  We must wait "
-#| "here and pray that our God shows him mercy. (<i>Whispering</i>) And then "
-#| "we shall bury him with all ceremonies."
 msgid ""
 "I fear the blade which wounded him was poisoned, my lady.  We must wait here "
 "and pray that our God shows him mercy. <small>(<i>Whispering</i>) And then "
@@ -22009,7 +22043,8 @@ msgid ""
 msgstr ""
 "Creo que la hoja que lo hirió estaba envenenada, mi señora. Tenemos que "
 "esperar aquí y orar para que nuestro Dios nos muestre su misericordia. "
-"(<i>Susurrando</i>) Y entonces lo enterraremos con todas las ceremonias."
+"<small>(<i>Susurrando</i>) Y entonces lo enterraremos con todas las "
+"ceremonias.</small>"
 
 #. [event]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:499
@@ -22045,20 +22080,14 @@ msgstr "Sí.. Pero.. No puedo recordar nada... ¡¿Quién soy?! ¿Quién eres t�
 
 #. [event]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:504
-#, fuzzy
-#| msgid ""
-#| "I am your mother, the only person whom you can trust. These are your few "
-#| "loyal soldiers, who remained when everyone else deserted us. You are "
-#| "Gawen Hagarthen, the rightful king of Vakladia."
 msgid ""
 "I am Lorin, your mother, the only person whom you can trust. These are your "
 "few loyal soldiers, who remained when everyone else deserted us. You are "
 "Gawen Hagarthen, the rightful king of Vakladia."
 msgstr ""
-"Soy tu madre, la única persona en quien puedes confiar. Éstos son tus "
-"últimos soldados fieles que se quedaron con nosotros cuando todos los demás "
-"se fueron después de la honorable muerte de tu padre. Eres Gawen Hagarthen, "
-"el verdadero rey de Vakladia."
+"Soy Lorin, tu madre, la única persona en quien puedes confiar. Estos son tus "
+"pocos soldados leales, que se quedaron cuando todos los demás nos "
+"abandonaron. Eres Gawen Hagarthen, el legítimo rey de Vakladia."
 
 #. [event]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:505
@@ -22616,9 +22645,9 @@ msgid ""
 msgstr ""
 "Mesías, ja, ja, ja, ¡qué gracioso! Echo mucho de menos a Karen - seguro que "
 "crearía inmediatamente alguna canción ingeniosa sobre esto. ¡Gawen el "
-"mesías! Primero el rey, ¡y ahora el mesías! Toda una carrera para alguien a "
+"mesías! Primero el rey, ¡y ahora el mesías! ¡Toda una carrera para alguien a "
 "quien los akladianos consideran un bastardo y los wesnodianos consideran un "
-"bárbaro grosero."
+"bárbaro grosero.!"
 
 #. [event]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:144
@@ -22962,7 +22991,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:181
 msgid "You have received 200 gold pieces."
-msgstr "Has recibido 200 piezas de oro"
+msgstr "Has recibido 200 piezas de oro."
 
 #. [event]
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:182
@@ -23330,10 +23359,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:298
-#, fuzzy
-#| msgid ""
-#| "I have caught it! Please, O God, accept this boar as a sacrifice, and "
-#| "look with blessing upon us, your children!"
 msgid ""
 "I have caught it! Please, O God, accept this boar and look upon your "
 "children with your blessings!"
