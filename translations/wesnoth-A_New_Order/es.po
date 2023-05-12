@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-05-10 18:23 UTC\n"
-"PO-Revision-Date: 2023-05-11 01:07+0200\n"
+"PO-Revision-Date: 2023-05-12 05:50+0200\n"
 "Last-Translator: Toranks <toranksmervat@gmail.com>\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -17673,10 +17673,6 @@ msgstr ""
 #. [object]: id=healing_skill
 #: A_New_Order/scenarios/14b_Bontom.cfg:23
 #: A_New_Order/scenarios/14b_Bontom.cfg:994
-#, fuzzy
-#| msgid ""
-#| "This unit have learned basic healing skills: it can cure poison and up to "
-#| "2 HP of wounded friendly units."
 msgid ""
 "This unit has learned basic healing skills: it can cure poison and up to 2 "
 "HP of wounded friendly units."
@@ -23644,7 +23640,7 @@ msgstr "Rarg"
 #. [message]: type=Akladian Clansman,Akladian Wiseman,Akladian Holyman,Akladian Warrior,Akladian Raider,Akladian Homeguard,Akladian Light Infantry,Akladian Fastfoot,Akladian Pikeneer,Akladian Shieldguard,Akladian Protector,Akladian Sturmknight,Akladian Darknite
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:730
 msgid "Run for your life! They are too many of them!!"
-msgstr ""
+msgstr "¡Corred por vuestra vida! ¡¡Son demasiados!!"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:732
@@ -23652,17 +23648,21 @@ msgid ""
 "Keep fighting! Don't give up! At least kill as many of them as you can! They "
 "will surely have to withdraw soon!"
 msgstr ""
+"¡Seguid luchando! ¡No os rindáis! ¡Al menos matad a tantos como podáis! "
+"¡Seguramente tendrán que retirarse pronto!"
 
 #. [message]: type=Orcish Warlord
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:738
 msgid ""
 "We have no more supplies... we have to withdraw! We will return, she-wolf!"
 msgstr ""
+"No tenemos más suministros... ¡tenemos que retirarnos! ¡Volveremos, loba!"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:752
 msgid "Well fought, men! The enemy is withdrawing! They have no more supplies!"
 msgstr ""
+"¡Bien peleado, hombres! ¡El enemigo se retira! ¡No tienen más provisiones!"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:767
@@ -23670,6 +23670,8 @@ msgid ""
 "This was an incredibly difficult ordeal. I felt sure this would be my final "
 "battle."
 msgstr ""
+"Esta fue una prueba increíblemente difícil. Estaba seguro de que esta sería "
+"mi última batalla."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:768
@@ -23677,6 +23679,7 @@ msgid ""
 "Lorin, have you heard what our people are calling you? A she-wolf. The She-"
 "Wolf of Haeltin."
 msgstr ""
+"Lorin, ¿has oído cómo te llama nuestra gente? Una loba. La Loba de Haeltin."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:769
@@ -23684,6 +23687,8 @@ msgid ""
 "LADY Lorin. Why would I want to be called a She-Wolf? Do they expect me to "
 "howl or something?"
 msgstr ""
+"SEÑORA Lorin. ¿Por qué querría que me llamaran loba? ¿Esperan que aúlle o "
+"algo?"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:770
@@ -23692,6 +23697,9 @@ msgid ""
 "tactical mind. If you are a wolf, it would be quite the feat for a man to "
 "tame you... but I have to try anyway."
 msgstr ""
+"Lorin, eres una comandante capaz, una guerrera fuerte y tienes una "
+"encantadora... mente táctica. Si eres una loba, sería toda una hazaña para "
+"un hombre domarte... pero tengo que intentarlo de todos modos."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:771
@@ -23701,18 +23709,21 @@ msgid ""
 "such a remark is that I still need you. But you are dangerously close to the "
 "line, so..."
 msgstr ""
+"Escucha, plebeyo, no soy un animal para domesticar ni un premio para ganar. "
+"Lo único que impide que mi mano apague tu vida después de escuchar tal "
+"comentario es que todavía te necesito. Pero estás peligrosamente cerca de la "
+"línea, así que..."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:772
-#, fuzzy
 msgid ""
 "I am no fool, Lorin. I understand that you suffer my presence now only of "
 "necessity. But perhaps there will come a time when you no longer suffer my "
 "presence of necessity, but welcome it by choice?"
 msgstr ""
-"No soy tonta, Lorin. Entiendo que ahora sufres mi presencia sólo por "
+"No soy tonto, Lorin. Entiendo que ahora sufres mi presencia sólo por "
 "necesidad. Pero tal vez llegue un momento en que ya no sufras mi presencia "
-"por necesidad, sino que la aceptes por elección"
+"por necesidad, sino que la aceptes por elección."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:773
@@ -23720,6 +23731,8 @@ msgid ""
 "You may not see it, but you are a fool. An honorable fool, but a fool "
 "nonetheless."
 msgstr ""
+"Puede que no lo veas, pero eres un tonto. Un tonto honorable, pero un tonto "
+"al fin y al cabo."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:774
@@ -23728,7 +23741,6 @@ msgstr "¿Qué quieres decir?"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:775
-#, fuzzy
 msgid ""
 "First of all, you forgot to say 'one more reference to underling and I'm "
 "leaving'. Look, Yahyazad, I am many things, but I am not blind. I've noticed "
@@ -23736,46 +23748,43 @@ msgid ""
 "not used to those kinds of glances. I can easily recognise fear, hatred, "
 "loathing, and disdain. But this... "
 msgstr ""
-"En primer lugar, olvidaste decir 'una referencia más a subalterno y me voy'. "
-"Mira, Yahyazad, soy muchas cosas, pero no estoy ciego. Me he dado cuenta de "
-"cómo me miras. Al principio, no podía entender lo que significaba; no estoy "
-"acostumbrado a ese tipo de miradas. Puedo reconocer fácilmente el miedo, el "
-"odio, la aversión y el desdén. Pero esto..."
+"En primer lugar, olvidaste decir 'una mención más de plebeyo y me voy'. "
+"Mira, Yahyazad, soy muchas cosas, pero no estoy ciega. He notado la forma en "
+"que me miras. Al principio, no pude entender lo que significaba; no estoy "
+"acostumbrada a ese tipo de miradas. Puedo reconocer fácilmente el miedo, el "
+"odio, la repugnancia y el desdén. Pero esto..."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:776
-#, fuzzy
 msgid ""
 "...all of the worst emotions of a true warrior, and yet none of the worthy "
 "ones... the true warrior fights not for fear or for hate, but for love."
 msgstr ""
 "...todas las peores emociones de un verdadero guerrero, y sin embargo "
-"ninguna de las dignas... el verdadero guerrero no lucha por miedo ni por "
+"ninguna de las dignas... el verdadero guerrero no lucha por miedo o por "
 "odio, sino por amor."
 
 #. [event]
 #. unused:
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:779
-#, fuzzy
 msgid ""
 "No! Don't even speak of that! You know nothing of what it takes to be a "
 "warrior! What it takes for a woman to be a warrior! Love cannot drive you "
 "hard enough, only pain, only fear, only hate!"
 msgstr ""
-"¡No! ¡Ni siquiera hables de eso! ¡No sabes nada de lo que se necesita para "
+"¡No! ¡Ni siquiera lo menciones! ¡No sabes nada de lo que se necesita para "
 "ser un guerrero! ¡Lo que se necesita para que una mujer sea una guerrera! "
-"¡El amor no puede impulsarte lo suficiente, sólo el dolor, sólo el miedo, "
-"sólo el odio!"
+"¡El amor no puede impulsarte lo suficiente, solo el dolor, solo el miedo, "
+"solo el odio!"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:783
-#, fuzzy
 msgid ""
 "For love?! You really believe that?! You can't be serious. You speak like... "
 "Wesnothians have a special word for that kind of people. A rhymeister?"
 msgstr ""
 "¡¿Por amor?! ¡¿Realmente crees eso?! No puedes hablar en serio. Hablas "
-"como... Los Wesnothianos tienen una palabra especial para ese tipo de gente. "
+"como... Los wesnodianos tienen una palabra especial para ese tipo de gente. "
 "¿Un rimador?"
 
 #. [event]
@@ -23784,6 +23793,8 @@ msgid ""
 "I am serious. And I think you meant to say 'poet'. So you think I speak like "
 "a poet? Thank you."
 msgstr ""
+"Lo digo en serio. Y creo que quisiste decir 'poeta'. ¿Crees que hablo como "
+"un poeta? Gracias."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:785
@@ -23791,10 +23802,12 @@ msgid ""
 "That was not a compliment. A 'poet' is just a fancy word for 'idiot'. You "
 "Dunefolk fight for love? Ha! No wonder you have lost."
 msgstr ""
+"Eso no fue un cumplido. Un 'poeta' es solo una palabra elegante para "
+"'idiota'. ¿Ustedes los barjanes luchan por amor? ¡Ja! No me extraña que "
+"hayáis perdido."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:786
-#, fuzzy
 msgid ""
 "Listen to me carefully. I know now what you are thinking. Do not have any "
 "hope. Do not try ANYTHING. First, I am an Akladian and you are not. Second, "
@@ -23803,14 +23816,13 @@ msgid ""
 "unaware."
 msgstr ""
 "Escúchame con atención. Ahora sé lo que estás pensando. No tengas ninguna "
-"esperanza. No intentes NADA. Primero, yo soy un Akladian y tú no. Segundo, "
+"esperanza. No intentes NADA. Primero, yo soy una akladiana y tú no. Segundo, "
 "soy una mala mujer. No tienes ni idea de lo mala que soy. Evítame. Tercero, "
-"no eres mi tipo. Cuarto, hay algunas costumbres Akladianas que aparentemente "
+"no eres mi tipo. Cuarto, hay algunas costumbres akladianas que aparentemente "
 "desconoces."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:787
-#, fuzzy
 msgid ""
 "Let us suppose, for a moment, I submit to your wishes and cast these "
 "thoughts from my mind. What do we do going forward? Armies are still out "
@@ -23827,6 +23839,8 @@ msgid ""
 "Let's make a deal: I will not call you 'underling,' and you may call me "
 "'Lady Lorin.' Agreed?"
 msgstr ""
+"Hagamos un trato: no te llamaré 'plebeyo' y tú me puedes llamar 'Señora "
+"Lorin'. ¿De acuerdo?"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:789
@@ -23834,23 +23848,26 @@ msgid ""
 "'Lady Lorin' it is then. But if you will not call me 'underling' you must "
 "call me something. If you like, you may simply call me 'Majid.' "
 msgstr ""
+"'Señora Lorin' será, entonces. Pero si no me llamarás 'plebeyo', debes "
+"llamarme de alguna manera. Si lo deseas, simplemente puedes llamarme 'Majid'."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:790
 msgid ""
 "Whatever. Go to your people, see what they need. I will check our wounded."
 msgstr ""
+"Lo que sea. Ve a tu gente, mira lo que necesiten. Revisaré a nuestros "
+"heridos."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:884
-#, fuzzy
 msgid "My soldiers! That bastard is killing my soldiers!"
-msgstr "¡Ascended de las profundidades, mis fieles soldados!"
+msgstr "¡Mis soldados! ¡Ese bastardo está matando a mis soldados!"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:885
 msgid "I never knew you cared so much for your warriors."
-msgstr ""
+msgstr "Nunca pensé que te preocuparías tanto por tus guerreros."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:886
@@ -23858,6 +23875,8 @@ msgid ""
 "I always care for my people... besides, you have no idea how difficult it "
 "was to train them."
 msgstr ""
+"Siempre me preocupo por mi gente... además, no tienes idea de lo difícil que "
+"fue entrenarlos."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:890
@@ -23867,12 +23886,12 @@ msgstr "¡Lorin! ¿Qué estás haciendo?"
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:891
 msgid "Maybe we could try to withdraw to the mountains?"
-msgstr ""
+msgstr "¿Quizás podríamos intentar retirarnos a las montañas?"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:892
 msgid "Wait a moment. Are you running away?"
-msgstr ""
+msgstr "Espera un momento. ¿Estás huyendo?"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:893
@@ -23880,11 +23899,13 @@ msgid ""
 "The correct term is strategical relocation of the forces, impertinent "
 "underling."
 msgstr ""
+"El término correcto es reubicación estratégica de las fuerzas, plebeyo "
+"impertinente."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:894
 msgid "One more reference to underling... ah, what the hey..."
-msgstr ""
+msgstr "Una referencia más a plebeyo... ah, qué diablos..."
 
 #. [scenario]: id=09_Hired_Swords
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:3
@@ -23894,7 +23915,6 @@ msgstr "Espadas a sueldo"
 #. [part]
 #. spoken by Lorin
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:86
-#, fuzzy
 msgid ""
 "After Gawen's death, I felt dead as well. Then Reme left me and I was all "
 "alone. I couldn't go back to my family. They hated me because I had failed "
@@ -23902,7 +23922,7 @@ msgid ""
 "Maybe they hated me because I reminded them how I became the wife of Gawen's "
 "father and queen of Vakladia."
 msgstr ""
-"Tras la muerte de Gawen, yo también me sentí muerto. Entonces Reme me dejó y "
+"Tras la muerte de Gawen, yo también me sentí muerta. Entonces Reme me dejó y "
 "me quedé sola. No podía volver con mi familia. Me odiaban porque no había "
 "cumplido sus esperanzas. Me odiaban porque siempre fui independiente. Tal "
 "vez me odiaban porque les recordaba cómo llegué a ser la esposa del padre de "
@@ -23910,7 +23930,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:90
-#, fuzzy
 msgid ""
 "Another woman might just give up. If I had less courage, perhaps I would "
 "have just begged my father for admission into his castle. But I am Lorin. I "
@@ -23921,13 +23940,12 @@ msgstr ""
 "Otra mujer podría darse por vencida. Si hubiera tenido menos valor, tal vez "
 "le habría rogado a mi padre que me admitiera en su castillo. Pero soy Lorin. "
 "Tomé los soldados que Reme me dio para mi protección y cabalgué hacia el "
-"este. Conocía gente allí, que podría ayudarme. Los akladianos no lucharían "
+"este. Conocía gente allí que podría ayudarme. Los akladianos no lucharían "
 "por mí, de eso estaba seguro, así que tenía que encontrar a alguien que lo "
 "hiciera."
 
 #. [part]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:94
-#, fuzzy
 msgid ""
 "I found a group of the people we Akladians referred to as the 'Dunefolk'. "
 "They had some other name for themselves that, in their barbarian and "
@@ -23938,18 +23956,17 @@ msgid ""
 "ranks anyone willing to take their vows and abide by their traditions. Even "
 "some Akladians found a place amongst them."
 msgstr ""
-"Encontré a un grupo de personas a las que los habitantes de Akladi "
-"llamábamos \"dunefolk\". Tenían algún otro nombre para ellos que, en su "
-"lengua bárbara e indigna, significaba algo así como \"noble líder\", pero no "
-"importaba, pues no usábamos ese nombre para ellos. Eran mercenarios que "
-"ofrecían sus servicios a cualquiera. No eran como la mayoría del resto de "
-"los subalternos; sus antepasados llegaron aquí desde tierras lejanas, pero "
-"aceptaban en sus filas a cualquiera dispuesto a tomar sus votos y acatar sus "
-"tradiciones. Incluso algunos akladianos encontraban un lugar entre ellos."
+"Encontré a un grupo de personas a las que los akladianos llamábamos "
+"\"barjanes\". Tenían algún otro nombre para ellos que, en su lengua bárbara "
+"e indigna, significaba algo así como \"noble líder\", pero no importaba, "
+"pues no usábamos ese nombre para ellos. Eran mercenarios que ofrecían sus "
+"servicios a cualquiera. No eran como la mayoría del resto de los plebeyos; "
+"sus antepasados llegaron aquí desde tierras lejanas, pero aceptaban en sus "
+"filas a cualquiera dispuesto a tomar sus votos y acatar sus tradiciones. "
+"Incluso algunos akladianos encontraban un lugar entre ellos."
 
 #. [part]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:98
-#, fuzzy
 msgid ""
 "Of all the underlings living in Vakladia, these were they who had resisted "
 "us most fiercely. In the last great battle, when all the other underlings "
@@ -23958,17 +23975,15 @@ msgid ""
 "fell to the last man. That's why we cut off their heads, hands and legs, so "
 "that in the afterlife they would not be danger to us."
 msgstr ""
-"De todos los subalternos que vivían en Vakladia, éstos eran los que nos "
-"habían resistido con más fiereza. En la última gran batalla, cuando todos "
-"los demás subalternos corrían para salvar sus vidas, las tropas dunefolk nos "
-"resistieron con determinación y honor. Ninguno salió vivo del campo de "
-"batalla; lucharon y cayeron hasta el último hombre. Por eso les cortamos la "
-"cabeza, las manos y las piernas, para que en la otra vida no fueran un "
-"peligro para nosotros."
+"De todos los plebeyos que vivían en Vakladia, éstos eran los que nos habían "
+"resistido con más fiereza. En la última gran batalla, cuando todos los demás "
+"plebeyos corrían para salvar sus vidas, las tropas barjanas nos resistieron "
+"con determinación y honor. Ninguno salió vivo del campo de batalla; lucharon "
+"y cayeron hasta el último hombre. Por eso les cortamos la cabeza, las manos "
+"y las piernas, para que en la otra vida no fueran un peligro para nosotros."
 
 #. [part]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:102
-#, fuzzy
 msgid ""
 "I found one of their asa'ir and talked to their leader, a man called Majid "
 "Yahyazad. I wanted swords and I had gold; they had swords and wanted gold, "
@@ -23979,14 +23994,13 @@ msgstr ""
 "Encontré una de sus asa'ir y hablé con su líder, un hombre llamado Majid "
 "Yahyazad. Yo quería espadas y tenía oro; ellos tenían espadas y querían oro, "
 "así que llegamos rápidamente a un acuerdo. Me sentía incómodo entre ellos; "
-"su forma de hablar, de vestir y sus costumbres gritaban \"subalterno\" Pero "
-"me consolé pensando que sólo eran espadas a sueldo."
+"su forma de hablar, de vestir y sus costumbres gritaban \"plebeyo\" Pero me "
+"consolé pensando que sólo eran espadas a sueldo."
 
 #. [unit]: id=Majid Yahyazad, type=Dune Swordsman
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:137
-#, fuzzy
 msgid "Majid Yahyazad"
-msgstr "Muerte de Majid Yahyazad"
+msgstr "Majid Yahyazad"
 
 #. [side]: type=Akladian Chieftain, id=Oyre Mathauri
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:160
@@ -24000,7 +24014,6 @@ msgstr "Reumario"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:217
-#, fuzzy
 msgid ""
 "So, let's put it all together. You agree to pay 18 gold pieces per arif "
 "swordsman, 17 gold pieces for our naffat fire masters, and 14 for the jundi "
@@ -24008,42 +24021,42 @@ msgid ""
 msgstr ""
 "Entonces, pongámoslo todo junto. Estás de acuerdo en pagar 18 piezas de oro "
 "por espadachín arif, 17 piezas de oro por nuestros maestros de fuego naffat, "
-"y 14 por los soldados de infantería jundi, ¿verdad?"
+"y 14 por los soldados de infantería jundi, ¿correcto?"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:218
 msgid ""
 "I thought we agreed not to use your barbarian language's names for things."
 msgstr ""
+"Pensé que habíamos acordado no usar los nombres en tu idioma bárbaro para "
+"las cosas."
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:219
-#, fuzzy
 msgid ""
 "I object to your characterization of our language as such, but fine, if you "
 "will be paying us, I can manage. In your terms, our prices are 18 gold "
 "pieces per Dune Soldier, 17 gold pieces per Dune Burner, and 14 gold pieces "
 "per Dune Rover. Is that satisfactory?"
 msgstr ""
-"Me opongo a que califique nuestro lenguaje como tal, pero bueno, si nos va a "
-"pagar, me las puedo apañar. En sus términos, nuestros precios son 18 piezas "
-"de oro por Soldado de las Dunas, 17 piezas de oro por Quemador de Dunas y 14 "
-"piezas de oro por Rover de las Dunas. ¿Le parece bien?"
+"Me opongo a que se califique nuestro lenguaje como tal, pero bueno, si nos "
+"va a pagar, me las puedo apañar. En sus términos, nuestro precio es de 18 "
+"piezas de oro por soldado barján, 17 piezas de oro por incendiario barján y "
+"14 piezas de oro por caminante barján. ¿Te parece bien?"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:220
 msgid "Yes. And you will do everything I order you to do."
-msgstr ""
+msgstr "Sí. Y harás todo lo que te ordene."
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:221
-#, fuzzy
 msgid ""
 "No, I've explained that already. We are not mindless zombies you can hire to "
 "do anything. We, unlike Akladians, have principles. We will fight for you, "
 "but will do so in a way that ensures we uphold our traditions."
 msgstr ""
-"No, ya lo he explicado. No somos zombis descerebrados que puedes contratar "
+"No, ya lo he explicado. No somos zombis descerebrados que puedas contratar "
 "para hacer cualquier cosa. Nosotros, a diferencia de los akladianos, tenemos "
 "principios. Lucharemos por vosotros, pero lo haremos de forma que nos "
 "aseguremos de mantener nuestras tradiciones."
@@ -24051,41 +24064,38 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:222
 msgid "I don't know why I bear your insolence, underling."
-msgstr ""
+msgstr "No sé por qué soporto tu insolencia, plebeyo."
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:223
-#, fuzzy
 msgid ""
 "Continue calling me an 'underling,' and you shall have to bear it no more. "
 "And then who will fight for you? Even your own family didn't want to take "
 "you in."
 msgstr ""
-"Sigue llamándome \"subordinado\" y no tendrás que soportarlo más. ¿Y "
-"entonces quién luchará por ti? Ni siquiera tu propia familia quiso acogerte."
+"Sigue llamándome \"plebeyo\" y no tendrás que soportarlo más. ¿Y entonces "
+"quién luchará por ti? Ni siquiera tu propia familia quiso acogerte."
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:224
-#, fuzzy
 msgid ""
 "They would have taken me in, but I would have had to live in shame, in the "
 "darkest and deepest dungeon of their castle, to never see the light of day "
 "again..."
 msgstr ""
-"Me habrían acogido, pero habría tenido que vivir avergonzado, en la mazmorra "
+"Me habrían acogido, pero habría tenido que vivir avergonzada, en la mazmorra "
 "más oscura y profunda de su castillo, para no volver a ver la luz del día..."
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:225
-#, fuzzy
 msgid ""
 "...or they would have simply killed you outright. Isn't that the way "
 "Akladians deal with those that bring dishonour upon their families? Funny "
 "thing, that Akladian honour..."
 msgstr ""
 "...o simplemente te habrían matado. ¿No es esa la forma en que los "
-"Akladianos tratan a aquellos que deshonran a sus familias? Es curioso, ese "
-"honor Akladiano..."
+"akladianos tratan a aquellos que deshonran a sus familias? Es gracioso, ese "
+"honor akladiano..."
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:233
@@ -24093,11 +24103,14 @@ msgid ""
 "Hmm... that's not the force we were expecting. Guards! To arms! We have to "
 "kill quickly them so they won't see the arrival of our guests!"
 msgstr ""
+"Hmm... esa no es la fuerza que esperábamos. ¡Guardias! ¡A las armas! "
+"¡Tenemos que matarlos rápidamente para que no vean la llegada de nuestros "
+"invitados!"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:234
 msgid "Ok, so the plan is to take over the castle and then... we will see."
-msgstr ""
+msgstr "Vale, el plan es tomar el castillo y luego... ya veremos."
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:235
@@ -24105,16 +24118,17 @@ msgid ""
 "Are you sure you chose the right castle? Their leader was saying something "
 "about guests arriving soon."
 msgstr ""
+"¿Está segura de haber elegido el castillo correcto? Su líder estaba diciendo "
+"algo sobre invitados que llegarían pronto."
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:236
-#, fuzzy
 msgid ""
 "Shut up, underling, of course it's the right castle. Now listen, I don't "
 "want anyone killing their leaders; leave that privilege to me. I want to "
 "interrogate them first!"
 msgstr ""
-"Cállate, subordinado, claro que es el castillo correcto. Ahora escuchen, no "
+"Cállate, plebeyo, claro que es el castillo correcto. Ahora escuchen, no "
 "quiero que nadie mate a sus líderes; déjenme ese privilegio a mí. ¡Quiero "
 "interrogarlos primero!"
 
@@ -24124,6 +24138,8 @@ msgid ""
 "I am a battle-tested warrior with many men at my command. Keep calling me "
 "'underling,' and I am leaving, do you understand?"
 msgstr ""
+"Soy un guerrero probado en batalla con muchos hombres a mi mando. Sigue "
+"llamándome \"plebeyo\" y me iré, ¿entiendes?"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:262
@@ -24131,15 +24147,16 @@ msgid ""
 "Before you kill me, let me say just one thing: you are one damn good "
 "fighter, Lorin."
 msgstr ""
+"Antes de que me mates, déjame decirte una cosa: eres un buena luchadora, "
+"Lorin."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:269
-#, fuzzy
 msgid ""
 "That's LADY Lorin to you... and you are going to tell me a lot more than "
 "just one thing. First, who are those guests you were talking about?"
 msgstr ""
-"Es LADY Lorin para ti... y vas a contarme mucho más que una sola cosa. "
+"Es SEÑORA Lorin para ti... y vas a contarme mucho más que una sola cosa. "
 "Primero, ¿quiénes son esos invitados de los que hablabas?"
 
 #. [then]
@@ -24148,30 +24165,31 @@ msgid ""
 "I have no idea. It has taken a long time to stockpile the amount of supplies "
 "we were told they would need. It must be quite a large army."
 msgstr ""
+"No tengo ni idea. Han tardado mucho en almacenar la cantidad de suministros "
+"que nos dijeron que necesitarían. Debe ser un ejército bastante grande."
 
 #. [option]
 #. spoken by Lorin
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:280
 msgid "You were fine warrior, Reumario. I want to honor you."
-msgstr ""
+msgstr "Fuiste un buen guerrero, Reumario. Quiero honrarte."
 
 #. [option]
 #. spoken by Lorin
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:287
 msgid "Off with your left ear! And now tell me more about these guests!"
 msgstr ""
+"¡Fuera la oreja izquierda! ¡Y ahora cuéntame más sobre estos invitados!"
 
 #. [command]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:289
-#, fuzzy
 msgid "I told you I know nothing about them! Aaargh!"
-msgstr "¿Sabes algo sobre la Señora Lorin?"
+msgstr "¡Te dije que no sé nada de ellos! ¡Aaarg!"
 
 #. [command]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:292
-#, fuzzy
 msgid "Liar! Speak!"
-msgstr "¡Hable!"
+msgstr "¡Mentiroso! ¡Habla!"
 
 #. [command]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:299
@@ -24179,45 +24197,42 @@ msgid ""
 "I do not think he will tell you anything more, my lady... he's dead. You did "
 "well to squeeze as much information as you did from him. "
 msgstr ""
+"No creo que le diga nada más, mi señora... está muerto. Hizo bien en sacarle "
+"tanta información como le sacó."
 
 #. [command]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:302
-#, fuzzy
 msgid "Be silent, underling."
-msgstr "¡Muere, subdito!"
+msgstr "Guarda silencio, plebeyo."
 
 #. [command]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:305
 msgid "One more reference to 'underling' and I am leaving, do you understand?"
-msgstr ""
+msgstr "Una referencia más a \"plebeyo\" y me voy, ¿entiendes?"
 
 #. [option]
 #. spoken by Lorin
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:310
 msgid "Where are those supplies? Speak, or I will cut you to pieces!"
-msgstr ""
+msgstr "¿Dónde están esos suministros? ¡Habla, o te cortaré en pedazos!"
 
 #. [then]
 #. spoken by Reumario, answering to Lorin
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:323
-#, fuzzy
 msgid "Uh, I, I am not sure..."
-msgstr "¿Uh... dónde... estoy...?"
+msgstr "Uh, no estoy seguro..."
 
 #. [message]: speaker=Lady Lorin
 #. spoken by Lorin to Reumario
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:327
-#, fuzzy
 msgid "Well, what about this..."
-msgstr ""
-"Bien, ¿y qué pasa con los orcos, <i>Princesa</i>? ¿No desearíais libraros de "
-"ellos?"
+msgstr "Bueno, qué tal esto..."
 
 #. [option]
 #. spoken by Lorin to Reumario
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:331
 msgid "I would be honoured to have you in my army."
-msgstr ""
+msgstr "Sería un honor tenerte en mi ejército."
 
 #. [command]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:336
@@ -24225,6 +24240,8 @@ msgid ""
 "After this battle you will be able to recruit Akladian Clansmen, Warriors "
 "and Wisemen again."
 msgstr ""
+"Después de esta batalla podrás volver a reclutar hombres de clan akladianos, "
+"guerreros y sabios."
 
 #. [command]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:347
@@ -24232,17 +24249,18 @@ msgid ""
 "Uh... yes, why not? I will join you. But let me wait until after this "
 "battle; I do not want to fight members of my own clan."
 msgstr ""
+"Eh... sí, ¿por qué no? Me uniré a vosotros. Pero déjame esperar hasta "
+"después de esta batalla; no quiero luchar contra los miembros de mi propio "
+"clan."
 
 #. [option]
 #. spoken by Lorin
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:352
-#, fuzzy
 msgid "I shall let you live."
-msgstr "¡Te destruiré personalmente!"
+msgstr "Te dejaré vivir."
 
 #. [command]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:357
-#, fuzzy
 msgid ""
 "Thank you, Lorin. Frankly, I had not expected such behavior from you. As a "
 "sign of my gratitude, I will instruct members of my clan to serve you."
@@ -24255,15 +24273,12 @@ msgstr ""
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:360
 msgid "After this battle you will be able to recruit Akladian Clansmen again."
 msgstr ""
+"Después de esta batalla podrás volver a reclutar hombres de clan akladianos."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:372
-#, fuzzy
 msgid "In this storeroom and..."
-msgstr ""
-"No ha quedado mucho del mobiliario de esta sala. Pienso que fue algún tipo "
-"de despensa, pero parece como si unos carroñeros se hubieran llevado "
-"cualquier cosa útil."
+msgstr "En este almacén y..."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:373
@@ -24271,34 +24286,35 @@ msgid ""
 "Do you think I'm stupid? This would not be enough to house an army! You must "
 "have some hidden storeroom or treasury! Speak!"
 msgstr ""
+"¿Crees que soy estúpida? ¡Esto no bastaría para albergar un ejército! ¡Debes "
+"tener algún almacén o tesoro escondido! ¡Habla!"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:374
 msgid ""
 "Aargh! Yes, we have a hidden treasury in my castle, here, I will show you."
 msgstr ""
+"¡Aarg! Sí, tenemos un tesoro escondido en mi castillo, aquí, te mostraré."
 
 #. [message]: speaker=Majid Yahyazad
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:384
-#, fuzzy
 msgid "Will you allow him to leave now?"
-msgstr "Madre, NO dañes a este hombre."
+msgstr "¿Permitirás que se vaya ahora?"
 
 #. [option]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:387
-#, fuzzy
 msgid "Yes, he may live."
-msgstr "Si, era de ayuda."
+msgstr "Sí, puede vivir."
 
 #. [option]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:393
 msgid "No, he is too dangerous."
-msgstr ""
+msgstr "No, es demasiado peligroso."
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:414
 msgid "What did I say about killing their leaders? Hm?"
-msgstr ""
+msgstr "¿Qué dije sobre matar a sus líderes? ¿Eh?"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:415
@@ -24311,6 +24327,8 @@ msgid ""
 "What? Are you deaf or something? I specifically instructed that you were to "
 "leave their leaders for me!"
 msgstr ""
+"¿Qué? ¿Estás sordo o algo así? ¡Te ordené específicamente que dejaras a sus "
+"líderes para mí!"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:427
@@ -24318,6 +24336,8 @@ msgid ""
 "Before I kill you, I want you to tell me few things. First, you were talking "
 "about some guests, tell me more!"
 msgstr ""
+"Antes de matarte, quiero que me digas algunas cosas. Primero, estabas "
+"hablando de algunos invitados, ¡dime más!"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:428
@@ -24325,10 +24345,11 @@ msgid ""
 "You're afraid, aren't you? They will come here in great numbers... a huge "
 "orcish army... better start running, witch."
 msgstr ""
+"Tienes miedo, ¿verdad? Vendrán aquí en gran número... un enorme ejército de "
+"orcos... mejor empieza a correr, bruja."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:435
-#, fuzzy
 msgid ""
 "Orcs? Why should I be afraid? I have fought them before. Unlike you, they "
 "are strong and worthy opponents. I look forward to meeting them in combat "
@@ -24344,39 +24365,38 @@ msgid ""
 "Orcs? I've never fought orcs, though I would love to meet them. I've heard "
 "they are good soldiers, strong and fearless."
 msgstr ""
+"¿Orcos? Nunca he luchado contra orcos, aunque me encantaría conocerlos. He "
+"oído que son buenos soldados, fuertes e intrépidos."
 
 #. [message]: speaker=Lady Lorin
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:443
-#, fuzzy
 msgid "And now, tell me more..."
-msgstr "Ahora, dígame..."
+msgstr "Y ahora, cuéntame más..."
 
 #. [option]
 #. spoken by Lorin
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:446
 msgid "You were worthy opponent, Oyre Mathauri. How can I honour you?"
-msgstr ""
+msgstr "Fuiste un digno oponente, Oyre Mathauri. ¿Cómo puedo honrarte?"
 
 #. [command]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:448
 msgid "By hanging yourself from the nearest tree, witch!"
-msgstr ""
+msgstr "¡Colgándote del árbol más cercano, bruja!"
 
 #. [command]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:451
 msgid "Seems you have wasted your last wish. Now die!"
-msgstr ""
+msgstr "Parece que has desperdiciado tu último deseo. ¡Ahora muere!"
 
 #. [option]
 #. spoken by Lorin
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:456
-#, fuzzy
 msgid "What are orcs doing here and why are you waiting for them?"
-msgstr "¿Quién eres, y qué haces aquí?"
+msgstr "¿Qué hacen los orcos aquí y por qué los estás esperando?"
 
 #. [option]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:462
-#, fuzzy
 msgid "Where have you hidden the gold?"
 msgstr "¿Dónde escondiste el oro?"
 
@@ -24386,6 +24406,8 @@ msgid ""
 "Gold? What gold? I know nothing about... AAARGH! ... it's in a safe place, I "
 "will show you!"
 msgstr ""
+"¿Oro? ¿Qué oro? No sé nada de... ¡AAAARG! ... está en un lugar seguro, ¡te "
+"lo enseñaré!"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:482
@@ -24393,15 +24415,16 @@ msgid ""
 "He isn't able to tell you anything more. I can't decide whether I should "
 "admire your ruthlessness or despise your cruelty."
 msgstr ""
+"No es capaz de decirte nada más. No puedo decidir si debo admirar tu "
+"crueldad o despreciar tu sadismo."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:483
 msgid "His death was quick. You may admire my generosity."
-msgstr ""
+msgstr "Su muerte fue rápida. Puedes admirar mi generosidad."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:492
-#, fuzzy
 msgid ""
 "Orcs? Bor Cryne told us to wait for them here. We will then march with them "
 "and kill every Akladian unworthy of the name! Those who violate our customs, "
@@ -24410,11 +24433,11 @@ msgid ""
 "complete our conquest of Wesnoth."
 msgstr ""
 "¿Orcos? Bor Cryne nos dijo que los esperáramos aquí. ¡Entonces marcharemos "
-"con ellos y mataremos a todo Akladian indigno de ese nombre! ¡Aquellos que "
-"violen nuestras costumbres, que se hagan amigos de subalternos, y "
-"especialmente aquellos que ofendan a nuestro Dios casándose con ellos! Sólo "
-"entonces Dios volverá a mostrarnos su favor y nos recompensará asegurándonos "
-"que completamos la conquista de Wesnoth."
+"con ellos y mataremos a todo akladiano indigno de ese nombre! ¡Aquellos que "
+"violen nuestras costumbres, que se hagan amigos de plebeyos, y especialmente "
+"aquellos que ofendan a nuestro Dios casándose con ellos! Sólo entonces Dios "
+"volverá a mostrarnos su favor y nos recompensará asegurándonos que "
+"completamos la conquista de Wesnoth."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:494
@@ -24422,6 +24445,8 @@ msgid ""
 "Interesting theory. So, basically Bor Cryne wants to eliminate all of his "
 "opponents?"
 msgstr ""
+"Interesante teoría. Entonces, ¿básicamente Bor Cryne quiere eliminar a todos "
+"sus oponentes?"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:500
@@ -24429,39 +24454,36 @@ msgid ""
 "Hey, Reumario, what do you say to that? Akladians allying with orcs to kill "
 "other Akladians? Quite a dishonorable thing, don't you think?"
 msgstr ""
+"Oye, Reumario, ¿qué dices a eso? ¿Akladianos aliándose con orcos para matar "
+"a otros akladianos? Algo bastante deshonroso, ¿no crees?"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:501
-#, fuzzy
 msgid "I didn't know..."
-msgstr "Ruvio, yo no sabía..."
+msgstr "No lo sabía..."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:502
-#, fuzzy
 msgid "So now you know. What do you intend to do about it?"
-msgstr "¿Qué sabes sobre los orcos?"
+msgstr "Así que ahora que ya lo sabes. ¿Qué piensas hacer al respecto?"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:503
-#, fuzzy
 msgid "I don't know."
-msgstr "No conozco ese nombre."
+msgstr "No lo sé."
 
 #. [option]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:508
 msgid "I will kill you and rip off your traitorous head!"
-msgstr ""
+msgstr "¡Te mataré y arrancaré tu cabeza de traidor!"
 
 #. [option]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:511
-#, fuzzy
 msgid "What about joining us against those orcs?"
-msgstr "¿Qué sabes sobre los orcos?"
+msgstr "¿Qué te parece unirte a nosotros contra esos orcos?"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:523
-#, fuzzy
 msgid ""
 "Will you join us to fight against the orcs? Or maybe you would prefer to "
 "ally yourself with these madmen who want to slaughter their own kin?"
@@ -24472,27 +24494,23 @@ msgstr ""
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:524
 msgid "Yes... I will join you."
-msgstr ""
+msgstr "Sí... Me uniré a ti."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:526
-#, fuzzy
 msgid "So, we won."
-msgstr ""
-"Debe de ser por que destruimos a ese liche ilusorio. El sabio corrupto los "
-"envía para cazarnos como represalia. Salgamos de aquí con rapidez para no "
-"tener que luchar contra ellos."
+msgstr "Entonces, ganamos."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:527
 msgid ""
 "You sound disappointed... were you relishing the thought of more action?"
-msgstr ""
+msgstr "Suenas decepcionada... ¿Estabas disfrutando la idea de más acción?"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:528
 msgid "I'm sure there will be plenty of action when the orcs arrive."
-msgstr ""
+msgstr "Estoy segura de que habrá mucha acción cuando lleguen los orcos."
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:564
@@ -24500,40 +24518,38 @@ msgid ""
 "What part of the phrase 'do not kill their leaders, leave them for me' was "
 "so difficult to understand?"
 msgstr ""
+"¿Qué parte de la frase \"no matéis a sus líderes, dejádmelos a mí\" era tan "
+"difícil de entender?"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:565
-#, fuzzy
 msgid "But it was self-defense!"
-msgstr ""
-"Los hidromantes más talentosos eventualmente se convierten en maestros del "
-"agua. Son expertos sanadores, cuya poderosa agua cura sus propias heridas, "
-"incluso cuando el mago está inconsciente, y los vuelve inmunes a la mayoría "
-"de las enfermedades conocidas. También pueden invocar seres mágicos hechos "
-"de agua pura y pueden lanzar poderosos hechizos de escarcha para la "
-"autodefensa."
+msgstr "¡Pero fue en defensa propia!"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:566
 msgid "Yeah, sure. Why do men always think I can't handle my enemies myself?"
 msgstr ""
+"Sí, claro. ¿Por qué los hombres siempre piensan que no puedo manejar a mis "
+"enemigos yo misma?"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:570
 msgid "We have taken the castle... what a pleasant surprise! What now?"
-msgstr ""
+msgstr "Hemos tomado el castillo... ¡qué agradable sorpresa! ¿Y ahora qué?"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:571
-#, fuzzy
 msgid "Surprise? What do you mean by that?"
-msgstr "¿Indigno? ¿Qué quiere decir?"
+msgstr "¿Sorpresa? ¿Qué quieres decir con eso?"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:572
 msgid ""
 "I mean that I didn't think we would be able to take that castle, because..."
 msgstr ""
+"Quiero decir que no creía que fuéramos capaces de tomar ese castillo, "
+"porque..."
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:573
@@ -24541,6 +24557,8 @@ msgid ""
 "Because what? You think that just because I am a weak woman I can't take a "
 "castle?"
 msgstr ""
+"¿Porque qué? ¿Crees que sólo porque soy una débil mujer no puedo tomar un "
+"castillo?"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:574
@@ -24548,10 +24566,11 @@ msgid ""
 "No, I just... look, the castle provides excellent tactical position against "
 "sieges... stop glaring at me. What are you going to do now?"
 msgstr ""
+"No, yo sólo... mira, el castillo proporciona una excelente posición táctica "
+"contra asedios... deja de mirarme tan fijamente. ¿Qué vas a hacer ahora?"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:581
-#, fuzzy
 msgid ""
 "Well, haven't you heard? An orcish army is coming here. We have to prepare "
 "the defenses immediately. And while we do so, we can ponder the next move to "
@@ -24563,7 +24582,6 @@ msgstr ""
 
 #. [else]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:584
-#, fuzzy
 msgid ""
 "Well, I have my own castle, that's a start. Now I need more gold, so I guess "
 "we could 'ask' our neighbors for some. But we also need some time to rest "
@@ -24575,17 +24593,17 @@ msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:593
-#, fuzzy
 msgid ""
 "How strange... it seems that by killing so many of them, you have gained "
 "their respect."
-msgstr "Qué extraño... parece que al matar a tantos te has ganado su respeto."
+msgstr ""
+"Qué extraño... parece que al matar a tantos de ellos te has ganado su "
+"respeto."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:594
-#, fuzzy
 msgid "What's so strange about that?"
-msgstr "¿Qué sabes sobre los orcos?"
+msgstr "¿Qué tiene eso de extraño?"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:595
@@ -24593,6 +24611,8 @@ msgid ""
 "The locals are placing respect for arms above respect of kin.  Some of them "
 "are even willing to fight for you now."
 msgstr ""
+"Los lugareños anteponen el respeto a las armas al respeto a la familia.  "
+"Algunos incluso están dispuestos a luchar por ti."
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:628
@@ -24600,28 +24620,28 @@ msgid ""
 "We have searched the castle and we found a lot of supplies. I hope we will "
 "find a good use for them."
 msgstr ""
+"Hemos registrado el castillo y hemos encontrado un montón de provisiones. "
+"Espero que les encontremos un buen uso."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:659
-#, fuzzy
 msgid "A woman! A woman killed me! Aaargh!"
-msgstr "ESO es por llamarme mujer tonta. Y ESO es gratis. ¡Hable!"
+msgstr "¡Una mujer! ¡Una mujer me ha matado! ¡Aaarg!"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:660
 msgid "What? Haven't I practiced the art of the blade as much as he has?"
-msgstr ""
+msgstr "¿Qué? ¿No he practicado el arte de la espada tanto como él?"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:669
-#, fuzzy
 msgid "I lost to a woman? Nooo..."
-msgstr "Entonces no es una gran desgracia como pensé..."
+msgstr "¿Perdí contra una mujer? Nooo..."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:678
 msgid "You really can fight. I salute you as I die."
-msgstr ""
+msgstr "Tú sí que sabes luchar. Te saludo mientras muero."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:679
@@ -24630,21 +24650,25 @@ msgid ""
 "and now they like you? Are Akladians gluttons for punishment or is skill at "
 "arms paramount with your ilk?"
 msgstr ""
+"¿Qué les pasa a estos akladianos? Te odian, empiezas a matarlos, ¿y ahora "
+"les gustas? ¿Son los akladianos unos glotones del castigo o es que la "
+"habilidad con las armas es primordial entre los de tu calaña?"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:688
 msgid "What a fighter! I would willingly fight for someone like her..."
-msgstr ""
+msgstr "¡Qué luchadora! Lucharía de buena gana por alguien como ella..."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:689
 msgid "I am no necromancer; I have use only for living warriors, not the dead!"
 msgstr ""
+"No soy nigromante; ¡sólo me sirven los guerreros vivos, no los muertos!"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:690
 msgid "They seem to have come to respect you now. Strange."
-msgstr ""
+msgstr "Parece que ahora te respetan. Qué extraño."
 
 #. [campaign]: id=A_New_Order
 #. [editor_group]: id=ano
