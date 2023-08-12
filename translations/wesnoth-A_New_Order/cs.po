@@ -22559,7 +22559,7 @@ msgid ""
 "join Grekulak's army."
 msgstr ""
 "Nemrtví a skřeti zaútočí velmi brzy z východu. Dost možná, že už jsou na "
-"cestě. Bor Cryne připravuje v kopcích armádu, s kterou se připojí ke "
+"cestě. Bor Cryne připravuje v kopcích armádu, se kterou se připojí ke "
 "Grekulakovi."
 
 #. [event]
