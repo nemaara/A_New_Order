@@ -22965,7 +22965,7 @@ msgid ""
 "...like that boar! Let me go capture it, sacrifice it, and then surely God's "
 "favor will be upon us!"
 msgstr ""
-"... jako je tenhle kanec! Nech mě to chytit, obětovat, a pak jistě bude nad "
+"... jako je tenhle kanec! Nech mě to chytit, obětovat a pak jistě bude nad "
 "námi Boží přízeň!"
 
 #. [event]
