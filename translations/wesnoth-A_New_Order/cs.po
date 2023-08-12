@@ -21558,7 +21558,7 @@ msgstr ""
 "proč si vybral právě tvoji matku... čistě z fyzické přitažlivosti, nebo jako "
 "pokus usmířit poražené tím, že se oženění s ženou z jejich šlechty? Pokud to "
 "opravdu chtěl, tak jeho plány totálně selhaly. Nenávist podřadných jen "
-"vzrostla a pro naši lidé byli znepokojeni tím, že mají takovou královnu."
+"vzrostla a naši lidé byli znepokojeni tím, že mají takovou královnu."
 
 #. [part]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:107
