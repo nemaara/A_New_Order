@@ -1285,7 +1285,7 @@ msgid ""
 "...why do you look so surprised? I <i>did</i> say I was going to buy better "
 "winter clothes, didn't I? I think this cloak shall do just fine."
 msgstr ""
-"...proč vypadáš tak překvapeně? <i>Říkala jsem</i>, že si koupím lepší zimní "
+"... proč vypadáš tak překvapeně? <i>Říkala jsem</i>, že si koupím lepší zimní "
 "oblečení, ne? Myslím, že tento plášť bude fungovat dobře."
 
 #. [event]
