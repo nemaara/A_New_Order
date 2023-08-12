@@ -24291,7 +24291,7 @@ msgstr ""
 "Poznámka: Toto tažení obsahuje témata pro dospělé, z nichž některá mohou být "
 "pro děti nevhodná.\n"
 "\n"
-"(Pokročilý hráč, 45 scénářů. Kampaň vyžaduje BoW verze 1.16.)\n"
+"(Pokročilý hráč, 45 scénářů. Tažení vyžaduje BoW verze 1.16.)\n"
 "Verze "
 
 #. [about]
