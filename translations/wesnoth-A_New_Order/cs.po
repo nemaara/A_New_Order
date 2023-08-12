@@ -4811,7 +4811,7 @@ msgstr ""
 "připraven poslouchat. Víš, mladý králi, nevím, proč Akladijci respektují a "
 "poslouchají Věštkyni. Ale myslím, že to může být proto, že to, co říká, není "
 "otevřeně v rozporu s jejich přesvědčením. Věřím, že by ji rychle prohlásili "
-"za nástroj falešného Boha, jakmile by se jim přestalo líbit, co jim říká."
+"za nástroj falešného boha, jakmile by se jim přestalo líbit, co jim říká."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:540
