@@ -23301,7 +23301,7 @@ msgid ""
 msgstr ""
 "Lorin, jsi schopnou velitelkou, silnou válečnicí a máš krásnou... taktickou "
 "mysl. Pokud bys byla vlčicí, byl by pro muže docela výkon, aby si tě "
-"ochočil... ale stejně to musím zkusit."
+"ochočil..., ale stejně to musím zkusit."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:780
