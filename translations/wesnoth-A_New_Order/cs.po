@@ -23862,7 +23862,7 @@ msgid ""
 "Do you think I'm stupid? This would not be enough to house an army! You must "
 "have some hidden storeroom or treasury! Speak!"
 msgstr ""
-"Si myslíš, že jsem prdlá či co? Tohle by na ubytování armády nestačilo! "
+"Si myslíš, že jsem prdlá, či co? Tohle by na ubytování armády nestačilo! "
 "Musíte mít nějaký skrytý sklad nebo pokladnu! Mluv!"
 
 #. [then]
