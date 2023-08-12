@@ -23424,7 +23424,7 @@ msgid ""
 msgstr ""
 "Předpokládejme, že se na chvíli podřídím tvým přáním a vyženu tyto myšlenky "
 "ze své mysli. Co budeme dělat dál? Někde tam venku jsou stále armády. Naše "
-"osudy jsou prozatím stále propletené, ať v dobrém či zlém."
+"osudy jsou prozatím stále propletené, ať v dobrém, či zlém."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:797
