@@ -24402,7 +24402,7 @@ msgstr "a všem ostatním z fóra hry Wesnoth"
 #. [about]
 #: A_New_Order/about.cfg:215
 msgid "Campaign funding"
-msgstr "Podpora kampaně"
+msgstr "Podpora tažení"
 
 #. [about]
 #. I had to shorten this to get it to fit:
