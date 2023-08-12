@@ -21789,7 +21789,7 @@ msgstr ""
 "Vidím dva dobré opěrné strategické body. Jeden je na severu, poblíž vesnice, "
 "druhý je v kopcích na východ od nás. Použijte své vojáky tak, abyste si "
 "kryli záda. Příslušníci klanu nejsou dostatečně zkušení, aby ovládali terén "
-"kolem nich, takže je musíte postavit vedle sebe, abyste nepřítele "
+"kolem sebe, takže je musíte postavit jednoho vedle druhého, abyste nepřítele "
 "zablokovali."
 
 #. [event]
