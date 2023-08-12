@@ -23359,7 +23359,7 @@ msgid ""
 "...all of the worst emotions of a true warrior, and yet none of the worthy "
 "ones... the true warrior fights not for fear or for hate, but for love."
 msgstr ""
-"...všechny nejhorší emoce pravého válečníka, a přesto žádná z těch "
+"... všechny nejhorší emoce pravého válečníka, a přesto žádná z těch "
 "hodných... pravý válečník nebojuje ze strachu nebo z nenávisti, ale z lásky."
 
 #. [event]
