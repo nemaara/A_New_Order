@@ -24408,7 +24408,7 @@ msgstr "Podpora tažení"
 #. I had to shorten this to get it to fit:
 #: A_New_Order/about.cfg:238
 msgid "More info may be found within readme.txt file"
-msgstr "Více informace lze nalézt v souboru readme.txt"
+msgstr "Více informací lze nalézt v souboru readme.txt"
 
 #. [entry]
 #: A_New_Order/about.cfg:240
