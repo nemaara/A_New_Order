@@ -23349,7 +23349,7 @@ msgid ""
 msgstr ""
 "Zapomněl jsi říct: „Ještě jednou mi řekneš podřadný a necháme tě tu "
 "samotnou.“ Podívej, Jahjazade, nejsem ve spoustě věcí dost dobrá, ale nejsem "
-"slepá. Zaznamenala jsem jak na mně čumíš. Nejdřív jsem nemohla přijít na to, "
+"slepá. Zaznamenala jsem, jak na mně čumíš. Nejdřív jsem nemohla přijít na to, "
 "co to znamená. Nejsem zvyklá na takový pohledy. Snadno rozeznám strach, "
 "nenávist, opovržení i pohrdání. Ale tohle..."
 
