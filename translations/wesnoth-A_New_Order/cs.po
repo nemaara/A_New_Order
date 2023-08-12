@@ -1291,7 +1291,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:256
 msgid "...yes, well, indeed! Carry on, then!"
-msgstr "...ano, no, opravdu! Tak pokračujem!"
+msgstr "... ano, no, opravdu! Tak pokračujem!"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:257
