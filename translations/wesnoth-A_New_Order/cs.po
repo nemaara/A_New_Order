@@ -22992,7 +22992,7 @@ msgid ""
 "without performing the proper sacrificial ritual, and it will go to waste!"
 msgstr ""
 "Vy blázni! Chtěl jsem toho kance obětovat! Ale teď jste ho zabili, aniž "
-"byste provedli správný obětní rituál. Promarnili jste ho!"
+"jste provedli správný obětní rituál. Promarnili jste ho!"
 
 #. [then]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:336
