@@ -21335,7 +21335,7 @@ msgstr "Podívejte, jak bojuje pravý akladijský lord!"
 
 #: A_New_Order/scenarios/06_Separation.cfg:11
 msgid "You have already recruited $ano_tmp| units."
-msgstr "Už jsi naverboval $ano_tmp| units jednotek."
+msgstr "Už jsi naverboval $ano_tmp| jednotek."
 
 #. [then]
 #: A_New_Order/scenarios/06_Separation.cfg:17
