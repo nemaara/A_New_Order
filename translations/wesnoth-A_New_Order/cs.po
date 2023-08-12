@@ -22116,7 +22116,7 @@ msgstr ""
 "Ale ve svém jádru byli Akladijci stále lidmi. Dost lidskými, aby chtěli "
 "totéž, co chtěli všichni lidé ve všech dobách. Svobodu. Právo vybrat si ve "
 "světě svou vlastní cestu. Jeden z nich, jménem Hagarthen, oznámil, že "
-"Grekulak je nástrojem falešného Boha a vedl krvavou rebelii."
+"Grekulak je nástrojem falešného boha a vedl krvavou rebelii."
 
 # deserts were inserted instead of forests
 #. [part]
