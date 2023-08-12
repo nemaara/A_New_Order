@@ -2188,7 +2188,7 @@ msgstr ""
 "(<i>Povzdech</i>) Ještě jednou, nemůže to být nikdo jiný. Jen ty můžeš "
 "sjednotit Wesnothské a Akladijce, protože POUZE TY jsi z královské krve obou "
 "národů. Myslel jsem, že jsem ti to už vysvětlil. Obávám se Gawene, že ses "
-"narodil abys tento osud naplnil. Zkrátka nemáš na výběr... pokud místo toho "
+"narodil, abys tento osud naplnil. Zkrátka nemáš na výběr..., pokud místo toho "
 "nechceš nechat celou tuto zemi v chaosu."
 
 #: A_New_Order/macros/ano-20macros.cfg:57
