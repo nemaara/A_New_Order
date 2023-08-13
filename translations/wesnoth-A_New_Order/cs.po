@@ -24090,7 +24090,7 @@ msgid ""
 "What part of the phrase 'do not kill their leaders, leave them for me' was "
 "so difficult to understand?"
 msgstr ""
-"Čemu z věty: „Nezabíjejte jejich velitele, nechte je mně,“ jsi nerozuměl?"
+"Čemu z věty „nezabíjejte jejich velitele, nechte je mně“ jsi nerozuměl?"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:560
