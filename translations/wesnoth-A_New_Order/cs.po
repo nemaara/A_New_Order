@@ -9,14 +9,15 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-03-04 23:18 UTC\n"
-"PO-Revision-Date: 2022-11-27 20:12+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2023-08-11 15:35+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. [unit_type]: id=Peasant girl, race=human
 #: A_New_Order/units/others/Peasant_girl.cfg:5
@@ -45,6 +46,10 @@ msgid ""
 "their shoulders. Provincial officials tend to choose senior village elders "
 "as magistrates so that legal and customary authority will coincide."
 msgstr ""
+"Celá vesnice se obrací na svého starostu s prosbami o radu. Silní a moudří "
+"starostové berou na svá bedra odpovědnost za blaho komunity. Provinční "
+"úředníci mají tendenci vybírat starosty jako smírčí soudce, aby se zákonná i "
+"zvyková pravomoc shodovala."
 
 #. [female]
 #: A_New_Order/units/others/Peasant_girl.cfg:41
@@ -88,7 +93,7 @@ msgstr ""
 #. [unit_type]: id=Rancher, race=human
 #: A_New_Order/units/others/Rancher.cfg:6
 msgid "Rancher"
-msgstr ""
+msgstr "Dobytkář"
 
 #. [unit_type]: id=Rancher, race=human
 #: A_New_Order/units/others/Rancher.cfg:21
@@ -96,6 +101,8 @@ msgid ""
 "In the wilder, less tamed regions of Wesnoth, the horse clans provide a "
 "steady supply of mounts available to even common farmers."
 msgstr ""
+"V divočejších, méně civilizovaných oblastech Wesnothu poskytují koňácké "
+"klany stálý přísun koní dostupných i běžným farmářům."
 
 #. [unit_type]: id=Ruvios Daughter, race=human
 #. [event]
@@ -185,7 +192,7 @@ msgstr "kuše"
 #. [unit_type]: id=Outlaw Raider, race=human
 #: A_New_Order/units/others/Outlaw_Raider.cfg:5
 msgid "Outlaw Raider"
-msgstr "Základna banditů"
+msgstr "Nájezdník"
 
 #. [unit_type]: id=Outlaw Raider, race=human
 #: A_New_Order/units/others/Outlaw_Raider.cfg:34
@@ -196,6 +203,11 @@ msgid ""
 "fights most of the time. They also usually build or buy (or steal) a better "
 "crossbow, and their accuracy and skill have both improved with practice."
 msgstr ""
+"Ti brigandi, kteří přežijí alespoň čtyři až pět přepadení, nakonec získají "
+"nějaký ten meč. Obvykle to bývá i šavle, neboť potulní šermíři, často "
+"křižující krajinu s touhou si zabojovat, patří mezi obvyklé oběti brigandů. "
+"Také si obvykle udělají nebo koupí (nebo ukradnou) i lepší kuš, s kterou již "
+"umí díky svým zkušenostem dovedněji zacházet a přesněji střílet."
 
 #. [attack]: type=blade
 #: A_New_Order/units/others/Outlaw_Raider.cfg:38
@@ -205,7 +217,7 @@ msgstr "šavle"
 #. [unit_type]: id=Brigand, race=human
 #: A_New_Order/units/others/Brigand.cfg:5
 msgid "Brigand"
-msgstr "Zbojník"
+msgstr "Brigand"
 
 #. [unit_type]: id=Brigand, race=human
 #: A_New_Order/units/others/Brigand.cfg:18
@@ -215,14 +227,15 @@ msgid ""
 "travelers. They also carry crude crossbows but are not very skilled with "
 "them."
 msgstr ""
-"Zarostlí a kosáky ozbrojení zbojníci nechali za sebou farmaření a v malých "
-"tlupách se usadili na vedlejších cestách, kde olupují kupce. Mají s sebou "
-"také samostříly, ale nijak moc to s nimi neumí."
+"Brigandi zanechali života zemědělců a v malých rabujících skupinách sužují "
+"osamocené cestovatele na menších stezkách Wesnothu. Jezdí na koních a "
+"používají zlověstně vypadající srpy. Někdy s sebou nosí i primitivní kuše, "
+"ale nejsou v boji s nimi moc zkušení."
 
 #. [attack]: type=blade
 #: A_New_Order/units/others/Brigand.cfg:30
 msgid "sickle"
-msgstr "kosák"
+msgstr "srp"
 
 #: A_New_Order/units/macros/abilities.cfg:11
 msgid ""
@@ -236,7 +249,7 @@ msgstr ""
 
 #: A_New_Order/units/macros/abilities.cfg:19
 msgid "dauntless"
-msgstr ""
+msgstr "neohroženost"
 
 #: A_New_Order/units/macros/abilities.cfg:21
 msgid ""
@@ -244,6 +257,9 @@ msgid ""
 "While attacking, this unit's resistances are doubled, up to a maximum of 50. "
 "Weaknesses are not affected."
 msgstr ""
+"Neohroženost:\n"
+"Odolnosti této jednotky jsou při útoku zdvojnásobeny, až na maximum 50 %. "
+"Odolnosti se zápornými hodnotami (zranitelnosti) nejsou ovlivněny."
 
 #: A_New_Order/units/macros/abilities.cfg:25
 msgid "sylvan spark"
@@ -332,7 +348,7 @@ msgstr ""
 #: A_New_Order/units/macros/abilities.cfg:180
 #: A_New_Order/units/macros/abilities.cfg:218
 msgid "ability^sylvan essence"
-msgstr ""
+msgstr "esence sylvanů"
 
 #. [heals]: id=sylvan_essence_healing_nounion
 #: A_New_Order/units/macros/abilities.cfg:182
@@ -343,6 +359,11 @@ msgid ""
 "its enemies. It can also regenerate (but not unpoison) 3 HP per-turn, but "
 "only in vegetated terrains."
 msgstr ""
+"Esence Sylvanů:\n"
+"Tato jednotka je schopna léčit sousedící spojenecké jednotky až o 8 životů "
+"za kolo a uzdravovat je z otravy. V porostlém terénu se skryje před svými "
+"nepřáteli. Také se dokáže v porostlém terénu regenerovat až o 3 životy za "
+"kolo, ale nedokáže se sama uzdravit z otravy."
 
 #. [illuminates]: id=sylvan_essence_illum
 #: A_New_Order/units/macros/abilities.cfg:219
@@ -358,6 +379,15 @@ msgid ""
 "from its enemies. It can also regenerate (but not unpoison) 4 HP per-turn, "
 "but only in vegetated terrains."
 msgstr ""
+"Esence Sylvanů:\n"
+"Tato jednotka osvětlí okolní prostor, takže zákonné jednotky budou bojovat "
+"lépe a chaotické jednotky hůře. Jednotky na sousedních polích budou bojovat "
+"v noci jako za soumraku a za soumraku jako ve dne.\n"
+"\n"
+"Tato jednotka je také schopna léčit sousedící spojenecké jednotky až o 8 "
+"životů za kolo a uzdravovat je z otravy. V porostlém terénu se skryje před "
+"svými nepřáteli. Také se dokáže v porostlém terénu regenerovat až o 4 životy "
+"za kolo, ale nedokáže se sama uzdravit z otravy."
 
 # Nevím, jak je to s tím velkým písmenem.
 #. [advancement]: id=armoured
@@ -393,7 +423,7 @@ msgstr "tanečník s mečem"
 #. [advancement]: id=tough
 #: A_New_Order/units/macros/amla.cfg:134
 msgid "AMLA^Tough"
-msgstr "dotek"
+msgstr "tvrdý"
 
 #. [unit_type]: id=Lord Hagarthen, race=akladian
 #: A_New_Order/units/akladians/Lord_Hagarthen.cfg:4
@@ -402,18 +432,13 @@ msgstr "Lord Hagarthen"
 
 #. [unit_type]: id=Lord Hagarthen, race=akladian
 #: A_New_Order/units/akladians/Lord_Hagarthen.cfg:29
-#, fuzzy
-#| msgid ""
-#| "It usually takes many years until young Hagarthen clan members are "
-#| "consired worthy enough to become kings. Such Hagarthen clan members are "
-#| "then called lords."
 msgid ""
 "It usually takes many years until young Hagarthen clan members are "
 "considered worthy enough to become kings. Such Hagarthen clan members are "
 "then called lords."
 msgstr ""
 "Obvykle to trvá mnoho let, než se mladí členové klanu Hagarthen osvědčí "
-"natolik, aby se stali následníky trůnu. Takový Hagarthenové se pak nazývají "
+"natolik, aby se stali následníky trůnu. Takoví Hagarthenové se pak nazývají "
 "lordy."
 
 #. [unit_type]: id=Lord Bor Cryne, race=akladian
@@ -594,21 +619,16 @@ msgstr "Akladijský kouzelník"
 
 #. [unit_type]: id=Akladian Wonderman, race=akladian
 #: A_New_Order/units/akladians/Akladian_Wonderman.cfg:29
-#, fuzzy
-#| msgid ""
-#| "Very rare amongst Akladian tribes, Wonderman are those who have spent "
-#| "their whole life studying ways of healing. They have even learned from "
-#| "the experiences of Wesnothians, and learned a few valuable tricks in the "
-#| "process."
 msgid ""
 "Very rare amongst Akladian tribes, Wondermen are those who have spent their "
 "whole lives studying ways of healing. They have even learned from the "
 "experiences of the Wesnothians, and have learned a few valuable tricks in "
 "the process, such as the ability to wield lightbeams."
 msgstr ""
-"Jen velmi málo příslušníků akladijských kmenů se stane kouzelníky. Jsou to "
-"ti, kteří se celý svůj život věnují studiu léčení. Učí se dokonce ze "
-"zkušeností Wesnoťanů, od kterých si osvojili několik užitečných triků."
+"Mezi akladskými kmeny jsou kouzelníci velmi vzácní. Jsou to ti, kteří se "
+"celý svůj život věnují studiu způsobů léčení. Učili se dokonce ze zkušeností "
+"Wesnoťanů, od kterých si osvojili několik užitečných triků, jako je "
+"schopnost ovládat světelné paprsky."
 
 #. [attack]: type=impact
 #: A_New_Order/units/akladians/Akladian_Wonderman.cfg:35
@@ -704,15 +724,14 @@ msgstr "Akladijský černý rytíř"
 
 #. [unit_type]: id=Akladian Darknite, race=akladian
 #: A_New_Order/units/akladians/Akladian_Darknite.cfg:24
-#, fuzzy
 msgid ""
 "After spending their whole life in constant fighting, Darknites are "
 "excellent warriors and formidable opponents, hated and feared in the world "
 "of Wesnoth. They know no pity and expect none."
 msgstr ""
-"Tím, že strávili celý život neustálým válčením, se stali Černí rytíři "
-"excelentními a obávanými protivníky, nenáviděnými a obávanými ve světě "
-"Wesnothu. Neznají lítost a nešanují nikoho."
+"Poté, co strávili celý svůj život neustálým válčením, se stali Černí rytíři "
+"excelentními válečníky a impozantními protivníky, nenáviděnými a obávanými "
+"ve světě Wesnothu. Neznají soucit a také žádný neočekávají."
 
 #. [attack]: type=blade
 #: A_New_Order/units/akladians/Akladian_Darknite.cfg:34
@@ -726,16 +745,12 @@ msgstr "Akladijský útočník"
 
 #. [unit_type]: id=Akladian Sturmknight, race=akladian
 #: A_New_Order/units/akladians/Akladian_Sturmknight.cfg:24
-#, fuzzy
-#| msgid ""
-#| "Raids are well paid job and thanks to them many Akladians manage to equip "
-#| "themselves with better armour and weapons."
 msgid ""
 "Raids are well-paid jobs, and thanks to them many Akladians manage to equip "
 "themselves with better armour and weapons."
 msgstr ""
-"Být nájezdníkem je dobře placená práce a díky tomu mnoho Akladijců se "
-"rozhodlo si opatřit lepší zbraně a brnění."
+"Být nájezdníkem je dobře placená práce a díky tomu se mnohým Akladijcům "
+"podaří opatřit si lepší zbroj a zbraně."
 
 #. [unit_type]: id=Young Hagarthen, race=akladian
 #: A_New_Order/units/akladians/Young_Hagarthen.cfg:4
@@ -840,21 +855,19 @@ msgstr ""
 
 #. [unit_type]: id=Young Saurian, race=lizard
 #: A_New_Order/units/saurians/Young.cfg:6
-#, fuzzy
-#| msgid "Young Hagarthen"
 msgid "Young Saurian"
-msgstr "Mladý Hagarthen"
+msgstr "Mladý ještěrák"
 
 #. [unit_type]: id=Young Saurian, race=lizard
 #: A_New_Order/units/saurians/Young.cfg:19
 msgid "Young Saurians are the workers for their race."
-msgstr ""
+msgstr "Mladí ještěráci jsou dělníky své rasy."
 
 #. [attack]: type=pierce
 #: A_New_Order/units/saurians/Young.cfg:40
 #: A_New_Order/units/saurians/Young.cfg:49
 msgid "pick"
-msgstr ""
+msgstr "špičák"
 
 #: A_New_Order/units/_main.cfg:8
 msgid ""
@@ -1024,15 +1037,13 @@ msgstr ""
 
 #. [trait]: id=snow_shoes
 #: A_New_Order/macros/items.cfg:40
-#, fuzzy
-#| msgid "Snowshoes"
 msgid "snowshoes"
-msgstr "Sněžnice"
+msgstr "sněžnice"
 
 #. [trait]: id=snow_shoes
 #: A_New_Order/macros/items.cfg:41
 msgid "The snowshoes allow movement on frozen terrain."
-msgstr ""
+msgstr "Sněžnice umožňují pohyb na zmrzlém terénu."
 
 #. [message]: speaker=unit
 #. Kyobaine, female Elf
@@ -1067,23 +1078,19 @@ msgstr "Ha! $ano_milildur_$random "
 #. The message 'I fought with you for so many battles..' etc. will be spoken by both male, Milildur, and Elorain, female. Make it gender neutral.
 #: A_New_Order/macros/elvish_macros.cfg:79
 #: A_New_Order/macros/elvish_macros.cfg:96
-#, fuzzy
-#| msgid ""
-#| "My lord, I fought with you so many battles.. I can accept money from you "
-#| "no more. Please, treat me like a friend, not like a hired soldier."
 msgid ""
 "My lord, I fought with you for so many battles... I can accept money from "
 "you no more. Please, treat me like a friend, not like a hired soldier."
 msgstr ""
-"Můj pane, prošli jsme spolu tak mnoha bitvami... Již nikdy více nepřijmu od "
-"tebe peníze. Prosím, veď mne k dalším vítězstvím jako svého přítele, nikoli "
-"jako žoldáka."
+"Můj pane, prošli jsme spolu tak mnoha bitvami... Již nikdy víc od tebe "
+"nepřijmu peníze. Prosím, zacházej se mnou jako s tím, kdo stojí po tvém boku "
+"díky přátelství a ne kvůli žoldu."
 
 #. [event]
 #. a more phonetic spelling of "Ahem" (noise made when clearing one's throat):
 #: A_New_Order/macros/elvish_macros.cfg:132
 msgid "Ekhem."
-msgstr ""
+msgstr "Ehm."
 
 #. [event]
 #. [then]
@@ -1150,7 +1157,7 @@ msgstr "Jak mám sakra chodit v tomhle oblečení v zimě? Je zasraná zima!"
 #. Gawen speaking to Kyobaine:
 #: A_New_Order/macros/elvish_macros.cfg:172
 msgid "But you're wearing snowshoes though."
-msgstr ""
+msgstr "Ale máš na sobě sněžnice."
 
 #. [then]
 #. Kyobaine speaking to Gawen:
@@ -1160,6 +1167,9 @@ msgid ""
 "FEET</i></b> I have strapped into them? The holes in their webbing are "
 "enormous! The snow gets right through!"
 msgstr ""
+"Vážně si myslíš, že to pomáhá s tím, že jsou to moje <b><i>BOSÉ NOHY</i></"
+"b>, které jsou do nich připnuté? Díry v jejich popruzích jsou obrovské! Sníh "
+"se dostane přímo skrz!"
 
 #. [event]
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
@@ -1176,17 +1186,14 @@ msgstr "Co tím myslíš? Tvoje oblečení je v pořádku."
 #. [then]
 #. Kyobaine asks Gawen for different clothes when she's wearing snowshoes:
 #: A_New_Order/macros/elvish_macros.cfg:201
-#, fuzzy
-#| msgid ""
-#| "<i>For the spring</i>. The least you can do is to give me proper shoes. "
-#| "You expect me to walk in this snow <i>barefoot</i>??"
 msgid ""
 "Except for the snowshoes, these are clothes <i>for the spring</i>. The least "
 "you can do is to give me a proper cloak. You expect me to fight when I'm "
 "shivering and have goosebumps??"
 msgstr ""
-"<i>Na jaro</i>. To nejmenší, co můžeš udělat, je dát mi pořádné boty. Čekáš, "
-"že budu chodit v tomhle sněhu <i>bosky</i>??"
+"Kromě těch sněžnic, je tohle oblečení <i>na jaro</i>. To nejmenší, co můžeš "
+"udělat, je dát mi pořádné oblečení. Čekáš, že budu bojovat, když se třesu a "
+"mám husí kůži??"
 
 #. [then]
 #. [else]
@@ -1198,10 +1205,8 @@ msgstr "To je směšné."
 #. [then]
 #. Kyobaine asks Gawen for different clothes when she's wearing snowshoes:
 #: A_New_Order/macros/elvish_macros.cfg:204
-#, fuzzy
-#| msgid "I couldn't agree more. Call me when you have new shoes."
 msgid "I couldn't agree more. Call me when you have a new cloak."
-msgstr "Nemohu než souhlasit. Dej mi vědět, až seženeš nové boty."
+msgstr "Nemohu než souhlasit. Dej mi vědět, až seženeš nové oblečení."
 
 #. [else]
 #. the old version of Kyobaine's request to Gawen:
@@ -1260,19 +1265,19 @@ msgstr ""
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:246
 msgid "Uh... she <i>is</i> coming back, isn't she?"
-msgstr ""
+msgstr "Uh... <i>vrátí se</i>, že?"
 
 #. [event]
 #. [then]
 #: A_New_Order/macros/elvish_macros.cfg:253
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:313
 msgid "...yes?"
-msgstr ""
+msgstr "...asi?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:254
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:255
@@ -1280,16 +1285,18 @@ msgid ""
 "...why do you look so surprised? I <i>did</i> say I was going to buy better "
 "winter clothes, didn't I? I think this cloak shall do just fine."
 msgstr ""
+"... proč vypadáš tak překvapeně? <i>Říkala jsem</i>, že si koupím lepší zimní "
+"oblečení, ne? Myslím, že tento plášť bude fungovat dobře."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:256
 msgid "...yes, well, indeed! Carry on, then!"
-msgstr ""
+msgstr "... ano, no, opravdu! Tak pokračujem!"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:257
 msgid "Humans... their reactions can be so strange sometimes..."
-msgstr ""
+msgstr "Lidé... jejich reakce mohou být někdy tak zvláštní..."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:263
@@ -1349,23 +1356,18 @@ msgstr "Nulové výdaje"
 
 #: A_New_Order/macros/ano_macros.cfg:1037
 msgid "Scenario notes:"
-msgstr ""
+msgstr "Poznámky ke scénáři:"
 
 #. [part]
 #: A_New_Order/macros/conversations.cfg:4
-#, fuzzy
-#| msgid ""
-#| "When the battle was ended, many bodies were found on fields near Barnon; "
-#| "but Gawen's body was not among them. Furious, Bor Cryne ordered a search "
-#| "of the whole battlefield, but the efforts of his men proved fruitless."
 msgid ""
 "When the battle had ended, many bodies were found on fields near Barnon, but "
 "Gawen's body was not among them. Furious, Bor Cryne ordered a search of the "
 "whole battlefield, but the efforts of his men proved fruitless."
 msgstr ""
-"Když boj skončil, mnoho těl bylo nalezeno na polích v okolí Barnonu; ale "
+"Když boj skončil, mnoho těl bylo nalezeno na polích v okolí Barnonu, ale "
 "Gawenovo tělo mezi nimi nebylo. Zuřivý Bor Cryne přikázal prohledat celé "
-"bitevní pole píď po pídi, ale ani toto prohledávání nepřineslo kýžený efekt."
+"bitevní pole píď po pídi, ale ani tato snaha nepřinesla kýžený efekt."
 
 #. [part]
 #: A_New_Order/macros/conversations.cfg:8
@@ -1832,13 +1834,6 @@ msgstr "A která je lepší?"
 
 #. the "silver saddle" here was golden previously, but I didn't want players getting confused with gold as in the currency, and plus "silver" gets us an alliteration:
 #: A_New_Order/macros/ano-01_06macros.cfg:238
-#, fuzzy
-#| msgid ""
-#| "There is no difference, really. We can use either to reach Vattin. The "
-#| "eastern one leads amidst swamps and forests, while the western one leads "
-#| "through the hills and grasslands. God, I swear to sacrifice a horse if "
-#| "you will help us survive this. A whole, beautiful horse. And I will add a "
-#| "golden saddle!"
 msgid ""
 "There is no difference, really. We can use either to reach Vattin. The "
 "eastern one leads amidst swamps and forests, while the western one leads "
@@ -1847,9 +1842,9 @@ msgid ""
 "saddle!"
 msgstr ""
 "To je vcelku jedno. Skutečně. Obě cesty vedou do Vattinu. Východní cesta "
-"vede mezi bažinami a lesy, západní pak přes hory a pastviny. Bože, přísahám, "
-"že ti obětuji svého koně, když nám pomůžeš se z této šlamastyky dostat! "
-"Celého, krásného, chutného koníčka! A přidám i pár zlaťáků!"
+"vede mezi bažinami a lesy, západní pak přes kopce a pastviny. Bože, "
+"přísahám, že ti obětuji koně, když nám tohle pomůžeš přežít! Celého, "
+"krásného, chutného koníčka! A přidám i stříbrné sedlo!"
 
 #: A_New_Order/macros/ano-01_06macros.cfg:239
 msgid ""
@@ -1889,12 +1884,6 @@ msgstr ""
 
 #. [objectives]
 #: A_New_Order/macros/ano-01_06macros.cfg:249
-#, fuzzy
-#| msgid ""
-#| "Any unit which reaches either signpost will be evacuated. Units not "
-#| "recalled will be lost. Gawen must not escape, or he would be considered "
-#| "an unworthy coward by his soldiers. You will get a bonus for each turn "
-#| "resisted beyond the required limit."
 msgid ""
 "Any unit which reaches either signpost will be evacuated and join Lorin and "
 "Reme's party. Gawen will be refunded the cost of evacuated loyal units. "
@@ -1906,10 +1895,15 @@ msgid ""
 "has left over after this scenario. Thus, it is better if Gawen spends all "
 "gold available to him now."
 msgstr ""
-"Jakákoli jednotka, která dosáhne směrovníku, bude evakuována.Nepřivolané "
-"jednotky budou ztraceny. Gawen nesmí uprchnout, jinak bude svými vojáky "
-"označen za zbabělce nehodného býti Akladijcem. Bonus získáš za každé kolo "
-"nad požadovaný limit."
+"Jakákoli jednotka, která dosáhne některého rozcestníku, bude evakuována a "
+"přidá se ke Lorinině a Remeho skupině. Gawenovi budou vráceny náklady za "
+"evakuované loajální jednotky. Nepovolané jednotky budou ztraceny. Jednotky, "
+"které neuniknou, budou také ztraceny. Gawen nesmí uprchnout, jinak bude "
+"svými vojáky považován za nehodného zbabělce.\n"
+"Lorin získá bonus do své vlastní zásoby zlata za každé kolo, které Gawen "
+"odolá nad požadovaný limit. Lorinivo zlato je oddělené od Gawenona, takže "
+"Lorin po tomto scénáři nebude mít přístup k žádnému zlatu, co mu zbylo. "
+"Proto je lepší, když teď Gawen utratí všechno zlato, které má k dispozici."
 
 #. [objective]: condition=lose
 #: A_New_Order/macros/ano-01_06macros.cfg:255
@@ -2038,12 +2032,12 @@ msgstr "Prosím, řekni mi..."
 #. [command]
 #: A_New_Order/macros/debug.cfg:61
 msgid "your name"
-msgstr ""
+msgstr "své jméno"
 
 #. [command]
 #: A_New_Order/macros/debug.cfg:62
 msgid "the path to your portrait"
-msgstr ""
+msgstr "jak najdu tvůj portrét"
 
 #. [command]
 #: A_New_Order/macros/debug.cfg:63
@@ -2058,7 +2052,7 @@ msgstr ""
 #. [command]
 #: A_New_Order/macros/debug.cfg:65
 msgid "your alignment"
-msgstr ""
+msgstr "svou příslušnost"
 
 #. [command]
 #. [event]
@@ -2073,17 +2067,17 @@ msgstr ""
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:564
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:571
 msgid "I changed my mind"
-msgstr "Rozhodl jsem se"
+msgstr "Rozmyslel jsem se"
 
 #. [message]: speaker=$selected_unit.id
 #: A_New_Order/macros/debug.cfg:71
 msgid "My name is $selected_unit.name|."
-msgstr ""
+msgstr "Jmenuji se $selected_unit.name|."
 
 #. [message]: speaker=$selected_unit.id
 #: A_New_Order/macros/debug.cfg:76
 msgid "The path to my portrait is $selected_unit.profile|."
-msgstr ""
+msgstr "Můj portrét je zde: $selected_unit.profile|"
 
 #. [message]: speaker=$selected_unit.id
 #: A_New_Order/macros/debug.cfg:81
@@ -2173,30 +2167,17 @@ msgstr ""
 "připraveno, než dorazíš."
 
 #: A_New_Order/macros/ano-20macros.cfg:54
-#, fuzzy
-#| msgid ""
-#| "Will you allow me to finish? Who said I have agreed? I want to be neither "
-#| "a king nor a messiah. Why me? Why not someone else? This is all insane! I "
-#| "will happily lead the army, but ..."
 msgid ""
 "Will you allow me to finish? Who said I have agreed? I want to be neither a "
 "king nor a messiah. Why me? Why not someone else? This is all insane! I will "
 "happily lead the army, but..."
 msgstr ""
-"Necháš mne to dokončit? Kdo řekl, že souhlasím? Já nechci být ani králem, "
-"ani nějakým mesiášem. Proč já? Proč ne někdo jiný? Celé je to nesmysl. Se "
-"štěstím jsem vedl svoji armádu, ale ..."
+"Necháte mne to dokončit? Kdo řekl, že souhlasím? Já nechci být ani králem, "
+"ani nějakým mesiášem. Proč já? Proč ne někdo jiný? Celé je to šílené! Budu "
+"šťastně vést armádu, ale..."
 
 #. Translation note: 'doom' in the sense that Deorien uses here means 'fate' or 'destiny':
 #: A_New_Order/macros/ano-20macros.cfg:56
-#, fuzzy
-#| msgid ""
-#| "(sigh) Once again, it can't be anyone else. Only you can unite "
-#| "Wesnothians and Akladians, because only YOU are have the blood of the "
-#| "royal lines of both nations flowing in your veins. I thought I explained "
-#| "that to you already. I'm afraid you were born to this doom, Gawen, you "
-#| "have no choice... unless you want to leave this whole country in chaos, "
-#| "instead."
 msgid ""
 "(<i>sigh</i>) Once again, it can't be anyone else. Only you can unite "
 "Wesnothians and Akladians, because only YOU are have the blood of the royal "
@@ -2204,11 +2185,11 @@ msgid ""
 "you already. I'm afraid you were born to this doom, Gawen, you have no "
 "choice... unless you want to leave this whole country in chaos, instead."
 msgstr ""
-"Ach jo. Ještě jednou: nemůže to být nikdo jiný. Pouze TY jsi předurčen k "
-"tomu, abys sjednotil Wesnothské a Akladijce, protože POUZE TY jsi z "
-"královské krve obou národů. Myslím, že jsem ti to již jednou vysvětlil. "
-"Zkrátka nemáš na výběr. Samozřejmě, pokud nechceš nechat zem upadnout do "
-"totálního chaosu."
+"(<i>Povzdech</i>) Ještě jednou, nemůže to být nikdo jiný. Jen ty můžeš "
+"sjednotit Wesnothské a Akladijce, protože POUZE TY jsi z královské krve obou "
+"národů. Myslel jsem, že jsem ti to už vysvětlil. Obávám se Gawene, že ses "
+"narodil, abys tento osud naplnil. Zkrátka nemáš na výběr..., pokud místo toho "
+"nechceš nechat celou tuto zemi v chaosu."
 
 #: A_New_Order/macros/ano-20macros.cfg:57
 msgid ""
@@ -2428,7 +2409,7 @@ msgstr "Já to udělal! Smůla, že na to neměl – co taky chceš, od podřad
 #. should be unreachable, but just in case:
 #: A_New_Order/macros/ano-20macros.cfg:299
 msgid "What was that? Speak up, you mumbler!"
-msgstr ""
+msgstr "Co to bylo? Mluv, ty mumlale!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:308
@@ -2553,12 +2534,12 @@ msgstr ""
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:332
 msgid "I'm sorry, I can't risk it."
-msgstr "Promiň, ale nemohu to riskovat."
+msgstr "Promiň, ale to nemohu riskovat."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:333
 msgid "I agree, as long as they immediately quit the field."
-msgstr ""
+msgstr "Souhlasím, pokud okamžitě opustí pole."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:336
@@ -2566,15 +2547,17 @@ msgid ""
 "I'm sorry, but I can't risk it. If I allow your soldiers to leave, they will "
 "surely come back one day to fight us again."
 msgstr ""
-"Promiň, ale nemohu to riskovat. Pokud je nechám teď jít, jednoho dne se "
-"vrátí a napadnou nás."
+"Promiň, ale to nemohu riskovat. Pokud je nechám teď jít, určitě se jednoho "
+"dne vrátí, aby s námi znovu bojovali."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:338
 msgid ""
 "Yes, I will agree. I will let your soldiers go, but they must quit the field "
 "of battle immediately."
-msgstr "Ano, souhlasím. Nechám je odejít."
+msgstr ""
+"Ano, budu souhlasit. Nechám vaše vojáky jít, ale musí okamžitě opustit "
+"bojiště."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:339
@@ -2775,13 +2758,12 @@ msgstr "Akladijec? Kdo to teda byl?"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:428
-#, fuzzy
 msgid ""
 "Who else but Bor Cryne... (<i>cough</i>) If you have any other questions, "
 "hurry, because I can feel death is just a few steps from me..."
 msgstr ""
-"A kdo jiný než Bor Cryne... (kašel) pokud máš nějaké další otázky, pospěš "
-"si, smrt už cítím na jazyku..."
+"A kdo jiný než Bor Cryne... (<i>kašle</i>) Pokud máš nějaké další otázky, "
+"pospěš si, už cítím smrt na jazyku..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:438
@@ -3305,15 +3287,12 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:601
-#, fuzzy
-#| msgid ""
-#| "Wesnothians! Bunch of flabby wimps! Band of stinking lobs! (coughs) "
-#| "You... you..."
 msgid ""
 "Wesnothians! Bunch of flabby wimps! Band of stinking lobs! (<i>coughs</i>) "
 "You... you..."
 msgstr ""
-"Wesnoťané! Horda slabých bab! Banda smradlavých tchořů! <kašel> Vy... vy..."
+"Wesnoťané! Horda slabých bab! Banda smradlavých tchořů! (<i>kašle</i>) Vy... "
+"vy..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:602
@@ -3357,7 +3336,7 @@ msgstr "Povstaňte, mí sluhové, povstaňte! Proč jste hluší k mému volán�
 #: A_New_Order/macros/ano-20macros.cfg:683
 #: A_New_Order/macros/ano-20macros.cfg:700
 msgid "He who dies by my hand is freed from the chains of necromancy forever."
-msgstr ""
+msgstr "Kdo zemře mou rukou, je navždy osvobozen z okovů nekromancie."
 
 #. [event]
 #. This should probably be unreachable, but just in case:
@@ -3377,16 +3356,18 @@ msgid ""
 "Wait! Deorien! Heal him before he passes, so that I may have a chance to "
 "strike the final blow!"
 msgstr ""
+"Počkejte! Deoriene! Uzdrav ho, než pojde, abych měl šanci zasadit poslední "
+"ránu!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:703
 msgid "I'm sorry, Ruvio, but it looks as though it's already too late..."
-msgstr ""
+msgstr "Promiň, Ruvio, ale vypadá to, že už je příliš pozdě..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:719
 msgid "Bor, hear now my command to you, my slave. Arise, arise!"
-msgstr "Bore, volám tě! Povstaň! Povstaň!"
+msgstr "Bore, můj otroku, slyš můj rozkaz. Povstaň, povstaň!"
 
 #. [unit]: type=Draug, id=Undead Bor Cryne
 #: A_New_Order/macros/ano-20macros.cfg:726
@@ -3407,12 +3388,12 @@ msgstr "No aspoň budu mít konečně šanci tě zabít!"
 #. Case where Bor Cryne dies before Grekulak has arrived:
 #: A_New_Order/macros/ano-20macros.cfg:760
 msgid "Just you wait... Once Grekulak comes..."
-msgstr ""
+msgstr "Jen počkej... Přijde Grekulak..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:775
 msgid "Be banished forever, creature of the night!"
-msgstr "Odejdi, nestvůro noci!"
+msgstr "Odejdi navždy, nestvůro noci!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:787
@@ -3729,6 +3710,8 @@ msgid ""
 "Good thing Lorin and Karen seem to have stopped being so competitive with "
 "one another; hopefully they can start to get along now..."
 msgstr ""
+"Dobře, zdá se, že Lorin a Karen mezi sebou přestali tolik soutěžit. Snad už "
+"spolu začnou vycházet..."
 
 #: A_New_Order/macros/ano-14macros.cfg:157
 msgid "By the way, I won: I scored $ano_competition_l|."
@@ -3769,7 +3752,7 @@ msgstr ""
 #. [floating_text]
 #: A_New_Order/macros/units.cfg:102
 msgid "+$experience_gained| exp"
-msgstr ""
+msgstr "+$experience_gained| zk"
 
 #. [scenario]: id=20_Okladia
 #: A_New_Order/scenarios/20_Okladia.cfg:4
@@ -4785,7 +4768,7 @@ msgid ""
 "Why did you and the Oracle wait until I came to Weldyn? Why didn't you "
 "declare me messiah before?"
 msgstr ""
-"Proč jste ty a Věštkyně čekali, dokud nedorazím do Weldynu? Proč jste mě "
+"Proč jsi s Věštkyní čekal, dokud nedorazím do Weldynu? Proč jste mě "
 "neoznačili za mesiáše dřív?"
 
 #. [event]
@@ -4797,10 +4780,10 @@ msgid ""
 "ago you were a boy without a name; now that name has been earned with your "
 "own sword."
 msgstr ""
-"Protože jsem si nebyl jist, že jsi tím pravým. Musel jsem vidět, že ty jsi "
-"tou správnou osobou, která o tom rozhodne. Mimochodem, musel sis o své "
-"zásluze sám vydobít reputaci,sám ses musel proslavit jak mezi Akladijci, tak "
-"Wesnothskými."
+"Protože jsem si nebyl jist, že jsi tím pravým. Musel jsem vidět osobně, "
+"abych se rozhodl. Kromě toho, sám sis musel vydobít reputaci. Musel ses "
+"proslavit jak mezi Akladijci, tak mezi Wesnothskými. Před rokem jsi byl "
+"chlapec beze jména. Nyní si to jméno získal svým vlastním mečem."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:537
@@ -4824,11 +4807,16 @@ msgid ""
 "contradict their beliefs. I believe they would quickly declare her a tool of "
 "false God once they would stop to like what she tells them."
 msgstr ""
+"Protože některé věci mohou být vysloveny pouze tehdy, když je posluchač "
+"připraven poslouchat. Víš, mladý králi, nevím, proč Akladijci respektují a "
+"poslouchají Věštkyni. Ale myslím, že to může být proto, že to, co říká, není "
+"otevřeně v rozporu s jejich přesvědčením. Věřím, že by ji rychle prohlásili "
+"za nástroj falešného boha, jakmile by se jim přestalo líbit, co jim říká."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:540
 msgid "Then why do you think they won't ignore what she tells them now?"
-msgstr ""
+msgstr "Tak proč myslíš, že nebudou ignorovat to, co jim říká teď?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:541
@@ -4838,6 +4826,10 @@ msgid ""
 "to admit that. Mind you, I may be wrong; but I think they simply need "
 "someone to tell them they must change."
 msgstr ""
+"Protože Akladijci jsou v zoufalé situaci. Myslím, že většina z nich hluboko "
+"ve svém srdci změny chce..., ale zároveň se zdá, že si to nedokážou přiznat. "
+"Nepouštěj ze zřetele, že se mohou mýlit. Ale myslím, že prostě potřebují "
+"někoho, kdo by jim řekl, že se musí změnit."
 
 #. [scenario]: id=25_The_Awakening
 #: A_New_Order/scenarios/25_The_Awakening.cfg:3
@@ -5040,14 +5032,12 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:645
-#, fuzzy
-#| msgid ""
-#| "I don't want to interrupt you your interesting discussion, but _I_ think "
-#| "you will have chance to ask this Gawen directly about everything."
 msgid ""
 "I don't want to interrupt you your interesting discussion, but <i><u>I</u></"
 "i> think you will have chance to ask this Gawen directly about everything."
-msgstr "Já nechtít rušit príma pokec, ale JÁ myslet vy zeptat ten Gawen přímo."
+msgstr ""
+"Já nechtít rušit príma pokec, ale <i><u>já</u></i> myslet, že vy zeptat ten "
+"Gawen přímo budete moct."
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:646
@@ -5368,17 +5358,17 @@ msgstr "Matěj"
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:916
 msgid "Rumpel"
-msgstr "Rumpel"
+msgstr "Rumpl"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:925
 msgid "Cimper"
-msgstr "Symper"
+msgstr "Cimpr"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:934
 msgid "Camper"
-msgstr "Kamper"
+msgstr "Campr"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:944
@@ -21341,13 +21331,11 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1029
 msgid "See how a true Akladian Lord fights!"
-msgstr ""
+msgstr "Podívejte, jak bojuje pravý akladijský lord!"
 
 #: A_New_Order/scenarios/06_Separation.cfg:11
-#, fuzzy
-#| msgid "It looks like he recruited a lot of units."
 msgid "You have already recruited $ano_tmp| units."
-msgstr "Vypadá to, že naverboval příliš mnoho vojska."
+msgstr "Už jsi naverboval $ano_tmp| jednotek."
 
 #. [then]
 #: A_New_Order/scenarios/06_Separation.cfg:17
@@ -21399,10 +21387,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/06_Separation.cfg:121
-#, fuzzy
-#| msgid "Reme.. You've always been a loyal servant of the Hagarthens.."
 msgid "Reme... You've always been a loyal servant of the Hagarthens..."
-msgstr "Reme... Říkal jsi, že jsi vždy věrně sloužil Hagarthenům..."
+msgstr "Reme... Vždy si věrně sloužil Hagarthenům..."
 
 #. [event]
 #: A_New_Order/scenarios/06_Separation.cfg:122
@@ -21438,13 +21424,12 @@ msgstr ""
 msgid ""
 "If you don't recall any veteran units... well, try it and see what happens!"
 msgstr ""
+"Pokud nepovoláš žádné zkušené jednotky... no, zkus to a uvidíš, co se stane!"
 
 #. [objectives]
 #: A_New_Order/scenarios/06_Separation.cfg:139
-#, fuzzy
-#| msgid "Any units not recalled will go with Reme instead."
 msgid "Any units not recalled will go to an unknown fate."
-msgstr "Jednotky, které nebudou povolány, odejdou s Remem."
+msgstr "Jednotky, které nebudou povolány, odejdou za neznámým osudem."
 
 #. [objectives]
 #: A_New_Order/scenarios/06_Separation.cfg:141
@@ -21499,14 +21484,9 @@ msgstr "Porušení Kruhu"
 
 #. [part]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:28
-#, fuzzy
-#| msgid ""
-#| " Moments slowly lengthen into hours. Hope is slipping through my "
-#| "fingers..."
 msgid ""
 "Moments slowly lengthen into hours. Hope is slipping through my fingers..."
-msgstr ""
-" Okamžiky se pomalu měnily v hodiny, jako kdyby mi plynuly mezi prsty..."
+msgstr " Okamžiky se pomalu mění v hodiny. Naděje mi protéká mezi prsty..."
 
 #. [part]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:36
@@ -21536,22 +21516,19 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:53
-#, fuzzy
 msgid ""
 "Your grandfather smashed the underling armies in the field and stormed their "
 "castles. They were weak while we were strong. Divided, while we were "
 "unified. God gave us our destiny; they foolishly trusted mages to alter "
 "theirs. They were truly destined to be our slaves."
 msgstr ""
-"Náš lid přišel do těchto končin z jižních zemí, dlouho předtím, než jsem se "
-"narodila. Osudem naší rasy je ovládnout svět; naši dědové rozdrtili armády "
-"podřadných v polích a potom vyplenili jejich hrady. Podřadní byli slabí, "
-"rozdělení, žádný bůh je neochraňoval, ale hlavně už dávno předtím opustili "
-"cestu meče. Byli přímo předurčeni stát se našimi otroky."
+"Tvůj dědeček v poli rozdrtil armády podřadných a zaútočil na jejich hrady. "
+"Oni byli slabí, zatímco my jsme byli silní. Oni byli rozdělení, zatímco my "
+"jsme byli jednotní. Nám Bůh dal náš osud, oni pošetile věřili mágům, že "
+"změní jejich. Byli skutečně předurčeni stát se našimi otroky."
 
 #. [part]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:78
-#, fuzzy
 msgid ""
 "We burned their palaces, towns, and castles; there was nothing worthy there. "
 "They told us that they put their legends and wisdom on paper, it was as "
@@ -21559,11 +21536,11 @@ msgid ""
 "them all. Their poetry, wisdom, and history - their entire culture - burned "
 "to ashes. And with them, that most irritating underling quality - hope."
 msgstr ""
-"Vypálili jsme jejich paláce, města a hrady; nic zvláštního tam stejně "
-"nebylo. Říkali nám, že své legendy a znalosti hodili na papír. Chtěli "
-"uvěznit svou historii do svých knih – a tak jsme jim je spálili. Do jediné. "
-"Už nemají žádné básničky, žádnou historii ani žádné vědomosti. Pojistili "
-"jsme se. Zbylé naděje těch nicek tak sežraly plameny."
+"Vypálili jsme jejich paláce, města a hrady. Stejně tam nic cenného nebylo. "
+"Řekli nám, že své legendy a moudrost hodili na papír. Jako by si mysleli, že "
+"mohou uvěznit historii ve svých knihách. Všechny jsme je spálili. Jejich "
+"poezie, moudrost a historie, celá jejich kultura, shořela na popel. A s nimi "
+"ta nejdráždivější podstata podřadných – naděje."
 
 #. [part]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:101
@@ -21576,12 +21553,12 @@ msgid ""
 "underlings' hatred for us only increased, and our own people were uneasy "
 "with having such a queen."
 msgstr ""
-"Bylo mi pět, když tvůj děd pošel a rozdělil království mezi své syny, a "
-"šest, když tvůj otec potlačil první rebélii. Nikdy jsem nepochopila, proč si "
-"vybral právě tvoji matku... čistě z fyzické přitažlivosti, nebo akt usmíření "
-"se s poraženými oženěním se s ženou z jejich královské rodiny? Pokud to "
-"opravdu chtěl, tak jeho plány totálně selhaly. Podřadní nás nenáviděli ještě "
-"víc a pro naše lidi nebylo lehké uznat takovou královnu."
+"Bylo mi pouhých pět, když tvůj děd pošel a rozdělil království mezi své "
+"syny, a šest, když tvůj otec potlačil první rebélii. Nikdy jsem nepochopila, "
+"proč si vybral právě tvoji matku... čistě z fyzické přitažlivosti, nebo jako "
+"pokus usmířit poražené tím, že se oženění s ženou z jejich šlechty? Pokud to "
+"opravdu chtěl, tak jeho plány totálně selhaly. Nenávist podřadných jen "
+"vzrostla a naši lidé byli znepokojeni tím, že mají takovou královnu."
 
 #. [part]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:107
@@ -21680,7 +21657,7 @@ msgstr "Domobrana"
 #. [unit]: id=Militiaman, type=Swordsman
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:373
 msgid "Swords-wielding Militiaman"
-msgstr ""
+msgstr "Domobrana s mečem"
 
 #. [event]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:506
@@ -21694,16 +21671,12 @@ msgstr "Díky Bohu! Gawene, chlapče, jak se cítíš? Můžeš mluvit? Hýbat s
 
 #. [event]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:508
-#, fuzzy
-#| msgid ""
-#| "I feel weak... sick... (pause) ... I can't remember anything... nothing. "
-#| "Who am I?"
 msgid ""
 "I feel weak... sick... (<i>pause</i>) ...I can't remember anything... "
 "nothing. Who am I?"
 msgstr ""
-"Cítím se... slabý... Všechno mě bolí... (ticho) ... Nemůůůžu si na nic "
-"vzpomenout... vůbec na nic... Kdo vlastně jsem?"
+"Cítím se... slabý... (<i>odmlčí se</i>)... Nemůžu si na nic vzpomenout... "
+"vůbec na nic... Kdo vlastně jsem?"
 
 #. [event]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:509
@@ -21733,18 +21706,15 @@ msgstr ""
 msgid "He will not make it."
 msgstr "To nezvládne."
 
+# Ten slon byl stylovější.
 #. [event]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:512
-#, fuzzy
-#| msgid ""
-#| "I vow to sacrifice a lamb to God if he can be cured. If not, I won't even "
-#| "sacrifice so much as a mouse ever again!  Do you hear me, God?  Do you?"
 msgid ""
 "I vow to sacrifice a lamb to God if he can be cured. If not, I won't even "
 "sacrifice so much as a mouse ever again! Do you hear me, God? Do you?"
 msgstr ""
-"Bože, přísahám, že ti obětuju slona, pokud se uzdraví. Když ne, už ti nikdy "
-"neobětuju ani MYŠ! Slyšíš mě, Bože? Gawene, můžeš vstát?"
+"Bože, přísahám, že ti obětuju beránka, pokud bude moci být vyléčen. Když ne, "
+"už ti nikdy neobětuju ani MYŠ! Slyšíš mě, Bože? Slyšíš?"
 
 #. [event]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:513
@@ -21793,14 +21763,6 @@ msgstr ""
 #. [event]
 #. EASY difficulty; Reme's hints should be helpful:
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:522
-#, fuzzy
-#| msgid ""
-#| "My lord, if you can't remember anything, then permit me a few "
-#| "suggestions. While our troops are not the armoured types the Wesnothians "
-#| "have, they are far more resistant to pain and faster than the craven "
-#| "underlings. Remember to seek advantageous terrain; it's good to defend on "
-#| "the hills or in villages or forests. Do not charge blindly into the "
-#| "enemy; we have no means to replenish our army."
 msgid ""
 "My lord, if you can't remember anything, then permit me a few suggestions. "
 "While our troops are not the armoured types the Wesnothians have, they are "
@@ -21809,11 +21771,12 @@ msgid ""
 "villages or forests. Do not charge blindly into the enemy; we have no means "
 "to replenish our army here."
 msgstr ""
-"Můj pane! Pokud si opravdu nic nepamatujete, dám vám pro začátek pár rad. "
-"Nezapomeňte, že naši vojáci nemají tak dobrou zbroj jako podřadní, ale jsou "
-"mnohem odolnější proti bolesti a jsou rychlejší než ti... . Dobře používej "
-"terén. Lépe se brání v horách, ve vesnicích a v lese. Neútoč slepě a zbrkle "
-"na nepřítele, nehodláme si nechat vyplenit zbytky naší armády."
+"Můj pane, pokud si opravdu nic nepamatujete, dovolte mi několik návrhů. I "
+"když naši vojáci nemají tak dobrou zbroj jako Wesnoťané, jsou mnohem "
+"odolnější vůči bolesti a rychlejší než ti zbabělí podřadní. Nezapomeňte "
+"vyhledávat výhodný terén. Je dobré se bránit na kopcích či v lesích. "
+"Neútočte slepě na nepřítele, nemáme zde žádné prostředky k doplnění naší "
+"armády."
 
 #. [event]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:523
@@ -21823,11 +21786,11 @@ msgid ""
 "cover your back. Clansmen are not experienced enough to control terrain next "
 "to them, so you must put them adjacent to one another to block the enemy."
 msgstr ""
-"Vidím dva dobré opěrné strategické body: jeden je na severu, poblíž vesnice; "
-"druhý je v horách na východ, ale zase žádná vesnice poblíž. Postupuj tak, "
-"aby si Tví vojáci vždy kryli záda. Příslušníci klanu sice nejsou zrovna "
-"zdatní v boji, ale můžeš je použít ve dvojici k obklíčení a tedy zablokování "
-"nepřátelské jednotky."
+"Vidím dva dobré opěrné strategické body. Jeden je na severu, poblíž vesnice, "
+"druhý je v kopcích na východ od nás. Použijte své vojáky tak, abyste si "
+"kryli záda. Příslušníci klanu nejsou dostatečně zkušení, aby ovládali terén "
+"kolem sebe, takže je musíte postavit jednoho vedle druhého, abyste nepřítele "
+"zablokovali."
 
 #. [event]
 #. NORMAL difficulty; bare minimum of hints:
@@ -21837,6 +21800,9 @@ msgid ""
 "Let's try to find our way to a village. And remember to keep yourself "
 "surrounded with your own troops so that the enemy can't slip in."
 msgstr ""
+"Můj pane, pokud si opravdu nic nepamatujete, dovolte mi několik návrhů. "
+"Zkusme najít cestu do vesnice. A pamatujte, že se musíte držet obklopen "
+"svými vlastními jednotkami, aby k vám nepřítel nemohl proklouznout."
 
 #. [event]
 #. HARD difficulty; I'm being a bit tongue-in-cheek with the text here to mock how the easier 2 difficulties had hints here:
@@ -21845,11 +21811,13 @@ msgid ""
 "My lord, if you can't remember anything, then, well, I guess... I don't know "
 "what to tell you."
 msgstr ""
+"Můj pane, pokud si opravdu nic nepamatujete, pak, no asi... nevím, co vám "
+"mám říct."
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:538
 msgid "Gawen Hagarthen reaches the enemy keep"
-msgstr ""
+msgstr "Gawen Hagarthen dosáhne nepřátelské tvrze"
 
 #. [objectives]
 #. this description of mechanics is only present on EASY, NORMAL, and HARD, but not NIGHTMARE, though:
@@ -22025,20 +21993,13 @@ msgid ""
 "you will hear is true. But I think I have guessed story of Grekulak more or "
 "less correctly."
 msgstr ""
-"To, co ti nyní sdělím, je výsledek mnohaletého úsilí; meditace a trpělivé "
-"spojování malých střípků informací v celou mozaiku. Nezaručím ti, že vše, co "
-"ti nyní vyjevím, je pravda. Ale myslím, že ti mohu vypovědět více či méně "
-"přesný příběh Grekulaka."
+"To, co ti nyní sdělím, je výsledek mnohaleté meditace a trpělivého "
+"shromažďování malých střípků informací. Nezaručím ti, že vše, co ti nyní "
+"vyjevím, je pravda. Ale myslím, že ti mohu vypovědět víceméně přesný příběh "
+"Grekulaka."
 
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Many centuries ago there was lich, possibly the most powerful to ever "
-#| "appear on the face of the earth. His name was Mal-Ravanal. His hordes "
-#| "invaded Wesnoth in ages past, but he was defeated by a few courageous "
-#| "men. Dacyn, Gweddry, and their band of heroes... all Wesnothians know "
-#| "those names, spoken of in our legends with respect and honour."
 msgid ""
 "Many centuries ago there was a lich, possibly the most powerful to ever "
 "appear on the face of the earth. His name was Mal-Ravanal. His hordes "
@@ -22047,19 +22008,13 @@ msgid ""
 "names, spoken of in our legends with respect and honour."
 msgstr ""
 "Před mnoha staletími žil jeden lich, možná nejmocnější stvoření, které kdy "
-"nosil povrch zemský. Jmenoval se Mal-Ravanal. Jeho hordy napadly v minulosti "
-"Wesnoth, ale byl poražen několika nesmírně odvážnými muži. Dacyn, Gweddry, "
-"všichni po celém Wesnothu znají ta jména a vyslovují je s respektem a láskou."
+"nosil povrch zemský. Jmenoval se Mal-Ravanal. Jeho hordy napadly v dávných "
+"dobách Wesnoth, byl ale poražen několika odvážnými muži. Dacyn, Gweddry a "
+"jejich skupina hrdinů..., všichni po celém Wesnothu znají tato jména, o "
+"nichž se v našich legendách mluví s respektem a ctí."
 
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:22
-#, fuzzy
-#| msgid ""
-#| "But one of adepts of Mal-Ravanal survived; paradoxically, the weakest "
-#| "one. His magic seems to be of a slightly different ilk than that of his "
-#| "fellow liches. In fact, I hesitate to call him a lich at all. I know of "
-#| "no other lich who has kept up his human appearance with the stubborness "
-#| "of Grekulak. According to my spies, he still looks like a living human."
 msgid ""
 "But one of adepts of Mal-Ravanal survived; paradoxically, the weakest one. "
 "His magic seems to be of a slightly different ilk than that of his fellow "
@@ -22067,11 +22022,11 @@ msgid ""
 "lich who has kept up his human appearance with the stubbornness of Grekulak. "
 "According to my spies, he still looks like a living human."
 msgstr ""
-"Jediný z Mal-Ravanalových učedníků přežil, a, paradoxně, tej nejslabší. Jeho "
-"magie byla jiného druhu než magie všech ostatních lichů. Ve skutečnosti se "
-"zdráhám nazývat jej lichem. Neznám žádného jiného nekromanta, který si "
-"udžoval svou lidskou podstatu tak umíněně, jako právě Grekulak. Díky mým "
-"špehům víme, že stále vypadá jako normální smrtelník."
+"Ale jeden z Mal-Ravanalových adeptů přežil, paradoxně ten nejslabší. Jeho "
+"magie se zdá být jiného druhu než magie všech ostatních lichů. Ve "
+"skutečnosti váhám, zda ho vůbec nazvat lichem. Neznám žádného jiného licha, "
+"který by si zachoval svůj lidský vzhled s tvrdohlavostí Grekulaka. Podle "
+"mých špehů stále vypadá jako živý člověk."
 
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:26
@@ -22158,15 +22113,14 @@ msgid ""
 "own way in the world. One of them, called Hagarthen, announced that Grekulak "
 "was the tool of a false God, and led a bloody rebellion."
 msgstr ""
-"Ale Akladijci byli do té míry lidmy, aby chtěli to, co lidé chtějí po "
-"všechny časy. Svobodu. možnost vybrat si svoji vlastní cestu. Jeden z nich, "
-"první z Hagarthenů, oznámil, že Grekulak je nástrojem falešného Boha a vedl "
-"krvavou rebelii."
+"Ale ve svém jádru byli Akladijci stále lidmi. Dost lidskými, aby chtěli "
+"totéž, co chtěli všichni lidé ve všech dobách. Svobodu. Právo vybrat si ve "
+"světě svou vlastní cestu. Jeden z nich, jménem Hagarthen, oznámil, že "
+"Grekulak je nástrojem falešného boha a vedl krvavou rebelii."
 
 # deserts were inserted instead of forests
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:48
-#, fuzzy
 msgid ""
 "The rebellion left Grekulak's capital in ruins. The Akladians escaped to the "
 "west, chased by Grekulak's allies, burning in deserts, drowning in swamps, "
@@ -22175,11 +22129,12 @@ msgid ""
 "journey; survived by less than a quarter of those who had left Grekulak's "
 "lands."
 msgstr ""
-"Ta zanechala Grekulakovo hlavní sídlo v troskách, a Akladijci vyrazili na "
-"západ, v zádech Grekulakovy spojence, brodíce se bažinami, bojujíce s "
-"ještěráky a všemi možnými nejstrašnějšími příšerami. Bylo to skutečně "
-"hrdinné putování, které nepřežila ani čtvrtina těch, kteří opustili "
-"Grekulakovu zem."
+"Ta zanechala Grekulakovo hlavní sídlo v troskách. Akladijci utekli na západ, "
+"pronásledováni Grekulakovými spojenci. V pouštích je sužovalo vedro, topili "
+"se v bažinách, bojovali s ještěráckými zuby a drápy a byli sužováni všemi "
+"druhy těch nejděsivějších tvorů, aby dosáhli úrodných zemí. Bylo to skutečně "
+"hrdinné putování, které nepřežila ani čtvrtina těch, co opustili Grekulakovu "
+"zemi."
 
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:54
@@ -22190,11 +22145,11 @@ msgid ""
 "a tool they could use to gain an advantage over the others - potential "
 "allies or mercenaries - rather than a terrible menace."
 msgstr ""
-"Tak nakonec dorazili do Wesnothu a ihned započali s jejich brutální vládou. "
-"Jak jistě víš, královstí bylo značně rozděleno a všichni westnothští "
-"panovníci si zprvu mysleli, že Akladijci by se mohli stát jejich nástrojem k "
-"ovládnutí ostatních, tedy spíše jako jejich potenciální spojenci či žoldnéři "
-"než děsivé nebezpečí."
+"Když konečně dorazili do Wesnothu, okamžitě zahájili brutální dobývání. Jak "
+"víš, královstí bylo tehdy značně rozděleno a na začátku si všichni "
+"westnothští panovníci mysleli, že by se Akladijci mohli stát jejich "
+"nástrojem k získání výhody nad ostatními. Tedy potenciálními spojenci nebo "
+"žoldáky spíše než děsivou hrozbou."
 
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:57
@@ -22209,15 +22164,14 @@ msgid ""
 "unthinkably stringent and cruel laws into civilised lands, chasing mages and "
 "murdering elvish and dwarvish traders."
 msgstr ""
-"Ano pád Weldynu nepřiměl wesnothské vládce k jednotnému postupu proti "
-"společnému nebezpečí. Jejich spojenectví bývala pouze dočasná pouze k "
-"vítězství v jedné bitvě, po které zase vše upadalo do původního chaosu. A "
-"tak byli jeden po druhém poraženi. Pouze Elensefar a poslední přímořská "
-"pobřeží a severní oblasti si zachovaly svrchovanost, leč na pováženou "
-"zůstává legalita jejich královských linií. A tak se téměř celý Wesnoth stal "
-"kořistí barbarských Akladijců, kteří s sebou přinesli do civilizovaných zemí "
-"svůj vlastní přísný řád plný krutosti a zloby, opovrhování mágy, vraždění "
-"elfích a trpasličích obchodníků."
+"Ani pád Weldynu nepřiměl wesnothské krále, aby se proti tomuto společnému "
+"nebezpečí spojili. Dočasně se sešli a dokonce vyhráli velkou bitvu, ale po "
+"tomto vítězství se vrátili ke svým starým sporům. A tak byli jeden po druhém "
+"poraženi. Pouze Elensefar a poslední přímořská pobřeží a severní oblasti si "
+"zachovaly svrchovanost, leč u některých zůstává na pováženou legalita jejich "
+"královských linií... Téměř celý Wesnoth stal kořistí barbarských Akladijců, "
+"kteří s sebou do civilizovaných zemí přinesli své nemyslitelně přísné a "
+"kruté zákony, pronásledování mágů a vraždění elfích a trpasličích obchodníků."
 
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:61
@@ -22433,14 +22387,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:153
-#, fuzzy
-#| msgid ""
-#| "And the Akladian faith in one God ruling the world seems to be attractive "
-#| "to other peasants, who no longer have to remember a plethora of rites and "
-#| "observances. If we can strip away the part about Akladian superiority, it "
-#| "may well became a religion uniting the nation, because in the face of "
-#| "orcish threats, undead incursions, and so on, you - Akladians, "
-#| "Wesnothians, and Khalifa - WILL became one nation, sooner or later."
 msgid ""
 "And the Akladian faith in one God ruling the world seems to be attractive to "
 "other peasants, who no longer have to remember a plethora of rites and "
@@ -22450,9 +22396,11 @@ msgid ""
 "Dunefolk - WILL became one nation, sooner or later."
 msgstr ""
 "A akladijská víra v jednoho Boha ovládajícího svět může být pro mnohé "
-"vesničany atraktivní. Pokud se nám podaří oddělit tu část o akladijské "
-"nadřazenosti, tato víra se jednou může sjednocovat národy, protože vy – "
-"Akladijci, Wesnoťané i Khalifa – se dříve či později stanete jedním národem."
+"vesničany atraktivní. Už si nemusí pamatovat přehršel rituálů a obřadů. "
+"Pokud se nám podaří oddělit tu část o akladijské nadřazenosti, může se dobře "
+"stát náboženstvím sjednocujícím národ. Protože tváří v tvář skřetím hrozbám, "
+"nájezdům nemrtvých a tak dále se z vás – Akladijců, Wesnoťanů i pouštních "
+"lidí – stane dříve nebo později jeden národ."
 
 #. [event]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:154
@@ -22472,13 +22420,6 @@ msgstr "Návrat krále"
 #. [part]
 #. Spoken by Lorin (female)
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:14
-#, fuzzy
-#| msgid ""
-#| "Once again, I was inside the walls of Vattin. I had dreamt about this "
-#| "moment many times, but I never expected I would be so... terrified. Gawen "
-#| "claimed his throne, and he was busy accepting envoys from every corner of "
-#| "Vakladia acknowleding him as king, both Wesnothians and Akladians "
-#| "alike... not to mention his beard was now full-grown."
 msgid ""
 "Once again, I was inside the walls of Vattin. I had dreamt about this moment "
 "many times, but I never expected I would be so... terrified. Gawen claimed "
@@ -22489,8 +22430,8 @@ msgstr ""
 "Takže jsem byla znova ve Vattinu. Mnohokrát jsem snila o tomto momentu, ale "
 "nikdy jsem nevěřila, že budu tak... sklíčená. Gawen získal svůj trůn a byl "
 "tak zaneprázdněný přijímáním poselstev ze všech koutů Vakladie, kdy mu jak "
-"Wesnoťani, tak Akladijci vzdávali hold jako svému králi, že ani "
-"nezaznamenal, že mu narostl plnovous."
+"Wesnoťani, tak Akladijci vzdávali hold jako svému králi..., že ani "
+"nezaznamenal, jak mu narostl plnovous."
 
 #. [part]
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:17
@@ -22540,19 +22481,14 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:157
-#, fuzzy
-#| msgid ""
-#| "As far as I can tell, all rebels I know about acknowledged you as king. "
-#| "Cities and remaining Wesnothian nobility are busy sending to you "
-#| "declarations of loyalty."
 msgid ""
 "As far as I can tell, all rebels I know about have acknowledged you as king. "
 "Cities and remaining Wesnothian nobility are busy sending to you "
 "declarations of loyalty."
 msgstr ""
-"Pokud mohu říci, všichni rebelové, které znám, tě přijali za svého krále. "
-"Zbylá svobodná území jsou plně zaneprázdněna v přípravě poselstev, která ti "
-"přednesou jejich loajalitu."
+"Pokud mohu soudit, všichni rebelové, o kterých vím, tě uznali za krále. "
+"Města a zbývající wesnothská šlechta jsou zaneprázdněni zasíláním prohlášení "
+"o loajalitě."
 
 #. [event]
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:158
@@ -22585,16 +22521,12 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:165
-#, fuzzy
-#| msgid ""
-#| "Noble Lutr Moric from Guilcorta, I believe you have a message for us from "
-#| "your kings"
 msgid ""
 "Noble Lutr Moric from Guilcorta, I believe you have a message for us from "
 "your kings."
 msgstr ""
-"Vznešený Lutre Morici z Guilcorta, věřím, že ty máš pro nás zprávy od svých "
-"králů. "
+"Vznešený Lutre Morici z Guilcorta, věřím, že máš pro nás zprávu od svých "
+"králů."
 
 #. [event]
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:166
@@ -22621,19 +22553,14 @@ msgstr "Promiň... Copak?"
 
 #. [event]
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:169
-#, fuzzy
-#| msgid ""
-#| "Undead and orcs will strike from east very soon. Maybe they are already "
-#| "on their way here. Bor Cryne is preparing an army in hills, and he will "
-#| "join Grekulak's army."
 msgid ""
 "Undead and orcs will strike from east very soon. Maybe they are already on "
 "their way here. Bor Cryne is preparing an army in the hills, and he will "
 "join Grekulak's army."
 msgstr ""
-"Nemrtví a skřeti zaútočí z východu velmi brzy. Dost možná, že už jsou na "
-"cestě. Bor Cryne připravuje v horách svoji vlastní armádu, se kterou se "
-"připojí ke Grekulakovi."
+"Nemrtví a skřeti zaútočí velmi brzy z východu. Dost možná, že už jsou na "
+"cestě. Bor Cryne připravuje v kopcích armádu, se kterou se připojí ke "
+"Grekulakovi."
 
 #. [event]
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:170
@@ -22666,19 +22593,14 @@ msgstr "Sami se připravujeme na obranu a nemůžeme postrádat jediného voják
 
 #. [event]
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:174
-#, fuzzy
-#| msgid ""
-#| "(To herself) Or rather, they are so afraid of each other that they can't "
-#| "risk weakening their armies, because the one beloved brother would then "
-#| "cut the second beloved brother's beloved throat."
 msgid ""
 "(<i>To herself</i>) Or rather, they are so afraid of each other that they "
 "can't risk weakening their armies, because the one beloved brother would "
 "then cut the second beloved brother's beloved throat."
 msgstr ""
-"(pro sebe)Nebo raději, se tak bojí jeden druhého, že nebudou riskovat "
-"oslabení svých armád, protože by jeden milující bratr svému druhému "
-"přemilovanému bratrovi rozpárali jejich přemilované žaludky."
+"(<i>Pro sebe</i>) Nebo spíše se jeden druhého tak bojí, že nebudou riskovat "
+"oslabení svých armád, protože by pak jeden milovaný bratr tomu druhému "
+"milovanému bratrovi podříznul přemilované hrdlo."
 
 #. [event]
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:175
@@ -22695,16 +22617,12 @@ msgstr "Získal jsi 200 zlatých."
 
 #. [event]
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:182
-#, fuzzy
-#| msgid ""
-#| "(To herself) 200 golden pieces! Wow, I'm impressed. I bet they will be "
-#| "forced to beg now, losing so ENORMOUS an amount of gold."
 msgid ""
 "(<i>To herself</i>) 200 golden pieces! Wow, I'm impressed. I bet they will "
 "be forced to beg now, losing so ENORMOUS an amount of gold."
 msgstr ""
-"(pro sebe) 200 zlatých! Och, jak jsem potěšena. Vsadím se, že je ještě "
-"poplácá po zádech, že tratí takovou OBROVSKOU částku."
+"(<i>Pro sebe</i>) 200 zlatých! Páni, jak jsem ohromena. Vsadím se, že teď "
+"budou muset jít žebrotou, když tratí tak OBROVSKOU částku."
 
 # Jozin z Bazin :-) :-)
 #. [scenario]: id=05_The_Swamp_Things
@@ -22794,8 +22712,8 @@ msgid ""
 "The orcss are coming in great numbersss... They are numerousss, they are "
 "hiding in the hillss waiting for the right moment to come..."
 msgstr ""
-"Ssskřeti přicházzzí ve velkých tlupách... Obrovssské počty sssskřetů, "
-"ssschovávají ssse v kopcích, čekají na ssssvou chvíli..."
+"Ssskřeti přicházzzí ve velkých tlupách... Obrovsské poččty ssskřetů, "
+"ssschovávají ssse v kopcích, čekají na sssvou chvíli..."
 
 #. [then]
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:284
@@ -23033,15 +22951,13 @@ msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:280
-#, fuzzy
-#| msgid "We won't pay."
 msgid "We don't have any oxen."
-msgstr "Nic vám nedáme."
+msgstr "Nemáme žádné voly."
 
 #. [then]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:281
 msgid "Then something similar."
-msgstr ""
+msgstr "Tak něco podobného."
 
 #. [then]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:298
@@ -23049,6 +22965,8 @@ msgid ""
 "...like that boar! Let me go capture it, sacrifice it, and then surely God's "
 "favor will be upon us!"
 msgstr ""
+"... jako je tenhle kanec! Nech mě to chytit, obětovat a pak jistě bude nad "
+"námi Boží přízeň!"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:307
@@ -23056,6 +22974,8 @@ msgid ""
 "I have caught it! Please, O God, accept this boar as a sacrifice, and look "
 "with blessing upon us, your children!"
 msgstr ""
+"Chytil jsem ho! Prosím, ó Bože, přijmi tohoto kance jako oběť a pohleď s "
+"požehnáním na nás, své děti!"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:308
@@ -23063,6 +22983,7 @@ msgid ""
 "Reumario feels reinvigorated by his performance of the sacrifice, and gains "
 "experience!"
 msgstr ""
+"Reumario se cítí znovu povzbuzen vykonaným obětováním a získává zkušenosti!"
 
 #. [then]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:335
@@ -23070,11 +22991,13 @@ msgid ""
 "You fools! I was going to sacrifice that boar! But now you have killed it "
 "without performing the proper sacrificial ritual, and it will go to waste!"
 msgstr ""
+"Vy blázni! Chtěl jsem toho kance obětovat! Ale teď jste ho zabili, aniž "
+"jste provedli správný obětní rituál. Promarnili jste ho!"
 
 #. [then]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:336
 msgid "Oops, sorry..."
-msgstr ""
+msgstr "Ups, pardon..."
 
 #. [else]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:339
@@ -23082,22 +23005,19 @@ msgid ""
 "It's too bad that Reumario is no longer with us; he could have sacrificed "
 "this boar to God and secured a blessing for us..."
 msgstr ""
+"Škoda, že Reumario už není mezi námi. Mohl toho kance obětovat Bohu a "
+"zajistit nám požehnání..."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:345
-#, fuzzy
-#| msgid ""
-#| "We do not need to rout them. They are not prepared for a long siege, so "
-#| "all we need to do is simply survive the initial onslaught. If we can do "
-#| "that, they will have to withdraw, because they will have no food."
 msgid ""
 "We do not need to rout our attackers. They are not prepared for a long "
 "siege, so all we need to do is simply survive the initial onslaught. If we "
 "can do that, they will have to withdraw, because they will have no food."
 msgstr ""
-"Naštěstí je není nutné porazit. Podívejte! Nejsou připraveni na dlouhé "
-"obléhání. Stačí odrazit první nájezd a oni se stáhnou. Nebo pochcípají "
-"hlady. "
+"Nepotřebujem ty útočníky nutně odrazit. Nejsou připraveni na dlouhé "
+"obléhání, takže nám stačí přežít počáteční nápor. Pokud to dokážem, budou se "
+"muset stáhnout, protože nemaj co žrát."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:346
@@ -23131,7 +23051,7 @@ msgstr ""
 #. [then]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:369
 msgid "They look well-prepared. Call in the reserves!"
-msgstr ""
+msgstr "Vypadají, že jsou dobře připravení. Zavolejte posily!"
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:419
@@ -23146,8 +23066,6 @@ msgstr "Mažid Jahjazad zemře"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:446
-#, fuzzy
-#| msgid "A woman... a woman has killed me... what a disgrace.."
 msgid "A woman... a woman has killed me... what a disgrace..."
 msgstr "Ženská... Mě zabýt ženská... Takový potupa..."
 
@@ -23159,11 +23077,8 @@ msgstr "Gaaarrr... Aaargh..."
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:481
 msgid "What did he say?"
-msgstr "Co říkal?"
+msgstr "Co to říkal?"
 
-# původně:
-# To život skřeta! Myslet to nebýt dobře nechat zabýt lidská ženština.
-# Žádná hrdinská písňa o já.
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:483
 msgid ""
@@ -23173,36 +23088,22 @@ msgstr ""
 "Myslím, že to bylo po skřetím něco jako: „Lidská ženština mě zabila, jaká "
 "ostuda!“"
 
-# původně:
-# To život skřeta! Myslet to nebýt dobře nechat zabýt lidská ženština.
-# Žádná hrdinská písňa o já.
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:486
-#, fuzzy
-#| msgid ""
-#| "I'm sure it was Orcish for 'a human woman has killed me, what a dishonor' "
-#| "or something like that."
 msgid ""
 "I'm sure it was Trollish for 'a human woman has killed me, what a dishonor' "
 "or something like that."
 msgstr ""
-"Myslím, že to bylo po skřetím něco jako: „Lidská ženština mě zabila, jaká "
+"Myslím, že to bylo po trollím něco jako: „Lidská ženština mě zabila, jaká "
 "ostuda!“"
 
-# původně:
-# To život skřeta! Myslet to nebýt dobře nechat zabýt lidská ženština.
-# Žádná hrdinská písňa o já.
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:488
-#, fuzzy
-#| msgid ""
-#| "I'm sure it was Orcish for 'a human woman has killed me, what a dishonor' "
-#| "or something like that."
 msgid ""
 "It was probably its way of saying 'a human woman has killed me, what a "
 "dishonor' or something like that."
 msgstr ""
-"Myslím, že to bylo po skřetím něco jako: „Lidská ženština mě zabila, jaká "
+"Myslím, že to bylo po jejich něco jako: „Lidská ženština mě zabila, jaká "
 "ostuda!“"
 
 #. [event]
@@ -23398,6 +23299,9 @@ msgid ""
 "tactical mind. If you are a wolf, it would be quite the feat for a man to "
 "tame you... but I have to try anyway."
 msgstr ""
+"Lorin, jsi schopnou velitelkou, silnou válečnicí a máš krásnou... taktickou "
+"mysl. Pokud bys byla vlčicí, byl by pro muže docela výkon, aby si tě "
+"ochočil..., ale stejně to musím zkusit."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:780
@@ -23427,7 +23331,7 @@ msgstr ""
 msgid ""
 "You may not see it, but you are a fool. An honorable fool, but a fool "
 "nonetheless."
-msgstr ""
+msgstr "Možná to nevidíš, ale seš hlupák. Ctihodný hlupák, ale přesto hlupák."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:783
@@ -23443,10 +23347,11 @@ msgid ""
 "not used to those kinds of glances. I can easily recognise fear, hatred, "
 "loathing, and disdain. But this... "
 msgstr ""
-"Zapomněl jsi říct 'ještě jednou mi řekneš podřadný a necháme tě tu "
-"samotnou'. Dobře poslouchej, Jahjazade: zaznamenala jsem jak na mně čumíš. "
-"Za prvé, nemám tušení co to má znamenat. Nikdy jsem takové chování nezažila. "
-"Rozeznám nenávist, opovržení, pohrdání. Ale toto..."
+"Zapomněl jsi říct: „Ještě jednou mi řekneš podřadný a necháme tě tu "
+"samotnou.“ Podívej, Jahjazade, nejsem ve spoustě věcí dost dobrá, ale nejsem "
+"slepá. Zaznamenala jsem, jak na mně čumíš. Nejdřív jsem nemohla přijít na to, "
+"co to znamená. Nejsem zvyklá na takový pohledy. Snadno rozeznám strach, "
+"nenávist, opovržení i pohrdání. Ale tohle..."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:785
@@ -23454,6 +23359,8 @@ msgid ""
 "...all of the worst emotions of a true warrior, and yet none of the worthy "
 "ones... the true warrior fights not for fear or for hate, but for love."
 msgstr ""
+"... všechny nejhorší emoce pravého válečníka, a přesto žádná z těch "
+"hodných... pravý válečník nebojuje ze strachu nebo z nenávisti, ale z lásky."
 
 #. [event]
 #. unused:
@@ -23463,6 +23370,9 @@ msgid ""
 "warrior! What it takes for a woman to be a warrior! Love cannot drive you "
 "hard enough, only pain, only fear, only hate!"
 msgstr ""
+"Ne! Ani vo tom nemluv! Nevíš nic o tom, co to znamená bejt válečníkem! Co je "
+"potřeba k tomu, aby ženská byla válečnicí! Láska tě nemůže dostatečně "
+"pohánět, jen bolest, jen strach, jen nenávist!"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:792
@@ -23470,6 +23380,8 @@ msgid ""
 "For love?! You really believe that?! You can't be serious. You speak like... "
 "Wesnothians have a special word for that kind of people. A rhymeister?"
 msgstr ""
+"Pro lásku?! Tomu vopravdu věříš?! To nemůžeš myslet vážně. Mluvíš jako... "
+"Wesnoťani mají pro takovej druh lidí speciální označení. Rýmovník?"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:793
@@ -23477,6 +23389,8 @@ msgid ""
 "I am serious. And I think you meant to say 'poet'. So you think I speak like "
 "a poet? Thank you."
 msgstr ""
+"Myslím to vážně. A myslím, žes chtěla říct slovo „básník“. Takže si myslíš, "
+"že mluvím jako básník? Děkuji."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:794
@@ -23484,6 +23398,8 @@ msgid ""
 "That was not a compliment. A 'poet' is just a fancy word for 'idiot'. You "
 "Dunefolk fight for love? Ha! No wonder you have lost."
 msgstr ""
+"To nebyl kompliment. „Básník“ je jen vyšperkovaný označení pro „idiota“. Vy "
+"pouštní lidi bojujete za lásku? Ha! Není divu, že prohráváte."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:795
@@ -23506,6 +23422,9 @@ msgid ""
 "thoughts from my mind. What do we do going forward? Armies are still out "
 "there. Our dooms, for now, are still entwined for good or ill."
 msgstr ""
+"Předpokládejme, že se na chvíli podřídím tvým přáním a vyženu tyto myšlenky "
+"ze své mysli. Co budeme dělat dál? Někde tam venku jsou stále armády. Naše "
+"osudy jsou prozatím stále propletené, ať v dobrém, či zlém."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:797
@@ -23522,6 +23441,8 @@ msgid ""
 "'Lady Lorin' it is then. But if you will not call me 'underling' you must "
 "call me something. If you like, you may simply call me 'Majid.' "
 msgstr ""
+"Takže „lady Lorin“. Ale jestli mi nebudeš říkat „podřadný“, musíš mě nějak "
+"oslovovat. Pokud chceš, můžeš mě říkat jednoduše „Majid“."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:799
@@ -23682,18 +23603,13 @@ msgstr "Reumario"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:217
-#, fuzzy
-#| msgid ""
-#| "So, let's put it all together. You agree to pay 18 gold pieces per arif "
-#| "swordsman, 19 gold pieces for our naffat fire masters, and 15 for the "
-#| "jundi foot soldiers, right?"
 msgid ""
 "So, let's put it all together. You agree to pay 18 gold pieces per arif "
 "swordsman, 17 gold pieces for our naffat fire masters, and 14 for the jundi "
 "foot soldiers, right?"
 msgstr ""
 "Dobře, shrňme si to. Souhlasíš, že zaplatíš 18 zlatých za arifského šermíře, "
-"19 za nafatského ohnivce a 15 za jundijského pěšáka. Je to tak?"
+"17 za nafatského ohnivce a 14 za jundijského pěšáka. Je to tak?"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:218
@@ -23705,12 +23621,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:219
-#, fuzzy
-#| msgid ""
-#| "I object to your characterization of our language as such, but fine, if "
-#| "you will be paying us, I can manage. In your terms, our prices are 18 "
-#| "gold pieces per Dune Soldier, 19 gold pieces per Dune Burner, and 15 gold "
-#| "pieces per Dune Rover. Is that satisfactory?"
 msgid ""
 "I object to your characterization of our language as such, but fine, if you "
 "will be paying us, I can manage. In your terms, our prices are 18 gold "
@@ -23719,7 +23629,7 @@ msgid ""
 msgstr ""
 "Mám námitky proti takové charakterizaci našeho jazyka, ale dobře, pokud nám "
 "budeš platit, zvládnu to. Tvými slovy, naše ceny jsou 18 zlatých za "
-"pouštního vojáka, 19 zlatých za pouštního podpalovače a 15 zlatých za "
+"pouštního vojáka, 17 zlatých za pouštního podpalovače a 14 zlatých za "
 "pouštního tuláka. Je to uspokojivé?"
 
 #. [event]
@@ -23944,7 +23854,7 @@ msgstr ""
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:372
 msgid "In this storeroom and..."
-msgstr ""
+msgstr "V tomhle skladu a..."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:373
@@ -23952,7 +23862,8 @@ msgid ""
 "Do you think I'm stupid? This would not be enough to house an army! You must "
 "have some hidden storeroom or treasury! Speak!"
 msgstr ""
-"Si myslíš su prdlá či co? Musíte mít někde nějaké 'zásobárny' zlata! Mluv!"
+"Si myslíš, že jsem prdlá, či co? Tohle by na ubytování armády nestačilo! "
+"Musíte mít nějaký skrytý sklad nebo pokladnu! Mluv!"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:374
@@ -24035,7 +23946,6 @@ msgstr ""
 
 #. [message]: speaker=Lady Lorin
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:443
-#, fuzzy
 msgid "And now, tell me more..."
 msgstr "A teď mi řekni víc..."
 
@@ -24043,12 +23953,12 @@ msgstr "A teď mi řekni víc..."
 #. spoken by Lorin
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:446
 msgid "You were worthy opponent, Oyre Mathauri. How can I honour you?"
-msgstr "Si byl dobrý nepřítel, Oyre Mathauri. Jak se ti můžu odměnit?"
+msgstr "Byls dobrej nepřítel, Oyre Mathauri. Jak se ti můžu odměnit?"
 
 #. [command]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:448
 msgid "By hanging yourself from the nearest tree, witch!"
-msgstr ""
+msgstr "Tím, že se oběsíš na nejbližším stromě, bosorko!"
 
 #. [command]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:451
@@ -24167,7 +24077,7 @@ msgstr "Tak. Spolu vyhrajem."
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:527
 msgid ""
 "You sound disappointed... were you relishing the thought of more action?"
-msgstr ""
+msgstr "Zníš zklamaně... těšila tě myšlenka na další akci?"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:528
@@ -24180,7 +24090,7 @@ msgid ""
 "What part of the phrase 'do not kill their leaders, leave them for me' was "
 "so difficult to understand?"
 msgstr ""
-"Čemu z věty 'nezabíjejte jejich velitele, nechte je mně' jsi nerozuměl?"
+"Čemu z věty „nezabíjejte jejich velitele, nechte je mně“ jsi nerozuměl?"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:560
@@ -24221,16 +24131,12 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:569
-#, fuzzy
-#| msgid ""
-#| "No, I just.. look, the castle provides excellent tactical position "
-#| "against sieges... stop glaring at me. What are you going to do now?"
 msgid ""
 "No, I just... look, the castle provides excellent tactical position against "
 "sieges... stop glaring at me. What are you going to do now?"
 msgstr ""
-"Ne, jenom... Oh, bohové, hrad má výbornou obrannou pozici a ... Nechme toho. "
-"Co se teď chystáš udělat?"
+"Ne, já jen... podívej, hrad poskytuje vynikající taktickou pozici proti "
+"obléhání... přestaň na mě zírat. Co se teď chystáš dělat?"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:576
@@ -24239,8 +24145,8 @@ msgid ""
 "the defenses immediately. And while we do so, we can ponder the next move to "
 "be made."
 msgstr ""
-"Copak jsi neslyšel? Nějaká armáda, skřeti armáda, přichází. Musíme připravit "
-"obranu. A pak budem vymýšlet co dál."
+"Copak jsi neslyšel? Míří sem nějaká skřetí armáda. Musíme hned připravit "
+"obranu. A zatímco to budeme dělat, můžeme vymýšlet náš další krok."
 
 #. [else]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:579
@@ -24273,6 +24179,8 @@ msgid ""
 "The locals are placing respect for arms above respect of kin.  Some of them "
 "are even willing to fight for you now."
 msgstr ""
+"Místní staví úctu k bojovým schopnostem nad respekt k rodovým vazbám. "
+"Někteří z nich jsou dokonce ochotni za tebe teď bojovat."
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:656
@@ -24296,7 +24204,7 @@ msgstr ""
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:697
 msgid "I lost to a woman? Nooo..."
-msgstr "Ale to bylo v sebeobraně!"
+msgstr "Prohrál jsem s ženskou? Nééé..."
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:706
@@ -24321,7 +24229,7 @@ msgstr "To je ale bojovnice! Nikdy jsem nebojoval s nikým jako je ona..."
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:717
 msgid "I am no necromancer; I have use only for living warriors, not the dead!"
-msgstr ""
+msgstr "Nejsem žádný nekromant. Využívám pouze živé válečníky, ne ty mrtvé!"
 
 #. [then]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:718
@@ -24352,12 +24260,12 @@ msgstr "Normální"
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:54
 msgid "Difficult"
-msgstr ""
+msgstr "Obtížná"
 
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:55
 msgid "Impossible"
-msgstr "Neskutečné"
+msgstr "Neskutečná"
 
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:57
@@ -24374,13 +24282,22 @@ msgid ""
 "(Intermediate level, 45 scenarios. Requires BfW 1.16)\n"
 "Version "
 msgstr ""
+"Staré království Wesnoth padlo pod náporem barbarských hord. Vládnoucí "
+"barbaříci jsou na pokraji občanské války, staré legendy udržují naživu "
+"zárodky wesnothského povstání, zatímco se po zemi potulují bandité a žoldáci "
+"pouštního lidu. Dokáže Gawen Hagarthen sjednotit tyto nesourodé frakce proti "
+"společnému nepříteli?\n"
+"\n"
+"Poznámka: Toto tažení obsahuje témata pro dospělé, z nichž některá mohou být "
+"pro děti nevhodná.\n"
+"\n"
+"(Pokročilý hráč, 45 scénářů. Tažení vyžaduje BoW verze 1.16.)\n"
+"Verze "
 
 #. [about]
 #: A_New_Order/about.cfg:13
-#, fuzzy
-#| msgid "Creator and Lead Designer"
 msgid "Original Creator and Lead Designer"
-msgstr "Autor a hlavní designér"
+msgstr "Původní autor a hlavní designér"
 
 #. [about]
 #: A_New_Order/about.cfg:25
@@ -24439,10 +24356,8 @@ msgstr "Německý překlad:"
 
 #. [entry]
 #: A_New_Order/about.cfg:138
-#, fuzzy
-#| msgid "Italian translation:"
 msgid "Hungarian translation:"
-msgstr "Italský překlad:"
+msgstr "Maďarský překlad:"
 
 #. [entry]
 #: A_New_Order/about.cfg:141
@@ -24482,20 +24397,18 @@ msgstr "Další poděkování patří"
 #. [entry]
 #: A_New_Order/about.cfg:210
 msgid "all others from the Wesnoth forums"
-msgstr ""
+msgstr "a všem ostatním z fóra hry Wesnoth"
 
 #. [about]
 #: A_New_Order/about.cfg:215
 msgid "Campaign funding"
-msgstr ""
+msgstr "Podpora tažení"
 
 #. [about]
 #. I had to shorten this to get it to fit:
 #: A_New_Order/about.cfg:238
-#, fuzzy
-#| msgid "Additional information may be found within readme.txt file"
 msgid "More info may be found within readme.txt file"
-msgstr "Další informace lze nalézt v souboru readme.txt"
+msgstr "Více informací lze nalézt v souboru readme.txt"
 
 #. [entry]
 #: A_New_Order/about.cfg:240
