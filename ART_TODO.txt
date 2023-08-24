@@ -26,6 +26,11 @@ you may find helpful for matching Wesnoth style:
 * "Portrait Tutorial": https://wiki.wesnoth.org/Portrait_Tutorial
 * "Armor Tutorial": https://wiki.wesnoth.org/Armour_Tutorial
 * "Technical requirements for portraits": https://forums.wesnoth.org/viewtopic.php?t=24555
+Also, if you are basing your portraits off of the sprites (which you really ought
+to), you should probably also see the articles on Team Coloring to know what to do
+with the magenta parts on the sprites:
+* "TeamColoring": https://wiki.wesnoth.org/TeamColoring
+* "Team Color Shifting": https://wiki.wesnoth.org/Team_Color_Shifting
 
 The following wishlist items are sorted in order of importance.  In addition, you
 may consider making animations for sprites, or correct existing sprites.
@@ -38,11 +43,12 @@ PORTRAITS
 * Generic Akladian unit with spears (Warrior and LightInfantry still remain)
   (Clansman already exists as akladian_generic.png and Pikeneer already exists as
   profile_pikinier.png)
-* Portrait for the Brigand -> Outlaw Raider unit line (might cost more due to some
-  artists charging more for horses)
+* Outlaw Raider (might cost more due to some artists charging more for horses)
+  (Brigand went to Mells/ohlyf, so I'll probably assign this one to her as well)
 * A winter version of Yahyazad's portrait
 * Another Reme portrait (for the "m"-suffixed message macro for him)
-* Generic leading units (Chieftain+leader - this is very low priority)
+* Generic leading units (Chieftain+leader - this is very low priority) (being
+  commissioned to Laineywilson005)
 * A winter version of Karen's portrait (low priority, and it'd be more expensive)
   (there's one in the ANO_art repo, but it doesn't match her usual look, so one of
   the two would have to be updated)
