@@ -6394,7 +6394,7 @@ msgstr ""
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:311
 msgid "We could also go for the swamps."
-msgstr "Mohli jsme jít i do močálů."
+msgstr "Můžem jít i do močálů."
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:312
@@ -6404,9 +6404,9 @@ msgid ""
 "also some villages here, you could go and ask peasants, maybe they would "
 "know something."
 msgstr ""
-"To jsme mohli, ale na blatech Saorduku žijí ještěráci, a ti moc ze svých "
+"To můžem, ale na blatech Saorduku žijí ještěráci, a ti moc ze svých "
 "bažin nevychází. Pochybuju, že by věděli něco užitečného. Je pravda, že tam "
-"jsou i nějaké vesnice, takže se můžeš poptat sedláků. Možná by něco mohli "
+"jsou i nějaké vesnice, takže se můžeš jít poptat sedláků. Možná by něco mohli "
 "vědět."
 
 #. [scenario]: id=13_Scouting
