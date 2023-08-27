@@ -13715,7 +13715,7 @@ msgstr "OPRAVDU máš chuť zkoušet štěstí, člověče?"
 #. [else]
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:329
 msgid "...you're right, never mind."
-msgstr "...máš pravdu, nevadí."
+msgstr "... máš pravdu, nevadí."
 
 #. [else]
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:331
