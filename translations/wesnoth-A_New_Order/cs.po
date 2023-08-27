@@ -15642,7 +15642,7 @@ msgid ""
 "restart just to be sure!"
 msgstr ""
 "Zdá se, že režim ladění je buď zapnutý, nebo byl zapnutý v minulosti. Takže "
-"není jasné, zda se pokoušíš zabít Uri van Roa podvodem nebo ne... pro "
+"není jasné, zda se pokoušíš zabít Uri van Roa podvodem, nebo ne... pro "
 "jistotu je lepší restartovat!"
 
 #. [event]
