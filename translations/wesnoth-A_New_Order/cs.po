@@ -14857,7 +14857,7 @@ msgid ""
 "here. I know who all of you are. Ask your questions and receive the answers, "
 "for I can see everything which may be."
 msgstr ""
-"Tady jsem. Hlas mluvící k těm jež chtějí naslouchat. Vím, kdo jste a proč "
+"Tady jsem. Hlas mluvící k těm, již chtějí naslouchat. Vím, kdo jste a proč "
 "jste zde. Položte své otázky a získejte odpovědi, neboť já vidím vše, co se "
 "stane a co by se mohlo státi."
 
