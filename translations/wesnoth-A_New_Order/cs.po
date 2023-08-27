@@ -14763,7 +14763,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1544
 msgid "Ha, ha, human. You mean, 'everything we leave' will be yours."
-msgstr "Ha, ha, lidský červy. Myslet, „vše co my nevzít“ bude vaše."
+msgstr "Ha, ha, lidský červi. Myslet, „vše co my nevzít“ bude vaše."
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1545
