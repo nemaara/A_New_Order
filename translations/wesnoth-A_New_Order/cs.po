@@ -17578,7 +17578,7 @@ msgid ""
 "about him he could do it - if he could think for himself."
 msgstr ""
 "Ten chlápek z města Barnonu? Ne, on to nebyl. I když z toho, co jsem o něm "
-"slyšel by to udělat mohl – kdyby mohl myslet sám za sebe."
+"slyšel, by to udělat mohl – kdyby mohl myslet sám za sebe."
 
 #. [then]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:407
