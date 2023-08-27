@@ -17628,7 +17628,7 @@ msgid ""
 "Hm, it seems there are some more people here, capable with spears and bows, "
 "who could be recruited."
 msgstr ""
-"Hm, vypadá to, že je tu víc lidí, co to umí s kopím a lukem a šlo by je "
+"Hm, vypadá to, že je tu víc lidí, co to umí s kopím a lukem, a šlo by je "
 "naverbovat."
 
 #. [event]
