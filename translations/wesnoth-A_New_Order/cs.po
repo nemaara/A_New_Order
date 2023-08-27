@@ -15540,7 +15540,7 @@ msgid ""
 "not clear if you're cheating to kill Bor Cryne or not... better restart just "
 "to be sure!"
 msgstr ""
-"Zdá se, že režim ladění je buď zapnutý, nebo byl v minulosti zapnutý. Takže "
+"Zdá se, že režim ladění je buď zapnutý, nebo byl zapnutý v minulosti. Takže "
 "není jasné, zda se při zabití Bor Cryna podvádí nebo ne... pro jistotu je "
 "lepší restartovat!"
 
