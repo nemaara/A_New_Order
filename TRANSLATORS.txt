@@ -47,6 +47,10 @@ GUIDE FOR TRANSLATION
 * Please ensure that you save your po files with Unix-style line endings when
   editing your translation, to minimize confusion in the version control system.
   Poedit has a setting for this under its advanced preferences.
+* If you need to regenerate the potfile, the command to do so is usually something
+  like:
+./wmlxgettext --domain=wesnoth-A_New_Order --directory=/Users/ericgallager/Library/Containers/org.wesnoth.Wesnoth/Data/Library/Application\ Support/Wesnoth_1.16/data/add-ons/A_New_Order --recursive --warnall --no-sort-by-file -o /Users/ericgallager/Library/Containers/org.wesnoth.Wesnoth/Data/Library/Application\ Support/Wesnoth_1.16/data/add-ons/A_New_Order/translations/wesnoth-A_New_Order.pot
+  (with edits to the paths as necessary for your own directory layout)
 
 USEFUL LINKS
 ------------
