@@ -1,15 +1,15 @@
 # translation of cs.po to Czech
 # Toto je český překlad tažení „A New Order“
 # Oto Buchta (tapik) <tapik@buchtovi.cz>, 2005, 2006, 2007.
-# Petr Šlejhar (Septim) <septim@centrum.cz>, 2022.
-# Michal Žejdl <lachim@emer.cz>, 2022
+# Petr Šlejhar (Septim) <septim@centrum.cz>, 2022, 2023.
+# Michal Žejdl <lachim@emer.cz>, 2022, 2023.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-05-10 18:23 UTC\n"
-"PO-Revision-Date: 2023-08-11 15:35+0200\n"
+"PO-Revision-Date: 2023-08-24 22:59+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -322,7 +322,7 @@ msgstr ""
 #. [leadership]: id=intimidates_terror
 #: A_New_Order/units/macros/abilities.cfg:115
 msgid "ability^intimidates"
-msgstr ""
+msgstr "zastrašuje"
 
 #. [leadership]: id=intimidates_terror
 #: A_New_Order/units/macros/abilities.cfg:116
@@ -333,6 +333,12 @@ msgid ""
 "Affected units engaging in combat deal 25% less damage and become unable to "
 "exert their zone of control over those adjacent to the intimidating unit."
 msgstr ""
+"Tato jednotka zastrašováním zhoršuje bojeschopnost sousedících nepřátelských "
+"jednotek úrovně 0 a 1.\n"
+"\n"
+"Postižené jednotky zapojené do boje způsobí o 25 % menší poškození a nebudou "
+"schopny uplatňovat svou zónu kontroly vůči jednotkám, co sousedí se "
+"zastrašující jednotkou."
 
 #. [heals]: id=sylvan_essence_healing_nounion
 #. [illuminates]: id=sylvan_essence_illum
@@ -1257,7 +1263,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:220
 msgid "Maybe I should act gentlemanly here?"
-msgstr ""
+msgstr "Možná bych se tu měl chovat gentlemansky?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:221
@@ -1275,6 +1281,8 @@ msgid ""
 "Are you sure you wouldn't prefer it if I went and bought you better winter "
 "clothes instead? That way you could stay by a campfire while you wait."
 msgstr ""
+"Jseš si jistá, že bys nebyla radši, kdybych ti místo toho šel koupit lepší "
+"zimní oblečení? Mohla bys tak počkat v teple u ohně."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:225
@@ -1283,6 +1291,9 @@ msgid ""
 "this. Someone with judgment like that can hardly be expected to correctly "
 "purchase the clothes I require."
 msgstr ""
+"Abych byla upřímná, moc ti nevěřím, když jsi mě sem takhle zavolal. Od "
+"někoho s takovým úsudkem lze jen stěží očekávat, že správně sežene oblečení, "
+"co požaduji."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:226
@@ -1290,6 +1301,8 @@ msgid ""
 "What, do you require them in a particular size or something? What are your "
 "measurements?"
 msgstr ""
+"Co, potřebuješ je v nějaké konkrétní velikosti nebo tak něco? Jaké jsou tvé "
+"míry?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:227
@@ -1297,26 +1310,32 @@ msgid ""
 "My... measurements? What do you mean by that? Do you mean you humans measure "
 "yourselves before deciding what clothing to purchase?"
 msgstr ""
+"Mé... míry? Co tím myslíš? Chceš říct, že vy lidé se měříte, než se "
+"rozhodnete, jaké oblečení si koupit?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:228
 msgid "I mean, yeah, we do; how do you elves make sure you get the proper fit?"
 msgstr ""
+"Jasně, to myslím přesně děláme. Jak se vy elfové ujistíte, že máte správné "
+"míry?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:229
 msgid "Why, we simply wander the woods hugging trees until -"
 msgstr ""
+"Proč bychom to měli dělat? Prostě se touláme lesem a objímáme stromy, "
+"dokud..."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:230
 msgid "Wait, hold up, you literally HUG TREES?!"
-msgstr ""
+msgstr "Počkej, vydrž, tys řekla doslova že OBJÍMÁTE STROMY?!"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:231
 msgid "Why yes, of course, haven't you ever tried it?"
-msgstr ""
+msgstr "Samozřejmě, proč, nikdy jsi to nezkusil?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:232
@@ -1326,6 +1345,9 @@ msgid ""
 "and thus the only interaction we are allowed to have with trees is chopping "
 "them down."
 msgstr ""
+"Ha, to je prča! (<i>zalyká se smíchem</i>). Ale abych ti odpověděl na "
+"otázku, ne, nezkusil. Akladijci vychovávají své děti k tomu, aby se stromů "
+"bály, a tak jediný kontakt, co se stromy můžeme mít, je při jejich kácení."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:233
@@ -1336,6 +1358,12 @@ msgid ""
 "around it return our embrace in a way that feels just right, and then the "
 "vines will form new clothes for us based on this experience."
 msgstr ""
+"Jak otřesné! Pro své vlastní dobro bys měl někdy zkusit obejmout strom. Ale "
+"abychom se vrátili k předchozímu tématu, způsob, jak si zajistit, aby nám "
+"šaty padly, je potulovat se po lese a objímat stromy, dokud jeden z nich "
+"nedovolí liánám rostoucím kolem něj opětovat nám naše objetí tak, aby "
+"sevření bylo tak akorát. Liány nám pak na základě této zkušenosti vytvoří "
+"nové šaty."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:234
@@ -1344,11 +1372,14 @@ msgid ""
 "vines that would really feel up to that... Could you please try the human "
 "measurement system instead just this one time?"
 msgstr ""
+"Dobře, no, je zima, takže si nemyslím, že nějaký ze těch stromů tady má "
+"liány, které by na to byly připravené... Mohla bys prosím místo toho jednou "
+"zkusit způsob lidského měření?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:235
 msgid "All right, what measurements do you require? The length of my ears?"
-msgstr ""
+msgstr "Dobře, jaké míry požaduješ? Délku mých uší?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:236
@@ -1357,21 +1388,24 @@ msgid ""
 "better to have one of your fellow females explain this to you... look, there "
 "are Lorin and Karen over there; let's go ask one of them."
 msgstr ""
+"Ne, to je, ach, ech... (<i>červená se</i>) ... víš co, možná by bylo lepší, "
+"kdyby ti to vysvětlila jedna z tvých souputnic... Podívej, tamhle jsou Lorin "
+"a Karen. Pojďme se zeptat jedné z nich."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:237
 msgid "Let's ask..."
-msgstr ""
+msgstr "Zeptejme se..."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:238
 msgid "person_to_ask^Lorin."
-msgstr ""
+msgstr "Lorin."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:239
 msgid "person_to_ask^Karen."
-msgstr ""
+msgstr "Karen."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:241
@@ -1379,17 +1413,19 @@ msgid ""
 "Hi, mother, I was just wondering if you could help explain human "
 "measurements to Kyobaine here?"
 msgstr ""
+"Zdar matko, jen mě zajímalo, jestli bys mohla pomoci vysvětlit tady Kyobaine "
+"lidské měření?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:242
 msgid ""
 "Measurements? You mean like how far I can drive my knife into someone's back?"
-msgstr ""
+msgstr "Měření? Myslíš tím, jak daleko můžu zabodnout nůž někomu do zad?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:243
 msgid "No, of course not! I meant for clothing."
-msgstr ""
+msgstr "Ne, samozřejmě že ne! Měl jsem na mysli měření oblečení."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:244
@@ -1399,6 +1435,9 @@ msgid ""
 "returned with the clothes, so that he can't go leaking my secrets to anyone "
 "else."
 msgstr ""
+"Jasně, TENHLE druh měření. Já si svý míry nepamatuju. Obvykle nechám "
+"podřízenou služku, aby mi je změřila. A když se vrátí s oblečením, tak ji "
+"zabiju, aby nemohla vyzradit moje tajemství nikomu jinýmu."
 
 #. [event]
 #. [scenario]: id=14b_Bontom
@@ -1416,6 +1455,8 @@ msgid ""
 "You know what, forget I asked. Kyobaine, maybe you should just go get your "
 "own clothes after all."
 msgstr ""
+"Víš ty co, zapomeň, že jsem se ptal. Kyobaine, možná by sis prostě měla jít "
+"koupit vlastní oblečení."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:248
@@ -1423,6 +1464,8 @@ msgid ""
 "Well that was a waste of time. All that talk just to get back to what my "
 "original plan was in the first place..."
 msgstr ""
+"Tak to byla ztráta času. Všechny ty řeči, abych se nakonec vrátila k tomu, "
+"co byl můj původní plán..."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:251
@@ -1430,16 +1473,18 @@ msgid ""
 "Hey Karen, I was just wondering if you could help explain human clothing "
 "measurements to Kyobaine here?"
 msgstr ""
+"Ahoj Karen, jen mě zajímalo, jestli bys mohla pomoci vysvětlit tady Kyobaine "
+"lidské měření oblečení?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:252
 msgid "Oooh, clothes shopping, are we? Got a big date coming up, eh, Kyobaine?"
-msgstr ""
+msgstr "Oooh, nakupování oblečení, co? Čeká tě velké rande, co Kyobaine?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:253
 msgid "What? No! I'm just cold and need a cloak."
-msgstr ""
+msgstr "Co? Ne! Je mi jen zima a potřebuji plášť."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:254
@@ -1448,21 +1493,24 @@ msgid ""
 "one-size-fits-all. Size info would really only be necessary if you were "
 "going to replace your entire robe."
 msgstr ""
+"Hm, plášť, to je všechno? Na ty ani nepotřebuješ velikosti, většinou jsou "
+"univerzální. Informace o velikosti by byly opravdu nutný jen v případě, že "
+"by ses chystala vyměnit celou garderóbu."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:255
 msgid "Oh. So, what was this fuss about sizes all about again? ...Gawen?"
-msgstr ""
+msgstr "Ach. Takže, o čem byl zase ten povyk kolem velikostí...? Gawene?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:256
 msgid "What? I was just trying to be helpful."
-msgstr ""
+msgstr "Co? Jen jsem se snažil podat pomocnou ruku."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:257
 msgid "(*<i>snickers</i>*)"
-msgstr ""
+msgstr "(<i>šklebí se</i>)"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:258
@@ -1470,12 +1518,16 @@ msgid ""
 "Well, I think I shall be fine buying my own cloak, Gawen. You just stay here "
 "while I go find a tailor."
 msgstr ""
+"No, myslím, že si zvládnu koupit svůj vlastní plášť, Gawene. Zůstaň tady, "
+"zatím půjdu najít nějakého krejčího."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:261
 msgid ""
 "I think I saw a tailor just back that way that you could buy something from."
 msgstr ""
+"Myslím, že jsem viděl nějakého krejčího, od kterého se dalo něco koupit, jen "
+"kousek tamhletou cestou zpátky."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:289
@@ -3009,14 +3061,14 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:444
-#, fuzzy
 msgid ""
 "Wait! You could be my right hand. You could be second only to the God ruling "
 "the world. All the gold of every continent, any woman, anything you could "
 "dream of... "
 msgstr ""
-"Zastav! Můžeš být má pravá ruka! Můžeš být druhým při Božské vládě nad "
-"světem! Všechno zlato všech kontinentů, všechny ženy a vše, po čem toužíš..."
+"Počkej! Můžeš být má pravá ruka. Můžeš být druhým po Bohu, co vládne světu. "
+"Všechno zlato všech kontinentů, všechny ženy, cokoliv, po čem bys mohl "
+"toužit..."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:445
@@ -3150,8 +3202,8 @@ msgid ""
 "Shut up, witch. You betrayed our race - you are allied to that mixling, and "
 "fight alongside underlings!"
 msgstr ""
-"Zklapni, bosorko! Zradilas naši rasu – spojila ses s míšencem a bojuješ mezi "
-"podřadnými!"
+"Zklapni, bosorko! Zradilas naši rasu. Spojila ses s míšencem a bojuješ spolu "
+"s podřadnými!"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:480
@@ -3356,15 +3408,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:545
-#, fuzzy
-#| msgid ""
-#| "Stupid woman, I am your God! I created you! Whole your race! You are "
-#| "mine, you will always be mine!"
 msgid ""
 "Stupid woman, I am your God! I created you! Your whole race! You are mine, "
 "you will always be mine!"
 msgstr ""
-"Blbá ženská, já jsem tvůj Bůh! Já tě stvořil! Celou tvoji rasu! Jsi moje, a "
+"Blbá ženská, já jsem tvůj Bůh! Já tě stvořil! Celou tvou rasu! Jsi moje, a "
 "vždycky budeš!"
 
 #. [event]
@@ -3493,6 +3541,9 @@ msgid ""
 "timbre of your noble soul. You have my blessing... and my promise that I "
 "will help you, Ruvio."
 msgstr ""
+"Ruvio, můj starý příteli, z tvých dnešních slov mohli všichni přítomní "
+"zaslechnout skutečnou harmonii tvé vznešené duše. Máš mé požehnání... a "
+"slib, že ti pomůžu, Ruvio."
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:599
@@ -5400,6 +5451,8 @@ msgid ""
 "Some peasants may have gold to give you in this scenario when you visit "
 "their villages."
 msgstr ""
+"Někteří sedláci ti mohou v tomto scénáři dát zlato, pokud navštívíš jejich "
+"vesnice."
 
 #. [event]
 #. similar to the usual "time over" message:
@@ -6264,12 +6317,12 @@ msgstr ""
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:282
 msgid "But we never found out what happened to Reme."
-msgstr ""
+msgstr "Ale vůbec jsme nezjistili, co se stalo Remem."
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:285
 msgid "We had our chance to rescue him in Bontom, but we failed to do so..."
-msgstr ""
+msgstr "Měli jsme šanci ho zachránit v Bontomu, ale nepodařilo se nám to..."
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:287
@@ -6340,10 +6393,8 @@ msgstr ""
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:311
-#, fuzzy
-#| msgid "We could also to for the swamps."
 msgid "We could also go for the swamps."
-msgstr "Můžeme jít také do močálů."
+msgstr "Můžem jít i do močálů."
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:312
@@ -6353,9 +6404,10 @@ msgid ""
 "also some villages here, you could go and ask peasants, maybe they would "
 "know something."
 msgstr ""
-"To sice můžeme, ale na blatech Saorduku žijí ještěráci, a ti moc nevychází "
-"ze svých bažin. Myslím, že tam nezjistíme nic zajímavého. Je pravda, že tam "
-"jsou také nějaké vesnice, takže se můžeš poptat osadníků."
+"To můžem, ale na blatech Saorduku žijí ještěráci a ti moc ze svých "
+"bažin nevychází. Pochybuju, že by věděli něco užitečného. Je pravda, že tam "
+"jsou i nějaké vesnice, takže se můžeš jít poptat sedláků. Možná by něco mohli "
+"vědět."
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:317
@@ -6445,15 +6497,13 @@ msgstr ""
 
 #. [message]: speaker=Kyobaine
 #: A_New_Order/scenarios/13_Scouting.cfg:453
-#, fuzzy
-#| msgid "So, you killed my brother!"
 msgid "Do you like my clothes?"
-msgstr "Takže ty jsi mi zabil bráchu!"
+msgstr "Líbí se ti moje oblečení?"
 
 #. [then]
 #: A_New_Order/scenarios/13_Scouting.cfg:461
 msgid "Yes."
-msgstr ""
+msgstr "Ano."
 
 #. [else]
 #. debug message only for developers; ok to skip translating:
@@ -6461,23 +6511,18 @@ msgstr ""
 msgid ""
 "Darn it, it looks like the [found_item] tag doesn't work across scenarios..."
 msgstr ""
+"Sakra, vypadá to, že značka [found_item] nefunguje ve všech scénářích..."
 
 #. [objectives]
 #: A_New_Order/scenarios/13_Scouting.cfg:475
-#, fuzzy
-#| msgid ""
-#| "This is a large-scale map, where you may choose a way to go. Move Gawen "
-#| "to any of the signpost or any other location to trigger moving to the "
-#| "next scenario. Move Gawen to the tent to talk with his friends."
 msgid ""
 "This is a large-scale map, where you may choose a way to go. Move Gawen to a "
 "signpost or any other location to move to a new scenario. Move Gawen to the "
 "tent to talk with his friends."
 msgstr ""
-"Toto je velkoprostorová mapa, kde musíš vybrat kudy dál. Tvým úkolem je "
-"přesunout Gawena na některý ze směrovníků nebo na jiné speciální místo, "
-"které spustí přesun na další scénář. Chceš-li si popovídat s přáteli, přesuň "
-"Gawena do stanu."
+"Toto je velkoprostorová mapa, kde můžeš vybrat kudy dál. Přesuň Gawena na "
+"rozcestník nebo jakékoli jiné dané místo, aby se spustil nový scénář. Chceš-"
+"li si popovídat s přáteli, přesuň Gawena do stanu."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:504
@@ -6710,20 +6755,22 @@ msgid ""
 "I have no idea where your friend may be; I fear we may have already missed "
 "our chance to find out about him..."
 msgstr ""
+"Nemám ani potuchy, kde může být váš přítel. Obávám se, že jsme už možná "
+"propásli naši šanci se o něm dozvědět..."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:770
-#, fuzzy
-#| msgid "I have no idea where your friend may be."
 msgid ""
 "I have no idea where your friend may be; maybe we could ask around some more "
 "about him."
-msgstr "Nemám ani potuchy, kde by tvůj přítel mohl být."
+msgstr ""
+"Nemám ani potuchy, kde může být váš přítel. Možná bychom se na něj mohli víc "
+"pozeptat."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:776
 msgid "About your mother? What do you want to know about her?"
-msgstr "A Tvojí matce? A co by jsi chtěl vědět?"
+msgstr "O tvojí matce? A co bys o ní chtěl vědět?"
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:777
@@ -13618,10 +13665,8 @@ msgstr "Povolej 12 vojáků. NEBO"
 #. [objective]: condition=win
 #. NIGHTMARE difficulty:
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:273
-#, fuzzy
-#| msgid "Recall fifteen troops. OR"
 msgid "Recall nine troops. OR"
-msgstr "Povolej 15 vojáků. NEBO"
+msgstr "Povolej 9 vojáků. NEBO"
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:278
@@ -13642,12 +13687,12 @@ msgstr "Kyobaine"
 msgid ""
 "It's getting to be spring now... do you think you still really need that "
 "winter cloak?"
-msgstr ""
+msgstr "Začíná jaro... myslíš, že ten zimní plášť ještě opravdu potřebuješ?"
 
 #. [then]
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:315
 msgid "You're right, it <i>is</i> starting to get rather warm with it on..."
-msgstr ""
+msgstr "Máš pravdu, začíná mi <i>v něm</i> být docela teplo..."
 
 #. [then]
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:320
@@ -13659,31 +13704,28 @@ msgstr "Ani ty."
 #. [then]
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:321
 msgid "Good, just making sure you're comfortable."
-msgstr ""
+msgstr "Dobrá, jen se ujišťuju, že se cítíš pohodlně."
 
 #. [else]
 #. threateningly:
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:328
 msgid "Do you REALLY feel like trying your luck, human?"
-msgstr ""
+msgstr "OPRAVDU máš chuť zkoušet štěstí, člověče?"
 
 #. [else]
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:329
-#, fuzzy
-#| msgid "Oh, never mind."
 msgid "...you're right, never mind."
-msgstr "Ále, nic."
+msgstr "... máš pravdu, nevadí."
 
 #. [else]
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:331
 msgid "Hm, I feel as though I may have missed out on something... oh well."
-msgstr ""
+msgstr "Hm, mám pocit, že jsem možná o něco přišel... no dobře."
 
 #. [scenario]: id=03_Coronation
 #: A_New_Order/scenarios/03_Coronation.cfg:3
-#, fuzzy
 msgid "Coronation"
-msgstr "Slyšení"
+msgstr "Korunovace"
 
 # deserts were inserted instead of forests
 #. [part]
@@ -14485,15 +14527,13 @@ msgstr ""
 #. String splicing here; amount of healing varies with difficulty and will be interpolated.
 #. Spliced string will read something like "heals +5, cures poison"
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:98
-#, fuzzy
-#| msgid "heals"
 msgid "heals +"
-msgstr "léčení"
+msgstr "léčí +"
 
 #. [heals]: id=M_R_basic_healing
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:98
 msgid ", cures poison"
-msgstr ""
+msgstr ", uzdravuje z otravy"
 
 #. [unit]: type=Pikeman, id=Oracle's Guard 1
 #. [unit]: type=Pikeman, id=Oracle's Guard 2
@@ -14699,8 +14739,8 @@ msgid ""
 "Remember, the Oracle must be untouched. Do not kill the woman. Bor Cryne "
 "wants to have her untouched."
 msgstr ""
-"Nezapomeňte, Věštkyni nesmíte zkřivit ani vlásek. Bor Cryne ji chce pro "
-"sebe. V naprostém pořádku."
+"Nezapomeňte, Věštkyni nesmíte zkřivit ani vlásek. Nezabíjejte tu ženskou. "
+"Bor Cryne ji chce získat nedotčenou."
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1542
@@ -14708,7 +14748,7 @@ msgid ""
 "Bor Cryne may desire whatever he wants. But the holy Oracle will be a "
 "'guest' of the noble lord Uri van Roe."
 msgstr ""
-"Bor Cryne může chtít cokoli si zmyslí. Ale svatá Věštkyně bude hostem "
+"Bor Cryne může chtít cokoli si smyslí. Ale svatá Věštkyně bude „hostem“ "
 "vznešeného lorda Uri van Roeho."
 
 #. [event]
@@ -14717,12 +14757,13 @@ msgid ""
 "You two can settle that later. Everything else inside the city will belong "
 "to us!"
 msgstr ""
-"O tom se pobavíme později. Každopádně všechno ostatní ve městě je naše!"
+"O tom se vy dva můžete pobavit pozdějc. Každopádně všechno ostatní ve městě "
+"bude naše!"
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1544
 msgid "Ha, ha, human. You mean, 'everything we leave' will be yours."
-msgstr "Ha, ha, lidský červ. Vše nechat pro skřeti!"
+msgstr "Ha, ha, lidský červi. Myslet, „vše co my nevzít“ bude vaše."
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1545
@@ -14741,7 +14782,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1560
 msgid "Any enemy unit reaches the keep of the Oracle."
-msgstr "Nepřátelská jendotka vstoupí do tvrze Věštkyně."
+msgstr "Nepřátelská jednotka vstoupí do tvrze Věštkyně"
 
 #. [objectives]
 #. EASY difficulty, so be more explicit about how things work:
@@ -14796,30 +14837,29 @@ msgstr "Vše je ztraceno! Zajali Věštkyni!"
 #. (I'm not sure how Ruvio can tell case when they're supposed to be speaking aloud, but let's ignore that for now)
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1823
 msgid "We've won! At last. Now, where is that famous oracle?"
-msgstr "Vyhráli jsme! Skvělé. A teď, kde je ta slavná Věštkyně?"
+msgstr "Vyhráli jsme! Konečně. A teď, kde je ta slavná věštkyně?"
 
 #. [event]
 #. if your language doesn't have articles or capitalization, come up with some other sort of linguistic cue to signify that
 #. 'The Oracle' is special, like a unique honoriffic (if you language has those) or something:
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1826
-#, fuzzy
-#| msgid "You pronounce that 'The Oracle'... all she needs is a great big "
 msgid ""
 "You pronounce that 'The Oracle'... all she needs is a great big 'The' in "
 "front and a capital O. But indeed, where is she?"
-msgstr "Ty jsi řekl Věštkyně s velkým „V“! Ale opravdu, kde je?"
+msgstr ""
+"Tys řekl věštkyně... stačí už to vyslovit s velkým „V“! Ale opravdu, kde "
+"vlastně je?"
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1844
-#, fuzzy
 msgid ""
 "Here I am. My voice speaks to those willing to listen. I know why you are "
 "here. I know who all of you are. Ask your questions and receive the answers, "
 "for I can see everything which may be."
 msgstr ""
-"Tady jsem. Hlas mluvící k těm jež chtějí slyšet. Vím, proč jste zde. Vím, "
-"kdo jste. Položte své otázky a počkejte si na odpovědi, protože já vím vše, "
-"co se stane a co by se státi mohlo."
+"Tady jsem. Hlas mluvící k těm, již chtějí naslouchat. Vím, kdo jste a proč "
+"jste zde. Položte své otázky a získejte odpovědi, neboť já vidím vše, co se "
+"stane a co by se mohlo státi."
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1845
@@ -15012,57 +15052,53 @@ msgstr ""
 #. [unit]: id=Oeme, type=Akladian Clansman
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:141
 msgid "Oeme"
-msgstr ""
+msgstr "Oeme"
 
 #. [unit]: id=Moro, type=Akladian Clansman
 #. [unit]: id=Moro, type=Akladian Warrior
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:155
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:170
 msgid "Moro"
-msgstr ""
+msgstr "Moro"
 
 #. [unit]: id=Moro, type=Akladian Light Infantry
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:185
 msgid "Moro the Strong"
-msgstr ""
+msgstr "Moro Silný"
 
 #. [unit]: id=Moreo, type=Akladian Clansman
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:200
 msgid "Moreo"
-msgstr ""
+msgstr "Moreo"
 
 #. [unit]: id=Nome, type=Akladian Clansman
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:214
 msgid "Nome"
-msgstr ""
+msgstr "Nome"
 
 #. [unit]: id=Nome, type=Akladian Warrior
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:229
 msgid "Nome, the Highlander"
-msgstr ""
+msgstr "Nome Horal"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:451
-#, fuzzy
-#| msgid ""
-#| "This should be easy, my son. Let's just get to the Castle of Barnon and "
-#| "finish that traitor off."
 msgid ""
 "This should be easy, my son. Let's just get to the Castle of Barnon to the "
 "north and finish that traitor Hoyre off."
 msgstr ""
-"To bude jednoduché, můj synu. Vyrazíme na Barnonský hrad a skoncujem to se "
-"zrádcem."
+"Mělo by to být snadné, synu. Vyrazíme na sever na Barnonský hrad a skoncujem "
+"to s tím zrádcem Hoyrem"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:461
 msgid "Indeed, let us attack!"
-msgstr ""
+msgstr "Opravdu, zaútočme!"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:462
 msgid "Okay."
-msgstr ""
+msgstr "Dobře."
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:464
@@ -15218,7 +15254,7 @@ msgstr ""
 #. [print]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:711
 msgid "With this turn, you have met the survival requirement!"
-msgstr ""
+msgstr "Tímto kolem byl splněn požadavek plánu přežití!"
 
 #. [print]
 #. FIXME: plurals; see: https://github.com/wesnoth/wesnoth/issues/1135
@@ -15303,13 +15339,13 @@ msgid ""
 "Your city has fallen, Gawen! Surrender now, and I promise you that we won't "
 "torture you <small>(as much)</small> before killing you!"
 msgstr ""
+"Vaše město padlo, Gawene! Vzdejte se teď a já vám slibuju, že vás nebudem "
+"<small>(tolik)</small> mučit, než vás zabijem!"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1163
-#, fuzzy
-#| msgid "Never mind"
 msgid "Never!"
-msgstr "Ále nic"
+msgstr "Nikdy!"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1175
@@ -15317,6 +15353,7 @@ msgid ""
 "I tire of this. Men, the task now returns to you to kill that scraggy "
 "mixling!"
 msgstr ""
+"Už mě to unavuje. Muži, znova vám přikazuju zničit toho špinavýho míšence!"
 
 #. [then]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1272
@@ -15358,7 +15395,7 @@ msgstr ""
 #. [else]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1384
 msgid "Using debug mode to kill all the enemies is cheating!"
-msgstr ""
+msgstr "Použití ladícího režimu k zabití všech nepřátel je podvádění!"
 
 #. [else]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1386
@@ -15468,14 +15505,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1560
-#, fuzzy
-#| msgid "Where is he? He hide somewhere!"
 msgid "Where is he? He must have hid somewhere!"
-msgstr "Kdekoli je, měl by být tady!"
+msgstr "Kde je? Musel se někde schovat!"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1575
-#, fuzzy
 msgid ""
 "No, he is not dead, he is just heavily wounded and has lost consciousness!"
 msgstr "Ne, není mrtvý, jenom je pěkně na sračku a ztratil vědomí!"
@@ -15497,7 +15531,7 @@ msgstr ""
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1592
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1645
 msgid "Using debug mode to kill Bor Cryne is cheating!"
-msgstr ""
+msgstr "Použití ladícího režimu k zabití Bor Cryna je podvádění!"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1594
@@ -15506,6 +15540,9 @@ msgid ""
 "not clear if you're cheating to kill Bor Cryne or not... better restart just "
 "to be sure!"
 msgstr ""
+"Zdá se, že režim ladění je buď zapnutý, nebo byl zapnutý v minulosti. Takže "
+"není jasné, zda se při zabití Bor Cryna podvádí, nebo ne... pro jistotu je "
+"lepší restartovat!"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1597
@@ -15539,6 +15576,9 @@ msgid ""
 "not clear if you're cheating to cause Bor Cryne to die or not... better "
 "restart just to be sure!"
 msgstr ""
+"Zdá se, že režim ladění je buď zapnutý, nebo byl zapnutý v minulosti. Takže "
+"není jasné, zda se pokoušíš zabít Bor Cryna podvodem, nebo ne... pro jistotu "
+"je lepší restartovat!"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1650
@@ -15556,7 +15596,7 @@ msgstr ""
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1665
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1718
 msgid "Using debug mode to kill Uri van Roe is cheating!"
-msgstr ""
+msgstr "Použití ladícího režimu k zabití Uri van Roa je podvádění!"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1667
@@ -15565,6 +15605,9 @@ msgid ""
 "not clear if you're cheating to kill Uri van Roe or not... better restart "
 "just to be sure!"
 msgstr ""
+"Zdá se, že režim ladění je buď zapnutý, nebo byl zapnutý v minulosti. Takže "
+"není jasné, zda se při zabití Uri van Roa podvádí, nebo ne... pro jistotu je "
+"lepší restartovat!"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1670
@@ -15598,6 +15641,9 @@ msgid ""
 "not clear if you're cheating to cause Uri van Roe to die or not... better "
 "restart just to be sure!"
 msgstr ""
+"Zdá se, že režim ladění je buď zapnutý, nebo byl zapnutý v minulosti. Takže "
+"není jasné, zda se pokoušíš zabít Uri van Roa podvodem, nebo ne... pro "
+"jistotu je lepší restartovat!"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1723
@@ -16373,7 +16419,7 @@ msgstr "V tomto scénáři mohou vyslýchat nepřátelské vůdce pouze Gawen a 
 #. debug option; completes sentence starting with "Set scenario status to...":
 #: A_New_Order/scenarios/27_Orannon.cfg:769
 msgid "Grekulak's arrival."
-msgstr ""
+msgstr "Grekulakův příjezd."
 
 #. [option]
 #. debug option; completes sentence starting with "Set scenario status to...":
@@ -16659,27 +16705,27 @@ msgstr ""
 #. [message]: speaker=unit
 #: A_New_Order/scenarios/27_Orannon.cfg:1431
 msgid "Milord, should I destroy this bridge?"
-msgstr ""
+msgstr "Můj pane, mám zničit tenhle most?"
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:1437
 msgid "Yes!"
-msgstr ""
+msgstr "Ano!"
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:1438
 msgid "No, but I might want a bridge destroyed later..."
-msgstr ""
+msgstr "Ne, ale možná budu chtít zničit most později..."
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:1439
 msgid "No, we won't be destroying any bridges today."
-msgstr ""
+msgstr "Ne, dnes nebudeme ničit žádné mosty."
 
 #. [message]: speaker=unit
 #: A_New_Order/scenarios/27_Orannon.cfg:1498
 msgid "Ha, take that!"
-msgstr ""
+msgstr "Ha, tumáš!"
 
 #. [message]: speaker=unit
 #: A_New_Order/scenarios/27_Orannon.cfg:1503
@@ -16687,6 +16733,8 @@ msgid ""
 "OK, I won't this time, but I really think we should destroy some bridges "
 "eventually, so I'll keep asking!"
 msgstr ""
+"Dobře, tentokrát to neudělám. Ale opravdu si myslím, že bychom nakonec měli "
+"nějaké mosty zničit, takže se budu dál ptát!"
 
 #. [message]: speaker=unit
 #: A_New_Order/scenarios/27_Orannon.cfg:1509
@@ -16925,15 +16973,11 @@ msgid ""
 "You didn't know? Your true mother was from a long line of kings. The last of "
 "her branch. You are the true heir to the throne of Wesnoth."
 msgstr ""
-"Nevíš? Tvá skutečná matka pochází z dlouhé linie králů. Byla poslední. Jsi "
-"právoplatným dědicem trůnu wesnothského."
+"Nevíš? Tvá skutečná matka pochází z dlouhé linie králů. Byla z ní poslední. "
+"Jsi právoplatným dědicem trůnu wesnothského."
 
 #. [event]
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:190
-#, fuzzy
-#| msgid ""
-#| "Along with your cousins from other branches, of course. They are all true "
-#| "heirs to the throne of Wesnoth"
 msgid ""
 "Along with your cousins from other branches, of course. They are all true "
 "heirs to the throne of Wesnoth."
@@ -17118,9 +17162,8 @@ msgstr "Ojojój! Elfové! Zelení ďábli jsou tu!"
 
 #. [event]
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:351
-#, fuzzy
 msgid "We fought our way out of forest. What now?"
-msgstr "Zříš? Tak se v lese bojuje po Elfím. Co dál?"
+msgstr "Probojovali jsme se z lesa. Co teď?"
 
 #. [event]
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:352
@@ -17296,10 +17339,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:192
-#, fuzzy
-#| msgid "What? Why you are looking at me?"
 msgid "What? Why are you looking at me like that?"
-msgstr "Co je? Proč se díváš zrovna na mne?"
+msgstr "Co je? Proč se na mě tak díváš?"
 
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:193
@@ -17309,10 +17350,8 @@ msgstr "Hmm... zajímalo by mě, co mají v tom severnějším hradě..."
 #. [objectives]
 #. no hints for NIGHTMARE difficulty:
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:198
-#, fuzzy
-#| msgid "You cannot recruit new units in this scenario."
 msgid "Your recruitment of spearmen and archers is limited in this scenario."
-msgstr "V tomto scénáři nemůžeš verbovat žádné nové jednotky."
+msgstr "Možnost verbování kopiníků a lučištníků je v tomto scénáři omezená."
 
 #. [objectives]
 #. all other difficulties; we can have hints for those:
@@ -17321,10 +17360,9 @@ msgid ""
 "You may recruit up to FOUR spearmen and/or archers. When you recruit a "
 "FOURTH spearman and/or archer, their recruitment will be disallowed."
 msgstr ""
-"Můžeš naverbovat čtyři jednotky, a to buď kopiníky, nebo lučištníky. Když "
-"naverbuješ čtvrtého, další verbování nebude možné. Díky omezeným možnostem "
-"hry, nejdříve verbuj PAK TEPRVE přivolávej. Jinak budou přivolané jednotky "
-"také započítány."
+"Můžeš naverbovat až čtyři jednotky, a to buď kopiníky, nebo lučištníky. Když "
+"naverbuješ ČTVRTÉHO kopiníka či lučištníka, nebude další jejich verbování "
+"možné."
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:204
@@ -17471,7 +17509,6 @@ msgstr "Nejsem si jist. Možná, když mi řekneš pár jmen, možná si vzpomen
 
 #. [message]: speaker=Gawen Hagarthen
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:340
-#, fuzzy
 msgid "So, what about..."
 msgstr "Dobře, co třeba..."
 
@@ -17516,8 +17553,8 @@ msgid ""
 "No, it wasn't a woman. People from the Gallorae clan did contact us in the "
 "past about buying some poison, but that was years ago."
 msgstr ""
-"Ne, nebyla to žena. Lidé z jejího klanu nás kontaktovali dřív, chtěli koupit "
-"nějaký jed, ale je to už dávno."
+"Ne, nebyla to žena. Lidé z jejího klanu nás v minulosti kontaktovali, chtěli "
+"koupit nějaký jed, ale to už bylo před lety."
 
 #. [option]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:372
@@ -17540,8 +17577,8 @@ msgid ""
 "The guy from city of Barnon? No, it wasn't him, though from what I've heard "
 "about him he could do it - if he could think for himself."
 msgstr ""
-"Ten chlápek z města Barnonu? Ne, z toho, co jsem o něm slyšel, by to nemoh "
-"udělat – ten myslí jenom na sebe."
+"Ten chlápek z města Barnonu? Ne, on to nebyl. I když z toho, co jsem o něm "
+"slyšel, by to udělat mohl – kdyby mohl myslet sám za sebe."
 
 #. [then]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:407
@@ -17549,35 +17586,36 @@ msgid ""
 "There are no more trained, able-bodied young man in this small settlement to "
 "recruit as Spearman or Bowman. You may only recruit Peasants and Fencers now."
 msgstr ""
-"Už tu, v této malé osadě, nejsou žádní další trénovaní mladíci, aby jsi mohl "
-"verbovat Kopiníky a Lučištníky. Už můžeš verbovat jenom Sedláky a Šermíře."
+"V této malé osadě už není žádný trénovaný zdatný mladý muž, který by se dal "
+"naverbovat jako kopiník nebo lučištník. Už můžeš verbovat jenom sedláky a "
+"šermíře."
 
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:420
 msgid "Oh, there is a horse in this village. I can ride it!"
-msgstr ""
+msgstr "Jů, v téhle vesnici mají koně. Můžu na něm jezdit!"
 
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:432
 msgid "...see?"
-msgstr ""
+msgstr "... jak vypadám?"
 
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:433
 msgid "You look different now."
-msgstr ""
+msgstr "Teď vypadáš jinak."
 
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:434
 msgid ""
 "It's amazing the effect that getting on horseback can have on one's "
 "appearance, isn't it?"
-msgstr ""
+msgstr "Je úžasný, jakej vliv může mít sezení na koni na něčí vizáž, že jo?"
 
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:435
 msgid "Indeed."
-msgstr ""
+msgstr "Vskutku."
 
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:584
@@ -17586,16 +17624,12 @@ msgstr "Ha! Naše armáda se vrátila! Teď nemáte šanci!"
 
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:597
-#, fuzzy
-#| msgid ""
-#| "Hm, it seems there are some more people here, capable with swords and "
-#| "bows, who could be recruited."
 msgid ""
 "Hm, it seems there are some more people here, capable with spears and bows, "
 "who could be recruited."
 msgstr ""
-"Hm, vypadá to, že jsou tam nějací lidé, kteří to umí s mečem a lukem, které "
-"by šlo naverbovat."
+"Hm, vypadá to, že je tu víc lidí, co to umí s kopím a lukem, a šlo by je "
+"naverbovat."
 
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:598
@@ -17605,7 +17639,7 @@ msgstr "Můžeš naverbovat ještě další čtyři lučištníky či kopiníky.
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:601
 msgid "It seems that the outlaws had a small treasury hidden here."
-msgstr "Vypadá to, že si tu Banditi schovali malý pokládek."
+msgstr "Vypadá to, že si tu banditi schovali malý pokládek."
 
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:603
@@ -17618,11 +17652,13 @@ msgid ""
 "Haw haw haw, you thought we were here to fight <i><b>for</b></i> you? Think "
 "again, fools!"
 msgstr ""
+"Ha ha ha, mysleli jste si, že jsme tu, abychom za <i><b>vás</b></i> "
+"bojovali? Používejte hlavu, blázni!"
 
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:627
 msgid "$unit.name turned out to be an outlaw!"
-msgstr ""
+msgstr "Jednotka $unit.name se projevila jako psanec!"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:3
@@ -17632,7 +17668,7 @@ msgstr "Bontom"
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:14
 msgid "I am Akladian... but my mother was Wesnothian."
-msgstr ""
+msgstr "Jsem Akladijec... ale má matka byla Wesnoťanka."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:15
@@ -17672,7 +17708,7 @@ msgstr ""
 #: A_New_Order/scenarios/14b_Bontom.cfg:36
 #: A_New_Order/scenarios/14b_Bontom.cfg:1007
 msgid "heals +2, cures poison"
-msgstr ""
+msgstr "léčí +2, uzdravuje"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:48
@@ -17712,12 +17748,12 @@ msgstr ""
 #: A_New_Order/scenarios/14b_Bontom.cfg:928
 #: A_New_Order/scenarios/14b_Bontom.cfg:967
 msgid "Old woman"
-msgstr ""
+msgstr "Stará žena"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:66
 msgid "(old woman)^What?"
-msgstr ""
+msgstr "Co?"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:67
@@ -17727,12 +17763,12 @@ msgstr ""
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:71
 msgid "Hey! You are really making me angry! Come back here!"
-msgstr ""
+msgstr "Hej! Už mě opravdu rozčiluješ! Koukej se sem vrátit!"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:73
 msgid "Hey!!!"
-msgstr ""
+msgstr "Hej!!"
 
 #. [scenario]: id=14b_Bontom
 #. "That makes it" doesn't sound quite idiomatic enough, but I'm not sure how to reword it...
@@ -17741,12 +17777,12 @@ msgstr ""
 msgid ""
 "That makes it. Where is the torch? I will raze this whole village to the "
 "ground!"
-msgstr ""
+msgstr "To by stačilo. Kde je pochodeň? Srovnám tuhle celou vesnici se zemí!"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:78
 msgid "No, you won't, not as long as I have something to say about it."
-msgstr ""
+msgstr "Ne, nesrovnáš, dokud k tomu budu mít co říct."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:79
@@ -17754,11 +17790,13 @@ msgid ""
 "But Gawen! If we will allow underlings to treat us like that, they won't "
 "respect us!"
 msgstr ""
+"Ale Gawene! Pokud dovolíme podřadným, aby se k nám takhle chovali, nebudou "
+"nás respektovat!"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:80
 msgid "Seems to me the woman already wasn't respecting you."
-msgstr ""
+msgstr "Vypadá to, že tě ta žena už nerespektovala."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:86
@@ -17948,29 +17986,21 @@ msgstr "NORMÁLNĚ: Zachraň Remeho a dojdi s ním k severovýchodnímu směrovn
 
 #. [objectives]
 #: A_New_Order/scenarios/14b_Bontom.cfg:397
-#, fuzzy
-#| msgid ""
-#| "You may interrogate Orcish leader with either Gawen, Ruvio or Lorin. "
-#| "Other leaders may be interrogated by Gawen only."
 msgid ""
 "You may interrogate the Orcish leader with either Gawen, Ruvio, or Lorin. "
 "Other leaders may be interrogated by Gawen only."
 msgstr ""
-"Vůdce skřetů může vyslechnout Gawen, Ruvio či Lorin. Ale ostatní vůdce smí "
-"vyslechnout pouze Gawen."
+"Vůdce skřetů může vyslechnout Gawen, Ruvio či Lorin. Ostatní vůdci mohou být "
+"vyslýcháni pouze Gawenem."
 
 #. [objectives]
 #: A_New_Order/scenarios/14b_Bontom.cfg:414
-#, fuzzy
-#| msgid ""
-#| "You may interrogate Orcish leader with either Gawen, Ruvio or Lorin. "
-#| "Other leaders may be interrogated by Gawen only."
 msgid ""
 "You may interrogate the Orcish leader with either Gawen or Ruvio. Other "
 "leaders may be interrogated by Gawen only."
 msgstr ""
-"Vůdce skřetů může vyslechnout Gawen, Ruvio či Lorin. Ale ostatní vůdce smí "
-"vyslechnout pouze Gawen."
+"Vůdce skřetů může vyslechnout Gawen či Ruvio. Ostatní vůdci mohou být "
+"vyslýcháni pouze Gawenem."
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:459
@@ -18043,15 +18073,13 @@ msgstr "Takový mladík... a jaký po čertech dobrý bojovník..."
 #: A_New_Order/scenarios/14b_Bontom.cfg:539
 #: A_New_Order/scenarios/14b_Bontom.cfg:588
 msgid "You were worthy opponent too."
-msgstr "Ty jsi byl také dobrým protivníkem."
+msgstr "Tys mi byl také dobrým protivníkem."
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:540
 #: A_New_Order/scenarios/14b_Bontom.cfg:589
-#, fuzzy
-#| msgid "Yes.. it was a good fight, wasn't it?"
 msgid "Yes... it was a good fight, wasn't it?"
-msgstr "Ano, hezky jsme si zabojovali, co?"
+msgstr "Ano... hezky jsme si zabojovali, co?"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:541
@@ -18130,7 +18158,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:573
 msgid "I don't know that."
-msgstr "Ale nevím to."
+msgstr "Nevím to."
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:575
@@ -18217,10 +18245,8 @@ msgstr "Ne! Matko, to nedovolím! Ať umře v klidu a pokoji!"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:645
-#, fuzzy
-#| msgid "Because it is bad thing to torture people"
 msgid "Because it is a bad thing to torture people."
-msgstr "Protože mučení lidí je špatná věc"
+msgstr "Protože mučení lidí je špatné."
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:647
@@ -18237,7 +18263,7 @@ msgstr "Gawene, je to Akladijka. Starého psa novým kouskům nenaučíš."
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:651
 msgid "Who are you calling OLD?!"
-msgstr "Kdo je u tebe starý?"
+msgstr "Kdo je u tebe STARÝ?"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:656
@@ -18381,10 +18407,8 @@ msgstr "Myslím, že za ty peníze chtěli koupit Remeho Carrenemoea. "
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:901
-#, fuzzy
-#| msgid "Ha! The outlaws were hiding here some gold!"
 msgid "The outlaws are defeated!"
-msgstr "Ha! Banditi tu schovali nějaké zlato!"
+msgstr "Banditi jsou poraženi!"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:936
