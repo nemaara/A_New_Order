@@ -39,12 +39,13 @@ PORTRAITS
 ---------
 * Generic "good" Akladian high level unit, specifically the Darknite (one that
   matches its sprite better)
+* A better "Broken" Ruvio, after Fall of Freetown (current one is by a different
+  artist from the one for "regular" Ruvio, who left out a lot of his wrinkles)
 * Generic low-level Akladian unit with swords (Raiders+Sturmknight) 
 * Generic Akladian unit with spears (Warrior and LightInfantry still remain)
   (Clansman already exists as akladian_generic.png and Pikeneer already exists as
   profile_pikinier.png)
-* Outlaw Raider (might cost more due to some artists charging more for horses)
-  (Brigand went to Mells/ohlyf, so I'll probably assign this one to her as well)
+* Better saurian portraits (Young Saurian) (being commissioned to AlysaaArt)
 * A winter version of Yahyazad's portrait
 * Another Reme portrait (for the "m"-suffixed message macro for him)
 * Generic leading units (Chieftain+leader - this is very low priority) (being
@@ -55,6 +56,7 @@ PORTRAITS
 * Heinric the Redbeard (enemy leader from the first scenario; can be either a City
   Militia or a Lieutenant, depending on difficulty) (low priority)
 * better older-looking mage for the medic who heals Gawen in S01 (low priority)
+  (current one is a lazy frankenportrait that I just threw together myself)
 * portraits for some of the less-important units with descriptive names, e.g.
   "John the Baldhead" (a peasant discoverable in S13), "Fat Bart" (an enemy
   Fugitive leader attacking the Oracle in S19c), and "Robert the Hefty" (an enemy
