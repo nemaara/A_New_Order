@@ -45,11 +45,9 @@ PORTRAITS
 * Generic Akladian unit with spears (Warrior and LightInfantry still remain)
   (Clansman already exists as akladian_generic.png and Pikeneer already exists as
   profile_pikinier.png)
-* Better saurian portraits (Young Saurian) (being commissioned to AlysaaArt)
 * A winter version of Yahyazad's portrait
 * Another Reme portrait (for the "m"-suffixed message macro for him)
-* Generic leading units (Chieftain+leader - this is very low priority) (being
-  commissioned to Laineywilson005)
+* Generic leading units (Chieftain+leader - this is very low priority)
 * A winter version of Karen's portrait (low priority, and it'd be more expensive)
   (there's one in the ANO_art repo, but it doesn't match her usual look, so one of
   the two would have to be updated)
