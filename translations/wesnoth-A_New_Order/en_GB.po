@@ -1,0 +1,1800 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2006-04-20 14:04+0200\n"
+"PO-Revision-Date: 2023-12-23 14:35-0500\n"
+"Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
+"Language-Team: none\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid ""
+"\n"
+"Any unit which will reach either signpost will be evacuated. Units not recalled "
+"will be lost. Gawen must not escape, or he would be considered unworthy coward by "
+"his soldiers. You will get a bonus for each turn resisted above the required limit."
+msgstr ""
+"\n"
+"Any unit which reaches either signpost will be evacuated. Units not recalled will "
+"be lost. Gawen must not escape, or he would be considered a coward by his "
+"soldiers, unworthy to lead them. You will get a bonus for each turn resisted past "
+"the required limit."
+
+msgid ""
+"\n"
+"In this scenario, you may interrogate the leader with either Ruvio or Gawen, it "
+"would make no difference.\n"
+"\n"
+"Move Ruvio to signpost to ask him for advise."
+msgstr ""
+"\n"
+"In this scenario, you may interrogate the leader with either Ruvio or Gawen.\n"
+"\n"
+"Move Ruvio to signpost to ask him for advice."
+
+msgid ""
+" The campaign is not intended for underaged. It contains elements making it "
+"unsuitable for children. You have been warned."
+msgstr ""
+" The campaign is not intended for minors. It contains elements that may be "
+"considered unsuitable for children. You have been warned."
+
+msgid "..but we could probably find something about orcs there, right?"
+msgstr "..but we could probably find out something about orcs there, right?"
+
+msgid "..but you know you would only waste your breath."
+msgstr "..but you know you would be wasting your breath."
+
+msgid "A Former Friend"
+msgstr "A Former Friend"
+
+msgid "A New Order"
+msgstr "A New Order"
+
+msgid "A Scout could be usefull."
+msgstr "A Scout could be useful."
+
+msgid "A Shaman would be great."
+msgstr "A Shaman would be great."
+
+msgid "A woman.. A woman has killed me.. what a disgrace.."
+msgstr "A woman... A woman has killed me... what a disgrace..."
+
+msgid ""
+"According to what we gathered, it's internal strife amongst Akladians. If "
+"Akladians are slaughtering each other, even if with Orcish help, why free people "
+"should be disturbed with that?"
+msgstr ""
+"According to what we gathered, it's internal strife amongst Akladians. If "
+"Akladians are slaughtering each other, even with Orcish help, why should that "
+"disturb free people?"
+
+msgid "Actually I would like to have one more archer."
+msgstr "Actually I would like to have one more archer."
+
+msgid ""
+"After leaving Forests of Raedwood, Gawen and his companions found themselves faced "
+"with the problem: what to do next and how to fulfill request of Mithrandil. Gawen "
+"wasn't sure what it does mean 'find the real reason of Akladian-Orcish alliance' "
+"and definitely had no idea how he was supposed to accomplish that."
+msgstr ""
+"After leaving Forests of Raedwood, Gawen and his companions found themselves faced "
+"with a problem: what to do next and how to fulfil Mithrandil's request. Gawen "
+"wasn't sure what he meant by 'find the real reason behind the Akladian-Orcish "
+"alliance' and certainly had no idea how he was supposed to accomplish that."
+
+msgid ""
+"After seeing the atrocities committed by orcs Gawen's soldiers were unusually "
+"silent. None was joking or singing, as usuall after last few battles. Everyone "
+"seem to think about their own families, wifes and children."
+msgstr ""
+"After seeing the atrocities committed by orcs Gawen's soldiers were unnaturally "
+"silent. No one joked or sang, as they had after their last few battles. Everyone "
+"was thinking about their own families, wives and children."
+
+msgid ""
+"Ah, I like that kind of man. Strong and fearless even in the face of death. Now, "
+"do you see this knife? I call it truth-sayer. I use it to check how fearless a man "
+"can be in my hand. "
+msgstr ""
+"Ah, I like that kind of man. Strong and fearless even in the face of death. Now, "
+"do you see this knife? I call it truth-sayer. I use it to check how fearless a man "
+"can be in my hand. "
+
+msgid "Ah, never mind."
+msgstr "Er, never mind."
+
+msgid ""
+"Ah, this is that She-wolf of Haeltin you mentioned, Ruvio. Will have to meet her."
+msgstr ""
+"Ah, this is that She-wolf of Haeltin you mentioned, Ruvio. Will have to meet her."
+
+msgid ""
+"Akladian lords, yea I've heard about them. They are big, bad and you should avoid "
+"them."
+msgstr ""
+"Akladian lords, yea I've heard about them. They are big, bad and you should avoid "
+"them."
+
+msgid ""
+"Akladians hated woods, passionately, Gawen was told. Yet, they established outpost "
+"at the edge of Raedwood, to protect their settlements in the plains from the "
+"avengers from the forest. For one or two men it would be easy to pass between "
+"them, unnoticed, but Gawen's army was too big for that."
+msgstr ""
+"Akladians hated woods, passionately, Gawen was told. Yet they established an "
+"outpost at the edge of Raedwood to protect their settlements in the plains from "
+"the avengers of the forest. For one or two men it would be easy to pass by them "
+"unnoticed, but Gawen's army was too big for that."
+
+msgid ""
+"Akladians, orcs, lizards and all others - when facing mighty Elorain, their fate "
+"is always the same!"
+msgstr ""
+"Akladians, orcs, lizards and all others - when facing mighty Elorain, their fate "
+"is always the same!"
+
+msgid ""
+"Along with your cousins from other branches, of course. They are all true heirs to "
+"the throne of Wesnoth."
+msgstr ""
+"Along with your cousins from other branches, of course. They are all true heirs to "
+"the throne of Wesnoth."
+
+msgid ""
+"And he was amongst underlings. Underling child which tried to behave like a woman, "
+"underling man who looked like veteran of many battles, underling soldiers, and "
+"what's even worse: the elves. Green devils. But for last few months I was "
+"constantly amongst underlings, so I wasn't as moved as you could think."
+msgstr ""
+"And he was amongst underlings: an underling child who tried to behave like a "
+"woman; an underling man who looked like veteran of many battles; many underling "
+"soldiers; and what's even worse: the elves. Green devils. But for the last few "
+"months I was constantly amongst underlings; I had almost got used to the idea of "
+"living among them... Almost."
+
+msgid "And his name is.."
+msgstr "And his name is..."
+
+msgid "And second to the east."
+msgstr "And the other to the east."
+
+msgid "And this is good reason, because..?"
+msgstr "And that is a good reason, because..?"
+
+msgid "Another one bites the dust."
+msgstr "Another one bites the dust."
+
+msgid "Argh!"
+msgstr "Argh!"
+
+msgid ""
+"Armed with heavy mace, Highwaymen are the last people you want to meet on a "
+"deserted road late at night."
+msgstr ""
+"Armed with a heavy mace, Highwaymen are the last people you want to meet on a "
+"deserted road late at night."
+
+msgid "Arweena"
+msgstr "Arweena"
+
+msgid "Assassin"
+msgstr "Assassin"
+
+msgid "Baral"
+msgstr "Baral"
+
+msgid ""
+"Because our people at Freetown are not ready for having Akladian as leader. And, "
+"for second, because then Bor Cryne would send all his army to pursue us."
+msgstr ""
+"First, because the people of Freetown are not ready to have an Akladian as their "
+"leader. And second, because then Bor Cryne would send all his army to pursue us."
+
+msgid "Because..."
+msgstr "Because..."
+
+msgid ""
+"Bontom place, yea I've heard about that. It's somewhere in the south, maybe good "
+"people living in villages more to south would know more about it."
+msgstr ""
+"Bontom place, yea I've heard about that. It's somewhere in the south, maybe the "
+"good people living in the southern villages would know more about it."
+
+msgid ""
+"Bontom? It is somewhere to south-west. In a village south from here people should "
+"know more about it."
+msgstr ""
+"Bontom? It is somewhere to the south-west. In a village south from here people "
+"should know more about it."
+
+msgid ""
+"Bontom? of course I know about it. It is a nice place west from here. Nice "
+"villages are there, my wife is from that area."
+msgstr ""
+"Bontom? of course I know about it. It is a nice place west from here. Nice "
+"villages are there, my wife is from that area."
+
+msgid "Bowman"
+msgstr "Bowman"
+
+msgid "Brigand"
+msgstr "Brigand"
+
+msgid "Brother! Where are you? Why do you keep gates of Haeltin closed?"
+msgstr "Brother! Where are you? Why do you keep gates of Haeltin closed?"
+
+msgid "Buriag"
+msgstr "Buriag"
+
+msgid "Burik"
+msgstr "Burik"
+
+msgid "Burlak"
+msgstr "Burlak"
+
+msgid "But here is king's son, his rightful heir. Are you going to fight him?"
+msgstr "But here is the king's son, and rightful heir. Are you going to fight him?"
+
+msgid ""
+"But now he had to leave. We have very important and secret things to talk upon."
+msgstr ""
+"But now he had to leave. We have very important and secret things to talk about."
+
+msgid "Chance to fight against orcs and Akladians"
+msgstr "Chance to fight against orcs and Akladians"
+
+msgid "Come and try it."
+msgstr "Come and try it."
+
+msgid "Council in Freetown"
+msgstr "Council in Freetown"
+
+msgid "Cowardly escape of Gawen Hagarthen"
+msgstr "Cowardly escape of Gawen Hagarthen"
+
+msgid "Crater"
+msgstr "Crater"
+
+msgid "Dead? How is that possible? Who killed him?"
+msgstr "Dead? How is that possible? Who killed him?"
+
+msgid "Death is my companion, she walks whenever I may roam"
+msgstr "Death is my companion, she walks whenever I may roam"
+
+msgid "Death of Andrey Yaranov"
+msgstr "Death of Andrey Yaranov"
+
+msgid "Death of Gawen Hagarthen"
+msgstr "Death of Gawen Hagarthen"
+
+msgid "Death of Karen"
+msgstr "Death of Karen"
+
+msgid "Death of Lady Lorin"
+msgstr "Death of Lady Lorin"
+
+msgid "Death of Reme Carrenemoe"
+msgstr "Death of Reme Carrenemoe"
+
+msgid "Death of Ruvio"
+msgstr "Death of Ruvio"
+
+msgid "Death to our enemies!"
+msgstr "Death to our enemies!"
+
+msgid "Die, underling!"
+msgstr "Die, underling!"
+
+msgid "Do I look like dead to you?"
+msgstr "Do I look like dead to you?"
+
+msgid "Do whatever you want to."
+msgstr "Do whatever you want."
+
+msgid "Do you know anything about Lady Lorin?"
+msgstr "Do you know anything about Lady Lorin?"
+
+msgid "Do you know where Reme Carrenemoe is?"
+msgstr "Do you know where Reme Carrenemoe is?"
+
+msgid "Does it matter? He is dead now."
+msgstr "Does it matter? He is dead now."
+
+msgid ""
+"Don't test my patience, underling! Speak, or you will be sorry you are still alive!"
+msgstr ""
+"You try my patience, underling! Speak, or you will be sorry you are still alive!"
+
+msgid "Don't test my patience. Speak, or I will kill you."
+msgstr "Don't try my patience. Speak, or I will kill you."
+
+msgid "Eat this!"
+msgstr "Eat this!"
+
+msgid "Eeek! The elves! Green devils are here!"
+msgstr "Eeek! The elves! Green devils are here!"
+
+msgid "Elorain"
+msgstr "Elorain"
+
+msgid ""
+"Enough of this chit-chat! We are out of supplies and we are hungry. Soldiers! Your "
+"food is inside of this castle. Get them!"
+msgstr ""
+"Enough of this chit-chat! We are out of supplies and we are hungry. Soldiers! Your "
+"food is inside of this castle. Get them!"
+
+msgid "Epilogue"
+msgstr "Epilogue"
+
+msgid "Erart"
+msgstr "Erart"
+
+msgid ""
+"Failing to save Reme really destroyed Gawen's mood. The news about Reme's death "
+"reached Gawen's temporary base soon after that."
+msgstr ""
+"Failing to save Reme really weighed heavily on Gawen's mood. The news of Reme's "
+"death reached Gawen's temporary base soon after."
+
+msgid ""
+"Fighting within swamps of Saorduc had not made anyone happy and Gawen's soldiers "
+"were delighted with leaving the frozen fens. They were all mired in strange mix of "
+"mud and snow, and this was not improving their mood."
+msgstr ""
+"Fighting waist-deep in the swamps of Saorduc had not made anyone happy and Gawen's "
+"soldiers were delighted to be leaving the frozen fens. They were all mired in a "
+"strange mix of mud and snow, and this did nothing to improve their mood."
+
+msgid ""
+"Finally! Now, accept the inevitable. I am professional, that isn't going to hurt"
+msgstr ""
+"At last! Now just accept the inevitable. I am a professional; this won't hurt a bit"
+
+msgid "Finally, food, wine and some rest! Hey, what's happening here?"
+msgstr "Finally, food, wine and some rest! Hey, what's happening here?"
+
+msgid "First kill this day."
+msgstr "First kill this day."
+
+msgid "For honour, in the name of Eloh!"
+msgstr "For honour, in the name of Eloh!"
+
+msgid ""
+"Frankly, I have no idea what to do now. We have already been in all the obvious "
+"locations."
+msgstr ""
+"Frankly, I have no idea what to do now. We have already been in all the obvious "
+"locations."
+
+msgid "Fugitive"
+msgstr "Fugitive"
+
+msgid "Future king? What is she talking about?"
+msgstr "Future king? What is she talking about?"
+
+msgid ""
+"GREAT mission. Hey, Gaumhaldric, I think I just made a song about this. Do you "
+"want to hear it?"
+msgstr ""
+"GREAT mission. Hey, Gaumhaldric, I think I just made a song about this. Do you "
+"want to hear it?"
+
+msgid "Gaaarrr.. Aaargh..."
+msgstr "Gaaarrr.. Aaargh..."
+
+msgid "Gari"
+msgstr "Gari"
+
+msgid "Gaumhaldric."
+msgstr "Gaumhaldric."
+
+msgid "Gawen Hagarthen"
+msgstr "Gawen Hagarthen"
+
+msgid ""
+"Gawen and his soldiers spent only a few days in Freetown. Huon Ryedric and "
+"Mithrandil left the city going to the west. The very next day at the dawn Gawen "
+"marched to the south. The Mithrandil's elves were eager to show their abilities, "
+"finding the best paths in the forest."
+msgstr ""
+"Gawen and his soldiers spent only a few days in Freetown. Huon Ryedric and "
+"Mithrandil left the city going west. The very next day at the dawn Gawen marched "
+"south. Mithrandil's elves, eager to show their abilities, found the best paths in "
+"the forest."
+
+msgid ""
+"Gawen ordered his soldiers to march fast to the temporary base he made in the "
+"plains north from Barnon. He was affraid that more enemy forces would arrive, and "
+"wanted to take care of his wounded."
+msgstr ""
+"Gawen ordered his soldiers to march double-time to the temporary base he made on "
+"the plains north of Barnon. He was afraid that more enemy forces would arrive, and "
+"wanted to take care of his wounded."
+
+msgid "Get out of my way... I am not here because of you."
+msgstr "Get out of my way... it isn't you I've come for."
+
+msgid "Giombor"
+msgstr "Giombor"
+
+msgid "Gold? What gold? I have no gold hidden.."
+msgstr "Gold? What gold? I have no gold hidden.."
+
+msgid "Gor"
+msgstr "Gor"
+
+msgid "Gur"
+msgstr "Gur"
+
+msgid "Gwidle Turlin"
+msgstr "Gwidle Turlin"
+
+msgid "HEROIC: Kill all enemy leaders OR"
+msgstr "HEROIC: Kill all enemy leaders OR"
+
+msgid "Ha, ha, and I thought you were serious."
+msgstr "Ha, ha, and I thought you were serious."
+
+msgid "He has my full trust. He stays."
+msgstr "He has my full trust. He stays."
+
+msgid "He is already dying. I do not think he heard us."
+msgstr "He is already dying. I do not think he heard us."
+
+msgid "He is saying the truth, Huon. You have not seen the reports I've got."
+msgstr "He is telling the truth, Huon. You have not seen the reports I've received."
+
+msgid "He was slain by my hand."
+msgstr "He was slain by my hand."
+
+msgid "Henchman"
+msgstr "Henchman"
+
+msgid ""
+"Henchmen are good for one thing: following orders.  They are not very smart or "
+"creative, neither of which is required to swing a club at an enemy.  Never far "
+"from their leader, they tend to work in groups (attacking one at a time).  With "
+"enough experience they can learn to swing a bigger club or throw things, but not "
+"both."
+msgstr ""
+"Henchmen are good for one thing: following orders.  They are not very smart or "
+"creative, neither of which is required to swing a club at an enemy.  Never far "
+"from their leader, they tend to work in groups (attacking one at a time).  With "
+"enough experience they can learn to swing a bigger club or throw things, but not "
+"both."
+
+msgid "Highwayman"
+msgstr "Highwayman"
+
+msgid "Hoyre Ramenari"
+msgstr "Hoyre Ramenari"
+
+msgid "Hrar"
+msgstr "Hrar"
+
+msgid "Huntsman"
+msgstr "Huntsman"
+
+msgid ""
+"Huntsmen have spent their lives in the backwoods and swamps of their wilderness "
+"homes.  They track anything that moves in their territory, including people.  "
+"Bandit gangs hire them for their ability to bring down any prey."
+msgstr ""
+"Huntsmen have spent their lives in the backwoods and swamps of their wilderness "
+"homes.  They track anything that moves in their territory, including people.  "
+"Bandit gangs hire them for their ability to bring down any prey."
+
+msgid "Huon Ryedric"
+msgstr "Huon Ryedric"
+
+msgid ""
+"I always care for my people, and you have no idea how difficult it was to train "
+"them."
+msgstr ""
+"I always care for my people; you have no idea how difficult it was to train them."
+
+msgid "I always shoot to kill. No need to remind me."
+msgstr "I always shoot to kill. No need to remind me."
+
+msgid "I apologise my lord. I was not able to stop her."
+msgstr "I apologise my lord. I was not able to stop her."
+
+msgid "I can't just run away. I don't want to. I would prefer to die here, fighting."
+msgstr ""
+"I can't just run away. I don't want to. I would rather to die here, with my sword "
+"in my hand."
+
+msgid ""
+"I can't tell you! (Aaargh) I don't know his name! I was given the task by our "
+"elders from the Outlaw Place. All I know is that one of Akladian lords paid him "
+"for that in gold! The price was three hundred golden pieces for father and two "
+"hundred for son! Aiieeee!!!"
+msgstr ""
+"I can't tell you! (Aaargh) I don't know his name! I was given the task by the "
+"elders of the Assassin's Guild. All I know is that one of Akladian lords paid for "
+"it in gold! The price was three hundred gold pieces for the father and two hundred "
+"for the son! Aiieeee!!!"
+
+msgid "I can't. I won't. I won't leave you, my lord."
+msgstr "I can't. I won't. I won't leave you, my lord."
+
+msgid ""
+"I felt we had not enough gold for accomplishing the task which awaited us. So, I "
+"asked the others from the council of Freetown for help and they had agreed. We now "
+"have 200 golden pieces"
+msgstr ""
+"I felt we had not enough gold to accomplish the task that awaited us. So I asked "
+"the council of Freetown for help and they agreed. We now have 200 golden pieces"
+
+msgid ""
+"I guess we could ask peasants whether they know something about this Bontom place, "
+"in which your friend Reme is kept."
+msgstr ""
+"I guess we could ask the peasants whether they know something about this place "
+"'Bontom', in which your friend Reme is kept."
+
+msgid "I had no occasion to thank you that you have choosed me to fight for you."
+msgstr "I haven't had the opportunity to thank you for choosing me to fight for you."
+
+msgid "I hate you."
+msgstr "I hate you."
+
+msgid "I hope the witch is burning in hell!"
+msgstr "I hope the witch is burning in hell!"
+
+msgid "I know. You hate me."
+msgstr "I know. You hate me."
+
+msgid "I never saw you caring so much for your warriors."
+msgstr "I never saw you caring so much for your warriors."
+
+msgid ""
+"I participated in the battles you have mentioned, but someone else should be "
+"credited for the victory. We were commanded by this young man."
+msgstr ""
+"I participated in the battles you have mentioned, but someone else should be "
+"credited for the victory. We were commanded by this young man."
+
+msgid "I stopped to count killed enemies when I turned 50."
+msgstr "I stopped counting the enemies I've killed when I turned 50."
+
+msgid "I think he would kill you gratis. He won't say anything more, my lady."
+msgstr "I think he'd kill you for nothing. He won't say anything more, my lady."
+
+msgid ""
+"I think it was Orcish for 'a human woman has killed me, what a dishonor' or "
+"something like that."
+msgstr ""
+"I think it was Orcish for 'a human woman has killed me, what a dishonour' or "
+"something like that."
+
+msgid "I think that..."
+msgstr "I think that..."
+
+msgid ""
+"I was finally free! I still couldn't believe in that. Not only I was free, but "
+"also Gawen, my king, was alive. It was real relief for me; the thought that I had "
+"abandoned him during battle of Barnon was haunted me for weeks."
+msgstr ""
+"I was finally free! I still couldn't believe it. Not only was I free, but also "
+"Gawen, my king, was alive. It was great load off my shoulders; the thought that I "
+"had abandoned him during battle of Barnon had haunted me for weeks."
+
+msgid ""
+"I was still confused. When I saw Gawen, at first I had not recognised him. He had "
+"changed from the last time I saw him. He was just a kid then, now he looked more "
+"like a young man. Amazing change in just a few months."
+msgstr ""
+"I was still confused. When I saw Gawen, at first I had not recognised him. He had "
+"changed from the last time I saw him. He was just a boy then, now he looked more "
+"like a young man. It was an amazing change in just a few months."
+
+msgid ""
+"I was surprised that he was surrounded by underlings. But then, Gawen demanded "
+"that I should never use that word again, so I should start to think about them as "
+"'Wesnothians'. I think the girl with red hair have a crunch on Gawen, and despite "
+"Lorin calling her 'a mite of a child' she was woman already, quite pretty for that."
+msgstr ""
+"I expressed my surprise that he was surrounded by underlings. But then Gawen "
+"demanded that I should never use that word again, so I should start to think about "
+"them as 'Wesnothians'. I think the girl with red hair has a crush on Gawen, and "
+"despite Lorin calling her 'a mite of a child' she was woman already, and quite "
+"pretty at that."
+
+msgid ""
+"I will join Huon with part of my escort, I will gave the rest of them to Ruv.. to "
+"Gah - uhm - haldreeck. My finest archer, my best captain, two fighters and another "
+"archer. In addition, would you prefer to get Scout or Shaman?"
+msgstr ""
+"I will join Huon with part of my escort, I will give the rest of them to Ruv.. to "
+"Gah - uhm - haldreeck. My finest archer, my best captain, two fighters and another "
+"archer. In addition, would you prefer a Scout or a Shaman?"
+
+msgid "I will pay you in gold"
+msgstr "I will pay you in gold"
+
+msgid "I will see how fearless you will be when the rest of our army will come."
+msgstr "We'll see how fearless you are when the rest of our army gets here."
+
+msgid ""
+"I'm sorry father. I just couldn't miss the opportunity to see how our great future "
+"king is doing great heroical things, the kind the great future kings usually do. "
+"You don't mind, don't you - Gaumhaldric?"
+msgstr ""
+"I'm sorry father. I just couldn't miss the opportunity to see how our great future "
+"king is doing great heroic things, the kind that great future kings usually do. "
+"You don't mind, do you - Gaumhaldric?"
+
+msgid ""
+"I'm too old for leavin my village, but there is one boy who could fight for you, "
+"why not."
+msgstr ""
+"I'm too old to go leavin' my village, but there is one boy who could fight for "
+"you, why not."
+
+msgid ""
+"I'm too old for leavin' my village, and one boy who wanted to search for "
+"adventures already have joined you in the past."
+msgstr ""
+"I'm too old to go leavin' my village, and one boy who wanted to search for "
+"adventures has already joined you."
+
+msgid ""
+"I've seen a lot of orcs lately. They are going here and there, surprisingly "
+"disciplined and well-behaved for what I've heard about them. Well, yes, they "
+"killed and ate three of our cows and took our only horse, but that's what one can "
+"expect from any soldiers. Some orcish unit is garrisoned near Barnon, south from "
+"here."
+msgstr ""
+"I've seen a lot of orcs lately. They are marching this-way-and-that, surprisingly "
+"disciplined and well-behaved for what I've heard about them. Well, yes, they "
+"killed and ate three of our cows and took our only horse, but that's to be "
+"expected of any soldier. Some orcish unit is garrisoned near Barnon, south from "
+"here."
+
+msgid ""
+"If I may suggest something, you may want to use elves. Six elves alone is the "
+"force which is strong enough to hold eastern leader, especially when using hit-and-"
+"run tactics. You may ignore one of the enemies at all and use all your forces "
+"against another one. Do not hurry, we have quite a lot of time."
+msgstr ""
+"If I may suggest something, you may want to use elves. Six elves alone is enough "
+"to hold the eastern leader, especially when using guerilla tactics. You could also "
+"ignore one of the enemies at all and use all your forces against another one. You "
+"need not hurry, we have plenty of time."
+
+msgid ""
+"If I may suggest, my lord. We are here to gather news. But I don't think if "
+"interrogating eastern enemy leader have any sense. He does not look important "
+"enough. The second one, on the second hand..."
+msgstr ""
+"If I may suggest, my lord. We are here to gather intelligence, but I don't  think "
+"interrogating the eastern enemy leader is worthwhile. He doesn't look important "
+"enough. The second one, on the second hand..."
+
+msgid ""
+"If I would be younger, then yes, why not, but I am really too old for adventure "
+"seeking."
+msgstr ""
+"If I were younger, then yes, why not, but, really, I am too old for adventure now."
+
+msgid "If not, I will burn down that village"
+msgstr "If not, I will burn down that village"
+
+msgid "Impossible"
+msgstr "Impossible"
+
+msgid ""
+"Inside the castle of Haeltin, Lorin have found large quantities of food, as well "
+"as arrows and weapons. It seemed like the castle owners were expecting a huge army "
+"to come."
+msgstr ""
+"Inside the castle of Haeltin, Lorin found large quantities of food, as well as "
+"arrows and weapons. The castle's owners seemed to be expecting a huge army to come."
+
+msgid "Iruki"
+msgstr "Iruki"
+
+msgid ""
+"It seems that $ano_loyal[0].user_description was so impressed by Lorin's "
+"performance in this siege, that he will fight for her without the need to pay him. "
+"He became LOYAL."
+msgstr ""
+"It seems that $ano_loyal[0].user_description was so impressed by Lorin's "
+"performance in this siege, that he will fight for her without payment. He has "
+"become LOYAL."
+
+msgid "It would be honor to fight for you, Gaumhaldric."
+msgstr "It would be honor to fight for you, Gaumhaldric."
+
+msgid "John the Baldhead"
+msgstr "John the Baldhead"
+
+msgid "Just as I've told you, I rarely miss!"
+msgstr "Like I said, I rarely miss!"
+
+msgid "Kapi'ue"
+msgstr "Kapi'ue"
+
+msgid ""
+"Karen said you could smell the freedom in the air here; Gawen smelled nothing, "
+"though, only the meals prepared in field kitchen. It was not given to him to taste "
+"it. The messengers waited for Ruvio, asking him to come to the meeting of the "
+"Freetown leaders. "
+msgstr ""
+"Karen said you could smell the freedom in the air here - Gawen smelt nothing "
+"though, only the meals prepared in field kitchen. Freedom, it seemed, would not be "
+"his to taste. The messengers were waiting for Ruvio, asking him to come to the "
+"meeting of the Freetown leaders. "
+
+msgid "Karen! What are you doing here!"
+msgstr "Karen! What are you doing here!"
+
+msgid "Karen, .. "
+msgstr "Karen, .. "
+
+msgid ""
+"Karen, you will stay here, with mother and sisters. It's too dangerous for you."
+msgstr ""
+"Karen, you will stay here, with your mother and sisters. It's too dangerous for "
+"you."
+
+msgid "Kaur'ue"
+msgstr "Kaur'ue"
+
+msgid "Kill all enemy leaders."
+msgstr "Kill all enemy leaders."
+
+msgid "Killing without hate, dying without fear!"
+msgstr "Killing without hate, dying without fear!"
+
+msgid "Kyobaine"
+msgstr "Kyobaine"
+
+msgid "LADY Lorin. So? Do they expect me to howl or something?"
+msgstr "LADY Lorin. So? Do they expect me to howl or something?"
+
+msgid "Lady Lorin"
+msgstr "Lady Lorin"
+
+msgid ""
+"Lady Lorin it is then. Or maybe I could call you she-wolf, sometimes? She-wolf of "
+"Haeltin. In exchange, you could call me Andrey."
+msgstr ""
+"Lady Lorin it is then. Or maybe I could call you she-wolf, sometimes? She-wolf of "
+"Haeltin. In return, you can call me Andrey."
+
+msgid ""
+"Lady Lorin, I know your habit of interrogating enemy leaders. Please, take my "
+"advice, if you must, ignore the orcs, they do not look intelligent enough to give "
+"sensible answers."
+msgstr ""
+"Lady Lorin, I know your habit of interrogating enemy leaders. Please, take my "
+"advice and ignore the orcs. They do not look smart enough to givesensible answers."
+
+msgid "Leave the final blow for me! I want to interrogate him!"
+msgstr "Leave the final blow for me! I want to interrogate him!"
+
+msgid "Leaving Raedwood"
+msgstr "Leaving Raedwood"
+
+msgid ""
+"Listen carefully. Do not have any hope. Do not try anything. First, I am Akladian "
+"and you are not. Second, I am a bad woman. You have no idea how bad. Avoid me. "
+"Third, you are not my type. Fourth, there are some Akladian customs of which you "
+"are seemingly unaware. Let's make a deal: I will not call you underling, and you "
+"will call me Lady Lorin. Agreed?"
+msgstr ""
+"Listen carefully. Do not have any hope. Do not try anything. First, I am Akladian "
+"and you are not. Second, I am a bad woman. You have no idea how bad. Avoid me. "
+"Third, you are not my type. Fourth, there are some Akladian customs of which you "
+"are seemingly unaware. Let's make a deal: I will not call you underling, and you "
+"will call me Lady Lorin. Agreed?"
+
+msgid ""
+"Listen underling, the only thing which stops me from taking your life away after "
+"hearing such remark is that I still need you. But you are dangerously close to the "
+"line, so.."
+msgstr ""
+"Listen underling, the only thing which stops me from taking your life after such a "
+"remark is that I still need you. But you are dangerously close to the line, so..."
+
+msgid ""
+"Looking at him, I kept on thinking about what oracle told me once and suddenly I "
+"started to be afraid of those thoughts. When his father died, I thought that "
+"everything - well, almost everything - what Oracle had told me - were lies, but "
+"now.. Now I was scared and .. I tried not to think about it. But it kept coming "
+"back."
+msgstr ""
+"Looking at him, I couldn't help but recall what the Oracle once told me. Suddenly "
+"I began to fear those thoughts. When his father died, I thought that everything - "
+"well, almost everything - that the Oracle had told me must have been  lies, but "
+"now... Now I was scared.... I tried not to think about it but it kept coming back "
+"to me."
+
+msgid ""
+"Lorin ordered the castle to be prepared for defense. Men had worked day and night, "
+"while first snowflakes were melting on their bodies. She worked with them too, as "
+"hard as if she wanted to prove that she is as good as men. Or as if she wanted to "
+"be too tired to have time for bringing back memories."
+msgstr ""
+"Lorin ordered the castle to be prepared for defence. Her men worked day and night, "
+"as the first snowflakes of winter melted on their bodies. She worked with them "
+"too, and worked hard, as if to prove that she was as good as the men. Or to be so "
+"tired that she would sleep deeply, and not have time to think of the past."
+
+msgid ""
+"Lorin, did you heard how our people are calling you? A she-wolf. She-wolf of "
+"Haeltin."
+msgstr ""
+"Lorin, have you heard what our people are calling you? A she-wolf. The She-wolf of "
+"Haeltin."
+
+msgid "Lorin, if you would only gave me a chance, I would make you howl."
+msgstr "Lorin, if you would only gave me a chance, I would make you howl."
+
+msgid "Lorin, what are you doing?"
+msgstr "Lorin, what are you doing?"
+
+msgid "Lorin, you have to go the other way. Reme is waiting for you there!"
+msgstr "Lorin, you have to go the other way. Reme is waiting for you there!"
+
+msgid "Loyal"
+msgstr "Loyal"
+
+msgid "Maybe we could try to withdraw to the mountains?"
+msgstr "Maybe we could try to withdraw to the mountains?"
+
+msgid "Milildur"
+msgstr "Milildur"
+
+msgid "Mithrandil"
+msgstr "Mithrandil"
+
+msgid ""
+"Mounted and wielding wicked-looking sickles, brigands left behind the farming life "
+"to stalk Wesnoth's lonely backroads in small bands, robbing travelers.  They also "
+"carry crude crossbows but are not very skilled with them."
+msgstr ""
+"Mounted and wielding wicked-looking sickles, brigands left behind the farming life "
+"to stalk Wesnoth's lonely backroads in small bands, robbing travellers.  They also "
+"carry crude crossbows but are not very skilled with them."
+
+msgid "Move Gawen to southern edge of the map OR"
+msgstr "Move Gawen to southern edge of the map OR"
+
+msgid ""
+"Move the supplies to the mountains. That way, even if they break into the castle, "
+"they still will have no food."
+msgstr ""
+"Move the supplies to the mountains. That way, even if they break into the castle, "
+"they will still have no food."
+
+msgid ""
+"My Lady, the defenses are ready. I ordered a moat dug out in the north, we also "
+"put some new fortifications in place, but they are not finished."
+msgstr ""
+"My Lady, the defences are ready. I ordered a moat to be dug to the north, we also "
+"put some new fortifications in place, but they are not finished."
+
+msgid "My arrows never miss!"
+msgstr "My arrows never miss!"
+
+msgid "My brother! No! You witch, you will answer for that! I will burn you alive!"
+msgstr "My brother! No! You witch, you will answer for that! I will burn you alive!"
+
+msgid "My lady, please, stop, that's just..."
+msgstr "My lady, please, stop, that's just..."
+
+msgid "My lord, I bet you are impressed!"
+msgstr "My lord, I bet you are impressed!"
+
+msgid ""
+"My lord, from here we may explore few possibilities. To the south, there is city "
+"of Barnon. Definetely it would be very dangerous to go there, but..."
+msgstr ""
+"My lord, from here we may explore a few possibilities. To the south, there is city "
+"of Barnon. It would definitely be very dangerous to go there, but..."
+
+msgid ""
+"My respect and best wishes for everyone in this free city. I hope you will forgive "
+"mefor  not boring you with a long and pompous traditional speech. The news I bring "
+"here is simple, and terrifying. The Orcish army has marched unnoticed into very "
+"heart of Wesnoth."
+msgstr ""
+"My respect and best wishes for everyone in this free city. I hope you will forgive "
+"me for not boring you with a long and pompous traditional speech. The news I bring "
+"here is simple, and terrifying. The Orcish army has marched unnoticed into very "
+"heart of Wesnoth."
+
+msgid "My soldiers! Bastards, he is killing my soldiers!"
+msgstr "My soldiers! Bastards, he is killing my soldiers!"
+
+msgid "My sword and my honour, two unbreakable things!"
+msgstr "My sword and my honour, two unbreakable things!"
+
+msgid "NORMAL: Survive to the end of turn limit."
+msgstr "NORMAL: Survive to the end of turn limit."
+
+msgid "No man or woman may oppose me when I have a bow or sword!"
+msgstr "No man or woman can match me when I have a bow or sword!"
+
+msgid "No offence, but you were already asking me that question."
+msgstr "No offence, but you already asked me that question."
+
+msgid "No offense, but I value my life more than gold"
+msgstr "No offence, but I value my life more than gold"
+
+msgid "No price for me?"
+msgstr "And for me?"
+
+msgid "No! I won't leave you! I don't want to! Let's die together!"
+msgstr "No! I won't leave you! I don't want to! Let's die together!"
+
+msgid ""
+"No! That impossible! How that could possibly happened, they would have to cross "
+"through the free realms of the north, and.."
+msgstr ""
+"No! That impossible! How that could possibly have happened, they would have had to "
+"cross through the free realms of the north, and..."
+
+msgid ""
+"No! That's impossible! You will pay for that, treacherous dogs! Your sons at "
+"Vattin are already dead!"
+msgstr ""
+"No! That's impossible! You will pay for this, treacherous dogs! Your sons at "
+"Vattin are already dead!"
+
+msgid "No! That's suicide! I won't let you!"
+msgstr "No! That's suicide! I won't let you!"
+
+msgid "No, Gwidle. My army will be led by this ... Gaumhaldric."
+msgstr "No, Gwidle. My army will be led by this ... Gaumhaldric."
+
+msgid ""
+"No, I don't want to. Besides, there are other heirs, why me? What should I do with "
+"those other cousins, if they won't recognise me as king?"
+msgstr ""
+"No, I don't want to. Besides, there are other heirs, why me? What would I do with "
+"those other cousins, if they won't recognise me as king?"
+
+msgid "No, I think I would want more fighters."
+msgstr "No, I think I would want more fighters."
+
+msgid "No, no, it's one of Akladian lords. who.."
+msgstr "No, no, it's one of the Akladian lords. who..."
+
+msgid ""
+"No. I want only peace. I do not want to start civil wars, or fight for any "
+"thrones. No and let's not talk about it again."
+msgstr ""
+"No. I want only peace. I don't want to start civil wars, or fight for any thrones. "
+"No. And let's not talk about it again."
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid ""
+"Now Gaumhaldric the Great will accomplish all those amazing things bards will sing "
+"about him in future."
+msgstr ""
+"Now Gaumhaldric the Great will accomplish all those amazing things bards will sing "
+"about in the future."
+
+msgid ""
+"Now, let us greet our honorable guest, Mithrandil from the northern Elves. He made "
+"a long journey here and he bears important news."
+msgstr ""
+"Now, let us greet our honorable guest, Mithrandil from the northern Elves. He made "
+"a long journey here and he bears important news."
+
+msgid "Now, only one thing stops me from killing you. Who sent you?"
+msgstr ""
+"Now, there's only one thing stopping me from killing you: tell me, who sent you?"
+
+msgid ""
+"Now, when you know where your friend Reme is, you may go to that Bontom place the "
+"peasants told us about."
+msgstr ""
+"Now, when you know where your friend Reme is, you may go to that Bontom place the "
+"peasants told us about."
+
+msgid "Of courrrrrse."
+msgstr "Of courrrrrse."
+
+msgid "Oh my God. It's worse than I thought."
+msgstr "Oh my God. It's worse than I thought."
+
+msgid "One more reference to underling... Ah, what the hell."
+msgstr "One more reference to underling... Ah, what the hell."
+
+msgid ""
+"One of local peasant joins your army. It's untrained but LOYAL and STRONG unit."
+msgstr ""
+"One of the local peasants joins your army. He's untrained but LOYAL and STRONG."
+
+msgid ""
+"Orcs? Da orcs were in plains pillagin' and burnin'. They are big, bad and you "
+"should avoid them boy."
+msgstr ""
+"Orcs? Da orcs were in da plains a-pillagin' and a-burnin'. They be big, bad an' "
+"you should be avoidin' 'em, boy."
+
+msgid ""
+"Orcs? They were here, but they left in hurry. They were pillaging villages east "
+"from us. They were going for place called Haeltin, and I've heard they were "
+"defeated there by some woman."
+msgstr ""
+"Orcs? They were here, but they left in hurry. They were pillaging villages to the "
+"east. They were going for place called Haeltin, and I've heard they were defeated "
+"there by some woman."
+
+msgid "Our king is dead! We are not traitors!"
+msgstr "Our king is dead! We are not traitors!"
+
+msgid "Our rules are to never betray the name of people who hired us."
+msgstr "Our code is to never betray the people who hired us."
+
+msgid "Ouruk"
+msgstr "Ouruk"
+
+msgid "Outlaw"
+msgstr "Outlaw"
+
+msgid "Owaec"
+msgstr "Owaec"
+
+msgid "Peasant"
+msgstr "Peasant"
+
+msgid "People not fighting for freedom are not worth it. Are you?"
+msgstr "People who won't fight for freedom are not worthy of it. Are you?"
+
+msgid "Quivre O Raedbor"
+msgstr "Quivre O Raedbor"
+
+msgid "Raedwood Forest"
+msgstr "Raedwood Forest"
+
+msgid "Ranger"
+msgstr "Ranger"
+
+msgid ""
+"Rangers are wild men and masters of forest and hills.  They are excellent "
+"trackers, scouts, and archers, moving freely through the countryside under the "
+"cover of night.  Most rulers are afraid of rangers and would rather put them in "
+"the dungeon than put their abilities to use."
+msgstr ""
+"Rangers are wild men and masters of forest and hills.  They are excellent "
+"trackers, scouts, and archers, moving freely through the countryside under the "
+"cover of night.  Most rulers are afraid of rangers and would rather put them in "
+"the dungeon than put their abilities to use."
+
+msgid "Raole Mathauri"
+msgstr "Raole Mathauri"
+
+msgid "Rarg"
+msgstr "Rarg"
+
+msgid "Raurlak"
+msgstr "Raurlak"
+
+msgid ""
+"Reme, take her and go. That is an order. And this is not suicide, I will follow "
+"you as soon as possible."
+msgstr ""
+"Reme, take her and go. That is an order. And this is not suicide, I will follow "
+"you as soon as possible."
+
+msgid ""
+"Reme, take my step-mother and protect her. I will stay here to guard your rear "
+"during withdrawal."
+msgstr ""
+"Reme, take my step-mother and protect her. I will stay here to guard your "
+"withdrawal."
+
+msgid "Reme, you had to take care of Lorin. She went the other way"
+msgstr "Reme, you have to take care of Lorin. But she went the other way"
+
+msgid "Reme? No, I have not heard about him."
+msgstr "Reme? No, I have not heard about him."
+
+msgid "Reme? What is that Reme? Some kind of food?"
+msgstr "Reme? What is 'Reme'? Some kind of food?"
+
+msgid ""
+"Reme? Yes, I've heard about him. His clan castle was burned down by Outlaws. But "
+"he is alive, they captured him. I've heard they want to trade him to Bor Cryne. I "
+"have heard that they keep him in place known as Bontom, but I don't know where it "
+"is..."
+msgstr ""
+"Reme? Yes, I've heard about him. His clan castle was burned down by Outlaws. But "
+"he is alive, they captured him. I've heard they want to trade him to Bor Cryne. I "
+"have heard that they keep him in place known as Bontom, but I don't know where it "
+"is..."
+
+msgid "Respect, my king. Follow us as soon as it is possible"
+msgstr "Respect, my king. Follow us as soon as it is possible"
+
+msgid "Revenge!"
+msgstr "Revenge!"
+
+msgid "Ringo"
+msgstr "Ringo"
+
+msgid "Rogue Mage"
+msgstr "Rogue Mage"
+
+msgid "Run for you life! They are too many of them!!"
+msgstr "Run for you life! They are too many of them!!"
+
+msgid "Ruvio, could you please sent her back to home?"
+msgstr "Ruvio, could you please sent her home?"
+
+msgid "Scouting"
+msgstr "Scouting"
+
+msgid "Shadow Lord"
+msgstr "Shadow Lord"
+
+msgid "Shadow Mage"
+msgstr "Shadow Mage"
+
+msgid "Siege of Haeltin"
+msgstr "The Siege of Haeltin"
+
+msgid ""
+"So, what now? I appreciate that you are calling me your commander, but the truth "
+"is that I have no idea what to do next."
+msgstr ""
+"So, what now? I appreciate your calling me your commander, but the truth is that I "
+"have no idea what to do next."
+
+msgid ""
+"Some woman? SOME WOMAN? That freckled kid will be SOME woman when she will grown "
+"up, not me. I am lady, LADY Lorin."
+msgstr ""
+"Some woman? SOME WOMAN? That freckled kid will be SOME woman when she grows up. "
+"Not me. I am a lady - LADY Lorin."
+
+msgid "Speak!"
+msgstr "Speak!"
+
+msgid "Spearman"
+msgstr "Spearman"
+
+msgid "Stop it, kids. We have to go. We have a mission to accomplish."
+msgstr "Stop it, kids. We have to go. We have a mission to accomplish."
+
+msgid "Stop, don't kill him! We have to interrogate him!"
+msgstr "Stop, don't kill him! We have to interrogate him!"
+
+msgid "Straight into your heart!"
+msgstr "Straight into your heart!"
+
+msgid "Strength and honour!"
+msgstr "Strength and honour!"
+
+msgid "Sword or Bow, who is better than me?"
+msgstr "Sword or Bow, who is better than me?"
+
+msgid "Take care, Reme Carrenemoe."
+msgstr "Take care, Reme Carrenemoe."
+
+msgid "Take her to the safety, people."
+msgstr "Take her to safety, people."
+
+msgid ""
+"That supposed to convince me?!? Go away, little butcher. I will not talk to you "
+"more anymore"
+msgstr ""
+"Is that supposed to convince me?!? Go away, you little butcher. I will not talk to "
+"you anymore."
+
+msgid "That's all I wanted to know."
+msgstr "That's all I wanted to know."
+
+msgid ""
+"That's an order. Reme, if I run from a fight, who will respect me? I am not "
+"suicidal, believe me. And you must live; I order you to escort Lady Lorin safely "
+"to either Vattin or her family."
+msgstr ""
+"That's an order. Reme, if I run from a fight, who will respect me? I am not "
+"suicidal, believe me. And you must live; I order you to escort Lady Lorin safely "
+"to either Vattin or her family."
+
+msgid ""
+"That's what advisers are for. Right now, we have to leave the forests. And then "
+"find the orcs, catch their leaders and that's it."
+msgstr ""
+"That's what advisers are for. Right now, we have to leave the forests. And then "
+"find the orcs, catch their leaders and that's it."
+
+msgid ""
+"The correct term is strategical relocation of the forces, impertinent underling."
+msgstr "The correct term is a strategic relocation of forces, impertinent underling."
+
+msgid ""
+"The day way bright when Gawen Hagarthen entered the forests of Raedwood. There, "
+"inside the very heart of the forest, lay the city of Freetown, founded by refugees "
+"from lands under Akladian yoke. Life was not easy here, the food was scarce, yet "
+"the smiles were often seen on the faces of men and women."
+msgstr ""
+"The day way bright when Gawen Hagarthen entered the forests of Raedwood. Here, "
+"inside the very heart of the forest, lay the city of Freetown, founded by refugees "
+"from lands under Akladian yoke. Life was not easy here, the food was scarce, yet "
+"smiles were often seen on the faces of men and women."
+
+msgid "The destiny."
+msgstr "Destiny."
+
+msgid "The honor is mine."
+msgstr "The honour is mine."
+
+msgid "The king's son is dead! We heard about it!"
+msgstr "But we heard that the king's son was dead!"
+
+msgid ""
+"The old kingdom of Wesnoth lies in ruins, while barbarians are ruling over the "
+"people dreaming about old legends. Can Gawen Hagarthen unite them all against the "
+"common danger? This supposed to be easy campaign. "
+msgstr ""
+"The old kingdom of Wesnoth lies in ruins, and while the people dream of old "
+"legends, they are ruled over by barbarians. Can Gawen Hagarthen unite them all "
+"against a common threat? This is supposed to be an easy campaign."
+
+msgid "The rest of your army? Interesting."
+msgstr "The rest of your army? Interesting."
+
+msgid "Then die, if you want."
+msgstr "Then die, if that's what you want."
+
+msgid ""
+"There is no difference, really. We can use both to reach Vattin. Eastern one leads "
+"amongst swamps and forests, while the western through the hills and grasslands. "
+"God, I swear to sacrifice a horse if you will help us survive this. A whole, "
+"beautiful horse. And I will add a golden saddle!"
+msgstr ""
+"There is little to choose between them. Both lead to Vattin. The eastern one leads "
+"to swamps and forests, while the western one through hills and grasslands. God, I "
+"swear to sacrifice a horse if you will help us survive this. A whole, beautiful "
+"horse. And I will add a golden saddle!"
+
+msgid ""
+"There will be time, when we will have to talk about it again. Now we should get "
+"through the lines of the Akladians."
+msgstr ""
+"There will come a time when we will have to talk about it again. Now we must get "
+"through the Akladian lines."
+
+msgid ""
+"They are delayed two days after us. They will appear from the north and smash what "
+"is left of your so called castle."
+msgstr ""
+"They are only two days behind us. They will appear from the north and smash what "
+"is left of your so-called castle."
+
+msgid "They are withdrawing! They have no more supplies."
+msgstr "They are withdrawing! They have no more supplies."
+
+msgid ""
+"They indeed crossed the free realms of the north. The relations between humans are "
+"not of my business. Also, I will pretend that I have not noticed that you have "
+"called me a liar. The Orcish army appeared in Wesnoth, bringing back memories of "
+"the queen, whose name I will not utter."
+msgstr ""
+"They indeed crossed the free realms of the north. Relations between humans are "
+"none of my business. Also, I will pretend not to have noticed that you called me a "
+"liar. The Orcish army appeared in Wesnoth, bringing back memories of the queen, "
+"whose name I will not utter."
+
+msgid ""
+"They will help us purify our race. We will go and kill every one who is unworthy "
+"of being Akladian. Those, who violated our customs, who are friends of the "
+"underlings, those who have offended our God by marrying them. Only then God will "
+"again be fond of us and he will reward us with completing of our conquest of "
+"Wesnoth and the whole world."
+msgstr ""
+"They will help us purify our race. We will go and kill every one who is unworthy "
+"of being Akladian. Those who violated our customs, who are friends of the "
+"underlings, those who have offended our God by marrying them. Only then will God "
+"again be fond of us and will he reward us with the completion of our conquest of "
+"Wesnoth and the whole world."
+
+msgid ""
+"This is extremely important to everyone to remember that you should not reference "
+"Gawen by his real name. Call him Gaumhaldric."
+msgstr ""
+"It is extremely important that everyone should remember not to refer to Gawen by "
+"his real name. Call him Gaumhaldric."
+
+msgid "This is the fate which will come to all our enemies."
+msgstr "This is the fate which will come to all our enemies."
+
+msgid ""
+"This isn't a totally surprising to me. My king, we have to escape. We have two "
+"ways to out of this trap: one to the west..."
+msgstr ""
+"This isn't a complete surprise to me. My king, we must escape. We have two ways "
+"out of this trap: one to the west..."
+
+msgid ""
+"This was incredibly difficult. I was sure this would be the last day of my life."
+msgstr ""
+"That was incredibly difficult. I was sure this would be the last day of my life."
+
+msgid "Thug"
+msgstr "Thug"
+
+msgid "To Barnon"
+msgstr "To Barnon"
+
+msgid "To Freetown"
+msgstr "To Freetown"
+
+msgid "To Haeltin"
+msgstr "To Haeltin"
+
+msgid "To Saorduc swamps"
+msgstr "To Saorduc swamps"
+
+msgid ""
+"Traitors! How can you be so dishonorable to fight against your own rightful king!"
+msgstr ""
+"Traitors! How can you be so dishonourable as to fight against your rightful king!"
+
+msgid "Trivial"
+msgstr "Trivial"
+
+msgid ""
+"Uhmmm.. I should investigate him, right? So... Uhmm.. What you have eat for "
+"breakfast?"
+msgstr ""
+"Uhmmm.. I should investigate him, right? So... Uhmm.. What did you have for "
+"breakfast?"
+
+msgid "Urandil"
+msgstr "Urandil"
+
+msgid "Uriag"
+msgstr "Uriag"
+
+msgid "Uruke"
+msgstr "Uruke"
+
+msgid "Version"
+msgstr "Version"
+
+msgid ""
+"Veteran criminals become notorious among the authorities for both their battle "
+"prowess and ability to elude capture.  Beautiful and dangerous, their beauty is "
+"exceeded only by their dangerousness."
+msgstr ""
+"Veteran criminals become notorious among the authorities for both their battle "
+"prowess and ability to elude capture.  Beautiful and dangerous, their beauty is "
+"exceeded only by their dangerousness."
+
+msgid ""
+"Veteran criminals become notorious among the authorities for both their battle "
+"prowess and ability to elude capture.  Dangerous and ruthless, they can be fearful "
+"in their element but no real match for professional law enforcment forces."
+msgstr ""
+"Veteran criminals become notorious among the authorities for both their battle "
+"prowess and ability to elude capture.  Dangerous and ruthless, they can be "
+"fearsome in their element but no real match for professional law enforcment forces."
+
+msgid "Wait a moment. Are you running away?"
+msgstr "Wait a moment. Are you running away?"
+
+msgid "Wait! Do not die yet! I know you can hear me, answer me a few questions!"
+msgstr "Wait! Do not die yet! I know you can hear me, answer me a few questions!"
+
+msgid "Wait, do not kill him!"
+msgstr "Wait, do not kill him!"
+
+msgid "We already know what we had to find out. We should go to Freetown now."
+msgstr "We already know what we came to find out. We should go to Freetown now."
+
+msgid ""
+"We already searched in Haeltin, west from here. That your step-mother was there, "
+"known as She-wolf really surprised me."
+msgstr ""
+"We already searched in Haeltin, west of here. To find your step-mother there, and "
+"that she was the famous 'She-wolf' really surprised me."
+
+msgid "We already were searching for answers in city of Barnon"
+msgstr "We've already searched for answers in the city of Barnon"
+
+msgid "We could also go for the swamps."
+msgstr "We could also go for the swamps."
+
+msgid ""
+"We could, but in swamps of Saorduc Saurians live, and they rarely go outside of "
+"their mud. I doubt they would know anything useful. There are also some villages "
+"there, you could go and ask peasants, maybe they would know something."
+msgstr ""
+"We could, but Saurians live in the swamps of Saorduc , and they rarely go outside "
+"of their mud. I doubt they would know anything useful. There are also some "
+"villages there, you could go and ask the peasants, maybe they will know something."
+
+msgid ""
+"We do not have to defeat them, luckily. They are not prepared for a long siege, so "
+"it would be enough to survive initial onslaught. Then, they will have to withdraw, "
+"because they will have no food."
+msgstr ""
+"We do not have to defeat them, luckily. They are not prepared for a long siege, so "
+"it would be enough to survive initial onslaught. Then, they will have to withdraw, "
+"because they will have no food."
+
+msgid "We fought our way out of forests. What now?"
+msgstr "We fought our way out of the forests. What now?"
+
+msgid ""
+"We have less than 300 golden pieces. Are you sure we will be able to survive the "
+"enemy onslaught with these?"
+msgstr ""
+"We have less than 300 gold pieces. Are you sure we will be able to survive the "
+"enemy onslaught with these?"
+
+msgid "We have no more supplies. We have to withdraw! We will return, she-wolf."
+msgstr "We have no more supplies. We have to withdraw! We will return, she-wolf."
+
+msgid ""
+"We have no time to finish it. They are already here. Faster, move the supplies to "
+"hideout in mountains, so even if they reach the keep they won't find anything."
+msgstr ""
+"We have no time to finish them. The enemy is already here. Faster, move the "
+"supplies to the hideout in mountains, so even if they reach the keep they won't "
+"find anything."
+
+msgid ""
+"We respect wisdom of the Elves, and we will fulfill your request. We will send two "
+"armies to catch Orcish leaders and investigate them. One will be led by Ruvio, "
+"second by Huon. Agreed?"
+msgstr ""
+"We respect the wisdom of the Elves, and we will fulfil your request. We will send "
+"two armies to catch Orcish leaders and investigate them. One will be led by Ruvio, "
+"the second by Huon. Agreed?"
+
+msgid ""
+"We should sacrifise an ox to God. There are too many of them, without God's help "
+"we won't be able to defeat them."
+msgstr ""
+"We should sacrifice an ox to God. There are too many of them, without God's help "
+"we won't be able to defeat them."
+
+msgid ""
+"We welcome also your daughter. Karen, I would order you to leave this meeting and "
+"go to your mother..."
+msgstr ""
+"We welcome also your daughter. Karen, I would order you to leave this meeting and "
+"go to your mother..."
+
+msgid "We were deceived! My king, please forgive me!"
+msgstr "We have been deceived! O my king, please forgive me!"
+
+msgid ""
+"We were ordered to cooperate with orcs.. We were told orcs are our allies.. I know "
+"nothing more."
+msgstr ""
+"We were ordered to cooperate with orcs.. We were told orcs are our allies.. I know "
+"nothing more."
+
+msgid ""
+"We've heard that you have battled and defeated both Akladians and Outlaws. Accept "
+"our congratulations, Ruvio. But who is this young man, your companion?"
+msgstr ""
+"We've heard that you have battled and defeated both Akladians and Outlaws. Accept "
+"our congratulations, Ruvio. But who is this young man, your companion?"
+
+msgid ""
+"We, elves, believe that this is more than just an Orcish invasion and quarrels "
+"between Akladians. Something greater, something evil is hiding behind this. What "
+"it is, we do not know. I came here to both warn you, help you and ask for help. "
+"Find out the real reason the Orcish army is here. Who is hiding behind the "
+"invasion. We have our suspicions, but we want to be sure."
+msgstr ""
+"We Elves believe that this is more than just an Orcish invasion and quarrels "
+"between Akladians. Something greater, something evil is hiding behind this. What "
+"it is, we do not know. I came here to warn you, help you, and ask for your help.  "
+"I also came to find out the real reason the Orcish army is here and who is hiding "
+"behind the invasion. We have our suspicions, but we want to be sure."
+
+msgid ""
+"Welcome back to Freetown, Ruvio. You are just in time to participate in our "
+"meeting."
+msgstr "Welcome back to Freetown, Ruvio. You are just in time to join our meeting."
+
+msgid ""
+"Welcome, Gaumhaldric. It's first time I have a pleasure to fight for you. We, "
+"elves, are accustomed to fighting inside of forests. Our specialty are bows. Use "
+"us wisely."
+msgstr ""
+"Welcome, Gaumhaldric. It's the first time I have the pleasure of fighting for you. "
+"We Elves are accustomed to fighting in forests. Our specialty is archery. Use us "
+"wisely."
+
+msgid "Well, and what do you propose in exchange?"
+msgstr "Well, and what do you propose in exchange?"
+
+msgid ""
+"Well.. Yes, why not. One of our men can handle a bow. You could have some use of "
+"him"
+msgstr ""
+"Well... Yes, why not. One of our men can handle a bow. You could have some use of "
+"him"
+
+msgid "What ?!?"
+msgstr "What ?!?"
+
+msgid "What Orcs are doing here anyway, and why are they allied with you?"
+msgstr "What Orcs are doing here anyway, and why are they allied with you?"
+
+msgid "What about this:"
+msgstr "What about this:"
+
+msgid "What are you waiting for? Come on, finish me, witch."
+msgstr "What are you waiting for? Come on, finish me, witch."
+
+msgid "What did he say?"
+msgstr "What did he say?"
+
+msgid "What do you know about the orcs?"
+msgstr "What do you know about the orcs?"
+
+msgid "What do you mean?"
+msgstr "What do you mean?"
+
+msgid "What the... The elves!"
+msgstr "What the... The Elves!"
+
+msgid "What, are you coward? Afraid of few orcs?"
+msgstr "What, are you a coward? Afraid of a few orcs?"
+
+msgid "What?"
+msgstr "What?"
+
+msgid "What? Ruvio, I don't want to be king."
+msgstr "What? Ruvio, I don't want to be king."
+
+msgid "What?!?"
+msgstr "What?!?"
+
+msgid "Whatever. Go to your people, see what they need. I will check our wounded."
+msgstr "Whatever. Go to your people, see what they need. I will see to our wounded."
+
+msgid "Where did you hide the gold?"
+msgstr "Where did you hide the gold?"
+
+msgid "Where is the promised food? Where are the rooms to rest? Answer me, human!"
+msgstr "Where is the promised food? Where are the rooms to rest? Answer me, human!"
+
+msgid "Which one is better?"
+msgstr "Which is better?"
+
+msgid ""
+"Who sent me? The fate... But there will be another after me. (scream of pain) "
+"Aaaargh!"
+msgstr ""
+"Who sent me? Fate... But there will be more after me. (scream of pain) Aaaargh!"
+
+msgid "Who sent you!"
+msgstr "Who sent you!"
+
+msgid "Who?"
+msgstr "Who?"
+
+msgid ""
+"Whom should I kill? They call me Elorain the eagle-eyed. Even in hot of battle, in "
+"most difficult circumstances, I still can hit target 6 times from every ten. Also, "
+"I can hide in forests and ambush enemies."
+msgstr ""
+"Whom should I kill? They call me Elorain the eagle-eyed. Even in the heat of "
+"battle, in the most difficult circumstances, I still can hit my mark 6 times out "
+"of ten. Also, I can hide in the forests and ambush enemies."
+
+msgid ""
+"Why, you should fight them and kill them. That's kind a family tradition. Your "
+"mother haven't told you?"
+msgstr ""
+"Why, you would fight them and kill them. That's a kind family tradition. Your "
+"mother never told you?"
+
+msgid "Why?"
+msgstr "Why?"
+
+msgid "Why? Two hundred golden pieces, that's why."
+msgstr "Why? Two hundred gold pieces, that's why."
+
+msgid "Why? Who sent you?"
+msgstr "Why? Who sent you?"
+
+msgid "Yarl Urluf"
+msgstr "Yarl Urluf"
+
+msgid "Yeah!"
+msgstr "Yeah!"
+
+msgid ""
+"Yes. We've heard that some woman, known by nickname 'She-wolf of Haeltin', was "
+"besieged by the orcs and she was able to repell them. Haeltin is west from here. "
+"It would be easy to go to her and ask her few questions."
+msgstr ""
+"Yes. We've heard that some woman, known by the nickname 'She-wolf of Haeltin', was "
+"besieged by the orcs and she was able to repell them. Haeltin is west from here. "
+"It would be easy to go to her and ask her a few questions."
+
+msgid "Yes... of course. I'm afraid that means.. never."
+msgstr "Yes... of course. I'm afraid that means.. never."
+
+msgid ""
+"You already know, probably, that I can cure lighter wounds of your soldiers. But I "
+"know also spells, and I can slow down enemies, making them easy prey for other our "
+"units."
+msgstr ""
+"You already know, probably, that I can cure the lighter wounds of your soldiers. "
+"But I also know spells which can slow down enemies, making them easy prey for your "
+"other units."
+
+msgid "You are way too soft, Reme. Why haven't you given him to me?"
+msgstr "You are far too soft, Reme. Why haven't you given him to me?"
+
+msgid "You aren't prince, aren't you? It is not you whom I am seeking."
+msgstr "You aren't a prince, are you? It is not you I'm after."
+
+msgid ""
+"You didn't know? Your true mother was from long lines of the kings. The last of "
+"her branch. You are true heir to the throne of Wesnoth."
+msgstr ""
+"You didn't know? Your true mother was from long lines of the kings. The last of "
+"her branch. You are true heir to the throne of Wesnoth."
+
+msgid "You fool! He is mixling, he can't be our king!"
+msgstr "You fool! He is a halfbreed, he can't be our king!"
+
+msgid ""
+"You forgot to say that 'one more reference to underling and I'm leaving'. Listen, "
+"Yaranov: I had noticed how you had been looking at me. At first, I couldn't guess "
+"what it meant. I am not used to such kind of glances. I can easily recognise "
+"hatred, despise, disdain. But this... "
+msgstr ""
+"You forgot to say that 'one more reference to underling and I'm leaving'. Listen, "
+"Yaranov: I have noticed the way you have been looking at me. At first, I couldn't "
+"guess what it meant. I am not used to such attention. I can easily recognise "
+"hatred, despise, disdain. But this... "
+
+msgid "You have no choice. This is your destiny."
+msgstr "You have no choice. This is your destiny."
+
+msgid "You may have some fun!"
+msgstr "You may have some fun!"
+
+msgid ""
+"You really thought I would send my true son to Vattin? You are so easy to fool! "
+"That boy who is at Vattin is not my first born son. Now, prepare to go straight to "
+"hell."
+msgstr ""
+"You didn't really think I would send my own son to Vattin? You are so easy to "
+"fool! That boy I sent to Vattin is not my son at all! Now, prepare to be sent "
+"straight to hell."
+
+msgid "You said you need me?"
+msgstr "You said you need me?"
+
+msgid "You will earn some gold in process!"
+msgstr "You will earn some gold in process!"
+
+msgid "Your brother is dead, and you will be too, soon."
+msgstr "Your brother is dead, and soon, you will be too."
+
+msgid "Your enemies are mine."
+msgstr "Your enemies are mine."
+
+msgid "Zero upkeep"
+msgstr "Zero upkeep"
+
+msgid "ambush"
+msgstr "ambush"
+
+msgid "astral blade"
+msgstr "astral blade"
+
+msgid "blade"
+msgstr "blade"
+
+msgid "bow"
+msgstr "bow"
+
+msgid "club"
+msgstr "club"
+
+msgid "cold"
+msgstr "cold"
+
+msgid "crossbow"
+msgstr "crossbow"
+
+msgid "cures"
+msgstr "cures"
+
+msgid "dagger"
+msgstr "dagger"
+
+msgid "female^Fugitive"
+msgstr "female^Fugitive"
+
+msgid "firststrike"
+msgstr "firststrike"
+
+msgid "holy"
+msgstr "holy"
+
+msgid "ice blast"
+msgstr "ice blast"
+
+msgid "impact"
+msgstr "impact"
+
+msgid "leadership"
+msgstr "leadership"
+
+msgid "lightbeam"
+msgstr "lightbeam"
+
+msgid "loyal"
+msgstr "loyal"
+
+msgid "mace"
+msgstr "mace"
+
+msgid "magical"
+msgstr "magical"
+
+msgid "marksman"
+msgstr "marksman"
+
+msgid "missile"
+msgstr "missile"
+
+msgid "pierce"
+msgstr "pierce"
+
+msgid "pike"
+msgstr "pike"
+
+msgid "shadow blast"
+msgstr "shadow blast"
+
+msgid "shadow bolt"
+msgstr "shadow bolt"
+
+msgid "short sword"
+msgstr "short sword"
+
+msgid "sickle"
+msgstr "sickle"
+
+msgid "skirmisher"
+msgstr "skirmisher"
+
+msgid "sling"
+msgstr "sling"
+
+msgid "spear"
+msgstr "spear"
+
+msgid "staff"
+msgstr "staff"
+
+msgid "sword"
+msgstr "sword"
+
+msgid "training sword"
+msgstr "training sword"
