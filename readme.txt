@@ -34,9 +34,16 @@ If you are a child under 13, please do not play it.
 Do not read the rest if you have not finished the campaign. It contains the 
 spoilers. If you spot a spelling mistake here (or when playing a game), or
 if you want to correct the English, please report it at the forum, or open
-a pull request on GitHub. For reference, the link to the forum thread is here:
+a pull request on GitHub. There are several forum threads in use. For reference,
+the link to the development forum thread is here:
 https://forums.wesnoth.org/viewtopic.php?f=8&t=6486
-...and the link to Yumi's official GitHub repo for this campaign is here:
+...the link to the feedback forum thread is here:
+https://forums.wesnoth.org/viewtopic.php?t=36183
+...the link to the current art workshop forum thread is here:
+https://forums.wesnoth.org/viewtopic.php?t=36074
+(...and then there are probably a few others that are no longer in use.)
+As for pull requests on GitHub, the link to Yumi's official GitHub repo for this
+campaign is here:
 https://github.com/nemaara/A_New_Order
 
 HOW TO THANK US
@@ -50,8 +57,12 @@ enjoy this campaign for free.
 
 If you want to do something more, you can consider:
 * donate to WTactics; we took some GPL images from there.
-* donate to Wesnoth; this is a great game.
-* buy tracks from Mattias Westlund; we shamelessly used many of his tracks
+* donate to Wesnoth; this is a great game. The project accepts payments via
+  LiberaPay here: https://liberapay.com/Wesnoth
+* buy tracks from Mattias Westlund; we shamelessly used many of his tracks. For
+  example, these albums available for purchase on the iTunes Store contain Wesnoth
+  tracks in them: https://music.apple.com/us/album/the-wesnoth-years/1494704618
+  ...and: https://music.apple.com/us/album/miscellaneum/1494705652
 * buy tracks from Christian Hellerberg
 * Well, Erik Rijshouwer does not sell his music as far as I know, but you can
   send him email saying how much you loved his pieces :) Of course, if you want
@@ -83,24 +94,32 @@ If you want to do something more, you can consider:
   suggested to update that to an account for someone more currently involved
   with maintainence of the campaign, so mine (egallager's) is here:
   https://www.paypal.com/paypalme/egallager
-  I am not sure if Yumi/nemaara has one; I'll have to ask her.
+  Yumi/nemaara accepts payments via Ko-fi: https://ko-fi.com/maraanelang
   You can also sponsor egallager via the GitHub Sponsors program here:
   https://github.com/sponsors/cooljeanius
+  There are also a number of other ways to send payment listed in
+  .github/FUNDING.yml; that file is what makes the list of sponsor links display
+  in the sidebar of the GitHub repo(s) for this campaign.
 
 Note that none of this is mandatory and you should under no circumstances feel
 obliged to do any of this. Saying you like it is enough to make us happy :) :)
 (Ok, I don't know about the others, but I LOVE to read when people write
 they like my work :D A.D.D). 
 
-I won't be buying more images for sure; I have commissioned six story images
-and five portraits. Sigil bought five portraits. One story images and two
-portraits were commissioned by three other players (tr0ll, wussel, alhaz).
-I have counted how many images ANO needs to make me feel it is REALLY finished
-in terms of graphics, and then how much it would cost me, and the decision is:
-no way (it would take my full two month salaries). Current cost of ANO
-amounts to just about 350 euros (more or less, since I pay in PLN, and Sigil
-paid in dollars but he never told me how much he spent, so I assume here that
-he paid just a little bit more for the portraits than I).
+I (szopen) won't be buying more images for sure; I have commissioned six story
+images and five portraits. Sigil bought five portraits. One story images and two
+portraits were commissioned by three other players (tr0ll, wussel, alhaz). More
+recently, egallager has commissioned 7 portraits that are currently being used
+(or 8, depending on how you count). I have counted how many images ANO needs to
+make me feel it is REALLY finished in terms of graphics, and then how much it
+would cost me, and the decision is: no way (it would take my full two month
+salaries). Current cost of ANO amounts to just about 350 euros (more or less,
+since I pay in PLN, and Sigil paid in dollars but he never told me how much he
+spent, so I assume here that he paid just a little bit more for the portraits
+than I). Due to shifting art prices and some poor decisions on a few pieces that
+ended up not being worth using, egallager's ANO expenditures have reached about
+483 US dollars (with the possibility that I may have forgotten to count some
+payments due to lazy accounting).
 
 SO YOU WANT TO CREATE A SEQUEL?
 -------------------------------
@@ -285,14 +304,15 @@ Many thanks for torangan for patience in explaining translation issues.
 
 Thanks for all the advice and help received on both the Wesnoth forums and Discord
 server, both in art (Jetryl and Pickslide, thanks a lot!) and in WML coding
-(thanks CelticMinstrel!).
+(thanks CelticMinstrel and Elvish_Hunter!).
 
 Translations were made by (no national characters in names, sorry): capitol and
 tephlon (swedish) and Geoffroy Douillie, damien, Guigou Guillaume (french),
 Jose Gordillo (Catalonian translation), Alexey Remizov, nikita: Russian
 translation, Joe Hansen (Danish), Simon Sobisch (German), brivido (Italian),
-Eduardo Jose Papa (Spanish), capitol, Stephen Bergstorm aka tephlon (Swedish),
-Nilgun Belma Buguner (Turkish), Oto 'tapik' Buchta: Czech translation. See
+Toranks (Spanish), capitol, Stephen Bergstorm aka tephlon (Swedish),
+Nilgun Belma Buguner (Turkish), kele17 (Hungarian), Oto 'tapik' Buchta, Michal
+Zejdl aka Celerini, and Petr Slejhar aka Septim: Czech translation. See
 the entries in about.cfg for correct name spellings and more details.
 
 Music is by Erik Rijshouwer, Christian Hellerberg, Nick Humphrey, Mattias
