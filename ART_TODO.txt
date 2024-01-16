@@ -54,7 +54,8 @@ PORTRAITS
 * Heinric the Redbeard (enemy leader from the first scenario; can be either a City
   Militia or a Lieutenant, depending on difficulty) (low priority)
 * better older-looking mage for the medic who heals Gawen in S01 (low priority)
-  (current one is a lazy frankenportrait that I just threw together myself)
+  (current one is a frankenportrait, that, despite having received some work,
+  could still use further improvement)
 * portraits for some of the less-important units with descriptive names, e.g.
   "John the Baldhead" (a peasant discoverable in S13), "Fat Bart" (an enemy
   Fugitive leader attacking the Oracle in S19c), and "Robert the Hefty" (an enemy
