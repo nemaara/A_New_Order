@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-27 07:02 UTC\n"
+"POT-Creation-Date: 2024-02-24 04:41 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -413,7 +413,7 @@ msgstr ""
 #. [event]
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Clansman.cfg:4
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:944
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:956
 #: A_New_Order/_main.cfg:57
 msgid "Akladian Clansman"
 msgstr ""
@@ -835,7 +835,7 @@ msgstr ""
 #: A_New_Order/macros/elvish_macros.cfg:255
 #: A_New_Order/macros/conversations.cfg:43
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:674
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:726
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:737
 msgid "What?"
 msgstr ""
 
@@ -3704,180 +3704,12 @@ msgstr ""
 msgid "...you never actually called me “old”, though...? I mean... ah, never mind, she's run off... what a strange girl..."
 msgstr ""
 
-#. the implication behind this sigh is that Yahyazad is just getting back from having been rejected by Lorin again:
-#: A_New_Order/macros/conversations_support.cfg:249
-msgid "(<i>sighs</i>)"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:250
-msgid "You know, Majid, we're actually pretty similar, both being rejected by members of the royal family like this..."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:251
-msgid "Hey, don't take that defeatist attitude! This is merely a temporary setback!"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:252
-msgid "<i>YOURS</i> might be temporary, but mine..."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:253
-msgid "No, yours is, too!"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:254
-msgid "No, you know what, it's fine. I've accepted it. And besides, I've found someone else I'm more interested in now, anyways."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:255
-msgid "You have? Pray tell, just who is this lucky fellow, anyways?"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:256
-msgid "Oh, don't be stupid, it's you, Majid!"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:257
-msgid "...M-me?! Karen, I... do you really mean me?"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:258
-msgid "Yes, you! Why do you sound so surprised? You're handsome, you're educated, you have a beard, and you've always been there for me when I needed it."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:259
-msgid "Well, yes, but..."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:260
-msgid "Hey, I wasn't done yet! In fact, I was actually about to turn to a question... Majid Yahyazad, of the Dunefolk... will you marry me?"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:261
-msgid "Oh, so in Wesnothian society, the woman proposes marriage to the man? Very interesting, you see, in Dunefolk society, we have this tradition where--"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:262
-msgid "Oh, forget about tradition! We don't have time for that! Majid, look, I love you. I may have loved Gawen, but now I see that his heart belongs solely to Lorin. And you know what? That's fine with me. If he's happier with her, then I'm happy, too. But, I mean, with the way the war is going at this point..."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:263
-msgid "...you're worried that you might not have the time if you wait much longer?"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:264
-msgid "Well, yes, but... well, look. I've asked you to marry me. Now are you going to say yes or not?"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:265
-msgid "Look, Karen, you're a cute kid, ok? But, I mean, I'm old enough to be your father..."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:266
-msgid "I thought we agreed previously that age was just a number, though?"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:267
-msgid "That was just you misinterpreting something you thought I said, but..."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:268
-msgid "“Misinterpreting”?! I thought--"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:269
-msgid "Hey! I wasn't done yet. It may have originally been a misinterpretation that we never agreed to, but you know what, you're right. Age <i>is</i> just a number. And now that I think about it some more, I see that you've actually grown into a fine young woman while I wasn't paying attention."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:270
-msgid "See? I told you I had!"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:271
-msgid "I mean... well, anyways, I don't want to spoil this moment any further. Karen, Ruvio's daughter, I will gladly accept, and take you as one of my wives."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:272
-msgid "Wait... “wives”?! You mean you're already married?! You never mentioned that before! Not to me, not to Lorin, not to anyone!"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:273
-msgid "I didn't? My apologies if I misled you."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:274
-msgid "I mean, I just kind of assumed that you <i>HAD</i> to be single, what with the way you were pursuing Lorin..."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:275
-msgid "Ah, I didn't realize that you weren't familiar with the Dunefolk practice of taking multiple wives. You see, it's actually quite the logical practice; since I can't be home with them all the time, they often need someone else to keep them entertained, and who better to do so than another woman?"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:276
-msgid "Wait. You mean they--"
-msgstr ""
-
-#. feel free to have fun with suggestiveness and double entendres here in your translation:
-#: A_New_Order/macros/conversations_support.cfg:278
-msgid "Oh yes, they have great fun with one another. In fact, I think you'll get along just smashingly with them, come to think of it."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:279
-msgid "B-but..."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:280
-msgid "But what? You proposed marriage to me, did you not? And now I have accepted. So what precisely is the issue here?"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:281
-msgid "I only wanted a husband out of my proposal, not any wives as well!"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:282
-msgid "Well, it's up to you. If such an arrangement would be uncomfortable for you, I could just as easily decline instead. But, I think I'd really rather accept, though, now that I've thought about it some."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:283
-msgid "Well... ok, so just how many other wives do you have already?"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:284
-msgid "Just the two so far, Raya and Ni'wa. You'd be the third. It really isn't that many if you compare that against the chieftains of some of the other Ostans, why just take that Arsham Mahouri for instance, he--"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:285
-msgid "OK, I don't care about this Arsham Mahouri guy; I just care about you, and your... family that I'll be joining. Tell me more about this Raya and Ni'wa?"
-msgstr ""
-
-#. the implication with the word "fiery" is that Raya is a unit of the Dune Burner -> Dune Scorcher -> Dune Firetrooper line:
-#: A_New_Order/macros/conversations_support.cfg:287
-msgid "Oh, you'll absolutely love Raya! She's a warrior like you are, although she specializes more in fiery weaponry... you could have a killing competition with her like you did with Lorin!"
-msgstr ""
-
-#. implication is that Ni'wa is a unit of the Dune Falconer -> Dune Sky Hunter line:
-#: A_New_Order/macros/conversations_support.cfg:289
-msgid "As for Ni'wa... well, she's a bit more shy, and takes a bit longer to open up to people she's newly met, but I'm sure you'll grow to get along just fine with her as well! She spends most of her time training falcons to hunt for us..."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:290
-msgid "Well, they sound interesting, at least... all right, Majid, I'm reassured! Take me as your third wife, and then let's go on an adventure together!"
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:291
-msgid "With pleasure, my dear Karen."
-msgstr ""
-
-#: A_New_Order/macros/conversations_support.cfg:292
-msgid "(<i>They kiss</i>)"
-msgstr ""
-
 #. reference to story part in S15 where Gawen says, "Karen had even promised to show Lorin a few easy exercises to help her to regain the slenderness of her youth."
-#: A_New_Order/macros/conversations_support.cfg:304
+#: A_New_Order/macros/conversations_support.cfg:257
 msgid "Hey Lorin, you look like you could use some exercise."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:318
+#: A_New_Order/macros/conversations_support.cfg:271
 msgid "Ruvio, that child of yours is an absolute menace. You'd better do a better job of keeping her under control."
 msgstr ""
 
@@ -16167,107 +15999,108 @@ msgid "Where is he? He is starting to get on my nerves..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:725
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:736
 msgid "Oops."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:727
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:738
 msgid "It looks like he recruited a lot of units."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:728
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:739
 msgid "Yes indeed. This could be a bit harder than we expected."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:792
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:803
 msgid "My friends will arrive very soon! You are already doomed! Ha ha ha!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:795
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:806
 msgid "Let's try to move a little faster. This traitor's friends may appear at any moment."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:822
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:833
 msgid "Ha ha ha! You are doomed! I can hear the trumpets of my friends coming to aid me!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:861
+#. the "traitors" to which she refers are Akladian Warriors on side 2:
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:873
 msgid "No! More traitors are coming from every side! We cannot hope to deal with all them!"
 msgstr ""
 
 #. [event]
 #. Note to translators: Milksop is an older English term for 'coward.'
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:946
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:958
 msgid "Run for your life! That milksop cannot possibly lead us to victory!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:960
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:972
 msgid "Poor fellow!"
 msgstr ""
 
 #. [event]
 #. be terser for NIGHTMARE difficulty:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:969
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:981
 msgid "He dies an honorable death. You will have to get used to losing units."
 msgstr ""
 
 #. [event]
 #. all other difficulties; have this be more advice-like:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:972
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:984
 msgid "He dies an honorable death. You cannot let the fear of losing units paralyse you; there are many more clansmen ready to fight for you."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:983
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1012
 msgid "But he was loyal to our cause though!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:984
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1013
 msgid "Well, I suppose you do have a point there. Feel free to be more careful with our most loyal supporters."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1009
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1038
 msgid "Remember Gawen, that while most of our units don't care about the time of day, Homeguards, Shieldguards and Protectors prefer to fight during the day, and at night they should be used carefully."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1017
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1046
 msgid "Remember Gawen, that while most of our units don't care about the time of day, Homeguards, Shieldguards and Protectors prefer to fight during full daylight. Although there may still be some daylight left, night is coming, and when it arrives, they should be used carefully."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1021
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1050
 msgid "Yes! Attack!"
 msgstr ""
 
 #. [event]
 #. NIGHTMARE difficulty, so don't have Reme say as much:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1036
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1065
 msgid "Ah, he is using Sturmknights. I expect we may have to fight many more of those in the future..."
 msgstr ""
 
 #. [event]
 #. all other difficulties, so make it more hint-like:
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1039
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1068
 msgid "Ah, he is using Sturmknights. Be wary of them, Gawen. They prefer to fight at night as they are accustomed to darkness. Counter them by assailing them with Shieldguards during the day."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1048
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1077
 msgid "The traitorous ones attack me! Rise up, clansmen of Gaeltin, and drive them back!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1070
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:1099
 msgid "See how a true Akladian Lord fights!"
 msgstr ""
 
