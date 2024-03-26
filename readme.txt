@@ -308,7 +308,7 @@ server, both in art (Jetryl and Pickslide, thanks a lot!) and in WML coding
 
 Translations were made by (no national characters in names, sorry): capitol and
 tephlon (swedish) and Geoffroy Douillie, damien, Guigou Guillaume (french),
-Jose Gordillo (Catalonian translation), Alexey Remizov, nikita: Russian
+Jose Gordillo (Catalonian translation), Alexey Remizov aka alxrem, nikita: Russian
 translation, Joe Hansen (Danish), Simon Sobisch (German), brivido (Italian),
 Toranks (Spanish), capitol, Stephen Bergstorm aka tephlon (Swedish),
 Nilgun Belma Buguner (Turkish), kele17 (Hungarian), Oto 'tapik' Buchta, Michal

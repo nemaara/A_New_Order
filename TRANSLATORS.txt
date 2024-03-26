@@ -5,17 +5,18 @@ Then Sigil came along, and he corrected much of the English. As an effect, all
 translations became outdated. Since I (usually) knew what was changed, I 
 manually updated part of the translated strings, but I could be wrong. Then
 egallager came along and corrected many of the errors that Sigil had missed, so
-the translations became outdated again.
+the translations became outdated again. This will continue to happen so long as
+maintainers feel like continuing to edit translatable strings.
 
 If you like the campaign, please help us to make it better, so others can
 enjoy it, too. Consider translation to your own language. It's a lot of work --
 but you can translate just a bit, for example one or two scenarios, then others
 can translate another bit, etc.
 
-Read http://wiki.wesnoth.org/WesCamp 
+Read https://wiki.wesnoth.org/WesCamp
 
 If you are confused and you don't know what to do, send me an email at
-adanilecki@cs.put.poznan.pl, I can sent you a .po file with strings which need
+adanilecki@cs.put.poznan.pl, I can send you a .po file with strings which need
 to be translated, and answer your questions.  
 
 Finally, read the remarks below.
@@ -56,3 +57,5 @@ USEFUL LINKS
 ------------
 Czech translation wiki page:
 https://wiki.wesnoth.org/CzechTranslationANewOrderCampaign
+Russian translation wiki page:
+https://wiki.wesnoth.org/CampaignANewOrder:RussianTranslation
