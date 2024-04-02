@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-02-24 04:41 UTC\n"
+"POT-Creation-Date: 2024-04-02 12:18 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2048,7 +2048,7 @@ msgstr ""
 #. [event]
 #. [option]
 #: A_New_Order/macros/ano-20macros.cfg:282
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:389
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:391
 msgid "That's all I wanted to know"
 msgstr ""
 
@@ -2640,7 +2640,7 @@ msgstr ""
 #. [scenario]: id=08_Outlaw_Base
 #: A_New_Order/macros/ano-20macros.cfg:527
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:44
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:454
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:456
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:171
 msgid "Rob Roe"
 msgstr ""
@@ -2956,7 +2956,7 @@ msgstr ""
 #: A_New_Order/scenarios/27_Orannon.cfg:754
 #: A_New_Order/scenarios/27_Orannon.cfg:1154
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:224
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:217
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:219
 msgid "Death of Ruvio"
 msgstr ""
 
@@ -2980,7 +2980,7 @@ msgstr ""
 #: A_New_Order/scenarios/27_Orannon.cfg:742
 #: A_New_Order/scenarios/27_Orannon.cfg:1142
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:216
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:213
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:215
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:347
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:536
 msgid "Death of Gawen Hagarthen"
@@ -2992,7 +2992,7 @@ msgstr ""
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:364
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:104
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:220
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:221
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:223
 msgid "Death of Karen"
 msgstr ""
 
@@ -4800,7 +4800,7 @@ msgstr ""
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:314
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:304
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1813
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:588
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:590
 msgid "All is lost! Enemy reinforcements have arrived! We have no chance to win now!"
 msgstr ""
 
@@ -10626,7 +10626,7 @@ msgstr ""
 #. [event]
 #. [option]
 #: A_New_Order/scenarios/03_Coronation.cfg:258
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:347
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:349
 msgid "Uri van Roe?"
 msgstr ""
 
@@ -10639,7 +10639,7 @@ msgstr ""
 #. [event]
 #. [option]
 #: A_New_Order/scenarios/03_Coronation.cfg:267
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:353
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:355
 msgid "Bor Cryne?"
 msgstr ""
 
@@ -12989,7 +12989,7 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:15
-msgid "Gawen, Ruvio and Karen didn't celebrate their victory. The bodies of the last Akladians were still warm as they hurried from the battlefield. They entered the forest of Raedwood, hoping that no one would follow them."
+msgid "Gawen, Ruvio, and Karen didn't celebrate their victory. The bodies of the last Akladians were still warm as they hurried from the battlefield. They entered the forest of Raedwood, hoping that no one would follow them."
 msgstr ""
 
 #. [unit]: id=Uorl, type=Thug
@@ -13024,293 +13024,303 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:184
-msgid "You see, Gawen, when the royal family of Wesnoth started a war over succession, a golden era for bandits and thieves began. The succession wars were devastating and divided Wesnoth into many small kingdoms."
+msgid "You see, Haldric... uh, Haldric? HALDRIC!"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:185
-msgid "During the wars, kings became weaker and lost much of their power, so when peace came they no longer had the forces needed to drive bandits out of their hideouts. The bandits continued to flourish even in periods of peace. When the Akladians came, they didn't care about rooting the bandits out either."
+msgid "...oh right, you mean me. Sorry, I just haven't gotten used to that name yet..."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:186
+msgid "Right, well, as I was saying, about this place, when the royal family of Wesnoth started a war over succession, a golden era for bandits and thieves began. The succession wars were devastating and divided Wesnoth into many small kingdoms."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:187
+msgid "During the wars, kings became weaker and lost much of their power, so when peace came they no longer had the forces needed to drive bandits out of their hideouts. The bandits continued to flourish even in periods of peace. When the Akladians came, they didn't care about rooting the bandits out either."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:188
 msgid "Fortunately, the place seems to be abandoned now."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:193
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:195
 msgid "Hey, people! Look who's here: such ridiculously easy targets that even though most of our forces are elsewhere, we will still have no problem taking their gold!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:194
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:196
 msgid "Abandoned, huh?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:195
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:197
 msgid "There are some young men living in the neighborhoods here. You may recruit a few of them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:196
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:198
 msgid "If I may, I want to personally prove to this Rob Roe that I am not a 'ridiculously easy target.' Leave him to me, if you can."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:197
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:199
 msgid "What? Why are you looking at me like that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:198
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:200
 msgid "Hmm... I wonder what might lie in that northern, empty castle..."
 msgstr ""
 
 #. [objectives]
 #. no hints for NIGHTMARE difficulty:
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:203
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:205
 msgid "Your recruitment of spearmen and archers is limited in this scenario."
 msgstr ""
 
 #. [objectives]
 #. all other difficulties; we can have hints for those:
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:206
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:208
 msgid "You may recruit up to FOUR spearmen and/or archers. When you recruit a FOURTH spearman and/or archer, their recruitment will be disallowed."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:209
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:211
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:343
 msgid "Kill the enemy leader."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:240
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:242
 msgid "Wow! They actually know how to fight!"
 msgstr ""
 
 #. [then]
 #. Translation Note: "Marks" means easy targets/victims, usually of someone trying to rob or cheat them:
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:248
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:250
 msgid "Hmm... perhaps they are not such easy marks as I thought."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:255
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:257
 msgid "Heavens! They really know how to fight! Stop toying with them!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:288
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:290
 msgid "Argh! Why would you not at least grant me the honor of death at the hand of your commander? I should have liked to learn his name..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:289
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:305
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:291
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:307
 msgid "My name is Ga... uhmm... Haldric."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:290
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:292
 msgid "Gaumhaldric? Wow, every name is better than the last."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:291
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:293
 msgid "It wouldn't have been so easy for you if the bulk of our army hadn't been elsewhere..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:302
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:304
 msgid "So you were worthy opponents, after all! It's a shame we didn't meet in other circumstances, or we might have been friends."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:303
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:305
 msgid "You need not die, Rob Roe. I do not wish for your death. I will let you live."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:304
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:306
 msgid "What's your name, noble stranger, so I can know whom to thank?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:306
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:308
 msgid "So, Gaumhaldric, may I fight for you? I and my people too?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:307
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:309
 msgid "Wow! Seems you have earned a new nickname, Gaumhaldric."
 msgstr ""
 
 #. [message]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:310
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:312
 msgid "After some thought..."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:312
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:314
 msgid "Yes, I shall accept you and any of your people who want to fight in my army."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:325
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:327
 msgid "No offense, but I don't trust you enough."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:328
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:330
 msgid "You said most of your army is elsewhere?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:329
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:331
 msgid "Yes. Our best units were hired to invade the Carrenemoe clan."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:330
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:332
 msgid "The Carrenemoes? Ruvio, we have to..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:331
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:333
 msgid "We must get to Freetown as soon as possible. I'm sorry, kid."
 msgstr ""
 
 #. [then]
 #. Gawen is about to say "me" before remembering he's not supposed to reveal who he is, so instead he pretends "Gawen Hagarthen" is a different person:
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:336
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:338
 msgid "Rob Roe, there was assassin who was sent after m... Gawen Hagarthen. He was interrogated and he said he was sent from an 'Outlaw Place.' Do you know who hired him to kill king Gawen Hagarthen?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:337
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:339
 msgid "I am not sure. Perhaps you can say a few names, and I will tell you if any of them rings a bell?"
 msgstr ""
 
 #. [message]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:345
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:347
 msgid "So, what about..."
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:349
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:351
 msgid "No, I don't think it was him."
 msgstr ""
 
 #. [command]
 #. Konrad2 thinks the "a" before "father and son" should be removed, but maybe switching it (the "a") to "both" would make more sense? I dunno; leaving that part as-is for now:
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:356
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:358
 msgid "Yes! I remember that name now! He set a price on the head of a father and son. I think it was also he who paid us to invade the Carrenemoes' holdings."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:363
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:365
 msgid "Reme Carrenemoe?"
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:365
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:367
 msgid "The noble and honorable Reme? You have got to be kidding."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:369
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:371
 msgid "Lady Lorin?"
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:371
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:373
 msgid "No, it wasn't a woman. People from the Gallorae clan did contact us in the past about buying some poison, but that was years ago."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:377
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:379
 msgid "Graeme O Borraine?"
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:379
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:381
 msgid "Who? Never heard of him."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:383
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:385
 msgid "Hoyre O Barnon?"
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:385
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:387
 msgid "The guy from city of Barnon? No, it wasn't him, though from what I've heard about him he could do it - if he could think for himself."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:412
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:414
 msgid "There are no more trained, able-bodied young man in this small settlement to recruit as Spearman or Bowman. You may only recruit Peasants and Fencers now."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:425
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:427
 msgid "Oh, there is a horse in this village. I can ride it!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:437
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:439
 msgid "...see?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:438
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:440
 msgid "You look different now."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:439
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:441
 msgid "It's amazing the effect that getting on horseback can have on one's appearance, isn't it?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:440
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:442
 msgid "Indeed."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:589
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:591
 msgid "Ha! Our army has returned! You are doomed now!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:602
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:604
 msgid "Hm, it seems there are some more people here, capable with spears and bows, who could be recruited."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:603
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:605
 msgid "You may recruit four more archers and/or spearmen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:606
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:608
 msgid "It seems that the outlaws had a small treasury hidden here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:608
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:610
 msgid "You receive $gold_amt golden pieces."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:629
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:631
 msgid "Haw haw haw, you thought we were here to fight <i><b>for</b></i> you? Think again, fools!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:632
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:634
 msgid "$unit.name turned out to be an outlaw!"
 msgstr ""
 
@@ -13860,7 +13870,7 @@ msgid "Lie in peace, soldier."
 msgstr ""
 
 #. [event]
-#. this is a well-known quote from a well-known book -- translators, please find how this quote was translated into your language before trying translating it by yourself.
+#. this is the "Litany Against Fear" from the "Dune" franchise -- translators, please find how this quote was translated into your language before trying translating it by yourself.
 #: A_New_Order/scenarios/14b_Bontom.cfg:677
 msgid "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain."
 msgstr ""
@@ -16442,7 +16452,7 @@ msgstr ""
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:672
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:695
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:697
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:732
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:734
 msgid "Medic"
 msgstr ""
 
@@ -16472,78 +16482,78 @@ msgid "Hold on a moment."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:732
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:734
 msgid "...and there you go."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:733
-msgid "Thanks. (*<i>faints</i>*)"
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:735
+msgid "Thank you. (*<i>faints</i>*)"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:778
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:780
 msgid "Truly a shame we have no time to loot it or tax the inhabitants..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:787
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:789
 msgid "Ah, a village..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:788
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:790
 msgid "A medic! Somebody find a medic!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:789
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:791
 msgid "Unfortunately, it seems that there are no medics here... we will most likely have to wait until we reach the enemy encampment before we can cure Gawen's poison..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:838
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:840
 msgid "I can't see... it's so cold..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:839
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:841
 msgid "No! Don't you DARE die on me! Not now!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:855
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:857
 msgid "For freedom! Death to the Akladian beasts!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:856
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:858
 msgid "Umm... we are good guys, right?"
 msgstr ""
 
 #. [event]
 #. EASY difficulty, so have Reme give an additional hint:
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:859
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:861
 msgid "Do not forget to withdraw wounded units to villages, where they can rest and regain some of their health."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:872
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:874
 msgid "Get out of my way, filthy underling!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:884
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:886
 msgid "Poor fools! They have no chance, yet still they fight."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:897
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:899
 msgid "How dare you oppose us, heathen underling!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:905
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:907
 msgid "Their leader is dead, good! Now bring Gawen to their keep, men!"
 msgstr ""
 
