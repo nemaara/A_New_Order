@@ -9,3 +9,8 @@ function wml_actions.get_support_between(cfg)
 	wesnoth.set_variable(ano_support_level, 0)
 end
 
+function check_srankability(cfg)
+	-- check for existing sranks
+	-- chech for compatibility
+end
+
