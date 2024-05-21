@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-05-19 06:53 UTC\n"
+"POT-Creation-Date: 2024-05-21 03:57 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17435,159 +17435,164 @@ msgstr ""
 msgid "Rarg"
 msgstr ""
 
-#. [message]: type=Akladian Clansman,Akladian Wiseman,Akladian Holyman,Akladian Warrior,Akladian Raider,Akladian Homeguard,Akladian Light Infantry,Akladian Fastfoot,Akladian Pikeneer,Akladian Shieldguard,Akladian Protector,Akladian Sturmknight,Akladian Darknite
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:734
-msgid "Run for your life! They are too many of them!!"
+#. [message]: role=scaredycat
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:790
+msgid "Run for your life! There are too many of them!!"
 msgstr ""
 
-#. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:736
+#. [message]: role=scaredycat
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:795
+msgid "Sheesh, no matter how many of them we kill, they just keep coming!"
+msgstr ""
+
+#. [event]: id=penultimate_turn
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:798
 msgid "Keep fighting! Don't give up! At least kill as many of them as you can! They will surely have to withdraw soon!"
 msgstr ""
 
 #. [message]: type=Orcish Warlord
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:742
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:806
 msgid "We have no more supplies... we have to withdraw! We will return, she-wolf!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:756
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:820
 msgid "Well fought, men! The enemy is withdrawing! They have no more supplies!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:771
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:835
 msgid "This was an incredibly difficult ordeal. I felt sure this would be my final battle."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:772
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:836
 msgid "Lorin, have you heard what our people are calling you? A she-wolf. The She-Wolf of Haeltin."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:773
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:837
 msgid "LADY Lorin. Why would I want to be called a She-Wolf? Do they expect me to howl or something?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:774
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:838
 msgid "Lorin, you are an able commander, a strong warrior, and have a lovely... tactical mind. If you are a wolf, it would be quite the feat for a man to tame you... but I have to try anyway."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:775
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:839
 msgid "Listen underling, I am not an animal to be tamed or a prize to be won. The only thing which stays my hand from snuffing out your life after hearing such a remark is that I still need you. But you are dangerously close to the line, so..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:776
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:840
 msgid "I am no fool, Lorin. I understand that you suffer my presence now only of necessity. But perhaps there will come a time when you no longer suffer my presence of necessity, but welcome it by choice?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:777
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:841
 msgid "You may not see it, but you are a fool. An honorable fool, but a fool nonetheless."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:778
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:842
 msgid "What do you mean?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:779
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:843
 msgid "First of all, you forgot to say 'one more reference to underling and I'm leaving'. Look, Yahyazad, I am many things, but I am not blind. I've noticed the way you look at me. At first, I couldn't figure out what it meant; I am not used to those kinds of glances. I can easily recognise fear, hatred, loathing, and disdain. But this... "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:780
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:844
 msgid "...all of the worst emotions of a true warrior, and yet none of the worthy ones... the true warrior fights not for fear or for hate, but for love."
 msgstr ""
 
 #. [event]
 #. unused:
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:783
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:847
 msgid "No! Don't even speak of that! You know nothing of what it takes to be a warrior! What it takes for a woman to be a warrior! Love cannot drive you hard enough, only pain, only fear, only hate!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:787
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:851
 msgid "For love?! You really believe that?! You can't be serious. You speak like... Wesnothians have a special word for that kind of people. A rhymeister?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:788
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:852
 msgid "I am serious. And I think you meant to say 'poet'. So you think I speak like a poet? Thank you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:789
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:853
 msgid "That was not a compliment. A 'poet' is just a fancy word for 'idiot'. You Dunefolk fight for love? Ha! No wonder you have lost."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:790
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:854
 msgid "Listen to me carefully. I know now what you are thinking. Do not have any hope. Do not try ANYTHING. First, I am an Akladian and you are not. Second, I am a bad woman. You have no idea how bad. Avoid me. Third, you are not my type. Fourth, there are some Akladian customs of which you are seemingly unaware."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:791
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:855
 msgid "Let us suppose, for a moment, I submit to your wishes and cast these thoughts from my mind. What do we do going forward? Armies are still out there. Our dooms, for now, are still entwined for good or ill."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:792
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:856
 msgid "Let's make a deal: I will not call you 'underling,' and you may call me 'Lady Lorin.' Agreed?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:793
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:857
 msgid "'Lady Lorin' it is then. But if you will not call me 'underling' you must call me something. If you like, you may simply call me 'Majid.' "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:794
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:858
 msgid "Whatever. Go to your people, see what they need. I will check our wounded."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:888
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:952
 msgid "My soldiers! That bastard is killing my soldiers!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:889
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:953
 msgid "I never knew you cared so much for your warriors."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:890
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:954
 msgid "I always care for my people... besides, you have no idea how difficult it was to train them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:894
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:958
 msgid "Lorin, what are you doing?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:895
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:959
 msgid "Maybe we could try to withdraw to the mountains?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:896
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:960
 msgid "Wait a moment. Are you running away?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:897
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:961
 msgid "The correct term is strategical relocation of the forces, impertinent underling."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:898
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:962
 msgid "One more reference to underling... ah, what the hey..."
 msgstr ""
 
