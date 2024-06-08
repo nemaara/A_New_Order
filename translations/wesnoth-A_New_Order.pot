@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-05-21 03:57 UTC\n"
+"POT-Creation-Date: 2024-06-07 01:33 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1355,57 +1355,78 @@ msgstr ""
 msgid "That's why I suggest we visit the Oracle, who, being a mage herself, may know where Deorien is."
 msgstr ""
 
-#. [event]
+#. [event]: id=reme_last_breath_n
+#. [event]: id=reme_last_breath
 #. Reme's "last breath" message:
-#: A_New_Order/macros/deaths.cfg:12
-#: A_New_Order/macros/deaths.cfg:106
+#: A_New_Order/macros/deaths.cfg:13
+#: A_New_Order/macros/deaths.cfg:116
 msgid "I can't hold my sword anymore... I can't..."
 msgstr ""
 
-#. [event]
+#. [event]: id=reumario_last_breath
 #. Reumario's "last breath" message:
-#: A_New_Order/macros/deaths.cfg:23
+#: A_New_Order/macros/deaths.cfg:25
 msgid "My ancestors, I am coming to you! I hope I have not failed you..."
 msgstr ""
 
-#. [event]
+#. [event]: id=regven_last_breath
 #. Karl Regven's "last breath" message:
-#: A_New_Order/macros/deaths.cfg:34
+#: A_New_Order/macros/deaths.cfg:37
 msgid "I'm not afraid... I would just want to smoke a little longer..."
 msgstr ""
 
+#. [event]: id=yahyazad_last_breath
 #. [event]
 #. "last breath" message shared by multiple Dunefolk
 #. (both Majid Yahyazad campaign-wide, and Arsham Mahouri in S23, "Trapped")
-#: A_New_Order/macros/deaths.cfg:46
+#: A_New_Order/macros/deaths.cfg:50
 #: A_New_Order/scenarios/23_Trapped.cfg:605
 #: A_New_Order/scenarios/23_Trapped.cfg:618
 msgid "Dunefolk die without fear!"
 msgstr ""
 
-#. [event]
+#. [event]: id=gawen_last_breath
 #. Gawen's "last breath" message:
-#: A_New_Order/macros/deaths.cfg:66
+#: A_New_Order/macros/deaths.cfg:72
 msgid "No! It's impossible! I have just started!"
 msgstr ""
 
-#. [event]
+#. [event]: id=lorin_last_breath
 #. Lorin's "last breath" message:
-#: A_New_Order/macros/deaths.cfg:86
+#: A_New_Order/macros/deaths.cfg:94
 msgid "That's not fair!"
 msgstr ""
 
-#. [event]
+#. [event]: id=karen_last_breath
 #. unsure how to complete this sentence... "life" seems the most obvious, but "sight" and "blood" also work
 #. (plus my mind can't stop completing it with "virginity" even though that makes no sense)
-#: A_New_Order/macros/deaths.cfg:127
+#: A_New_Order/macros/deaths.cfg:139
 msgid "Father! Father! I am losing my..."
 msgstr ""
 
-#. [event]
+#. [event]: id=ruvio_last_breath
 #. Ruvio's "last breath" message:
-#: A_New_Order/macros/deaths.cfg:147
+#: A_New_Order/macros/deaths.cfg:161
 msgid "No! I have still so much to do!"
+msgstr ""
+
+#. [event]: id=rob_roe_last_breath
+#. [event]
+#. [side]: id=Outlaw Leader, type=Outlaw
+#. [unit]: id=Rob Roe, type=$ano_robroe_unit.type
+#. [scenario]: id=08_Outlaw_Base
+#: A_New_Order/macros/deaths.cfg:182
+#: A_New_Order/macros/ano-20macros.cfg:527
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:44
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:457
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:171
+msgid "Rob Roe"
+msgstr ""
+
+#. [event]: id=rob_roe_last_breath
+#. Rob Roe's "last breath" message:
+#: A_New_Order/macros/deaths.cfg:184
+msgid "You'd think I'd have learned not to underestimate my enemies by now, but... argh..."
 msgstr ""
 
 #. [event]
@@ -2648,17 +2669,6 @@ msgstr ""
 #. use of "me" instead of "my" here (and in Rob Roe's response) is to give him a bit of an accent:
 #: A_New_Order/macros/ano-20macros.cfg:526
 msgid "Wait a minute... Rob Roe? What are you doing, me fellow Rob? What happened to our bandit fellowship?"
-msgstr ""
-
-#. [event]
-#. [side]: id=Outlaw Leader, type=Outlaw
-#. [unit]: id=Rob Roe, type=$ano_robroe_unit.type
-#. [scenario]: id=08_Outlaw_Base
-#: A_New_Order/macros/ano-20macros.cfg:527
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:44
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:457
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:171
-msgid "Rob Roe"
 msgstr ""
 
 #. [event]
