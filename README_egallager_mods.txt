@@ -12,7 +12,8 @@ Anyways, here are my per-scenario notes:
   "assassin" micro AI to the assassin, add message captions, change some portraits,
   make some changes for debugging, additional translation comments, dialogue
   updates, handle loyal units better, have Gawen actually use the poisoned status
-  when he is poisoned.
+  when he is poisoned. For 1.7.0, there is now more animation for the cutscene with
+  the medic, plus some additional dialogue.
 02 Fighting for Passage: tweaks to gold and turns, vary turns on which enemy 
   leader is passive by difficulty, tweak AI parameters, and simplify conditionals.
   I also did some funky stuff with the income levels, so that Gawen gets more gold
@@ -36,7 +37,10 @@ Anyways, here are my per-scenario notes:
   clansman dies, in an attempt to make the dialogue different for loyal clansmen.
   Getting the filter right for it has been somewhat tricky; see issue 23 on
   GitHub. Also, Lorin now gets experience for examining the gallows, and cutscene
-  animations should be improved.
+  animations should be improved. For 1.7.0, more copyediting, Oeame now
+  explicitly lets the player know that it's ok to use the allied villages, there is
+  additional code to help debug the Lorin gallows event, took another shot at
+  getting the loyalty check working properly again, and spiced up some animations.
 03 Coronation: Story only; only major changes are a terrain fix, and team coloring
   for kneeling Akladian Lords
 04 Battle of Barnon: Lots of changes here... I varied some starting village radii
@@ -95,7 +99,9 @@ Anyways, here are my per-scenario notes:
   difficulty, other misc. changes (e.g. copyediting and message captions), add
   additional fortifications on EASY, add snowshoes (2 plus a 3rd for Reumario),
   ensure Lorin knows race of unit she's killing, add a wild boar that Reumario can
-  sacrifice for experience, update list of Dunefolk units that can become loyal
+  sacrifice for experience, update list of Dunefolk units that can become loyal.
+  For 1.7.0, dialogue at the end of the scenario should now vary based on which
+  side is winning.
 11 Council in Freetown: copyediting, and added message captions, ensure elves'
   abilities persist after advancing
 12 Leaving Raedwood: turns/gold/income tweaks, use LIMIT_CONTEMPORANEOUS_RECRUITS,
@@ -112,7 +118,9 @@ Anyways, here are my per-scenario notes:
   correct wording of quote from book, vary loot amounts by difficulty, adjust
   bandit recruit lists and AI, use LIMIT_CONTEMPORANEOUS_RECRUITS, vary starting
   villages radii by difficulty, add snowshoes, adjust enemy AI further, add a few
-  extra messages, improve code for basic healing ability
+  extra messages, improve code for basic healing ability. For 1.7.0, additional
+  code meant to help debug whether Reme is considered "saved" or not at the end
+  of the scenario.
 14c She-Wolf of Haeltin: copyediting, heal Lorin from her previous scenario
 14d Avenging Ruen: I forget my first pass... subsequent passes included turns
   tweaks, message captions, allowing undoing at the signpost, addition of
@@ -122,9 +130,10 @@ Anyways, here are my per-scenario notes:
   the terrain a bit on EASY (extra villages and road), copyediting, add an event
   on EASY that causes the saurians to get nerfed by the cold, allow undoing at
   the signpost, add message captions, add additional dialogue, add snowshoes, add
-  L0 saurians
+  L0 saurians. For 1.7.0, use macros to reduce repetition.
 15 Back in Freetown: copyediting, message captions
-15a The Preparations: message captions
+15a The Preparations: message captions. For 1.7.0, Raedwood East is now enabled
+  for regular gameplay, so the dialogue here has been updated accordingly.
 15b Repelling the Orcs: gold/income tweaks, one additional message caption, update
   orcish recruitment pattern
 15c Raedwood East: new scenario!
@@ -147,7 +156,8 @@ Anyways, here are my per-scenario notes:
 19a The Woods of Okladia: I think this was around where enemy sides started
   to get Wondermen, and since they are extremely deadly, I had to put a limit
   on them, and let the enemy Akladians recruit Holymen as an alternate healer
-  instead. (I also did likewise in later scenarios)
+  instead. (I also did likewise in later scenarios.) For 1.7.0, Karl Regven now
+  is auto-recalled on EASY, to make up for Lorin's absence.
 19b Entering Okladia: Tried to do the same changes as in 19a here as well
 19c The Oracle: I varied all the starting units' hitpoints and experience with
   difficulty on my first pass. On my second pass I did copyediting, added message
@@ -160,7 +170,7 @@ Anyways, here are my per-scenario notes:
   Matthias Ramon can die (and add some events involving him), give Matthias Ramon
   and Fat Bart traits, adjust recruitment patterns, give enemies gold if your
   allied AI side kills enemy leaders, commentary updates, Matthias Ramon can now
-  heal (a bit), translation notes updates, etc.
+  heal (a bit), translation notes updates, etc. For 1.7.0, additional AI tweaks
 20 Okladia: copyediting, vary gold amounts with difficulty, give Deorien extra
   traits on EASY
 21a Abducted Bride: I gave the player consolation units for any missing recalls
