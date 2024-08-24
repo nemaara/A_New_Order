@@ -1,3 +1,4 @@
+---
 name: lint
 
 on: [push, pull_request]
@@ -10,11 +11,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-    - name: Verify images
-      uses: czyzby/wesnoth-png-optimizer@v1
-      if: always()
-      with:
-        wesnoth-version: ${{ env.WESNOTH_VERSION }}
-        threshold: 50
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Verify images
+        uses: czyzby/wesnoth-png-optimizer@v1
+        if: always()
+        with:
+          wesnoth-version: ${{ env.WESNOTH_VERSION }}
+          threshold: 50

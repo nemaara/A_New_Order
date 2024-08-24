@@ -10,7 +10,8 @@ function wml_actions.get_support_between(cfg)
 end
 
 function check_srankability(cfg)
-	-- check for existing sranks
-	-- chech for compatibility
+	-- TODO:
+	-- - check for existing sranks
+	-- - check for compatibility
 end
 
