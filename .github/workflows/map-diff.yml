@@ -20,9 +20,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '16'
-      - name: Package install
-        run: cd utils/wesnoth-map-diff && pwd && npm install
-      - name: Package build
+      - name: Package install with npm
+        run: cd utils/wesnoth-map-diff && pwd && (npm install || stat package.json)
+      - name: Package build with npm
         run: cd utils/wesnoth-map-diff && npm run build:prod
       - name: Get maps diff
         id: get-maps-diff
