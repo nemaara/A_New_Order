@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-08-19 01:38 UTC\n"
+"POT-Creation-Date: 2024-08-25 09:17 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,12 +20,12 @@ msgstr ""
 msgid "Room inside"
 msgstr ""
 
-#. [unit_type]: id=Peasant girl, race=human
+#. [unit_type]: id=Peasant girl, race=human, gender=female
 #: A_New_Order/units/others/Peasant_girl.cfg:5
 msgid "Peasant girl"
 msgstr ""
 
-#. [unit_type]: id=Peasant girl, race=human
+#. [unit_type]: id=Peasant girl, race=human, gender=female
 #: A_New_Order/units/others/Peasant_girl.cfg:26
 msgid "The young girl. She cannot fight, she cannot even defend herself. She appears only once in one scenario."
 msgstr ""
@@ -40,7 +40,7 @@ msgstr ""
 msgid "The entire village looks to the senior elder for guidance. Strong and wise, the senior elders take responsibility for the community’s well-being on their shoulders. Provincial officials tend to choose senior village elders as magistrates so that legal and customary authority will coincide."
 msgstr ""
 
-#. [female]
+#. [female]: gender=female
 #: A_New_Order/units/others/Peasant_girl.cfg:41
 msgid "female^Senior Village Elder"
 msgstr ""
@@ -63,14 +63,14 @@ msgstr ""
 msgid "spear"
 msgstr ""
 
-#. [unit_type]: id=Oracle, race=human
+#. [unit_type]: id=Oracle, race=human, gender=female
 #. [unit]: type=Oracle, id=Oracle
 #: A_New_Order/units/others/Oracle.cfg:6
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1869
 msgid "Oracle"
 msgstr ""
 
-#. [unit_type]: id=Oracle, race=human
+#. [unit_type]: id=Oracle, race=human, gender=female
 #. feel free to skip translating this:
 #: A_New_Order/units/others/Oracle.cfg:21
 msgid "No description. It will never appear anywhere, since the unit is fake."
@@ -86,7 +86,7 @@ msgstr ""
 msgid "In the wilder, less tamed regions of Wesnoth, the horse clans provide a steady supply of mounts available to even common farmers."
 msgstr ""
 
-#. [unit_type]: id=Ruvios Daughter, race=human
+#. [unit_type]: id=Ruvios Daughter, gender=female, race=human
 #. [event]
 #. [unit]: id=Karen, type=Ruvios Daughter
 #: A_New_Order/units/others/Ruvios_Daughter.cfg:4
@@ -100,7 +100,7 @@ msgstr ""
 msgid "Karen"
 msgstr ""
 
-#. [unit_type]: id=Ruvios Daughter, race=human
+#. [unit_type]: id=Ruvios Daughter, gender=female, race=human
 #: A_New_Order/units/others/Ruvios_Daughter.cfg:22
 msgid "Being one of four daughters of a great warrior was never an easy task. Hearing from childhood about battles, knights, and great deeds of her father, Karen decided early on that being a good housewife is definitely not her destiny."
 msgstr ""
@@ -123,7 +123,7 @@ msgstr ""
 msgid "sword"
 msgstr ""
 
-#. [unit_type]: id=Ruvio, race=human
+#. [unit_type]: id=Ruvio, race=human, gender=male
 #. [event]
 #. [unit]: id=Ruvio, type=Ruvio
 #: A_New_Order/units/others/Ruvio.cfg:4
@@ -148,7 +148,7 @@ msgstr ""
 msgid "Ruvio"
 msgstr ""
 
-#. [unit_type]: id=Ruvio, race=human
+#. [unit_type]: id=Ruvio, race=human, gender=male
 #: A_New_Order/units/others/Ruvio.cfg:22
 msgid "Always loyally serving royal family of Wesnoth, Ruvio's skills with the sword and crossbow became better than above average, to say it modestly. Even though age has had its impact on Ruvio, he is still a dangerous opponent."
 msgstr ""
@@ -312,32 +312,32 @@ msgstr ""
 msgid "AMLA^Tough"
 msgstr ""
 
-#. [unit_type]: id=Lord Hagarthen, race=akladian
+#. [unit_type]: id=Lord Hagarthen, race=akladian, gender=male
 #: A_New_Order/units/akladians/Lord_Hagarthen.cfg:4
 msgid "Lord Hagarthen"
 msgstr ""
 
-#. [unit_type]: id=Lord Hagarthen, race=akladian
+#. [unit_type]: id=Lord Hagarthen, race=akladian, gender=male
 #: A_New_Order/units/akladians/Lord_Hagarthen.cfg:29
 msgid "It usually takes many years until young Hagarthen clan members are considered worthy enough to become kings. Such Hagarthen clan members are then called lords."
 msgstr ""
 
-#. [unit_type]: id=Lord Bor Cryne, race=akladian
+#. [unit_type]: id=Lord Bor Cryne, race=akladian, gender=male
 #: A_New_Order/units/akladians/Lord_Bor_Cryne.cfg:4
 msgid "Lord Bor Cryne"
 msgstr ""
 
-#. [unit_type]: id=Lord Bor Cryne, race=akladian
+#. [unit_type]: id=Lord Bor Cryne, race=akladian, gender=male
 #: A_New_Order/units/akladians/Lord_Bor_Cryne.cfg:29
 msgid "After two generations had passed since the conquest of Wesnoth, Akladian leaders- despite claiming to despise the Wesnothians - started to mimic the customs of the Wesnothian nobility. Thereafter, the clan leaders, the 'lords', tended to become hereditary. As such it became extremely rare for a lord not to be a son of previous lord. Bor Cryne came from a noble family, though not one of the highest class, meaning he could, at most, expect to become a chieftain. Yet he was such a skilled warrior and leader that he was able to become a leader of his clan, killing the previous lord in a duel, as was traditional. He always despised the customs of Wesnothians and disliked those lords who enjoyed courts more than battlefields."
 msgstr ""
 
-#. [unit_type]: id=Hagarthen, race=akladian
+#. [unit_type]: id=Hagarthen, race=akladian, gender=male
 #: A_New_Order/units/akladians/Hagarthen.cfg:4
 msgid "Hagarthen"
 msgstr ""
 
-#. [unit_type]: id=Hagarthen, race=akladian
+#. [unit_type]: id=Hagarthen, race=akladian, gender=male
 #: A_New_Order/units/akladians/Hagarthen.cfg:29
 msgid "When Gawen Hagarthen's youth had passed, he understood that to become respected amongst his tribe, he must become skilled in the way of the sword, as well as in politics."
 msgstr ""
@@ -369,14 +369,14 @@ msgstr ""
 msgid "greatmace"
 msgstr ""
 
-#. [unit_type]: id=Akladian Queen, race=akladian
+#. [unit_type]: id=Akladian Queen, gender=female, race=akladian
 #: A_New_Order/units/akladians/Akladian_Queen.cfg:4
 msgid "female^Queen"
 msgstr ""
 
-#. [unit_type]: id=Akladian Queen, race=akladian
-#. [unit_type]: id=Akladian Lady, race=akladian
-#. [unit_type]: id=Akladian Princess, race=akladian
+#. [unit_type]: id=Akladian Queen, gender=female, race=akladian
+#. [unit_type]: id=Akladian Lady, gender=female, race=akladian
+#. [unit_type]: id=Akladian Princess, gender=female, race=akladian
 #: A_New_Order/units/akladians/Akladian_Queen.cfg:28
 #: A_New_Order/units/akladians/Akladian_Lady.cfg:24
 #: A_New_Order/units/akladians/Akladian_Princess.cfg:23
@@ -409,7 +409,7 @@ msgstr ""
 msgid "mace"
 msgstr ""
 
-#. [unit_type]: id=Akladian Clansman, race=akladian
+#. [unit_type]: id=Akladian Clansman, race=akladian, gender=male
 #. [event]
 #. [campaign]: id=A_New_Order
 #: A_New_Order/units/akladians/Akladian_Clansman.cfg:4
@@ -418,7 +418,7 @@ msgstr ""
 msgid "Akladian Clansman"
 msgstr ""
 
-#. [unit_type]: id=Akladian Clansman, race=akladian
+#. [unit_type]: id=Akladian Clansman, race=akladian, gender=male
 #: A_New_Order/units/akladians/Akladian_Clansman.cfg:18
 msgid "Akladian Clansmen are the core of the Akladian tribes. They are raised in a culture promoting violence and hearing from childhood that their destination is to rule over the world. While very lightly armoured and badly armed they still can be dangerous, especially when used in larger groups. They are recruited only for the defense of their kingdoms."
 msgstr ""
@@ -428,12 +428,12 @@ msgstr ""
 msgid "short spear"
 msgstr ""
 
-#. [unit_type]: id=Akladian Wonderman, race=akladian
+#. [unit_type]: id=Akladian Wonderman, race=akladian, gender=male
 #: A_New_Order/units/akladians/Akladian_Wonderman.cfg:4
 msgid "Akladian Wonderman"
 msgstr ""
 
-#. [unit_type]: id=Akladian Wonderman, race=akladian
+#. [unit_type]: id=Akladian Wonderman, race=akladian, gender=male
 #: A_New_Order/units/akladians/Akladian_Wonderman.cfg:29
 msgid "Very rare amongst Akladian tribes, Wondermen are those who have spent their whole lives studying ways of healing. They have even learned from the experiences of the Wesnothians, and have learned a few valuable tricks in the process, such as the ability to wield lightbeams."
 msgstr ""
@@ -462,42 +462,42 @@ msgstr ""
 msgid "Spending their times in constant fights and raids, many Akladian clansmen become warriors, joining armies not only in defense, but also in raids against neighbouring lands."
 msgstr ""
 
-#. [unit_type]: id=Akladian Wiseman, race=akladian
+#. [unit_type]: id=Akladian Wiseman, race=akladian, gender=male
 #: A_New_Order/units/akladians/Akladian_Wiseman.cfg:4
 msgid "Akladian Wiseman"
 msgstr ""
 
-#. [unit_type]: id=Akladian Wiseman, race=akladian
+#. [unit_type]: id=Akladian Wiseman, race=akladian, gender=male
 #: A_New_Order/units/akladians/Akladian_Wiseman.cfg:32
 msgid "Akladian Wisemen are those very few from the tribes, who study herbs and ways to heal, instead of how to harm and kill people."
 msgstr ""
 
-#. [unit_type]: id=Akladian Leader, race=akladian
+#. [unit_type]: id=Akladian Leader, race=akladian, gender=male
 #: A_New_Order/units/akladians/Akladian_Leader.cfg:4
 msgid "Akladian Leader"
 msgstr ""
 
-#. [unit_type]: id=Akladian Leader, race=akladian
+#. [unit_type]: id=Akladian Leader, race=akladian, gender=male
 #: A_New_Order/units/akladians/Akladian_Leader.cfg:29
 msgid "Some of the Akladian warriors, because of their personal achievements or their heritage, are charged with leading the others, starting their career which some day may result in leading the whole tribe."
 msgstr ""
 
-#. [unit_type]: id=Akladian Lord, race=akladian
+#. [unit_type]: id=Akladian Lord, race=akladian, gender=male
 #: A_New_Order/units/akladians/Akladian_Lord.cfg:4
 msgid "Akladian Lord"
 msgstr ""
 
-#. [unit_type]: id=Akladian Lord, race=akladian
+#. [unit_type]: id=Akladian Lord, race=akladian, gender=male
 #: A_New_Order/units/akladians/Akladian_Lord.cfg:29
 msgid "Those chieftains who gained enough reputation and fame may end up as leaders of whole tribes."
 msgstr ""
 
-#. [unit_type]: id=Akladian Holyman, race=akladian
+#. [unit_type]: id=Akladian Holyman, race=akladian, gender=male
 #: A_New_Order/units/akladians/Akladian_Holyman.cfg:4
 msgid "Akladian Holyman"
 msgstr ""
 
-#. [unit_type]: id=Akladian Holyman, race=akladian
+#. [unit_type]: id=Akladian Holyman, race=akladian, gender=male
 #: A_New_Order/units/akladians/Akladian_Holyman.cfg:28
 msgid "Devoting their whole life to the task of healing and curing, Akladian Holymen are respected amongst the tribes, and useful to Akladian lords."
 msgstr ""
@@ -527,12 +527,12 @@ msgstr ""
 msgid "Raids are well-paid jobs, and thanks to them many Akladians manage to equip themselves with better armour and weapons."
 msgstr ""
 
-#. [unit_type]: id=Young Hagarthen, race=akladian
+#. [unit_type]: id=Young Hagarthen, race=akladian, gender=male
 #: A_New_Order/units/akladians/Young_Hagarthen.cfg:4
 msgid "Young Hagarthen"
 msgstr ""
 
-#. [unit_type]: id=Young Hagarthen, race=akladian
+#. [unit_type]: id=Young Hagarthen, race=akladian, gender=male
 #: A_New_Order/units/akladians/Young_Hagarthen.cfg:29
 msgid "The clan of Hagarthen was ruling the Akladian kingdoms for many generations. This heritage and this burden causes even young Hagarthen men to try (sometimes without big results) to become better warriors than others."
 msgstr ""
@@ -542,7 +542,7 @@ msgstr ""
 msgid "training sword"
 msgstr ""
 
-#. [unit_type]: id=Akladian Lady, race=akladian
+#. [unit_type]: id=Akladian Lady, gender=female, race=akladian
 #: A_New_Order/units/akladians/Akladian_Lady.cfg:4
 msgid "female^Akladian Lady"
 msgstr ""
@@ -579,17 +579,17 @@ msgstr ""
 msgid "Those Akladians who can afford it wear better armour, forming units which become the last strands of hope if the enemy is seeking revenge for Akladian raids, and then besieges the home settlements of the clans."
 msgstr ""
 
-#. [unit_type]: id=Akladian Princess, race=akladian
+#. [unit_type]: id=Akladian Princess, gender=female, race=akladian
 #: A_New_Order/units/akladians/Akladian_Princess.cfg:4
 msgid "female^Akladian Princess"
 msgstr ""
 
-#. [unit_type]: id=Akladian Chieftain, race=akladian
+#. [unit_type]: id=Akladian Chieftain, race=akladian, gender=male
 #: A_New_Order/units/akladians/Akladian_Chieftain.cfg:4
 msgid "Akladian Chieftain"
 msgstr ""
 
-#. [unit_type]: id=Akladian Chieftain, race=akladian
+#. [unit_type]: id=Akladian Chieftain, race=akladian, gender=male
 #: A_New_Order/units/akladians/Akladian_Chieftain.cfg:30
 msgid "The best of the Akladian warriors are chosen to lead their clans."
 msgstr ""
@@ -763,8 +763,8 @@ msgstr ""
 #. [unit]: type=Elvish Captain, id=Milildur
 #: A_New_Order/macros/elvish_macros.cfg:99
 #: A_New_Order/macros/messages.cfg:147
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:347
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:371
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:349
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:373
 msgid "Milildur"
 msgstr ""
 
@@ -776,14 +776,14 @@ msgid "My lord, I fought with you for so many battles... I can accept money from
 msgstr ""
 
 #. [event]
-#. [unit]: type=Elvish Ranger, id=Elorain
+#. [unit]: type=Elvish Ranger, id=Elorain, gender=female
 #: A_New_Order/macros/elvish_macros.cfg:118
 #: A_New_Order/macros/messages.cfg:144
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:335
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:341
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:332
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:318
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:372
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:320
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:374
 msgid "Elorain"
 msgstr ""
 
@@ -798,10 +798,10 @@ msgstr ""
 #. [event]: id=Kyobaine_post_advance_clothing_banter
 #. [else]
 #. [event]: id=Kyobaine_recall_clothing_banter
-#. [unit]: type=Elvish Shaman, id=Kyobaine
-#. [unit]: type=Elvish Scout, id=Kyobaine
-#. [unit]: type=Elvish Fighter, id=Kyobaine
-#. [unit]: type=Elvish Archer, id=Kyobaine
+#. [unit]: type=Elvish Shaman, id=Kyobaine, gender=female
+#. [unit]: type=Elvish Scout, id=Kyobaine, gender=female
+#. [unit]: type=Elvish Fighter, id=Kyobaine, gender=female
+#. [unit]: type=Elvish Archer, id=Kyobaine, gender=female
 #: A_New_Order/macros/elvish_macros.cfg:155
 #: A_New_Order/macros/elvish_macros.cfg:160
 #: A_New_Order/macros/elvish_macros.cfg:163
@@ -826,10 +826,10 @@ msgstr ""
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:321
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:328
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:333
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:239
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:255
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:276
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:293
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:241
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:257
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:278
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:295
 msgid "Kyobaine"
 msgstr ""
 
@@ -944,7 +944,7 @@ msgstr ""
 #. [else]
 #. [scenario]: id=14e_Saorduc_Swamps
 #: A_New_Order/macros/elvish_macros.cfg:247
-#: A_New_Order/macros/ano-20macros.cfg:331
+#: A_New_Order/macros/ano-20macros.cfg:332
 #: A_New_Order/scenarios/25_The_Awakening.cfg:23
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:199
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:422
@@ -1423,10 +1423,10 @@ msgstr ""
 #. [event]: id=rob_roe_last_breath
 #. [event]
 #. [side]: id=Outlaw Leader, type=Outlaw
-#. [unit]: id=Rob Roe, type=$ano_robroe_unit.type
+#. [unit]: id=Rob Roe, type=$ano_robroe_unit.type, gender=male
 #. [scenario]: id=08_Outlaw_Base
 #: A_New_Order/macros/deaths.cfg:182
-#: A_New_Order/macros/ano-20macros.cfg:527
+#: A_New_Order/macros/ano-20macros.cfg:528
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:44
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:457
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:171
@@ -1785,12 +1785,12 @@ msgstr ""
 #. [event]
 #. [scenario]: id=21a_Abducted_Bride
 #: A_New_Order/macros/debug.cfg:60
-#: A_New_Order/macros/ano-20macros.cfg:369
-#: A_New_Order/macros/ano-20macros.cfg:376
-#: A_New_Order/macros/ano-20macros.cfg:383
-#: A_New_Order/macros/ano-20macros.cfg:392
-#: A_New_Order/macros/ano-20macros.cfg:399
-#: A_New_Order/macros/ano-20macros.cfg:406
+#: A_New_Order/macros/ano-20macros.cfg:370
+#: A_New_Order/macros/ano-20macros.cfg:377
+#: A_New_Order/macros/ano-20macros.cfg:384
+#: A_New_Order/macros/ano-20macros.cfg:393
+#: A_New_Order/macros/ano-20macros.cfg:400
+#: A_New_Order/macros/ano-20macros.cfg:407
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:21
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:51
 msgid "Please tell me..."
@@ -1873,8 +1873,8 @@ msgid "Hello world!"
 msgstr ""
 
 #. [event]
-#. [unit]: id=Alarice, type=White Mage
-#: A_New_Order/macros/ano-20macros.cfg:20
+#. [unit]: id=Alarice, gender=female, type=White Mage
+#: A_New_Order/macros/ano-20macros.cfg:21
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:140
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:155
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:182
@@ -1882,13 +1882,14 @@ msgid "Alarice"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:20
+#: A_New_Order/macros/ano-20macros.cfg:21
 msgid "That's impossible! I still have so much to learn!"
 msgstr ""
 
 #. [event]
-#. [unit]: id=Maurice, type=Red Mage
-#: A_New_Order/macros/ano-20macros.cfg:29
+#. [unit]: id=Maurice, type=Red Mage, gender=male
+#. [unit]: id=Maurice, gender=male, type=Red Mage
+#: A_New_Order/macros/ano-20macros.cfg:30
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:124
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:158
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:165
@@ -1896,14 +1897,14 @@ msgid "Maurice"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:29
+#: A_New_Order/macros/ano-20macros.cfg:30
 msgid "Noooo!"
 msgstr ""
 
 #. [event]
 #. [unit]: id=Deorien, type=Mage of Light
 #. [side]: id=Deorien, type=Mage of Light
-#: A_New_Order/macros/ano-20macros.cfg:37
+#: A_New_Order/macros/ano-20macros.cfg:38
 #: A_New_Order/macros/messages.cfg:126
 #: A_New_Order/scenarios/20_Okladia.cfg:97
 #: A_New_Order/scenarios/20_Okladia.cfg:441
@@ -1914,81 +1915,81 @@ msgid "Deorien"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:37
+#: A_New_Order/macros/ano-20macros.cfg:38
 msgid "That's impossible! I have not finished my mission!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:38
+#: A_New_Order/macros/ano-20macros.cfg:39
 msgid "Without him, our cause is doomed!"
 msgstr ""
 
-#: A_New_Order/macros/ano-20macros.cfg:46
+#: A_New_Order/macros/ano-20macros.cfg:47
 msgid "Our scouts have reported that King Buffin has amassed a huge army."
 msgstr ""
 
-#: A_New_Order/macros/ano-20macros.cfg:47
+#: A_New_Order/macros/ano-20macros.cfg:48
 msgid "Our soldiers will defeat him handily. Besides, someone here was saying that once Gawen is declared the 'messiah,' everyone will greet him and there will be nothing but rejoicing."
 msgstr ""
 
-#: A_New_Order/macros/ano-20macros.cfg:48
+#: A_New_Order/macros/ano-20macros.cfg:49
 msgid "Someone must go to Oracle and tell her the time has come. This would have to be a very brave and trustworthy man."
 msgstr ""
 
-#: A_New_Order/macros/ano-20macros.cfg:49
+#: A_New_Order/macros/ano-20macros.cfg:50
 msgid "I will go."
 msgstr ""
 
-#: A_New_Order/macros/ano-20macros.cfg:50
+#: A_New_Order/macros/ano-20macros.cfg:51
 msgid "My lord, do not listen to him. I will go."
 msgstr ""
 
-#: A_New_Order/macros/ano-20macros.cfg:51
+#: A_New_Order/macros/ano-20macros.cfg:52
 msgid "Ruvio, I want you by my side. And besides, who said that..."
 msgstr ""
 
-#: A_New_Order/macros/ano-20macros.cfg:52
+#: A_New_Order/macros/ano-20macros.cfg:53
 msgid "So, it is decided. I will go."
 msgstr ""
 
-#: A_New_Order/macros/ano-20macros.cfg:53
+#: A_New_Order/macros/ano-20macros.cfg:54
 msgid "My lord, please. It can't be an Akladian, because Akladians have no experience with skulking and hiding. I, on the other hand, have been forced to skulk and hide for half of my life. I will reach the Oracle safely and then I will go to Freetown to tell the elders about everything, so they can gird themselves for the coming war and prepare Freetown for your arrival."
 msgstr ""
 
-#: A_New_Order/macros/ano-20macros.cfg:54
+#: A_New_Order/macros/ano-20macros.cfg:55
 msgid "Will you allow me to finish? Who said I have agreed? I want to be neither a king nor a messiah. Why me? Why not someone else? This is all insane! I will happily lead the army, but..."
 msgstr ""
 
 #. Translation note: 'doom' in the sense that Deorien uses here means 'fate' or 'destiny':
-#: A_New_Order/macros/ano-20macros.cfg:56
+#: A_New_Order/macros/ano-20macros.cfg:57
 msgid "(<i>sigh</i>) Once again, it can't be anyone else. Only you can unite Wesnothians and Akladians, because only YOU are have the blood of the royal lines of both nations flowing in your veins. I thought I explained that to you already. I'm afraid you were born to this doom, Gawen, you have no choice... unless you want to leave this whole country in chaos, instead."
 msgstr ""
 
-#: A_New_Order/macros/ano-20macros.cfg:57
+#: A_New_Order/macros/ano-20macros.cfg:58
 msgid "Also, from this time forth, stop using the name of Gaumhaldric. From this moment forward, everyone should address you as Gawen Haldric Hagarthen, king of both Wesnoth and Akladia."
 msgstr ""
 
-#: A_New_Order/macros/ano-20macros.cfg:58
+#: A_New_Order/macros/ano-20macros.cfg:59
 msgid "My king, wish me luck. We will meet soon in Freetown. I will wait for you there, with as large an army as we can muster."
 msgstr ""
 
-#: A_New_Order/macros/ano-20macros.cfg:67
+#: A_New_Order/macros/ano-20macros.cfg:68
 msgid "Now, finally! With a bit of luck, Ruvio will perish, and Gawen will reclaim the throne without the 'help' of him and under... others."
 msgstr ""
 
 #. [unit]: type=Walking Corpse
-#: A_New_Order/macros/ano-20macros.cfg:103
+#: A_New_Order/macros/ano-20macros.cfg:104
 msgid "A Former Friend"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:134
-#: A_New_Order/macros/ano-20macros.cfg:154
-#: A_New_Order/macros/ano-20macros.cfg:174
-#: A_New_Order/macros/ano-20macros.cfg:197
-#: A_New_Order/macros/ano-20macros.cfg:220
-#: A_New_Order/macros/ano-20macros.cfg:240
-#: A_New_Order/macros/ano-20macros.cfg:257
+#: A_New_Order/macros/ano-20macros.cfg:135
+#: A_New_Order/macros/ano-20macros.cfg:155
+#: A_New_Order/macros/ano-20macros.cfg:175
+#: A_New_Order/macros/ano-20macros.cfg:198
+#: A_New_Order/macros/ano-20macros.cfg:221
+#: A_New_Order/macros/ano-20macros.cfg:241
+#: A_New_Order/macros/ano-20macros.cfg:258
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1118
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1134
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1150
@@ -2000,13 +2001,13 @@ msgstr ""
 
 #. [event]
 #. [then]
-#: A_New_Order/macros/ano-20macros.cfg:139
-#: A_New_Order/macros/ano-20macros.cfg:159
-#: A_New_Order/macros/ano-20macros.cfg:179
-#: A_New_Order/macros/ano-20macros.cfg:202
-#: A_New_Order/macros/ano-20macros.cfg:225
-#: A_New_Order/macros/ano-20macros.cfg:245
-#: A_New_Order/macros/ano-20macros.cfg:262
+#: A_New_Order/macros/ano-20macros.cfg:140
+#: A_New_Order/macros/ano-20macros.cfg:160
+#: A_New_Order/macros/ano-20macros.cfg:180
+#: A_New_Order/macros/ano-20macros.cfg:203
+#: A_New_Order/macros/ano-20macros.cfg:226
+#: A_New_Order/macros/ano-20macros.cfg:246
+#: A_New_Order/macros/ano-20macros.cfg:263
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1123
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1139
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1155
@@ -2023,269 +2024,269 @@ msgid "You have received $gold_amt gold pieces."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:142
+#: A_New_Order/macros/ano-20macros.cfg:143
 msgid "OOPS. There is a bug with looting Robert the Hefty's keep; please report it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:182
+#: A_New_Order/macros/ano-20macros.cfg:183
 msgid "OOPS. There is a bug with looting Uri van Roe's keep; please report it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:205
+#: A_New_Order/macros/ano-20macros.cfg:206
 msgid "OOPS. There is a bug with looting Borlug's keep; please report it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:228
+#: A_New_Order/macros/ano-20macros.cfg:229
 msgid "OOPS. There is a bug with looting Bor Cryne's keep; please report it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:269
+#: A_New_Order/macros/ano-20macros.cfg:270
 msgid "False king - are enjoying your frail victory? Ha, ha, hurry to your witch step-mother, and lie with her while you still have time..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:270
+#: A_New_Order/macros/ano-20macros.cfg:271
 msgid "I've never tortured any prisoner and I've never harmed an innocent, as far as I know. But you, Cryne... you despoiled and then brutally killed Karen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:271
+#: A_New_Order/macros/ano-20macros.cfg:272
 msgid "Do you think I am afraid of you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:272
+#: A_New_Order/macros/ano-20macros.cfg:273
 msgid "Oh, I won't hurt you - I will bind you and deliver you into the hands of the children of the Wesnothians you murdered at Freetown. The fearless Bor Cryne killed by children - what do you think about that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:273
+#: A_New_Order/macros/ano-20macros.cfg:274
 msgid "You won't do it, mixling. I've known you for a long time, and have heard the tales of your deeds, and that is not your style. You, like Reme Carrenemoe, are honour incarnate and could never stoop so low."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:274
+#: A_New_Order/macros/ano-20macros.cfg:275
 msgid "Don't try me, Cryne."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:278
+#: A_New_Order/macros/ano-20macros.cfg:279
 msgid "Bor Cryne, tell me..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:279
+#: A_New_Order/macros/ano-20macros.cfg:280
 msgid "Who hired the assassin that was sent after me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:280
+#: A_New_Order/macros/ano-20macros.cfg:281
 msgid "Why have you allied with orcs and Grekulak?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:281
+#: A_New_Order/macros/ano-20macros.cfg:282
 msgid "Who poisoned my mother?"
 msgstr ""
 
 #. [event]
 #. [option]
-#: A_New_Order/macros/ano-20macros.cfg:282
+#: A_New_Order/macros/ano-20macros.cfg:283
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:392
 msgid "That's all I wanted to know"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:287
+#: A_New_Order/macros/ano-20macros.cfg:288
 msgid "You really don't know? Ha, ha! I forgot - you have been so sheltered from reality. The Galloraes did. The clan of your step-mother. Ha, ha, ha! You really didn't know! I wish I could see Lorin's face when you skin her alive!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:290
+#: A_New_Order/macros/ano-20macros.cfg:291
 msgid "To purify the world and prepare it for the coming of God's messiah!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:291
+#: A_New_Order/macros/ano-20macros.cfg:292
 msgid "Do you really believe in that? Do you, Bor?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:292
+#: A_New_Order/macros/ano-20macros.cfg:293
 msgid "And do you really believe you are the messiah? We would have killed every friend of an underling and everything would finally be as it should be. Grekulak would rule the world, we Akladians would rule the humans, and I, Bor Cryne, would rule the Akladians..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:295
+#: A_New_Order/macros/ano-20macros.cfg:296
 msgid "I did! And I regret to this day that he failed - but what one can expect from an underling..."
 msgstr ""
 
 #. [event]
 #. should be unreachable, but just in case:
-#: A_New_Order/macros/ano-20macros.cfg:299
+#: A_New_Order/macros/ano-20macros.cfg:300
 msgid "What was that? Speak up, you mumbler!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:308
+#: A_New_Order/macros/ano-20macros.cfg:309
 msgid "Uri van Roe - do you remember that day on the fields of Barnon, when you betrayed me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:309
+#: A_New_Order/macros/ano-20macros.cfg:310
 msgid "You? Betrayed you? You mixling, you underling, you never were my king - no Akladian worth the name would ever serve a wretch like you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:310
+#: A_New_Order/macros/ano-20macros.cfg:311
 msgid "Do you believe in God, Uri?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:311
+#: A_New_Order/macros/ano-20macros.cfg:312
 msgid "I... what?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:312
+#: A_New_Order/macros/ano-20macros.cfg:313
 msgid "Why I was able to win? Why I am able to defeat people like you? Why are the Akladians who allied with the so-called 'underlings' alive and well, while those who were with you and Bor are being cursed and smitten by Akladian and Wesnothian people alike?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:313
+#: A_New_Order/macros/ano-20macros.cfg:314
 msgid "God withdrew his support from us, because we abandoned his paths, and he is punishing us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:314
+#: A_New_Order/macros/ano-20macros.cfg:315
 msgid "Think about it, Uri. Indeed, you must have abandoned his paths. But I and my people must have not have abandoned them, because it is you who are being punished, not those who are with me."
 msgstr ""
 
 #. [event]
 #. [side]: id=Borlug, type=Orcish Sovereign
-#: A_New_Order/macros/ano-20macros.cfg:319
-#: A_New_Order/macros/ano-20macros.cfg:328
-#: A_New_Order/macros/ano-20macros.cfg:330
-#: A_New_Order/macros/ano-20macros.cfg:339
-#: A_New_Order/macros/ano-20macros.cfg:492
-#: A_New_Order/macros/ano-20macros.cfg:494
+#: A_New_Order/macros/ano-20macros.cfg:320
+#: A_New_Order/macros/ano-20macros.cfg:329
+#: A_New_Order/macros/ano-20macros.cfg:331
+#: A_New_Order/macros/ano-20macros.cfg:340
+#: A_New_Order/macros/ano-20macros.cfg:493
+#: A_New_Order/macros/ano-20macros.cfg:495
 #: A_New_Order/scenarios/27_Orannon.cfg:174
 msgid "Borlug"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:319
+#: A_New_Order/macros/ano-20macros.cfg:320
 msgid "Human... killed me... Human..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:320
+#: A_New_Order/macros/ano-20macros.cfg:321
 msgid "Listen, orc..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:321
+#: A_New_Order/macros/ano-20macros.cfg:322
 msgid "I won't stop until the last one of you is killed"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:322
+#: A_New_Order/macros/ano-20macros.cfg:323
 msgid "I feel no hate for you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:325
+#: A_New_Order/macros/ano-20macros.cfg:326
 msgid "Yes, a human killed you - and humans will kill all your soldiers, to the last orc..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:327
+#: A_New_Order/macros/ano-20macros.cfg:328
 msgid "I feel no hate for you. You fought well."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:328
+#: A_New_Order/macros/ano-20macros.cfg:329
 msgid "I've never heard human talking like this to orcs... it is said that there is eternal enmity between our kinds, and our two races cannot live together on this world created by Mother Earth."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:329
+#: A_New_Order/macros/ano-20macros.cfg:330
 msgid "How can I hate the orcs after what I've heard from Deorien? Die in peace, warrior."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:330
+#: A_New_Order/macros/ano-20macros.cfg:331
 msgid "No, wait... before I die... my soldiers are fighting and dying here, and now I am asking myself, what for? Why should more of them die here? They would die here gaining nothing for themselves. Will you allow my warriors to leave?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:332
+#: A_New_Order/macros/ano-20macros.cfg:333
 msgid "I'm sorry, I can't risk it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:333
+#: A_New_Order/macros/ano-20macros.cfg:334
 msgid "I agree, as long as they immediately quit the field."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:336
+#: A_New_Order/macros/ano-20macros.cfg:337
 msgid "I'm sorry, but I can't risk it. If I allow your soldiers to leave, they will surely come back one day to fight us again."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:338
+#: A_New_Order/macros/ano-20macros.cfg:339
 msgid "Yes, I will agree. I will let your soldiers go, but they must quit the field of battle immediately."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:339
+#: A_New_Order/macros/ano-20macros.cfg:340
 msgid "Thank you, human. My soldiers, stop fighting and return to your homes!"
 msgstr ""
 
 #. [event]
 #. [side]: id=Robert the Hefty, type=Fugitive
-#: A_New_Order/macros/ano-20macros.cfg:349
-#: A_New_Order/macros/ano-20macros.cfg:351
-#: A_New_Order/macros/ano-20macros.cfg:358
-#: A_New_Order/macros/ano-20macros.cfg:360
-#: A_New_Order/macros/ano-20macros.cfg:362
-#: A_New_Order/macros/ano-20macros.cfg:416
-#: A_New_Order/macros/ano-20macros.cfg:418
+#: A_New_Order/macros/ano-20macros.cfg:350
+#: A_New_Order/macros/ano-20macros.cfg:352
+#: A_New_Order/macros/ano-20macros.cfg:359
+#: A_New_Order/macros/ano-20macros.cfg:361
+#: A_New_Order/macros/ano-20macros.cfg:363
+#: A_New_Order/macros/ano-20macros.cfg:417
 #: A_New_Order/macros/ano-20macros.cfg:419
-#: A_New_Order/macros/ano-20macros.cfg:423
-#: A_New_Order/macros/ano-20macros.cfg:426
-#: A_New_Order/macros/ano-20macros.cfg:428
-#: A_New_Order/macros/ano-20macros.cfg:503
-#: A_New_Order/macros/ano-20macros.cfg:506
-#: A_New_Order/macros/ano-20macros.cfg:524
-#: A_New_Order/macros/ano-20macros.cfg:530
+#: A_New_Order/macros/ano-20macros.cfg:420
+#: A_New_Order/macros/ano-20macros.cfg:424
+#: A_New_Order/macros/ano-20macros.cfg:427
+#: A_New_Order/macros/ano-20macros.cfg:429
+#: A_New_Order/macros/ano-20macros.cfg:504
+#: A_New_Order/macros/ano-20macros.cfg:507
+#: A_New_Order/macros/ano-20macros.cfg:525
+#: A_New_Order/macros/ano-20macros.cfg:531
 #: A_New_Order/scenarios/27_Orannon.cfg:265
 msgid "Robert the Hefty"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:349
+#: A_New_Order/macros/ano-20macros.cfg:350
 msgid "Aargh! I feel... so cold..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:350
+#: A_New_Order/macros/ano-20macros.cfg:351
 msgid "No, wait, don't die yet - please, answer a few questions..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:351
+#: A_New_Order/macros/ano-20macros.cfg:352
 msgid "And why... should I do it?"
 msgstr ""
 
 #. [event]
 #. [scenario]: id=13_Scouting
-#: A_New_Order/macros/ano-20macros.cfg:352
+#: A_New_Order/macros/ano-20macros.cfg:353
 #: A_New_Order/scenarios/13_Scouting.cfg:181
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:233
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:384
@@ -2294,45 +2295,45 @@ msgid "Because..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:353
+#: A_New_Order/macros/ano-20macros.cfg:354
 msgid "There are different kinds of death."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:354
+#: A_New_Order/macros/ano-20macros.cfg:355
 msgid "Because your king asks it of you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:358
+#: A_New_Order/macros/ano-20macros.cfg:359
 msgid "You are trying to scare me? Ha, ha... I am dying already... And I won't tell you anything."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:360
+#: A_New_Order/macros/ano-20macros.cfg:361
 msgid "My king? Ha, ha, that's funny... I have no king..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:361
+#: A_New_Order/macros/ano-20macros.cfg:362
 msgid "Then tell me because I made you laugh before you died."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:362
+#: A_New_Order/macros/ano-20macros.cfg:363
 msgid "All right then. Ask me, young king."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:370
-#: A_New_Order/macros/ano-20macros.cfg:393
+#: A_New_Order/macros/ano-20macros.cfg:371
+#: A_New_Order/macros/ano-20macros.cfg:394
 msgid "Who hired the assassin who was sent to kill me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:371
-#: A_New_Order/macros/ano-20macros.cfg:377
-#: A_New_Order/macros/ano-20macros.cfg:384
+#: A_New_Order/macros/ano-20macros.cfg:372
+#: A_New_Order/macros/ano-20macros.cfg:378
+#: A_New_Order/macros/ano-20macros.cfg:385
 msgid "Do you sell poisons?"
 msgstr ""
 
@@ -2340,12 +2341,12 @@ msgstr ""
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
 #. [scenario]: id=21a_Abducted_Bride
 #. [scenario]: id=12_Leaving_Raedwood
-#: A_New_Order/macros/ano-20macros.cfg:372
-#: A_New_Order/macros/ano-20macros.cfg:378
-#: A_New_Order/macros/ano-20macros.cfg:385
-#: A_New_Order/macros/ano-20macros.cfg:395
-#: A_New_Order/macros/ano-20macros.cfg:401
-#: A_New_Order/macros/ano-20macros.cfg:408
+#: A_New_Order/macros/ano-20macros.cfg:373
+#: A_New_Order/macros/ano-20macros.cfg:379
+#: A_New_Order/macros/ano-20macros.cfg:386
+#: A_New_Order/macros/ano-20macros.cfg:396
+#: A_New_Order/macros/ano-20macros.cfg:402
+#: A_New_Order/macros/ano-20macros.cfg:409
 #: A_New_Order/scenarios/20_Okladia.cfg:313
 #: A_New_Order/scenarios/20_Okladia.cfg:363
 #: A_New_Order/scenarios/20_Okladia.cfg:410
@@ -2369,140 +2370,132 @@ msgid "That's all I wanted to know."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:394
-#: A_New_Order/macros/ano-20macros.cfg:400
-#: A_New_Order/macros/ano-20macros.cfg:407
+#: A_New_Order/macros/ano-20macros.cfg:395
+#: A_New_Order/macros/ano-20macros.cfg:401
+#: A_New_Order/macros/ano-20macros.cfg:408
 msgid "You sold poison to Lorin's clan once."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:415
+#: A_New_Order/macros/ano-20macros.cfg:416
 msgid "Lorin's clan once bought poison from the outlaws. Do you know why?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:416
+#: A_New_Order/macros/ano-20macros.cfg:417
 msgid "Yes... I remember it. Indeed, they bought poison from us. (<i>cough</i>)"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:417
+#: A_New_Order/macros/ano-20macros.cfg:418
 msgid "But why? And when?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:418
+#: A_New_Order/macros/ano-20macros.cfg:419
 msgid "I don't know for sure, but it was just before your mother fell ill. The poison we sold them was very unique - it's hard to mistake the symptoms."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:419
+#: A_New_Order/macros/ano-20macros.cfg:420
 msgid "Everything I've heard about your mother's death fits the symptoms of our poison perfectly. I can't be sure, of course, but I would guess that Lorin's clan bought the poison to kill your mother... (<i>cough</i>)"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:422
+#: A_New_Order/macros/ano-20macros.cfg:423
 msgid "As an outlaw, you know probably a lot about poisons... My mother was poisoned... Do you know who could have done it?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:423
+#: A_New_Order/macros/ano-20macros.cfg:424
 msgid "I'm sorry, but I cannot help you. Akladian clans do buy poison from us here and there, but if you can't give me some names, I won't be able to help you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:425
+#: A_New_Order/macros/ano-20macros.cfg:426
 msgid "There was an assassin who was sent after me. He was interrogated and he testified he was sent from the Outlaw Place. This was almost two years ago - can you remember who hired him?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:426
+#: A_New_Order/macros/ano-20macros.cfg:427
 msgid "Of course... I remember it because it is such unusual for Akladians to ask us for such a thing. It started our most recent contact with them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:427
+#: A_New_Order/macros/ano-20macros.cfg:428
 msgid "Akladian? Who was it then?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:428
+#: A_New_Order/macros/ano-20macros.cfg:429
 msgid "Who else but Bor Cryne... (<i>cough</i>) If you have any other questions, hurry, because I can feel death is just a few steps from me..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:438
+#: A_New_Order/macros/ano-20macros.cfg:439
 msgid "One necromancer goes down - and the world seems a little bit brighter because of this."
 msgstr ""
 
 #. [event]
 #. [side]: id=Mal-Raylal, type=Necromancer
-#: A_New_Order/macros/ano-20macros.cfg:439
-#: A_New_Order/macros/ano-20macros.cfg:450
-#: A_New_Order/macros/ano-20macros.cfg:536
-#: A_New_Order/macros/ano-20macros.cfg:538
-#: A_New_Order/macros/ano-20macros.cfg:540
-#: A_New_Order/macros/ano-20macros.cfg:551
-#: A_New_Order/macros/ano-20macros.cfg:573
-#: A_New_Order/macros/ano-20macros.cfg:829
+#: A_New_Order/macros/ano-20macros.cfg:440
+#: A_New_Order/macros/ano-20macros.cfg:451
+#: A_New_Order/macros/ano-20macros.cfg:537
+#: A_New_Order/macros/ano-20macros.cfg:539
+#: A_New_Order/macros/ano-20macros.cfg:541
+#: A_New_Order/macros/ano-20macros.cfg:552
+#: A_New_Order/macros/ano-20macros.cfg:574
+#: A_New_Order/macros/ano-20macros.cfg:830
 #: A_New_Order/scenarios/27_Orannon.cfg:301
 msgid "Mal-Raylal"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:439
+#: A_New_Order/macros/ano-20macros.cfg:440
 msgid "I am not really dying! I am just moving on from this existence to another level..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:444
+#: A_New_Order/macros/ano-20macros.cfg:445
 msgid "Wait! You could be my right hand. You could be second only to the God ruling the world. All the gold of every continent, any woman, anything you could dream of... "
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:445
+#: A_New_Order/macros/ano-20macros.cfg:446
 msgid "There is only one thing I was dreaming about, and you could do nothing do make it real."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:446
+#: A_New_Order/macros/ano-20macros.cfg:447
 msgid "Was it a woman? I know you humans all too well, I have dwelt amongst them for hundreds of years. She died, and you wish she could be with you? I can make it real. I can bring her back."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:447
+#: A_New_Order/macros/ano-20macros.cfg:448
 msgid "You could bring back only a thing which would be a poor mockery of her former self. There is no place under the sun for the things you would wish to do."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:448
-#: A_New_Order/macros/ano-20macros.cfg:549
-#: A_New_Order/macros/ano-20macros.cfg:571
-#: A_New_Order/macros/ano-20macros.cfg:827
+#: A_New_Order/macros/ano-20macros.cfg:449
+#: A_New_Order/macros/ano-20macros.cfg:550
+#: A_New_Order/macros/ano-20macros.cfg:572
+#: A_New_Order/macros/ano-20macros.cfg:828
 msgid "Curse you, whole Akladian race! Curse you! And I put my curse on you, Gawen Hagarthen!"
 msgstr ""
 
 #. [event]
 #. [side]: id=Warh Arug, type=Orcish Sovereign
-#: A_New_Order/macros/ano-20macros.cfg:449
-#: A_New_Order/macros/ano-20macros.cfg:459
-#: A_New_Order/macros/ano-20macros.cfg:461
-#: A_New_Order/macros/ano-20macros.cfg:463
-#: A_New_Order/macros/ano-20macros.cfg:550
-#: A_New_Order/macros/ano-20macros.cfg:560
-#: A_New_Order/macros/ano-20macros.cfg:562
-#: A_New_Order/macros/ano-20macros.cfg:572
-#: A_New_Order/macros/ano-20macros.cfg:828
+#: A_New_Order/macros/ano-20macros.cfg:450
+#: A_New_Order/macros/ano-20macros.cfg:460
+#: A_New_Order/macros/ano-20macros.cfg:462
+#: A_New_Order/macros/ano-20macros.cfg:464
+#: A_New_Order/macros/ano-20macros.cfg:551
+#: A_New_Order/macros/ano-20macros.cfg:561
+#: A_New_Order/macros/ano-20macros.cfg:563
+#: A_New_Order/macros/ano-20macros.cfg:573
+#: A_New_Order/macros/ano-20macros.cfg:829
 #: A_New_Order/scenarios/27_Orannon.cfg:471
 msgid "Warh Arug"
-msgstr ""
-
-#. [event]
-#: A_New_Order/macros/ano-20macros.cfg:449
-#: A_New_Order/macros/ano-20macros.cfg:550
-#: A_New_Order/macros/ano-20macros.cfg:572
-#: A_New_Order/macros/ano-20macros.cfg:828
-msgid "Oh no! Our spiritual leader is dead! Run for your life!"
 msgstr ""
 
 #. [event]
@@ -2510,468 +2503,476 @@ msgstr ""
 #: A_New_Order/macros/ano-20macros.cfg:551
 #: A_New_Order/macros/ano-20macros.cfg:573
 #: A_New_Order/macros/ano-20macros.cfg:829
+msgid "Oh no! Our spiritual leader is dead! Run for your life!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/macros/ano-20macros.cfg:451
+#: A_New_Order/macros/ano-20macros.cfg:552
+#: A_New_Order/macros/ano-20macros.cfg:574
+#: A_New_Order/macros/ano-20macros.cfg:830
 msgid "Master! Master! Without your will, our army will cease to exist! Noooo!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:459
+#: A_New_Order/macros/ano-20macros.cfg:460
 msgid "I am dying, human, but you will be dead too, soon!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:460
+#: A_New_Order/macros/ano-20macros.cfg:461
 msgid "Why such hate? I do not hate you. Why you are fighting us? The fruits of our defeat will be harvested by Grekulak alone."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:461
+#: A_New_Order/macros/ano-20macros.cfg:462
 msgid "And Grekulak is our spiritual leader, stupid human. He will lead our race to greatness!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:462
+#: A_New_Order/macros/ano-20macros.cfg:463
 msgid "Isn't Grekulak a human? And isn't he leading the undead to greatness!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:463
+#: A_New_Order/macros/ano-20macros.cfg:464
 msgid "No... stop trying to fool me... I will die loyal to our spiritual leader..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:468
+#: A_New_Order/macros/ano-20macros.cfg:469
 msgid "Of all people in the world, it had to be you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:469
+#: A_New_Order/macros/ano-20macros.cfg:470
 msgid "Yes, Bor. It had to be me. You know it had to be me."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:470
+#: A_New_Order/macros/ano-20macros.cfg:471
 msgid "Lorin... Do it fast."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:471
+#: A_New_Order/macros/ano-20macros.cfg:472
 msgid "Why? Are you afraid of pain?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:472
+#: A_New_Order/macros/ano-20macros.cfg:473
 msgid "Of pain? Never. But I don't want underlings to hear me screaming"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:473
+#: A_New_Order/macros/ano-20macros.cfg:474
 msgid "That one wish I can grant you, Bor."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:478
+#: A_New_Order/macros/ano-20macros.cfg:479
 msgid "Uri! Oh, How I am happy to see your face again!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:479
+#: A_New_Order/macros/ano-20macros.cfg:480
 msgid "Shut up, witch. You betrayed our race - you are allied to that mixling, and fight alongside underlings!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:480
+#: A_New_Order/macros/ano-20macros.cfg:481
 msgid "Betrayed? You know, what I've learned? Many of these underlings are better than many of people of our race. Many of them are better-acquainted with the meaning of the words like 'honour' and 'courage' than many of our people."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:481
+#: A_New_Order/macros/ano-20macros.cfg:482
 msgid "Ha, ha, you're one to talk! Hey, Gawen, have you ever asked Lorin about how your mother died? Have you... aaargh!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:482
+#: A_New_Order/macros/ano-20macros.cfg:483
 msgid "Be quiet, stupid man. No one wants to hear your lies."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:487
+#: A_New_Order/macros/ano-20macros.cfg:488
 msgid "I always was suspicious of you, Uri, even before you betrayed us... time for you to face God's punishment."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:492
+#: A_New_Order/macros/ano-20macros.cfg:493
 msgid "I know you - I've heard about you! The She-wolf of Haeltin!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:493
+#: A_New_Order/macros/ano-20macros.cfg:494
 msgid "Thank you, yes, I AM the She-wolf of Haeltin."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:494
+#: A_New_Order/macros/ano-20macros.cfg:495
 msgid "Then it is not such a great disgrace as I thought to be felled by a woman..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:495
-#: A_New_Order/macros/ano-20macros.cfg:563
+#: A_New_Order/macros/ano-20macros.cfg:496
+#: A_New_Order/macros/ano-20macros.cfg:564
 msgid "Frankly, I don't care."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:500
+#: A_New_Order/macros/ano-20macros.cfg:501
 msgid "Outlaw now, outlife soon."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:501
+#: A_New_Order/macros/ano-20macros.cfg:502
 msgid "Mother, wait! Don't kill him! I want to ask him a few questions!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:502
+#: A_New_Order/macros/ano-20macros.cfg:503
 msgid "What questions?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:503
+#: A_New_Order/macros/ano-20macros.cfg:504
 msgid "And who said I will answer any of your questions?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:504
+#: A_New_Order/macros/ano-20macros.cfg:505
 msgid "Underling, keep your mouth shut. When I want you to give me the answers, you will. I am a master of the sword - but calling me merely a master of the knife would be far underestimating my skills, when it comes to getting people to talk."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:505
+#: A_New_Order/macros/ano-20macros.cfg:506
 msgid "My true mother... Ask him whether he knows who poisoned my true mother? And..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:506
-#: A_New_Order/macros/ano-20macros.cfg:588
+#: A_New_Order/macros/ano-20macros.cfg:507
+#: A_New_Order/macros/ano-20macros.cfg:589
 msgid "Aaargh!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:507
+#: A_New_Order/macros/ano-20macros.cfg:508
 msgid "Oh, for shame! He was more heavily wounded than I thought. He just passed away so suddenly... sorry..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:512
+#: A_New_Order/macros/ano-20macros.cfg:513
 msgid "This is for your outlaws' attack on the Carrenemoe clan, and my capture!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:518
+#: A_New_Order/macros/ano-20macros.cfg:519
 msgid "Wait, Reme, I had some questions I wanted to ask him!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:519
+#: A_New_Order/macros/ano-20macros.cfg:520
 msgid "I apologize, Gawen, the heat of battle got to me. I'll try not to let it happen again."
 msgstr ""
 
 #. [event]
 #. use of "me" instead of "my" here (and in Rob Roe's response) is to give him a bit of an accent:
-#: A_New_Order/macros/ano-20macros.cfg:526
+#: A_New_Order/macros/ano-20macros.cfg:527
 msgid "Wait a minute... Rob Roe? What are you doing, me fellow Rob? What happened to our bandit fellowship?"
 msgstr ""
 
 #. [event]
 #. "'snothing" is a contraction for "it's nothing":
-#: A_New_Order/macros/ano-20macros.cfg:529
+#: A_New_Order/macros/ano-20macros.cfg:530
 msgid "Oh, you know how things go, me fellow Rob... allegiances change. 'snothing personal, you see... strictly business."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:530
+#: A_New_Order/macros/ano-20macros.cfg:531
 msgid "Oh well, it figures..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:535
+#: A_New_Order/macros/ano-20macros.cfg:536
 msgid "Oh no! A Necromancer. I hate all necromancers."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:536
+#: A_New_Order/macros/ano-20macros.cfg:537
 msgid "And? What will you do, stupid fleshbag? Ha ha, I am afraid of nothing! Nothing! Death will be just beginning of my path!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:537
+#: A_New_Order/macros/ano-20macros.cfg:538
 msgid "Well, think about this: after I kill you I will cut off you head. Could you still be raised from the dead without your head? "
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:538
+#: A_New_Order/macros/ano-20macros.cfg:539
 msgid "Of course! Stupid woman, you know nothing about our art, don't you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:539
+#: A_New_Order/macros/ano-20macros.cfg:540
 msgid "Hm... You know, we Akladians have traditions about making sure someone is not brought back from the grave. Anyone have a wooden stick?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:540
+#: A_New_Order/macros/ano-20macros.cfg:541
 msgid "Ha, ha, ha, you think that will work?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:541
+#: A_New_Order/macros/ano-20macros.cfg:542
 msgid "No idea, but it worked in the stories I've heard. Wooden stick through the heart, cut off the head, and place it between the legs. We will start with the stick..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:546
+#: A_New_Order/macros/ano-20macros.cfg:547
 msgid "Ha! Bald man, you look quite nice without hair - I wonder how you would look without ears."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:547
+#: A_New_Order/macros/ano-20macros.cfg:548
 msgid "Stupid woman, I am your God! I created you! Your whole race! You are mine, you will always be mine!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:548
+#: A_New_Order/macros/ano-20macros.cfg:549
 msgid "...aaand if I were to cut off your nose as well, you would look like an egg with hands and legs! What an excellent idea!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:560
+#: A_New_Order/macros/ano-20macros.cfg:561
 msgid "Oh nooo... Woman... Human woman has killed me..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:561
+#: A_New_Order/macros/ano-20macros.cfg:562
 msgid "This human woman has already killed dozens of other orcs, foul creature. And every one of them said the same thing."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:562
+#: A_New_Order/macros/ano-20macros.cfg:563
 msgid "Wait a moment! You are She-wolf of Haeltin? Then it is not as great a disgrace as I thought..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:568
+#: A_New_Order/macros/ano-20macros.cfg:569
 msgid "Grekulak, it is time for you to find you final rest. Too many ages you have wandered this earth. Too many tears have watered the earth because of you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:569
+#: A_New_Order/macros/ano-20macros.cfg:570
 msgid "You know nothing, stupid man. My goals... And plans... you can't even begin to grasp their greatness."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:570
+#: A_New_Order/macros/ano-20macros.cfg:571
 msgid "Greatness? I can see only the madness in everything you have done. Die now... and despite the great evil you have wrought on this earth, I hope your spirit may find the path to the light."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:582
+#: A_New_Order/macros/ano-20macros.cfg:583
 msgid "What do you have to say now, Cryne? You heinous coward, you... you..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:583
+#: A_New_Order/macros/ano-20macros.cfg:584
 msgid "Ha, ha, ha! I spit on you, underling! Nothing will change the fact that I had your wife and all of your daughters! Your spirit will wander aimlessly for eternity in the land of ancestors, for no one will care for your memory and you will leave no heir!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:584
+#: A_New_Order/macros/ano-20macros.cfg:585
 msgid "...and neither will you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:585
+#: A_New_Order/macros/ano-20macros.cfg:586
 msgid "I have a son, you stupid underling!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:586
+#: A_New_Order/macros/ano-20macros.cfg:587
 msgid "He won't care for your memory. I will make sure of that, I promise you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:587
+#: A_New_Order/macros/ano-20macros.cfg:588
 msgid "Ruvio!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:592
+#: A_New_Order/macros/ano-20macros.cfg:593
 msgid "What did you mean, Ruvio? I won't allow you to punish Cryne's child for his father's sins."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:593
+#: A_New_Order/macros/ano-20macros.cfg:594
 msgid "I won't do any harm to Cryne's son, my lord - he is an orphan now; I wish to adopt him, raise him as a Wesnothian, and teach him the things Bor would not have taught him... to be noble and honourable... and perhaps, in time, the bloodline of the Crynes will, of their own volition, perform deeds of such quality that they will more than redeem the offenses that Bor himself has wrought upon the land."
 msgstr ""
 
 #. [event]
 #. Translation note: 'timbre' refers to the richness or quality of a sound; the phrase 'all hear the timbre of your soul' is used here metaphorically to describe that Ruvio's response to Gawen demonstrates the richness and greatness of Ruvio's character:
-#: A_New_Order/macros/ano-20macros.cfg:595
+#: A_New_Order/macros/ano-20macros.cfg:596
 msgid "Ruvio, my old friend, in your words today, all present have heard the true timbre of your noble soul. You have my blessing... and my promise that I will help you, Ruvio."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:601
+#: A_New_Order/macros/ano-20macros.cfg:602
 msgid "Ha, underling! Before I die, I spit on you and your whole worthless race!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:602
+#: A_New_Order/macros/ano-20macros.cfg:603
 msgid "Whatever you do, you will be dead, and with you all of your ideas - every theory you believed in - will be dead as well. Wesnoth will be restored, and Akladians and Wesnothians will live in peace."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:603
+#: A_New_Order/macros/ano-20macros.cfg:604
 msgid "Wesnothians! Bunch of flabby wimps! Band of stinking lobs! (<i>coughs</i>) You... you..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:604
+#: A_New_Order/macros/ano-20macros.cfg:605
 msgid "Yes, foam and froth, nobody will listen to you... and, by the way, I will be taking your sword, now."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:605
+#: A_New_Order/macros/ano-20macros.cfg:606
 msgid "No! No! Where are you going... come back! I can't die without my sword in hand!"
 msgstr ""
 
 #. [event]
 #. EASY difficulty, so Mal-Raylal will stay dead:
-#: A_New_Order/macros/ano-20macros.cfg:615
+#: A_New_Order/macros/ano-20macros.cfg:616
 msgid "Oh no! My most loyal servant has been slain!"
 msgstr ""
 
 #. [event]
 #. NORMAL, HARD, or NIGHTMARE difficulty, so Mal-Raylal revives:
-#: A_New_Order/macros/ano-20macros.cfg:631
+#: A_New_Order/macros/ano-20macros.cfg:632
 msgid "Arise, my slave, arise!"
 msgstr ""
 
 #. [unit]: type=Nightgaunt, type=Shadow, id=Shadow of Mal-Raylal
-#: A_New_Order/macros/ano-20macros.cfg:642
+#: A_New_Order/macros/ano-20macros.cfg:643
 msgid "Shadow of Mal-Raylal"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:684
+#: A_New_Order/macros/ano-20macros.cfg:685
 msgid "Arise, my slave, arise! Why are you deaf to my calls?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:685
-#: A_New_Order/macros/ano-20macros.cfg:702
+#: A_New_Order/macros/ano-20macros.cfg:686
+#: A_New_Order/macros/ano-20macros.cfg:703
 msgid "He who dies by my hand is freed from the chains of necromancy forever."
 msgstr ""
 
 #. [event]
 #. This should probably be unreachable, but just in case:
-#: A_New_Order/macros/ano-20macros.cfg:688
+#: A_New_Order/macros/ano-20macros.cfg:689
 msgid "Hm, it seems that this necromancer has strayed rather far from his master..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:701
+#: A_New_Order/macros/ano-20macros.cfg:702
 msgid "Arise, my slave, arise! Why you are deaf to my calls?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:704
+#: A_New_Order/macros/ano-20macros.cfg:705
 msgid "Wait! Deorien! Heal him before he passes, so that I may have a chance to strike the final blow!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:705
+#: A_New_Order/macros/ano-20macros.cfg:706
 msgid "I'm sorry, Ruvio, but it looks as though it's already too late..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:721
+#: A_New_Order/macros/ano-20macros.cfg:722
 msgid "Bor, hear now my command to you, my slave. Arise, arise!"
 msgstr ""
 
 #. [unit]: type=Draug, id=Undead Bor Cryne
-#: A_New_Order/macros/ano-20macros.cfg:728
+#: A_New_Order/macros/ano-20macros.cfg:729
 msgid "Undead Bor Cryne"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:758
+#: A_New_Order/macros/ano-20macros.cfg:759
 msgid "No! How many times I do have to kill you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:760
+#: A_New_Order/macros/ano-20macros.cfg:761
 msgid "So, I will have the chance to kill you, anyway!"
 msgstr ""
 
 #. [event]
 #. Case where Bor Cryne dies before Grekulak has arrived:
-#: A_New_Order/macros/ano-20macros.cfg:765
+#: A_New_Order/macros/ano-20macros.cfg:766
 msgid "Just you wait... Once Grekulak comes..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:780
+#: A_New_Order/macros/ano-20macros.cfg:781
 msgid "Be banished forever, creature of the night!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:792
+#: A_New_Order/macros/ano-20macros.cfg:793
 msgid "Oh I'm so scared! Ha! Ha! Have you come to me because you want to join your family, underling? Come and taste my blade!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:793
+#: A_New_Order/macros/ano-20macros.cfg:794
 msgid "I will wipe that smile from your face - my wife and daughters, I shall avenge you!!"
 msgstr ""
 
 #. [event]
 #. Ruvio is addressing Gawen here, since he had asked Gawen to let him be the one to kill Bor Cryne, but instead someone else did:
-#: A_New_Order/macros/ano-20macros.cfg:807
+#: A_New_Order/macros/ano-20macros.cfg:808
 msgid "Why... Why, my lord? I have only ever asked for but one thing, and yet it was denied me..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:857
+#: A_New_Order/macros/ano-20macros.cfg:858
 msgid "Rise up, rise up! Join my army! ...Why do you not rise up!?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:858
+#: A_New_Order/macros/ano-20macros.cfg:859
 msgid "You overestimate your strength, Grekulak. White mages and Mages of Light will protect fallen units from being resurrected by you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:861
+#: A_New_Order/macros/ano-20macros.cfg:862
 msgid "How can this be? He is raising our dead!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:862
+#: A_New_Order/macros/ano-20macros.cfg:863
 msgid "My lord, Grekulak's power is not as strong as he would have you - or himself - believe. He cannot raise people who die in the vicinity of white magi or magi of light."
 msgstr ""
 
 #. [event]
 #. ought to be unreachable, but just in case:
-#: A_New_Order/macros/ano-20macros.cfg:867
+#: A_New_Order/macros/ano-20macros.cfg:868
 msgid "How can this be? The undead were supposed to arrive with Grekulak, yet here they are separate from him! Something truly strange must have happened... Be on your guards!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:893
+#: A_New_Order/macros/ano-20macros.cfg:894
 msgid "OOPS. If one of the undead sides is killing you before Grekulak has come, then that is a bug; please report it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano-20macros.cfg:902
+#: A_New_Order/macros/ano-20macros.cfg:903
 msgid "I think it's time to make use of all our reserves!"
 msgstr ""
 
@@ -11155,7 +11156,7 @@ msgstr ""
 #. [unit]: type=Pikeman, id=Oracle's Guard 1
 #. [unit]: type=Pikeman, id=Oracle's Guard 2
 #. [unit]: type=Swordsman, id=Oracle's Guard 3
-#. [unit]: type=Mage, id=Oracle's Guard 5
+#. [unit]: type=Mage, gender=female, id=Oracle's Guard 5
 #. [unit]: type=Swordsman, id=Oracle's Guard 6
 #. [unit]: type=Swordsman, id=Oracle's Guard 7
 #. [unit]: type=Swordsman, id=Oracle's Guard 8
@@ -13506,7 +13507,7 @@ msgstr ""
 msgid "Hey, come back! I haven't finished yet!"
 msgstr ""
 
-#. [unit]: id=Old Woman, type=Old Peasant Woman
+#. [unit]: id=Old Woman, type=Old Peasant Woman, gender=female
 #: A_New_Order/scenarios/14b_Bontom.cfg:63
 #: A_New_Order/scenarios/14b_Bontom.cfg:963
 #: A_New_Order/scenarios/14b_Bontom.cfg:1002
@@ -14864,260 +14865,260 @@ msgid "Karen said she could smell the freedom in the air here. Gawen smelled not
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:208
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:210
 msgid "Welcome back to Freetown, Ruvio. You are just in time for our meeting."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:209
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:211
 msgid "We also welcome your daughter. Karen, I would order you to leave this meeting and go to your mother..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:210
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:212
 msgid "...but you know that you would only waste your breath."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:211
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:213
 msgid "We've heard that you have battled and defeated both Akladians and Outlaws. Accept our congratulations, Ruvio. But who is this young man, your companion?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:212
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:214
 msgid "I participated in the battles you have mentioned, but someone else should be credited for the victory. We were commanded by this young man."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:213
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:215
 msgid "And his name is...?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:214
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:216
 msgid "Gaumhaldric."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:215
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:217
 msgid "(<i>grumbling</i>) I hate you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:216
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:218
 msgid "But now, he must leave. We have very important and secret things to talk upon."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:217
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:219
 msgid "He has my full trust. He stays."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:218
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:220
 msgid "So be it. Let's greet our honorable guest, Mithrandil of the northern Elves. He has made a long journey here and he bears important news."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:219
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:221
 msgid "My respect and best wishes for everyone in this free city. I hope you will forgive me for dispensing with the formalities of a long traditional speech. The news I bring here is simple, and terrifying. The Orcish army has marched unnoticed and unopposed into the very heart of Wesnoth."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:220
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:222
 msgid "No! That impossible! How that could possibly happened? They would have had to cross through the free realms of the north, and..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:221
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:223
 msgid "Mithrandil speaks the truth, Huon. You have not seen the reports I've gotten."
 msgstr ""
 
 #. [event]
 #. presumably the "queen whose name I will not utter" is Asheviere:
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:223
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:225
 msgid "They indeed crossed the free realms of the north. The relations among humans are none of my business. Also, I will pretend that I have not noticed that you have called me a liar. The Orcish army has appeared in Wesnoth, bringing back dark memories of the queen whose name I will not utter."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:224
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:226
 msgid "According to what we have gathered, their presence is due to internal strife amongst the Akladians. If Akladians are slaughtering each other, even if with Orcish help, why should free people be disturbed by that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:225
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:227
 msgid "We elves believe that this is more than just an Orcish invasion and quarrels between Akladians. Something greater, something evil, is hiding behind this. What it is, we do not know. I came here to warn you, to help you, and ask for your help. We need you to find out the real reason the Orcish army is here. We also need to discover who is hiding behind the invasion. We have our suspicions, but we want to be sure."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:226
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:228
 msgid "We respect the wisdom of the Elves, and we will fulfill your request. We will send two armies to catch Orcish leaders and investigate them. One will be led by Ruvio, second by Huon. Agreed?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:227
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:229
 msgid "I must insist on one slight change, Gwidle. My army will be led by this young man ... Gaumhaldric."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:228
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:230
 msgid "I will join Huon with part of my escort, I will gave the rest of them to Ruv... er... to Gah - uhm - haldreeck. My finest archer, my best captain, two fighters and another archer. In addition, would you prefer to get a Scout or Shaman?"
 msgstr ""
 
 #. [message]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:232
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:234
 msgid "I think that..."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:234
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:236
 msgid "A Shaman would be great."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:250
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:252
 msgid "A Scout could be useful."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:271
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:273
 msgid "No, I think I would want more fighters."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:288
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:290
 msgid "Actually I would like to have one more archer."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:371
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:373
 msgid "It will be an honor to fight for you, Gaumhaldric."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:372
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:374
 msgid "Your enemies are mine."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:373
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:375
 msgid "The honor is mine."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:374
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:376
 msgid "Karen, you will stay here, with mother and sisters. It's too dangerous for you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:375
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:377
 msgid "Of courrrrse I will."
 msgstr ""
 
-#. [unit]: type=Elvish Archer, id=Arweena
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:380
+#. [unit]: type=Elvish Archer, gender=female, id=Arweena
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:382
 msgid "Arweena"
 msgstr ""
 
 #. [unit]: type=Elvish Fighter, id=Giombor
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:389
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:391
 msgid "Giombor"
 msgstr ""
 
 #. [unit]: type=Elvish Fighter, id=Urandil
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:398
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:400
 msgid "Urandil"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:419
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:429
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:421
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:431
 msgid "Another one bites the dust."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:420
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:422
 msgid "My arrows never miss!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:421
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:423
 msgid "My lord, I bet you are impressed!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:422
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:424
 msgid "Akladians, orcs, lizards, and all others - when facing mighty Elorain, their fate is always the same!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:423
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:425
 msgid "No man or woman may oppose me when I have a bow or sword!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:424
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:434
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:426
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:436
 msgid "Straight into your heart!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:425
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:427
 msgid "Eat this!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:426
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:428
 msgid "I always shoot to kill. No need to remind me."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:427
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:429
 msgid "I stopped counting killed enemies when I turned 50."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:428
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:430
 msgid "Sword or Bow, who is better than me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:430
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:432
 msgid "For honour, in the name of Eloh!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:431
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:433
 msgid "Strength and honour!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:432
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:434
 msgid "First kill this day."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:433
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:435
 msgid "Death is my companion, she walks wherever I may roam."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:435
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:437
 msgid "Killing without hate, dying without fear!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:436
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:438
 msgid "This is the fate which will come to all our enemies."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:437
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:439
 msgid "My sword and my honour, two unbreakable things!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:438
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:440
 msgid "Death to our enemies!"
 msgstr ""
 
@@ -18202,7 +18203,7 @@ msgid ""
 "\n"
 "Note: This campaign contains mature themes, some of which may be unsuitable for children.\n"
 "\n"
-"(Intermediate level, 45 scenarios. Requires BfW 1.16)\n"
+"(Intermediate level, 45 scenarios. Requires BfW 1.18)\n"
 "Version "
 msgstr ""
 

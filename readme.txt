@@ -320,9 +320,10 @@ Westlund, Aleksi, Hiro Hito, Tyler Johnson. See ART_authors.txt for the details.
 
 Kudos to testers: Turuk, t3st3r, Marximilian, and others.
 
-Currently, ANO for BfW 1.16 is maintained by Yumi (a.k.a. nemaara). This set of
-contributions to ANO are maintained by egallager (a.k.a. cooljeanius). Note that
-some of egallager's edits took place in separate repos:
+Currently, ANO for BfW 1.18 would be maintained by Yumi (a.k.a. nemaara), except
+that she is taking an indefinite Wesbreak, so instead, this set of contributions
+to ANO are maintained by egallager (a.k.a. cooljeanius). Note that some of
+egallager's edits took place in separate repos:
 First, his general wesnoth_mods repo, the link for which is here:
 https://github.com/cooljeanius/wesnoth_mods/tree/master/campaigns/A_New_Order
 And next, a separate ANO repo with its own history:
