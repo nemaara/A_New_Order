@@ -3,3 +3,5 @@
 *.cfg-bak
 *.swp
 *.swo
+_server.pbl
+*.map-bak
