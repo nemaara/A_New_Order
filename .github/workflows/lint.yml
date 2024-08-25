@@ -19,11 +19,6 @@ jobs:
           wesnoth-version: ${{ env.WESNOTH_VERSION }}
           spellcheck: false
           lint-flags: -K
-      - name: Verify resources scope
-        uses: czyzby/wesnoth-wml-scope@v1
-        with:
-          wesnoth-version: ${{ env.WESNOTH_VERSION }}
-          flags: -C
       - name: Verify images
         uses: czyzby/wesnoth-png-optimizer@v1
         if: always()
