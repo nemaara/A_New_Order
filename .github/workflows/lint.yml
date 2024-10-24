@@ -17,7 +17,6 @@ jobs:
         uses: czyzby/wesnoth-wml-linter@v1
         with:
           wesnoth-version: ${{ env.WESNOTH_VERSION }}
-          spellcheck: false
           lint-flags: -K
       - name: Verify images
         uses: czyzby/wesnoth-png-optimizer@v1
