@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-08-25 09:17 UTC\n"
+"POT-Creation-Date: 2024-08-26 00:31 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -763,8 +763,8 @@ msgstr ""
 #. [unit]: type=Elvish Captain, id=Milildur
 #: A_New_Order/macros/elvish_macros.cfg:99
 #: A_New_Order/macros/messages.cfg:147
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:349
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:373
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:351
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:375
 msgid "Milildur"
 msgstr ""
 
@@ -782,8 +782,8 @@ msgstr ""
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:335
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:341
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:332
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:320
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:374
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:322
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:376
 msgid "Elorain"
 msgstr ""
 
@@ -827,9 +827,9 @@ msgstr ""
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:328
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:333
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:241
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:257
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:278
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:295
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:258
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:280
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:297
 msgid "Kyobaine"
 msgstr ""
 
@@ -3424,329 +3424,336 @@ msgid "Assassin"
 msgstr ""
 
 #. [case]
-#. you can probably skip translating any/all strings in this file (conversations_support.cfg) for now, as this is a
-#. Work-In-Progress that isn't actually accessible in-game yet, and it is very likely that there will be many further
-#. changes throughout.
-#: A_New_Order/macros/conversations_support.cfg:17
+#. you can probably skip translating any/all strings in this file (conversations_support.cfg) for now,
+#. as this is a Work-In-Progress that isn't actually accessible in-game yet, and it is very likely that
+#. there will be many further changes throughout, and any translations will just make me feel more
+#. "locked-in" with what I already have, even if it might benefit from a rewrite...
+#: A_New_Order/macros/conversations_support.cfg:18
 msgid "Sorry, but "
 msgstr ""
 
 #. [case]
-#: A_New_Order/macros/conversations_support.cfg:17
+#: A_New_Order/macros/conversations_support.cfg:18
 msgid " and "
 msgstr ""
 
 #. [case]
-#: A_New_Order/macros/conversations_support.cfg:17
+#: A_New_Order/macros/conversations_support.cfg:18
 msgid " haven't built up enough support to have a support conversation yet."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:126
+#: A_New_Order/macros/conversations_support.cfg:127
 msgid "Excuse me, Madam Lorin, but you wouldn't have happened to see Karen anywhere around here lately, would you?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:139
+#: A_New_Order/macros/conversations_support.cfg:140
 msgid "Hey Karl, can you please stop following me so closely?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:140
+#: A_New_Order/macros/conversations_support.cfg:141
 msgid "It is my duty to guard you, Miss Karen."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:141
+#: A_New_Order/macros/conversations_support.cfg:142
 msgid "Sure, but, like, can't you at least guard me from over <i>THERE</i> instead?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:142
+#: A_New_Order/macros/conversations_support.cfg:143
 msgid "Your father ordered me to keep a close eye on you, so keep a close eye on you I shall."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:143
+#: A_New_Order/macros/conversations_support.cfg:144
 msgid "I still don't think that keeping “a close eye” on me means it has to be <i>THAT</i> close, though..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:144
+#: A_New_Order/macros/conversations_support.cfg:145
 msgid "Your father pays me a fair sum of gold to keep you safe; it is not my place to go interpreting his orders in a way that could jeopardize my employment. He is no doubt already angry at me for letting you escape my watch so many times..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:145
+#: A_New_Order/macros/conversations_support.cfg:146
 msgid "Is he really, or are you just assuming that? I mean, he hasn't fired you yet, and it's been <i>HOW</i> many times now?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:146
+#: A_New_Order/macros/conversations_support.cfg:147
 msgid "I've lost count, to be honest..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:147
+#: A_New_Order/macros/conversations_support.cfg:148
 msgid "See? Exactly. I think Father actually kind of <i>likes</i> it when I come tagging along with him, personally..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:148
+#: A_New_Order/macros/conversations_support.cfg:149
 msgid "Perhaps, although he also would hate for any harm to come to you."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:149
+#: A_New_Order/macros/conversations_support.cfg:150
 msgid "I know, I know, but, I mean, no harm has come to me <i>YET</i>, has it? You really don't need to worry so much..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:150
+#: A_New_Order/macros/conversations_support.cfg:151
 msgid "People generally don't come to harm, until they do. It only takes once for disaster to occur..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:151
+#: A_New_Order/macros/conversations_support.cfg:152
 msgid "Yeah, but, I mean, have you seen me in battle, though? I can handle myself perfectly fine!"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:152
+#: A_New_Order/macros/conversations_support.cfg:153
 msgid "Nevertheless, I must fulfill my duty."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:153
+#: A_New_Order/macros/conversations_support.cfg:154
 msgid "OK, compromise: how about half the distance from the point I suggested you guard me from originally?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:154
+#: A_New_Order/macros/conversations_support.cfg:155
 msgid "One quarter the distance."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:155
+#: A_New_Order/macros/conversations_support.cfg:156
 msgid "One third."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:156
+#: A_New_Order/macros/conversations_support.cfg:157
 msgid "You drive a hard bargain, Miss Karen! But all right, I guess that will be acceptable..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:157
+#: A_New_Order/macros/conversations_support.cfg:158
 msgid "Thanks, Karl! You won't regret this!"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:158
+#: A_New_Order/macros/conversations_support.cfg:159
 msgid "(<i>to himself</i>) The things I put up with for this job..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:176
+#: A_New_Order/macros/conversations_support.cfg:177
 msgid "Hey Mr. Yahyazad, so you like Lorin, right? Just what do you see in her, anyways?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:177
+#. if your language has honorifics, this is the standard "We can stop using honorifics now" conversation
+#. ("vamos a tutear" en Español)
+#: A_New_Order/macros/conversations_support.cfg:180
 msgid "You don't have to call me “mister”; just “Majid” is fine."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:178
+#: A_New_Order/macros/conversations_support.cfg:181
 msgid "All right, <i>Majid</i>, just what do you see in Lorin, anyways?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:179
+#: A_New_Order/macros/conversations_support.cfg:182
 msgid "Oho, jealous, are we?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:180
+#: A_New_Order/macros/conversations_support.cfg:183
 msgid "What? No, ew. I mean... well, I'm not jealous of <i>YOU</i> liking her, at least."
 msgstr ""
 
 #. "wound" is present tense, in the sense of "harm"; it's the pronunciation that rhymes with "mooned":
-#: A_New_Order/macros/conversations_support.cfg:182
+#: A_New_Order/macros/conversations_support.cfg:185
 msgid "(<i>fake gasps</i>) You wound me, Karen!"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:183
+#: A_New_Order/macros/conversations_support.cfg:186
 msgid "Oh come on! Look, you know what--"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:184
+#: A_New_Order/macros/conversations_support.cfg:187
 msgid "Aha, just kidding, young Karen. No, you're right, I'll answer your question: I find her intriguing, mainly."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:185
+#: A_New_Order/macros/conversations_support.cfg:188
 msgid "...“intriguing”?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:186
+#: A_New_Order/macros/conversations_support.cfg:189
 msgid "You see, young Karen--"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:188
+#: A_New_Order/macros/conversations_support.cfg:191
 msgid "All right, you see, just-Karen..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:189
+#: A_New_Order/macros/conversations_support.cfg:192
 msgid "Grrrr..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:190
+#: A_New_Order/macros/conversations_support.cfg:193
 msgid "What? You did the same thing with our good friend Gaumhaldric!"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:191
+#: A_New_Order/macros/conversations_support.cfg:194
 msgid "Look, are you going to get to your answer or what?!"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:193
+#: A_New_Order/macros/conversations_support.cfg:195
+msgid "Fine, fine, as I was saying... when you grow experienced in the art of winning the hearts of women, as I have, you begin to lose interest in the, how shall I say, “easier” conquests among them. This Lorin, though..."
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:196
 msgid "...so you see her as more of a challenge, then, is what you're saying?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:194
+#: A_New_Order/macros/conversations_support.cfg:197
 msgid "In a manner of speaking, yes. Now why did you want to know?"
 msgstr ""
 
 #. intentional lack of spaces between her last few words to indicate speaking quickly:
-#: A_New_Order/macros/conversations_support.cfg:196
+#: A_New_Order/macros/conversations_support.cfg:199
 msgid "Oh, um, no particular reason! Hey, is that an orc over there? Sorry, gottagobye!"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:197
+#: A_New_Order/macros/conversations_support.cfg:200
 msgid "Ah, youth... Poor Gawen, he doesn't even realize what he's doing to the poor girl..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:201
+#: A_New_Order/macros/conversations_support.cfg:204
 msgid "Hi, Majid..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:202
+#: A_New_Order/macros/conversations_support.cfg:205
 msgid "Hello, Karen... why so down? Is it Gawen?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:203
+#: A_New_Order/macros/conversations_support.cfg:206
 msgid "It's that obvious, is it?"
 msgstr ""
 
 #. see follow-up dialogue before translating:
-#: A_New_Order/macros/conversations_support.cfg:205
+#: A_New_Order/macros/conversations_support.cfg:208
 msgid "Darling, a saurian who Lorin had disemopticated could see the effect that that young man is having on you."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:206
+#: A_New_Order/macros/conversations_support.cfg:209
 msgid "...“Disemopticated”? Is that even a word?"
 msgstr ""
 
 #. some words he might use here if he knew the language better would be "agglutinative" and either "morphemes" or "phonemes", but instead he has to cast around for others:
-#: A_New_Order/macros/conversations_support.cfg:208
+#: A_New_Order/macros/conversations_support.cfg:211
 msgid "You know, gouged the eyes out of...? What, isn't that how you Wesnothians make words, by connecting random syllables into a combination that means something?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:209
+#: A_New_Order/macros/conversations_support.cfg:212
 msgid "I don't know! I didn't invent our language!"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:210
+#: A_New_Order/macros/conversations_support.cfg:213
 msgid "Well, anyways. I believe you were telling me about Gawen?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:211
+#: A_New_Order/macros/conversations_support.cfg:214
 msgid "It's like he never even notices me! Sometimes I don't even know why I bother trying to get his attention..."
 msgstr ""
 
 #. I want to add some italics for emphasis in here, but don't want to go emphasizing every other word, so I dunno:
-#: A_New_Order/macros/conversations_support.cfg:213
+#: A_New_Order/macros/conversations_support.cfg:216
 msgid "Hm. Well, I told you about what I found interesting about Lorin previously. What do you see in Gawen, anyways?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:214
+#: A_New_Order/macros/conversations_support.cfg:217
 msgid "Well, he's going to be king some day!"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:215
+#: A_New_Order/macros/conversations_support.cfg:218
 msgid "Ah, so it's power that attracts you, then, is it?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:216
+#: A_New_Order/macros/conversations_support.cfg:219
 msgid "No no no, that's not it at all! It's just... well, kings always get to go on these grand adventures, and... well, I just keep thinking about how romantic it would be to be by his side on such an adventure..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:217
+#: A_New_Order/macros/conversations_support.cfg:220
 msgid "Aren't you already on adventure with him?"
 msgstr ""
 
 #. the beard part is a reference to the part in S13 when ano_strateg_pos equals 2 and she says, "He HAS to have a beard. All of our great Wesnothian kings had beards!"
-#: A_New_Order/macros/conversations_support.cfg:219
+#: A_New_Order/macros/conversations_support.cfg:222
 msgid "Well, yeah, but that's different! You see, when a <i>KING</i> goes on an adventure, it's an event to remember! The bards write songs about it! And plus by the time he's a king, he'll have a beard!"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:220
+#: A_New_Order/macros/conversations_support.cfg:223
 msgid "I have a beard."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:221
+#: A_New_Order/macros/conversations_support.cfg:224
 msgid "Yeah, but it's not a <i>KING</i>-type beard, though."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:222
+#: A_New_Order/macros/conversations_support.cfg:225
 msgid "What exactly makes a beard a “king-type” beard?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:223
+#: A_New_Order/macros/conversations_support.cfg:226
 msgid "...(*<i>thinks for a moment</i>*)... You know what, Majid! You ask too many questions! Anyways, I need to go sharpen my sword now, so, bye!"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:224
+#: A_New_Order/macros/conversations_support.cfg:227
 msgid "I swear I just saw her sharpening it... Ah, what the hey, I should probably go sharpen mine as well..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:228
+#: A_New_Order/macros/conversations_support.cfg:231
 msgid "There go Gawen and Lorin again..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:229
+#: A_New_Order/macros/conversations_support.cfg:232
 msgid "It must be weird having a stepmother so close in age to you..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:230
+#: A_New_Order/macros/conversations_support.cfg:233
 msgid "They're not <i>that</i> close in age! She's gotta be way older than him!"
 msgstr ""
 
 #. Yahyazad is in fact correct, but just because he's really good at guessing;
 #. see scenarios/Timeline.txt for their exact ages:
-#: A_New_Order/macros/conversations_support.cfg:233
+#: A_New_Order/macros/conversations_support.cfg:236
 msgid "Really? I assumed that she was just 8 years older than him."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:234
+#: A_New_Order/macros/conversations_support.cfg:237
 msgid "Like I said, way older than him! 8 years is a lot!"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:235
+#: A_New_Order/macros/conversations_support.cfg:238
 msgid "Ah, sweet child, sometimes I forget about how my perspective on ages has changed as I myself have aged..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:236
+#: A_New_Order/macros/conversations_support.cfg:239
 msgid "Well, okay, <i>I</i> at least think it's a big difference."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:237
+#: A_New_Order/macros/conversations_support.cfg:240
 msgid "It's not that much more a difference than the difference between you and Gawen, no? He's what, 6 years older than you, isn't he?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:238
+#: A_New_Order/macros/conversations_support.cfg:241
 msgid "Yeah, but that's different, because... (*<i>blushes and falls silent without completing her thought</i>*)"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:239
+#: A_New_Order/macros/conversations_support.cfg:242
 msgid "...yes? Because why?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:240
+#: A_New_Order/macros/conversations_support.cfg:243
 msgid "You know what? Never mind. Now that I think about it, Majid, maybe you're right... maybe age <i>is</i> just a number, and I've been making too big of a deal about it..."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:241
+#: A_New_Order/macros/conversations_support.cfg:244
 msgid "I mean, that's not--"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:242
+#: A_New_Order/macros/conversations_support.cfg:245
 msgid "Yeah, yeah, I know, you were the one who brought up ages in the first place, but, I mean... look, I'm sorry for calling you “old”, okay?"
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:243
+#: A_New_Order/macros/conversations_support.cfg:246
 msgid "...you never actually called me “old”, though...? I mean... ah, never mind, she's run off... what a strange girl..."
 msgstr ""
 
 #. reference to story part in S15 where Gawen says, "Karen had even promised to show Lorin a few easy exercises to help her to regain the slenderness of her youth."
-#: A_New_Order/macros/conversations_support.cfg:257
+#: A_New_Order/macros/conversations_support.cfg:260
 msgid "Hey Lorin, you look like you could use some exercise."
 msgstr ""
 
-#: A_New_Order/macros/conversations_support.cfg:271
+#: A_New_Order/macros/conversations_support.cfg:274
 msgid "Ruvio, that child of yours is an absolute menace. You'd better do a better job of keeping her under control."
 msgstr ""
 
@@ -3935,8 +3942,8 @@ msgstr ""
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:464
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:483
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:183
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:247
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:282
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:250
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:285
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:200
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:191
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:233
@@ -6821,8 +6828,8 @@ msgstr ""
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:424
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:435
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:447
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:263
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:298
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:266
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:301
 #: A_New_Order/scenarios/14b_Bontom.cfg:706
 #: A_New_Order/scenarios/14b_Bontom.cfg:722
 msgid "I don't know much - only that this was the wish of our guide, Grekulak. He wished Akladians to be allied with us."
@@ -6833,8 +6840,8 @@ msgstr ""
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:436
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:448
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:228
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:264
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:299
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:267
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:302
 #: A_New_Order/scenarios/14b_Bontom.cfg:686
 #: A_New_Order/scenarios/14b_Bontom.cfg:712
 #: A_New_Order/scenarios/14b_Bontom.cfg:728
@@ -6845,8 +6852,8 @@ msgstr ""
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:426
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:437
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:449
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:265
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:300
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:268
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:303
 #: A_New_Order/scenarios/14b_Bontom.cfg:687
 #: A_New_Order/scenarios/14b_Bontom.cfg:713
 #: A_New_Order/scenarios/14b_Bontom.cfg:729
@@ -8535,8 +8542,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:462
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:251
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:286
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:254
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:289
 msgid "Thank you! Thank you!"
 msgstr ""
 
@@ -9292,83 +9299,86 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:236
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:271
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:274
 msgid "I will let you live, if you will tell me few things."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:237
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:272
+#. This "live" vs. "liver" misunderstanding might not work in other languages;
+#. feel free to make up something completely original if that's the case for yours:
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:239
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:275
 msgid "Yes, yes, I will answer, yummie... liver. What kind of liver it would be?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:238
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:273
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:240
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:276
 msgid "What??"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:239
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:274
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:241
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:277
 msgid "What kind of liver it will be? Human liver, uhmm, or delicious liver of Elvish woman?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:240
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:275
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:242
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:278
 msgid "No, no, you did not understand me. I will LET you LIVE, not GET you LIVER. Why are you here, allied with Akladians?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:241
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:276
+#. intentionally missing articles to indicate stupidity:
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:244
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:279
 msgid "My boss would know. I know nothing, I am great warrior, not great thinker."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:243
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:278
-msgid "My lord! Do not let him go! He was beating and killing my friends and family members! If you won't kill him, I will!"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:246
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:281
+msgid "My lord! Do not let him go! He was beating and killing my friends and family members! If you won't kill him, I will!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:249
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:284
 msgid "Should I spare him?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:248
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:283
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:251
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:286
 msgid "No."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:253
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:288
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:256
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:291
 msgid "Aaaargh!!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:260
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:295
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:263
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:298
 #: A_New_Order/scenarios/14b_Bontom.cfg:703
 #: A_New_Order/scenarios/14b_Bontom.cfg:719
 msgid "I will allow you to live, if you will tell me few things."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:261
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:296
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:264
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:299
 #: A_New_Order/scenarios/14b_Bontom.cfg:704
 #: A_New_Order/scenarios/14b_Bontom.cfg:720
 msgid "Ask then, human."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:262
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:297
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:265
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:300
 #: A_New_Order/scenarios/14b_Bontom.cfg:578
 #: A_New_Order/scenarios/14b_Bontom.cfg:630
 #: A_New_Order/scenarios/14b_Bontom.cfg:705
@@ -9377,52 +9387,52 @@ msgid "Why are you allied with Akladians?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:310
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:313
 msgid "That's what waits for all orcs that fall into my hands!!"
 msgstr ""
 
 #. [unit]: type=Peasant, id=John the Smith
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:324
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:327
 msgid "John the Smith"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Paul the Small
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:337
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:340
 msgid "Paul the Small"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Quick Herman
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:351
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:361
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:354
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:364
 msgid "Quick Herman"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:361
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:411
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:364
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:414
 msgid "Hurray! We are free! Now, death to the orcs!"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Gonzales the Steelhand
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:375
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:378
 msgid "Gonzales the Steelhand"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Owaec
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:388
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:391
 msgid "Owaec"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Fast Robin
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:401
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:411
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:404
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:414
 msgid "Fast Robin"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:485
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:488
 #: A_New_Order/scenarios/14b_Bontom.cfg:905
 msgid "Oh no! New reinforcements have arrived to help our enemies, now we have no chances to defeat them!"
 msgstr ""
@@ -14976,149 +14986,149 @@ msgid "A Shaman would be great."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:252
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:253
 msgid "A Scout could be useful."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:273
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:275
 msgid "No, I think I would want more fighters."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:290
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:292
 msgid "Actually I would like to have one more archer."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:373
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:375
 msgid "It will be an honor to fight for you, Gaumhaldric."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:374
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:376
 msgid "Your enemies are mine."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:375
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:377
 msgid "The honor is mine."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:376
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:378
 msgid "Karen, you will stay here, with mother and sisters. It's too dangerous for you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:377
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:379
 msgid "Of courrrrse I will."
 msgstr ""
 
 #. [unit]: type=Elvish Archer, gender=female, id=Arweena
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:382
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:384
 msgid "Arweena"
 msgstr ""
 
 #. [unit]: type=Elvish Fighter, id=Giombor
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:391
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:393
 msgid "Giombor"
 msgstr ""
 
 #. [unit]: type=Elvish Fighter, id=Urandil
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:400
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:402
 msgid "Urandil"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:421
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:431
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:423
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:433
 msgid "Another one bites the dust."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:422
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:424
 msgid "My arrows never miss!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:423
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:425
 msgid "My lord, I bet you are impressed!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:424
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:426
 msgid "Akladians, orcs, lizards, and all others - when facing mighty Elorain, their fate is always the same!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:425
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:427
 msgid "No man or woman may oppose me when I have a bow or sword!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:426
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:436
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:428
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:438
 msgid "Straight into your heart!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:427
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:429
 msgid "Eat this!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:428
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:430
 msgid "I always shoot to kill. No need to remind me."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:429
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:431
 msgid "I stopped counting killed enemies when I turned 50."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:430
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:432
 msgid "Sword or Bow, who is better than me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:432
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:434
 msgid "For honour, in the name of Eloh!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:433
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:435
 msgid "Strength and honour!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:434
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:436
 msgid "First kill this day."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:435
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:437
 msgid "Death is my companion, she walks wherever I may roam."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:437
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:439
 msgid "Killing without hate, dying without fear!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:438
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:440
 msgid "This is the fate which will come to all our enemies."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:439
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:441
 msgid "My sword and my honour, two unbreakable things!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:440
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:442
 msgid "Death to our enemies!"
 msgstr ""
 
@@ -18197,7 +18207,7 @@ msgid "Impossible"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:78
+#: A_New_Order/_main.cfg:77
 msgid ""
 "The old kingdom of Wesnoth has fallen before barbarian hordes. The occupying barbarians are on the brink of civil war, the seeds of Wesnothian rebellion are kept alive by old legends, while bandits and Dunefolk mercenaries roam the land. Can Gawen Hagarthen unite these disparate factions against a common foe?\n"
 "\n"
