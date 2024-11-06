@@ -1,3 +1,0 @@
-[submodule "utils/wesnoth-map-diff"]
-	path = utils/wesnoth-map-diff
-	url = git@github.com:cooljeanius/wesnoth-map-diff.git
