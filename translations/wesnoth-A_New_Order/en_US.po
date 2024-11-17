@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-11-17 20:03 UTC\n"
-"PO-Revision-Date: 2024-11-17 15:09-0500\n"
+"PO-Revision-Date: 2024-11-17 16:08-0500\n"
 "Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -5404,7 +5404,7 @@ msgstr ""
 #. [scenario]: id=25_The_Awakening
 #: A_New_Order/scenarios/25_The_Awakening.cfg:29
 msgid "I would be honoured to fight at your side, my king."
-msgstr ""
+msgstr "I would be honored to fight at your side, my king."
 
 #. [scenario]: id=25_The_Awakening
 #: A_New_Order/scenarios/25_The_Awakening.cfg:41
@@ -5413,6 +5413,8 @@ msgid ""
 "Long live our king Gawen Haldric! It will be honour to fight for you, my "
 "king!"
 msgstr ""
+"Long live our king Gawen Haldric! It will be an honor to fight for you, my "
+"king!"
 
 #. [scenario]: id=25_The_Awakening
 #: A_New_Order/scenarios/25_The_Awakening.cfg:43
@@ -5499,6 +5501,10 @@ msgid ""
 "Gawen is not the messiah. He is a mixling, one who is unworthy of even "
 "honourable death."
 msgstr ""
+"There is no question about it. Believe me, Bar Urien, I have been hearing "
+"the voices of the spirits since my youth and God has sent me many messages. "
+"Gawen is not the messiah. He is a mixling, one who is unworthy of even "
+"honorable death."
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:715
@@ -9442,6 +9448,7 @@ msgstr ""
 msgid ""
 "Isn't that the legendary Ruvio? It's a honour fighting for you! Command!"
 msgstr ""
+"Isn't that the legendary Ruvio? It's a honor fighting for you! Command!"
 
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:576

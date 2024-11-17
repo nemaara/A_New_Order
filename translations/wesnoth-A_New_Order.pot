@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-17 20:42 UTC\n"
+"POT-Creation-Date: 2024-11-17 21:27 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,7 +66,7 @@ msgstr ""
 #. [unit_type]: id=Oracle, race=human, gender=female
 #. [unit]: type=Oracle, id=Oracle
 #: A_New_Order/units/others/Oracle.cfg:6
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1869
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1871
 msgid "Oracle"
 msgstr ""
 
@@ -821,11 +821,11 @@ msgstr ""
 #: A_New_Order/macros/messages.cfg:161
 #: A_New_Order/macros/messages.cfg:164
 #: A_New_Order/macros/messages.cfg:174
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:314
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:316
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:321
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:328
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:333
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:318
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:323
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:330
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:335
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:241
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:258
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:280
@@ -839,7 +839,7 @@ msgstr ""
 #: A_New_Order/macros/elvish_macros.cfg:155
 #: A_New_Order/macros/elvish_macros.cfg:285
 #: A_New_Order/macros/conversations.cfg:43
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:678
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:679
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:741
 msgid "What?"
 msgstr ""
@@ -950,8 +950,8 @@ msgstr ""
 #: A_New_Order/scenarios/25_The_Awakening.cfg:23
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:199
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:422
-#: A_New_Order/scenarios/23_Trapped.cfg:28
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:604
+#: A_New_Order/scenarios/23_Trapped.cfg:31
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:605
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:150
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:158
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:173
@@ -1169,7 +1169,7 @@ msgstr ""
 #. [event]: id=Kyobaine_recall_clothing_banter
 #. [then]
 #: A_New_Order/macros/elvish_macros.cfg:335
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:314
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:316
 msgid "...yes?"
 msgstr ""
 
@@ -1396,8 +1396,8 @@ msgstr ""
 #. "last breath" message shared by multiple Dunefolk
 #. (both Majid Yahyazad campaign-wide, and Arsham Mahouri in S23, "Trapped")
 #: A_New_Order/macros/deaths.cfg:50
-#: A_New_Order/scenarios/23_Trapped.cfg:609
-#: A_New_Order/scenarios/23_Trapped.cfg:622
+#: A_New_Order/scenarios/23_Trapped.cfg:613
+#: A_New_Order/scenarios/23_Trapped.cfg:626
 msgid "Dunefolk die without fear!"
 msgstr ""
 
@@ -1688,8 +1688,8 @@ msgstr ""
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:387
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:401
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:431
-#: A_New_Order/scenarios/23_Trapped.cfg:917
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:481
+#: A_New_Order/scenarios/23_Trapped.cfg:921
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:482
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:196
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:221
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1604
@@ -1999,9 +1999,9 @@ msgstr ""
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1120
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1136
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1152
-#: A_New_Order/scenarios/23_Trapped.cfg:633
-#: A_New_Order/scenarios/23_Trapped.cfg:649
-#: A_New_Order/scenarios/23_Trapped.cfg:665
+#: A_New_Order/scenarios/23_Trapped.cfg:637
+#: A_New_Order/scenarios/23_Trapped.cfg:653
+#: A_New_Order/scenarios/23_Trapped.cfg:669
 msgid "Ha! They were hiding some gold here!"
 msgstr ""
 
@@ -2017,10 +2017,10 @@ msgstr ""
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1125
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1141
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1157
-#: A_New_Order/scenarios/23_Trapped.cfg:639
-#: A_New_Order/scenarios/23_Trapped.cfg:655
-#: A_New_Order/scenarios/23_Trapped.cfg:671
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:680
+#: A_New_Order/scenarios/23_Trapped.cfg:643
+#: A_New_Order/scenarios/23_Trapped.cfg:659
+#: A_New_Order/scenarios/23_Trapped.cfg:675
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:681
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:346
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2261
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:370
@@ -2980,7 +2980,7 @@ msgstr ""
 #: A_New_Order/scenarios/25_The_Awakening.cfg:746
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:220
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:595
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:363
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:364
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:397
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:427
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:189
@@ -3001,11 +3001,11 @@ msgstr ""
 #: A_New_Order/scenarios/25_The_Awakening.cfg:742
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:224
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:591
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:359
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:360
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:393
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:423
-#: A_New_Order/scenarios/23_Trapped.cfg:909
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:473
+#: A_New_Order/scenarios/23_Trapped.cfg:913
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:474
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:185
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:100
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:176
@@ -3025,7 +3025,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: A_New_Order/macros/ano-14macros.cfg:12
 #: A_New_Order/scenarios/15c_Raedwood_East.cfg:228
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:367
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:368
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:104
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:221
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:223
@@ -3821,7 +3821,7 @@ msgstr ""
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:58
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:67
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:113
-#: A_New_Order/scenarios/23_Trapped.cfg:146
+#: A_New_Order/scenarios/23_Trapped.cfg:149
 #: A_New_Order/scenarios/29_Epilogue.cfg:101
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:36
 #: A_New_Order/scenarios/28_Lorin.cfg:92
@@ -4812,8 +4812,8 @@ msgstr ""
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/25_The_Awakening.cfg:754
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:405
-#: A_New_Order/scenarios/23_Trapped.cfg:913
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:477
+#: A_New_Order/scenarios/23_Trapped.cfg:917
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:478
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:200
 #: A_New_Order/scenarios/27_Orannon.cfg:750
 #: A_New_Order/scenarios/27_Orannon.cfg:1151
@@ -4837,8 +4837,8 @@ msgstr ""
 #: A_New_Order/scenarios/25_The_Awakening.cfg:871
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:964
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:550
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:857
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:930
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:858
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:931
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:314
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:304
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1846
@@ -5140,7 +5140,7 @@ msgid "After leaving the Forest of Raedwood, Gawen and his companions found them
 msgstr ""
 
 #. [part]
-#. Spoken by Lorin
+#. Spoken by Lorin:
 #: A_New_Order/scenarios/13_Scouting.cfg:41
 msgid "I am still confused. When I saw Gawen, at first I did not recognize him. He had changed from the last time I saw him. He was just a kid then, but now he looks more like a young man... an amazing change in just a few months."
 msgstr ""
@@ -5171,7 +5171,7 @@ msgid "After seeing the atrocities committed by the orcs, Gawen's soldiers were 
 msgstr ""
 
 #. [part]
-#. Spoken by Reme Carrenemoe
+#. Spoken by Reme Carrenemoe:
 #: A_New_Order/scenarios/13_Scouting.cfg:68
 msgid "I am finally free! I still can hardly believe it. Not only am I free, but also Gawen, my king, is alive. It is a very real relief for me; the thought that I had abandoned him during the Battle of Barnon has haunted me for weeks now."
 msgstr ""
@@ -5214,6 +5214,7 @@ msgid "Reme? No, I have not heard about him."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
+#. FIXME: since Bontom's coordinates are randomly generated (see S11), it might not actually be to the west of this village:
 #: A_New_Order/scenarios/13_Scouting.cfg:132
 msgid "Bontom? Of course I know about it. It is a nice place a little bit west from here! My wife is from that area."
 msgstr ""
@@ -5543,6 +5544,7 @@ msgid "Darn it, it looks like the [found_item] tag doesn't work across scenarios
 msgstr ""
 
 #. [objectives]
+#. Warning: if these notes get much longer, they start to get cut off:
 #: A_New_Order/scenarios/13_Scouting.cfg:490
 msgid "This is a large-scale map, where you may choose a way to go. Move Gawen to a signpost or any other location to move to a new scenario. Move Gawen to the tent to talk with his friends."
 msgstr ""
@@ -6564,9 +6566,9 @@ msgid "Scouting Near Barnon"
 msgstr ""
 
 #. [part]
-#. spoken by Gawen
+#. spoken by Gawen; he repeats himself because he's second-guessing how he feels about what he's thinking about:
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:30
-msgid "Entering the forests surrounding Barnon from the north, I could not stop myself from thinking about the battle a few months ago, when I was betrayed and left for dead on the battlefield. But then, if not for that betrayal and that battle, I would probably never met Ruvio and Karen..."
+msgid "Entering the forests surrounding Barnon from the north, I could not stop myself from thinking about the battle a few months ago, when I was betrayed and left for dead on the battlefield. But then again, if it had not been for that betrayal and that battle, I would probably never met Ruvio and Karen..."
 msgstr ""
 
 #. [side]: id=Kariv Rebarnon, type=Akladian Lord
@@ -6974,7 +6976,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/23c_Trapped.cfg:45
-#: A_New_Order/scenarios/23b_Trapped.cfg:30
+#: A_New_Order/scenarios/23b_Trapped.cfg:31
 #: A_New_Order/scenarios/23a_Trapped.cfg:32
 msgid "I am not afraid, old hag. I am dying anyway."
 msgstr ""
@@ -7861,15 +7863,15 @@ msgstr ""
 #. [side]: id=Moerre Crynenoj, type=Akladian Chieftain
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:112
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:347
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:349
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:348
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:350
 msgid "Moerre Crynenoj"
 msgstr ""
 
 #. [unit]: id=Ore Cruveno, type=Akladian Light Infantry
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:134
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:348
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:349
 msgid "Ore Cruveno"
 msgstr ""
 
@@ -7941,183 +7943,184 @@ msgid "Don't be too hard on him, father. He really tried. So, this is little Hal
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:346
+#. spellcheckers don't catch "temperment" as a misspelling of "temperament" because it's a misspelling that's been made often enough to have become accepted:
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:347
 msgid "Gawen Hagarthen, meet my daughter, Karen. Imagine, I have three more daughters, all with their mother's red hair, at home! I'm afraid, though, that unlike her sisters, Karen inherited my temperment, not my wife's - she absolutely refuses to stay at home!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:347
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:348
 msgid "I can't believe my own eyes! Isn't that Gawen, the little so-called king?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:348
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:349
 msgid "Are we gonna kill him?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:349
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:350
 msgid "No, our forces are too weak. More Underlings may arrive soon. We should carry word to Bor Cryne immediately; he will reward us well and arrive here with more than enough men to crush them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:350
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:351
 msgid "My lord, we can't let anyone know that you live. No enemy should leave this battlefield alive. There aren't many of them; this should be easy."
 msgstr ""
 
 #. [objective]: condition=win
 #. trailing space is due to the appended footnote:
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:355
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:356
 msgid "Kill the enemy leader and all enemy units. Don't allow any enemy unit to reach the north-western signpost, or the village nearby. "
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:371
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:372
 msgid "Any enemy unit reaches north-western signpost"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:404
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:405
 msgid "I will carry the message to Bor Cryne. He will reward me in gold!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:405
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:406
 msgid "It's the end for us. We have no chance to escape now, for Bor Cryne will send his army."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:517
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:518
 msgid "No! The Akladian reinforcements have arrived! We are surrounded!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:559
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:560
 msgid "Wow."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:560
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:561
 msgid "What? Young women like me have to learn to defend ourselves."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:575
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:576
 msgid "Isn't that the legendary Ruvio? It's a honour fighting for you! Command!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:576
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:577
 msgid "Today you won't be commanded by me, but by this young man. I will only be his advisor."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:577
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:578
 msgid "And who is he? Why should we fight under his command?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:578
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:579
 msgid "Because I ask you to. Isn't my word enough?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:579
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:580
 msgid "Well then, Ruvio. We'll listen to his orders. We hope you are not mistaken and this young boy can lead us to victory over the Akladian beasts."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:602
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:603
 msgid "Peasants and brawlers? How on earth am I supposed to win battle with those?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:603
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:604
 msgid "You forgot about me!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:604
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:605
 msgid "He didn't. He mentioned brawlers already."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:605
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:606
 msgid "True, they are not the best warriors, but you can recruit a lot of them, and they learn quickly. Our opponents are not numerous, and here they can't really recruit more soldiers. It'll be easy, believe me."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:613
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:614
 msgid "See, I told you it would be easy."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:614
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:615
 msgid "Yes, but only because they had limited soldiers and a fool for a commander. Where to go now?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:615
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:616
 msgid "No one is left to inform Bor Cryne and his ilk that you survived the battle. We should go to Freetown next. The Akladians are all around us; we will have to cross the forests of Raedwood, and hope that the bandits living there won't attack us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:616
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:617
 msgid "It's a shame there weren't more Akladians to kill."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:617
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:618
 msgid "There is one more left."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:618
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:619
 msgid "Where?!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:619
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:620
 msgid "I am Akladian. Do you want to kill me? Go ahead, I won't stop you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:620
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:621
 msgid "Stop it, kids! We've no time for fighting over poorly-chosen words. We have to reach Freetown as soon as possible. Haldric, Freetown is a rallying point for our people, where we are organizing our army. You'll meet the rest of my family there."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:621
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:622
 msgid "Ruvio, call me 'Gawen.' I am not used to being called 'Haldric'. I've never heard about Freetown."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:622
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:623
 msgid "It's hidden deep within the forests. Its location is our greatest secret. And, get used to being called 'Haldric'. I want everyone to swear they won't tell anyone that this man is the rightful king of Vakladia, Gawen Hagarthen. He is just 'Haldric' now. It'll be far better for you, Haldric, believe me. Much safer."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:623
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:624
 msgid "Why? If Freetown's location is so secret, even if Akladian lords knew that I was still alive, they wouldn't be able to find me, right?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:624
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:625
 msgid "I am thinking more about your safety amongst the Wesnothians inside of Freetown. Hagarthens were never really popular there. Let's go."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:677
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:678
 msgid "(<i>low whistle</i>)"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:679
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:680
 msgid "It's just a... you really know how to handle a blade."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:680
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:681
 msgid "If you want, I'll teach you a few things."
 msgstr ""
 
@@ -8518,8 +8521,8 @@ msgstr ""
 #. [objective]: condition=win
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:384
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:414
-#: A_New_Order/scenarios/23_Trapped.cfg:901
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:464
+#: A_New_Order/scenarios/23_Trapped.cfg:905
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:465
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:177
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:168
 msgid "Kill all enemy leaders OR"
@@ -8684,13 +8687,13 @@ msgid "We must do likewise! Bring our own reinforcements!"
 msgstr ""
 
 #. [side]: id=Arsham Mahouri, type=Dune Warmaster
-#: A_New_Order/scenarios/23_Trapped.cfg:336
+#: A_New_Order/scenarios/23_Trapped.cfg:339
 #: A_New_Order/scenarios/23_Trapped.cfg:4
 msgid "Arsham Mahouri"
 msgstr ""
 
 #. [side]: id=King Buffin, type=Akladian Lord
-#: A_New_Order/scenarios/23_Trapped.cfg:199
+#: A_New_Order/scenarios/23_Trapped.cfg:202
 #: A_New_Order/scenarios/23_Trapped.cfg:8
 msgid "King Buffin"
 msgstr ""
@@ -8699,98 +8702,101 @@ msgstr ""
 msgid "Those are Dunefolk troops! Excellent! Listen, I knew your leader, Majid Yahyazad, and..."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:17
+#. "Ostan" is a Dunefolk term; it comes from the Persian word for "province": https://en.wikipedia.org/wiki/Provinces_of_Iran
+#. the idea is to make the word foreign and exotic sounding, so it's probably better just to transliterate "Ostan" as a loan word,
+#. instead of actually translating it:
+#: A_New_Order/scenarios/23_Trapped.cfg:20
 msgid "Majid Yahyazad is not my leader. His Ostan is far away from here. The Ostan of Mahour - and this tribe - is ruled by me, and no other rules over me."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:18
+#: A_New_Order/scenarios/23_Trapped.cfg:21
 msgid "Show more respect, this is king Gawen Haldric Hagarthen."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:19
+#: A_New_Order/scenarios/23_Trapped.cfg:22
 msgid "King? We have never been joined by a king before. If he wants to be one of us, he will be welcomed, but he must understand that his of chances being called 'his majesty' are zero."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:20
+#: A_New_Order/scenarios/23_Trapped.cfg:23
 msgid "We are not your enemies. If you won't join us, will you at least not attack us?"
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:21
+#: A_New_Order/scenarios/23_Trapped.cfg:24
 msgid "Who said we won't join you? If you can pay, we will readily join your army! The price is $dunefolk_price gold pieces."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:29
+#: A_New_Order/scenarios/23_Trapped.cfg:32
 msgid "We will pay the $dunefolk_price gold pieces."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:30
+#: A_New_Order/scenarios/23_Trapped.cfg:33
 msgid "We won't pay."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:33
+#: A_New_Order/scenarios/23_Trapped.cfg:36
 msgid "Why not. Here are your $dunefolk_price gold pieces."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:35
+#: A_New_Order/scenarios/23_Trapped.cfg:38
 msgid "Why not. Here is your gold."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:37
+#: A_New_Order/scenarios/23_Trapped.cfg:40
 msgid "Ha! We have a deal, then, my king. You may now recruit Dunefolk from my Ostan."
 msgstr ""
 
 #. EASY difficulty; the healer in question is a Dune Herbalist:
-#: A_New_Order/scenarios/23_Trapped.cfg:77
+#: A_New_Order/scenarios/23_Trapped.cfg:80
 msgid "As a gesture of goodwill, I am sending you a healer, too."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:85
+#: A_New_Order/scenarios/23_Trapped.cfg:88
 msgid "We are not interested in hiring you."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:86
-#: A_New_Order/scenarios/23_Trapped.cfg:99
+#: A_New_Order/scenarios/23_Trapped.cfg:89
+#: A_New_Order/scenarios/23_Trapped.cfg:102
 msgid "Then leave in peace, or prepare to fight."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:98
+#: A_New_Order/scenarios/23_Trapped.cfg:101
 msgid "Unfortunately, we do not have that much gold."
 msgstr ""
 
 #. [part]
 #. spoken by Gawen
-#: A_New_Order/scenarios/23_Trapped.cfg:123
+#: A_New_Order/scenarios/23_Trapped.cfg:126
 msgid "King Buffin's army was right behind us - we could almost feel their breath on our necks. As though this were not enough, we marched right into a knot of Akladians."
 msgstr ""
 
 #. [side]: id=Larkin O Travil, type=Akladian Lord
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:162
-#: A_New_Order/scenarios/23_Trapped.cfg:529
+#: A_New_Order/scenarios/23_Trapped.cfg:165
+#: A_New_Order/scenarios/23_Trapped.cfg:532
 msgid "Larkin O Travil"
 msgstr ""
 
 #. [side]: id={NAME}, type=Akladian Lord
-#: A_New_Order/scenarios/23_Trapped.cfg:274
+#: A_New_Order/scenarios/23_Trapped.cfg:277
 msgid "{NAME}"
 msgstr ""
 
 #. [side]: id=Dauri Hurionen, type=Akladian Lord
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:305
-#: A_New_Order/scenarios/23_Trapped.cfg:484
-#: A_New_Order/scenarios/23_Trapped.cfg:550
-#: A_New_Order/scenarios/23_Trapped.cfg:552
-#: A_New_Order/scenarios/23_Trapped.cfg:586
-#: A_New_Order/scenarios/23_Trapped.cfg:588
-#: A_New_Order/scenarios/23_Trapped.cfg:593
-#: A_New_Order/scenarios/23_Trapped.cfg:595
-#: A_New_Order/scenarios/23_Trapped.cfg:814
+#: A_New_Order/scenarios/23_Trapped.cfg:308
+#: A_New_Order/scenarios/23_Trapped.cfg:487
+#: A_New_Order/scenarios/23_Trapped.cfg:553
+#: A_New_Order/scenarios/23_Trapped.cfg:555
+#: A_New_Order/scenarios/23_Trapped.cfg:590
+#: A_New_Order/scenarios/23_Trapped.cfg:592
+#: A_New_Order/scenarios/23_Trapped.cfg:597
+#: A_New_Order/scenarios/23_Trapped.cfg:599
+#: A_New_Order/scenarios/23_Trapped.cfg:818
 msgid "Dauri Hurionen"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:435
+#: A_New_Order/scenarios/23_Trapped.cfg:438
 msgid "Who are you, stranger brave or foolhardy enough to enter Dunefolk land?"
 msgstr ""
 
@@ -8798,283 +8804,285 @@ msgstr ""
 #. [event]
 #. [unit]: type=Akladian Clansman, id=Messenger
 #. [scenario]: id=02_Fighting_for_Passage
-#: A_New_Order/scenarios/23_Trapped.cfg:460
-#: A_New_Order/scenarios/23_Trapped.cfg:467
+#: A_New_Order/scenarios/23_Trapped.cfg:463
 #: A_New_Order/scenarios/23_Trapped.cfg:470
-#: A_New_Order/scenarios/23_Trapped.cfg:475
+#: A_New_Order/scenarios/23_Trapped.cfg:473
+#: A_New_Order/scenarios/23_Trapped.cfg:478
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:285
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:253
 msgid "Messenger"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:467
+#: A_New_Order/scenarios/23_Trapped.cfg:470
 msgid "King Buffin! King Buffin! I bring terrible news for you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:469
+#: A_New_Order/scenarios/23_Trapped.cfg:472
 msgid "King Buffin is dead, boy."
 msgstr ""
 
 #. [event]
 #. trailing spaces here are due to string splicing:
-#: A_New_Order/scenarios/23_Trapped.cfg:472
+#: A_New_Order/scenarios/23_Trapped.cfg:475
 msgid "Dead? How can that be! "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:472
-#: A_New_Order/scenarios/23_Trapped.cfg:477
+#: A_New_Order/scenarios/23_Trapped.cfg:475
+#: A_New_Order/scenarios/23_Trapped.cfg:480
 msgid "Okladia is in need - undead have invaded our country, they are razing the countryside and murdering our people! "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:472
+#: A_New_Order/scenarios/23_Trapped.cfg:475
 msgid "Without King Buffin, who will lead our army against them?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:474
+#: A_New_Order/scenarios/23_Trapped.cfg:477
 msgid "What? Speak quickly, I am a little bit busy here!"
 msgstr ""
 
 #. [event]
 #. trailing spaces here are due to string splicing:
-#: A_New_Order/scenarios/23_Trapped.cfg:477
+#: A_New_Order/scenarios/23_Trapped.cfg:480
 msgid "My king - "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:477
+#: A_New_Order/scenarios/23_Trapped.cfg:480
 msgid " You must return home, with every able soldier in your army, as soon as possible or we shall surely perish!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:478
+#: A_New_Order/scenarios/23_Trapped.cfg:481
 msgid "Undead? So the reports I've been hearing were true, after all! You are fortunate, false Gawen, that I my duty to my people calls me away from here... for now."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:484
+#: A_New_Order/scenarios/23_Trapped.cfg:487
 msgid "That's not good. I think the wise thing to do would be to withdraw, because without Buffin we will be too weak to defeat this army..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:507
+#: A_New_Order/scenarios/23_Trapped.cfg:510
 msgid "Who's there? Ruvio! Finally, my friend!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:508
+#: A_New_Order/scenarios/23_Trapped.cfg:511
 msgid "My lord..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:509
+#: A_New_Order/scenarios/23_Trapped.cfg:512
 msgid "What? Why the long face? Cheer up! Where is Karen?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:510
+#: A_New_Order/scenarios/23_Trapped.cfg:513
 msgid "My lord... Gawen, my lord, please forgive me if I can't speak clearly enough. What I saw... I... I don't know if I can even describe it... if I can bear the task of describing it. "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:521
+#: A_New_Order/scenarios/23_Trapped.cfg:524
 msgid " 'This is the Dunefolk territory of Mahour. If you wish to join us, you are welcome; if you wish to fight us, you shall perish.'"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:529
+#: A_New_Order/scenarios/23_Trapped.cfg:532
 msgid "My ancestors, I am coming to you with sword in my hand!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:530
+#: A_New_Order/scenarios/23_Trapped.cfg:533
 msgid "They are more powerful than I thought! Reinforcements!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:550
+#: A_New_Order/scenarios/23_Trapped.cfg:553
 msgid "I am finished! But your leader... before I die, is his name really Gawen Hagarthen?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:551
+#: A_New_Order/scenarios/23_Trapped.cfg:554
 msgid "I really am Gawen Hagarthen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:552
-#: A_New_Order/scenarios/23_Trapped.cfg:588
-#: A_New_Order/scenarios/23_Trapped.cfg:595
+#: A_New_Order/scenarios/23_Trapped.cfg:555
+#: A_New_Order/scenarios/23_Trapped.cfg:592
+#: A_New_Order/scenarios/23_Trapped.cfg:599
 msgid "Then I am doomed! My spirit will never find rest amongst my ancestors, since I fought my king!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:557
-#: A_New_Order/scenarios/23_Trapped.cfg:563
+#: A_New_Order/scenarios/23_Trapped.cfg:560
+#: A_New_Order/scenarios/23_Trapped.cfg:566
 msgid "I am dying... are you going to try to intimidate me, as your step-mother used to do?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:558
+#: A_New_Order/scenarios/23_Trapped.cfg:561
 msgid "No, noble Reumario. It was honour for me to fight you. Die in peace."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:563
-#: A_New_Order/scenarios/23b_Trapped.cfg:18
-#: A_New_Order/scenarios/23b_Trapped.cfg:21
-#: A_New_Order/scenarios/23b_Trapped.cfg:30
+#. brother of the other Reumario:
+#: A_New_Order/scenarios/23_Trapped.cfg:566
+#: A_New_Order/scenarios/23b_Trapped.cfg:19
+#: A_New_Order/scenarios/23b_Trapped.cfg:22
+#: A_New_Order/scenarios/23b_Trapped.cfg:31
 msgid "Aire Reumario"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:564
+#: A_New_Order/scenarios/23_Trapped.cfg:567
 msgid "No, noble Aire Reumario. It was honour for me to fight you. Die in peace."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:569
+#: A_New_Order/scenarios/23_Trapped.cfg:572
 msgid "King Buffin, my uncle, it has been an honour to fight you. You were a tough opponent."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:570
+#: A_New_Order/scenarios/23_Trapped.cfg:573
 msgid "Your uncle? Me? You are just an underling! Even if you ARE really Gawen Hagarthen, your mother was one of those curs! (<i>coughs</i>) My cousin should never have desecrated our family name by marrying her! I spit on you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:571
+#. "with knife in hand" is short for "with a knife in your hand":
+#: A_New_Order/scenarios/23_Trapped.cfg:575
 msgid "Let this be a lesson to you, my idealistic step-son. To some people you may speak only with knife in hand."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:575
+#: A_New_Order/scenarios/23_Trapped.cfg:579
 msgid "A king! Ooh, I've never killed a king before. You know, I should feel more exhilirated."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:576
+#: A_New_Order/scenarios/23_Trapped.cfg:580
 msgid "So you are Lorin from the Galloraes... best sword-arm among Akladian women... (cough)"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:577
+#: A_New_Order/scenarios/23_Trapped.cfg:581
 msgid "You have heard about me even in Okladia!? That's a pleasant surprise. Now, tell me, why were you here, and with a large army to boot?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:578
+#: A_New_Order/scenarios/23_Trapped.cfg:582
 msgid "To introduce peace and order into Vakladia and to unite it with my kingdom, Okladia."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:579
+#: A_New_Order/scenarios/23_Trapped.cfg:583
 msgid "Wait, do not die yet! I've heard that some of your people were mentioning rumors about strange things in the eastern part of Okladia. What strange things?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:580
+#: A_New_Order/scenarios/23_Trapped.cfg:584
 msgid "Ghosts, the long-dead who were seen walking again... zombies... my scouts were giving me contradictory reports. Some of my lords disappeared. I was planning on sending some of my army there immediately after finishing with Vakladia... (cough)"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:581
+#: A_New_Order/scenarios/23_Trapped.cfg:585
 msgid "He's died."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:586
+#: A_New_Order/scenarios/23_Trapped.cfg:590
 msgid "I am finished! Death is less than fifty paces from me... but before she takes me, please tell me... are you really Gawen Hagarthen?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:587
+#: A_New_Order/scenarios/23_Trapped.cfg:591
 msgid "I am really Gawen Hagarthen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:592
+#: A_New_Order/scenarios/23_Trapped.cfg:596
 msgid "Another lord killed by my delicate hand. I really should think about starting a collection of souvenirs from each defeated lord. Hmm... maybe the ears?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:593
+#: A_New_Order/scenarios/23_Trapped.cfg:597
 msgid "What are you doing with that underling cur, aren't you Lorin of Gallorae?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:594
+#: A_New_Order/scenarios/23_Trapped.cfg:598
 msgid "Yes, I am. And he is no underling, he is your lord, your king, Gawen Hagarthen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:595
+#: A_New_Order/scenarios/23_Trapped.cfg:599
 msgid "Is that so? "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:610
+#: A_New_Order/scenarios/23_Trapped.cfg:614
 msgid "We don't really care how underlings die, as long as they do it quickly and without making too much trouble."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:623
+#: A_New_Order/scenarios/23_Trapped.cfg:627
 msgid "See, noble and independent but not-so-smart Dunefolk leader, you could still be alive and on our side instead of being just another body in our path..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23_Trapped.cfg:678
+#: A_New_Order/scenarios/23_Trapped.cfg:682
 msgid "Ha, the rest of my army is coming!"
 msgstr ""
 
 #. [event]
 #. EASY difficulty; reference to how the other difficulties provide him with more Clansmen:
-#: A_New_Order/scenarios/23_Trapped.cfg:708
+#: A_New_Order/scenarios/23_Trapped.cfg:712
 msgid "Hm? I thought another unit of my army would be arriving now..."
 msgstr ""
 
 #. [event]
 #. EASY difficulty; reference to how the other difficulties provide him with more Clansmen:
-#: A_New_Order/scenarios/23_Trapped.cfg:737
+#: A_New_Order/scenarios/23_Trapped.cfg:741
 msgid "Where is the rest of that army of mine?!"
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:809
+#: A_New_Order/scenarios/23_Trapped.cfg:813
 msgid "Akladians of Vakladia! I am King Buffin. I have come to you to re-introduce peace and order to your lands after the untimely death of your king, my beloved cousin, Gawen Hagarthen. I..."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:811
+#: A_New_Order/scenarios/23_Trapped.cfg:815
 msgid "I AM Gawen Hagarthen. I am starting to tire of repeating that I am alive."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:812
+#: A_New_Order/scenarios/23_Trapped.cfg:816
 msgid "NO! Gawen Ha... No, you are not him! You are... some underling pretending to be my beloved nephew! Kill him!"
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:814
+#: A_New_Order/scenarios/23_Trapped.cfg:818
 msgid "We will, but not because we welcome you, Buffin of Okladia. Though you are Hagarthen, nobody has invited you here. But we will discuss that issue later."
 msgstr ""
 
 #. example of full sentence "I hope that with Reumario helping us this won't be as difficult as it might..." etc
-#: A_New_Order/scenarios/23_Trapped.cfg:890
+#: A_New_Order/scenarios/23_Trapped.cfg:894
 msgid "I hope that with "
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:890
+#: A_New_Order/scenarios/23_Trapped.cfg:894
 msgid " helping us this won't be as difficult as it might otherwise be, but we still should be prepared for serious losses."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:892
+#: A_New_Order/scenarios/23_Trapped.cfg:896
 msgid "I'm afraid this battle may be extremely difficult. We must be prepared for serious losses, unfortunately."
 msgstr ""
 
 #. [objectives]
 #. [note]
-#: A_New_Order/scenarios/23_Trapped.cfg:899
+#: A_New_Order/scenarios/23_Trapped.cfg:903
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:175
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:166
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1616
@@ -9082,7 +9090,7 @@ msgid "There are no interrogations in this scenario."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/23_Trapped.cfg:905
+#: A_New_Order/scenarios/23_Trapped.cfg:909
 msgid "Survive to the end of time limit"
 msgstr ""
 
@@ -9730,7 +9738,7 @@ msgid "Leaving Okladia"
 msgstr ""
 
 #. [part]
-#. spoken by Gawen
+#. spoken by Gawen:
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:22
 msgid "When Deorien declared to my soldiers that they should address me by the name of 'King Gawen Haldric Hagarthen,' they showed a great deal of enthusiasm. I think this title was of little surprise to them. But their raucous enthusiasm was surely a surprise to me."
 msgstr ""
@@ -9864,7 +9872,7 @@ msgstr ""
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:172
-msgid "My brother fought with soldiers led by someone called 'Gaumhaldric.' Do you.. Do you know who Gaumhaldric is?"
+msgid "My brother fought with soldiers led by someone called 'Gaumhaldric.' Do you... Do you know who Gaumhaldric is?"
 msgstr ""
 
 #. [scenario]: id=22_Leaving_Okladia
@@ -9880,8 +9888,8 @@ msgstr ""
 #. [side]: id=Dauri Travil, type=Akladian Lord
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:298
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:707
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:721
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:708
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:722
 msgid "Dauri Travil"
 msgstr ""
 
@@ -9932,392 +9940,393 @@ msgid "I don't know what to think about this. My brother, Raban, died recently f
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:445
+#. case where Raban Harnen left; "He was left alive" refers to Raban:
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:446
 msgid "I don't know what to think about this. My brother, Raban, fought with someone who - according to many - looked like our king Gawen's twin brother. He was left alive by one of the Wesnothians fighting for this young leader, who goes by the name 'Gaumhaldric.' There are many rumors about him..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:449
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:452
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:450
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:453
 msgid "This doesn't look good, my lord. We weren't expecting this many enemies here. And our scouts are reporting that Buffin's army is just behind us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:456
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:457
 msgid "Aaah, the glory of battle! My son, fodder for our swords lies ahead. Let's kill them all, and if they are worthy opponents, let's cut their hearts out and eat them. Speaking of eating, I am really hungry..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:457
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:458
 msgid "My king, is mother of your majesty always this... hmm..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:458
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:459
 msgid "Bloodthirsty? I am not sure. She has been behaving very oddly of late... mother, you should really stop eating so much. You are starting to gain weight."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:459
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:460
 msgid "I will lose it in battle. Charge!"
 msgstr ""
 
 #. [objective]: condition=win
 #. trailing space is intentional, to pad the footnote a bit:
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:469
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:470
 msgid "Reach the northern edge of the map with Gawen. "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:513
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:514
 msgid "For our king, Gawen Haldric Hagarthen!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:514
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:515
 msgid "Your king? You are fighting for the ghost of long dead boy? And why would you call him Haldric?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:540
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:572
-msgid "You oppose Gawen Hagarthen, your own king."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:541
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:573
+msgid "You oppose Gawen Hagarthen, your own king."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:542
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:574
 msgid "Our king? And where is he? Is he hiding behind your backs?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:549
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:550
 msgid "Now, feel the wrath of ancient power. Your God is expressing his anger through me, because you are opposing his messiah!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:574
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:575
 msgid "My name is Reme Carrenemoe. You doubt my word?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:575
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:576
 msgid "If he is really Gawen Hagarthen, why does he send others to fight?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:597
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:598
 msgid "He lost consciousness already? Sigh. I hoped we could ask him few questions. But then again, he didn't seem like a guy who would actually KNOW anything."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:603
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:604
 msgid "What are you waiting for? Finish me!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:605
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:606
 msgid "Then die, if that's what you want!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:606
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:607
 msgid "You were worthy opponent"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:610
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:611
 msgid "If that's your wish"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:613
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:614
 msgid "Why should I do that? You fought like a real man, and I respect you. Rauke, I want you to know that I consider you a good warrior and a fine Akladian. I will ensure your body is buried with all honours."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:615
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:616
 msgid "Maybe you are worthy to be our king after all..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:616
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:617
 msgid "Tell me what has happened recently in Vakladia?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:618
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:619
 msgid "Nothing changed much. Everyone is fighting with everyone. Bor Cryne and his allies are trying to impose themselves as supreme rulers with the help of the orcs, but even their successes with the rebels have not given them any authority."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:619
-msgid "In Easkladia, king Perien died during the final battle with the Wesnothians. He broke through the Wesnothian lines right to their king. He slew their king, but he was in turn killed by underlings. The battle then ended, undecided, but the Easkladian capital was saved and the underlings withdrew without their king."
-msgstr ""
-
-#. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:620
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:651
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:662
-msgid "There are multiple rumors about a messiah who will come and unite all the Akladians and lead them into true greatness... (<i>coughs</i>) ...and... (<i>coughs</i>)"
+msgid "In Easkladia, king Perien died during the final battle with the Wesnothians. He broke through the Wesnothian lines right to their king. He slew their king, but he was in turn killed by underlings. The battle then ended, undecided, but the Easkladian capital was saved and the underlings withdrew without their king."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:621
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:652
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:664
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:663
+msgid "There are multiple rumors about a messiah who will come and unite all the Akladians and lead them into true greatness... (<i>coughs</i>) ...and... (<i>coughs</i>)"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:622
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:653
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:665
 msgid "He is dead now. Lie in peace, warrior. I will keep my promise."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:626
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:764
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:627
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:765
 msgid "A mage! A mage has defeated me! A creature from the dark past allied with you? God will punish you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:630
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:631
 msgid "Rauke, I like you. That's why I don't want you to scream in pain and agony. What do you say you help me out?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:631
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:632
 msgid "Help yourself, fat witch."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:632
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:633
 msgid "Fat? That's really unfair. I didn't say anything about you being bald. Now, tell me what happened recently in Vakladia, and..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:633
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:634
 msgid "And..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:634
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:635
 msgid "You will avoid unspeakable pain"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:635
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:636
 msgid "I will honour you by burying you properly"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:640
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:641
 msgid "You think you can frighten me with mere words? Ha! Ha! Ha! I am an Akladian lord, and I am not afraid... I am half-dead already..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:641
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:642
 msgid "Only half-dead, mind you. It means you can still feel the pain"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:642
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:643
 msgid "Aaargh! No! Not there! Aaargh! Stop, stop it!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:643
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:644
 msgid "I won't allow for any more of that, mother. Stop it! Stop it right now!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:644
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:645
 msgid "Oh, rats, I think I've lost my delicate, feminine touch. My blade slipped and I've killed him too soon. Sigh."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:647
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:648
 msgid "Honour me? That's so.. so unlikely of you, Lorin."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:648
-msgid "LADY Lorin, if you don't mind. How do you know what's unlikely for me? You were a fine warrior, and I grow tired of being called emotionless and cruel by my step-son. Would you please tell me about what happened in Vakladia recently?"
-msgstr ""
-
-#. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:649
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:660
-msgid "Nothing's changed much. Everyone is fighting with everyone. Bor Cryne and his allies are trying to impose themselves as supreme rulers with the help of the orcs, but even their successes with the rebels have not given them any authority."
+msgid "LADY Lorin, if you don't mind. How do you know what's unlikely for me? You were a fine warrior, and I grow tired of being called emotionless and cruel by my step-son. Would you please tell me about what happened in Vakladia recently?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:650
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:661
+msgid "Nothing's changed much. Everyone is fighting with everyone. Bor Cryne and his allies are trying to impose themselves as supreme rulers with the help of the orcs, but even their successes with the rebels have not given them any authority."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:651
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:662
 msgid "In Easkladia, king Perien died during the final battle with the Wesnothians. He broke through the Wesnothian lines right to their king. He slew their king, but he was in turn slain by underlings. The battle then ended, undecided, but the Easkladian capital was saved and the underlings withdrew without their king."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:657
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:658
 msgid "You were a worthy fighter, noble Rauke Harnen. I will do everything to bury your body properly according to our customs."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:658
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:659
 msgid "So were you, noble Reme. I've heard about the fate of your clan and family - please, accept my deepest condolences."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:659
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:660
 msgid "People die and join their ancestors. I am happy their death was honourable. Please, before you die - could you tell me about what happened in Vakladia recently?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:674
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:675
 msgid "Hmm... seems that he had some gold..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:692
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:707
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:693
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:708
 msgid "Hmm... seems that the traitor had some gold..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:697
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:698
 msgid "Bal Riddon has received 40 gold pieces."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:712
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:713
 msgid "Dauri Travil has received 40 gold pieces."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:721
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:722
 msgid "Eeek! They killed the boss! Bring reinforcements!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:759
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:768
-msgid "Bal Riddon, before you die, I want you to tell me a few things about the plans of your king, Buffin."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:760
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:769
+msgid "Bal Riddon, before you die, I want you to tell me a few things about the plans of your king, Buffin."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:761
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:770
 msgid "Ask him yourself, then. I won't tell you anything."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:770
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:771
 msgid "Nonono, you have not understood me. I WANT you to tell me few things about the plans of your king. Now, we will start with the basics."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:771
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:772
 msgid "Wait! I will tell you what I know. King Buffin wants to use the opportunity he sees here, with Gawen dead, Perien dead, and the two other Hagarthens in Guilcorta busy with quarrels. He wants to trump up some fake election and elect himself king of Vakladia."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:772
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:773
 msgid "Gawen is not dead, I assure you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:773
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:774
 msgid "But there is something strange... I've heard strange rumors. Something is happening at our eastern border. Many of the lords from the eastern part of Okladia have not answered the call of Buffin to assemble at his camp."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:774
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:775
 msgid "Okladian lords are cowards, what's so strange about that? Do you know anything else? No? Die then."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:779
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:780
 msgid "You were a worthy fighter, noble Bal Riddon."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:780
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:781
 msgid "So were you, Reme. So were you. You behaved honourably, so before I die, I want to warn you: you are headed straight into a trap."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:781
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:782
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:159
 msgid "What do you mean by that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:782
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:783
 msgid "An army of orcs and Akladians is gathering north of here. They are probably there because they want to head off the army of my king, Buffin. You will be trapped between those two armies. Go back to Okladia and try to find another way."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:783
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:784
 msgid "We have no choice. We have to tread this path."
 msgstr ""
 
 #. [message]: speaker=narrator
 #. TODO: think of something better to put here:
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:796
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:797
 msgid "This signpost is illegible, unfortunately."
 msgstr ""
 
 #. [event]
 #. reference to the event where King Buffin's vanguard starts appearing:
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:859
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:860
 msgid "Wait... the last time enemy reinforcements arrived..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:860
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:861
 msgid "No, Gawen is correct! There are too many of them now!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:877
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:878
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:322
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:312
 msgid "We've won! What should we do now?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:878
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:879
 msgid "We march straight on to Vattin! Boy, I really feel hungry now. This fight has made me STARVING."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:879
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:880
 msgid "I think, my king, we should go to Freetown, so the Wesnothian rebels from Vakladia can see you and acknowledge you as king. We must hurry, because king Buffin is right behind us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:880
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:881
 msgid "Nonono, not to Freetown! There is nothing worth seeing in Freetown!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:881
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:882
 msgid "Yes, there is definitely something worth seeing in that city. In fact, I can't wait to see her."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:882
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:883
 msgid "Her?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:883
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:884
 msgid "Mother, I'll explain later. Let's go!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:939
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:940
 msgid "Gee, don't panic. That's only the vanguard of King Buffin's army. I assure you that we still have every opportunity to win."
 msgstr ""
 
 #. [event]
 #. "$tmp" is the name of a unit:
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:992
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:993
 msgid "I have a strange feeling of dejavu... Hey, $tmp, take care of yourself, would you?"
 msgstr ""
 
@@ -10327,7 +10336,7 @@ msgid "Choosing the Best"
 msgstr ""
 
 #. [part]
-#. spoken by Gawen
+#. spoken by Gawen:
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:59
 msgid "Finally, I was confident that my troops were ready for the task which awaited us. When I told Gwidle, he insisted upon a farewell feast. There was wine, food, and music. The finest dancers from among Freetown's girls and women, doing traditional folk-dances in special costumes with masks and shawls, danced for us."
 msgstr ""
@@ -10512,7 +10521,7 @@ msgid "I will join you in your quest."
 msgstr ""
 
 #. [objectives]
-#. EASY difficulty:
+#. EASY difficulty, explain it the most clearly at this level:
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:244
 msgid "There is too little space to recall all 18 units at once. Move the units out of the castle to make room for others. The units will be able to move (in this scenario only!!) immediately after recalling, so do not push end turn button."
 msgstr ""
@@ -10524,85 +10533,88 @@ msgid "There is too little space to recall all 15 units at once. Move the units 
 msgstr ""
 
 #. [objectives]
-#. HARD difficulty; supposed to be shorter and vaguer than on the two easier difficulties:
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:252
+#. HARD difficulty, thus, this version of the note is supposed to be shorter & vaguer than it is on the 2 easier difficulties
+#. the "famous trading card game" in question is Magic: the Gathering, but don't actually say that, though,
+#. since on the HARD difficulty it's fairer to expect the player to catch oblique references and draw inferences:
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:254
 msgid "There is too little space to recall all 12 units at once. Move the units away to make room. The units will have “haste” (to borrow a term from a famous trading card game), so avoid ending your turn prematurely."
 msgstr ""
 
 #. [note]
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:257
+#. TODO: think of a way to hint that they're doomed without spoiling what happens to Freetown:
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:259
 msgid "Any units not recalled will be left behind in Freetown. Players who normally avoid recalling their level 3 units to save them for later in the campaign may want to forgo that strategy this time."
 msgstr ""
 
 #. [objective]: condition=win
 #. EASY difficulty:
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:262
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:264
 msgid "Recall eighteen troops. OR"
 msgstr ""
 
 #. [objective]: condition=win
 #. NORMAL difficulty:
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:266
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:268
 msgid "Recall fifteen troops. OR"
 msgstr ""
 
 #. [objective]: condition=win
 #. HARD difficulty:
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:270
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:272
 msgid "Recall twelve troops. OR"
 msgstr ""
 
 #. [objective]: condition=win
 #. NIGHTMARE difficulty:
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:274
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:276
 msgid "Recall nine troops. OR"
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:279
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:281
 msgid "End turn if you do not want or can't recall more troops."
 msgstr ""
 
 #. [then]
 #. [else]
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:313
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:327
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:315
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:329
 msgid "Say, Kyobaine..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:315
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:317
 msgid "It's getting to be spring now... do you think you still really need that winter cloak?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:316
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:318
 msgid "You're right, it <i>is</i> starting to get rather warm with it on..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:321
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:323
 msgid "...and, there we go."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:322
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:324
 msgid "Good, just making sure you're comfortable."
 msgstr ""
 
 #. [else]
 #. threateningly:
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:330
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:332
 msgid "Do you REALLY feel like trying your luck, human?"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:331
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:333
 msgid "...you're right, never mind."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:333
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:335
 msgid "Hm, I feel as though I may have missed out on something... oh well."
 msgstr ""
 
@@ -10789,7 +10801,7 @@ msgstr ""
 #. [objective]: condition=win
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:181
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:172
-msgid "Reach the signpost with Gawen."
+msgid "Reach the signpost with Gawen"
 msgstr ""
 
 #. [event]
@@ -10861,68 +10873,68 @@ msgid "Ripe Scud"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:18
+#: A_New_Order/scenarios/23b_Trapped.cfg:19
 msgid "Can it be possible? Yes! Lorin! Long have I dreamt of repaying you for what you did to my brother in Haeltin. Your time has come..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:19
+#: A_New_Order/scenarios/23b_Trapped.cfg:20
 msgid "Oh my, I am scared. Haeltin? Let me think... Ah yes, I remember now. Your brother must have been that flabby, nebbish cur who was crying just looking at my knife."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:20
+#: A_New_Order/scenarios/23b_Trapped.cfg:21
 #: A_New_Order/scenarios/23a_Trapped.cfg:22
 msgid "Mother, it's enough we have four Akladian armies on our heels. You do not have to make them even more furious."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:21
+#: A_New_Order/scenarios/23b_Trapped.cfg:22
 #: A_New_Order/scenarios/23a_Trapped.cfg:23
 msgid "And who is this niddering stripling, who thinks that by growing a beard he can start to look like a man, yet hides his mother's skirt?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:22
+#: A_New_Order/scenarios/23b_Trapped.cfg:23
 #: A_New_Order/scenarios/23a_Trapped.cfg:24
 msgid "Gawen, he was talking to you. Reumario, I think you have just sealed your fate."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:23
+#: A_New_Order/scenarios/23b_Trapped.cfg:24
 msgid "Reumario, whatever my mother did to your brother, there is no need for you to behave like a lout. If you don't like me, fine, but show that with your sword, not with your mouth."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:24
+#: A_New_Order/scenarios/23b_Trapped.cfg:25
 #: A_New_Order/scenarios/23a_Trapped.cfg:26
 msgid "Heh, Heh, 'if you don't like me', Gawen, you are fabulous."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:29
+#: A_New_Order/scenarios/23b_Trapped.cfg:30
 msgid "Ha, Aire Reumario. First your brother, and now you. I love this game. How many more Reumarios are there, waiting to die at my hand?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:31
+#: A_New_Order/scenarios/23b_Trapped.cfg:32
 #: A_New_Order/scenarios/23a_Trapped.cfg:33
 msgid "There are many different kinds of death, Reumario."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:32
+#: A_New_Order/scenarios/23b_Trapped.cfg:33
 #: A_New_Order/scenarios/23a_Trapped.cfg:34
 msgid "Mother, put down that knife! That is an order!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:33
+#: A_New_Order/scenarios/23b_Trapped.cfg:34
 msgid "What knife? Gawen, you are waaay to soft. They wouldn't be that merciful to us, if they had a chance to catch us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:34
+#: A_New_Order/scenarios/23b_Trapped.cfg:35
 msgid "I don't care. Allow this man to die peacefully."
 msgstr ""
 
@@ -11459,95 +11471,97 @@ msgid "We've won! At last. Now, where is that famous oracle?"
 msgstr ""
 
 #. [event]
-#. if your language doesn't have articles or capitalization, come up with some other sort of linguistic cue to signify that
-#. 'The Oracle' is special, like a unique honoriffic (if you language has those) or something:
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1865
+#. if your language doesn't have articles or capitalization, come up with some other sort of linguistic cue to signify
+#. that 'The Oracle' is special, like a unique honoriffic (if you language has those) or something... for example,
+#. in Japanese, maybe Gawen had previously used "-san" by accident, when he should have actually used "-sama" or "-dono"
+#. or something:
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1867
 msgid "You pronounce that 'The Oracle'... all she needs is a great big 'The' in front and a capital O. But indeed, where is she?"
 msgstr ""
 
 #. [event]
 #. carets blank EVERYTHING before them, rather than just the preceding word, so that is why I replaced "plural^you" with "all of you" here:
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1883
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1885
 msgid "Here I am. My voice speaks to those willing to listen. I know why you are here. I know who all of you are. Ask your questions and receive the answers, for I can see everything which may be."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1884
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1886
 msgid "Everything, huh? Then how come you were besieged and almost captured? Why didn't you escape or call on someone to help you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1885
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1887
 msgid "The answer to this question is the answer to your doubts. Why haven't I escaped? Why didn't I call someone for help?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1886
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1888
 msgid "Lady, we are searching for the great mage, Deorien. Maybe you know..."
 msgstr ""
 
 #. [event]
 #. Note to translators: This is archaic English, 'thee' and 'thou' are the singular familiar forms of 'you' - 'crieth' and 'recalleth' are old English for 'cries' and 'recalls'... 'e'en' is a poetic way of saying 'even'
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1889
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1891
 msgid "Search for Deorien in the ruins of the great city, where e'en the wind crieth when it recalleth the memories of a marvelous past. He shall give unto thee answers, some of which thou mayest find unwelcome."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1891
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1893
 msgid "Ruins of the great city? What kind of answer is this? Which city? Why can't you give me straight answers?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1892
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1894
 msgid "I am an Oracle. Why should I give straight answers? Why do you think my answer is insufficient for you? Why do you think I should tell you more?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1893
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1895
 msgid "Oracle... I..."
 msgstr ""
 
 #. [event]
 #. If you are translating the Oracle's answers, and if you are not sure what Lorin's questions were, contact the campaign creator. The answers might not involve "to be" in some languages.
 #. Note to translators: This sentence incorporates quite a bit of archaic English. 'Yea' is old English for yes and 'thou' is the familiar/intimate form of a singular 'you'... 'ye' in the third answer is the old English familliar, plural form of 'you' - and 'nay' is old English for 'no.'
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1897
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1899
 msgid "I already know your questions, Lorin from Gallorae, the clan which has long had more gold in the hair of their daughters than in their treasuries. The first answer is: yea, thou art. The second is: yea, he shall. The third is: nay, ye never shall."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1899
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1901
 msgid "No! No!  There has to be a better answer!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1900
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1902
 msgid "As the Oracle, I have nothing more to say to thee... As a woman, I can advise this: There is only one man in the world who may change your future. I think you know his name. Go and find him. Beg him for forgiveness if you have to. Stay with him as long as you can."
 msgstr ""
 
 #. [event]
 #. FIXME: this wording could be improved... basically Lorin is saying she accepts the answers the Oracle gave with her Oracle hat on, but not the advice she gave on a woman-to-woman basis:
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1902
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1904
 msgid "Is that all you wanted to tell me? Then know that I've heard, that the She-wolf of Haeltin has heard counsel of the Oracle, voice of God on Earth. She will not hear the counsel woman whom is merely God's tool."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1903
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1905
 msgid "Let's go, Gawen. We're finished here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1904
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1906
 msgid "I didn't catch the meaning of the discussion between you, and I know it was important. But why?"
 msgstr ""
 
 #. [event]
 #. 'import' is an older English term for 'Importance'
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1907
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1909
 msgid "You shall understand the full import of it one day, young king, and I daresay sooner than you think. I wish you luck in your quest. I will give one of my sergeants into your service. He will serve you loyally."
 msgstr ""
 
 #. [unit]: type=Sergeant, id=John Fasthood
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1914
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1916
 msgid "John Fasthood"
 msgstr ""
 
