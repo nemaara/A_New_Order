@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-17 23:38 UTC\n"
+"POT-Creation-Date: 2024-11-17 23:53 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2123,10 +2123,10 @@ msgstr ""
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:57
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:13
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:392
-#: A_New_Order/scenarios/14b_Bontom.cfg:559
-#: A_New_Order/scenarios/14b_Bontom.cfg:566
-#: A_New_Order/scenarios/14b_Bontom.cfg:611
-#: A_New_Order/scenarios/14b_Bontom.cfg:618
+#: A_New_Order/scenarios/14b_Bontom.cfg:560
+#: A_New_Order/scenarios/14b_Bontom.cfg:567
+#: A_New_Order/scenarios/14b_Bontom.cfg:612
+#: A_New_Order/scenarios/14b_Bontom.cfg:619
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:227
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:318
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:379
@@ -3408,7 +3408,7 @@ msgstr ""
 #. [side]: id=Uruk Lug, type=Orcish Warlord
 #: A_New_Order/macros/messages.cfg:182
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:52
-#: A_New_Order/scenarios/14b_Bontom.cfg:213
+#: A_New_Order/scenarios/14b_Bontom.cfg:214
 msgid "Uruk Lug"
 msgstr ""
 
@@ -3838,7 +3838,7 @@ msgstr ""
 #: A_New_Order/scenarios/27_Orannon.cfg:72
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:71
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:29
-#: A_New_Order/scenarios/14b_Bontom.cfg:141
+#: A_New_Order/scenarios/14b_Bontom.cfg:142
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:45
 #: A_New_Order/scenarios/30_Final.cfg:64
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:78
@@ -3947,7 +3947,7 @@ msgstr ""
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:191
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:233
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:441
-#: A_New_Order/scenarios/14b_Bontom.cfg:472
+#: A_New_Order/scenarios/14b_Bontom.cfg:473
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:489
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:151
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:175
@@ -3979,7 +3979,7 @@ msgstr ""
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:192
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:234
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:442
-#: A_New_Order/scenarios/14b_Bontom.cfg:473
+#: A_New_Order/scenarios/14b_Bontom.cfg:474
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:490
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:152
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:176
@@ -4177,10 +4177,10 @@ msgstr ""
 #: A_New_Order/scenarios/13_Scouting.cfg:676
 #: A_New_Order/scenarios/13_Scouting.cfg:696
 #: A_New_Order/scenarios/13_Scouting.cfg:709
-#: A_New_Order/scenarios/14b_Bontom.cfg:554
-#: A_New_Order/scenarios/14b_Bontom.cfg:562
-#: A_New_Order/scenarios/14b_Bontom.cfg:606
-#: A_New_Order/scenarios/14b_Bontom.cfg:614
+#: A_New_Order/scenarios/14b_Bontom.cfg:555
+#: A_New_Order/scenarios/14b_Bontom.cfg:563
+#: A_New_Order/scenarios/14b_Bontom.cfg:607
+#: A_New_Order/scenarios/14b_Bontom.cfg:615
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:222
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:313
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:374
@@ -5505,7 +5505,7 @@ msgstr ""
 #: A_New_Order/scenarios/13_Scouting.cfg:453
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:287
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:466
-#: A_New_Order/scenarios/14b_Bontom.cfg:659
+#: A_New_Order/scenarios/14b_Bontom.cfg:660
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:424
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:347
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:458
@@ -6540,8 +6540,8 @@ msgstr ""
 #. [objective]: condition=win
 #. trailing space is intentional, to pad the footnote a bit:
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:7
-#: A_New_Order/scenarios/14b_Bontom.cfg:399
-#: A_New_Order/scenarios/14b_Bontom.cfg:415
+#: A_New_Order/scenarios/14b_Bontom.cfg:400
+#: A_New_Order/scenarios/14b_Bontom.cfg:416
 msgid "HEROIC: Kill all enemy leaders "
 msgstr ""
 
@@ -6549,8 +6549,8 @@ msgstr ""
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:7
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:583
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:209
-#: A_New_Order/scenarios/14b_Bontom.cfg:399
-#: A_New_Order/scenarios/14b_Bontom.cfg:415
+#: A_New_Order/scenarios/14b_Bontom.cfg:400
+#: A_New_Order/scenarios/14b_Bontom.cfg:416
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:340
 msgid " OR"
 msgstr ""
@@ -6830,8 +6830,8 @@ msgstr ""
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:447
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:266
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:301
-#: A_New_Order/scenarios/14b_Bontom.cfg:709
-#: A_New_Order/scenarios/14b_Bontom.cfg:725
+#: A_New_Order/scenarios/14b_Bontom.cfg:710
+#: A_New_Order/scenarios/14b_Bontom.cfg:726
 msgid "I don't know much - only that this was the wish of our guide, Grekulak. He wished Akladians to be allied with us."
 msgstr ""
 
@@ -6842,9 +6842,9 @@ msgstr ""
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:228
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:267
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:302
-#: A_New_Order/scenarios/14b_Bontom.cfg:689
-#: A_New_Order/scenarios/14b_Bontom.cfg:715
-#: A_New_Order/scenarios/14b_Bontom.cfg:731
+#: A_New_Order/scenarios/14b_Bontom.cfg:690
+#: A_New_Order/scenarios/14b_Bontom.cfg:716
+#: A_New_Order/scenarios/14b_Bontom.cfg:732
 msgid "Grekulak! I know that name. We should go back to Freetown and report that, that's all we need to know!"
 msgstr ""
 
@@ -6854,9 +6854,9 @@ msgstr ""
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:449
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:268
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:303
-#: A_New_Order/scenarios/14b_Bontom.cfg:690
-#: A_New_Order/scenarios/14b_Bontom.cfg:716
-#: A_New_Order/scenarios/14b_Bontom.cfg:732
+#: A_New_Order/scenarios/14b_Bontom.cfg:691
+#: A_New_Order/scenarios/14b_Bontom.cfg:717
+#: A_New_Order/scenarios/14b_Bontom.cfg:733
 msgid "Grekulak? That's something to report. We should go back to Freetown then."
 msgstr ""
 
@@ -9374,26 +9374,26 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:263
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:298
-#: A_New_Order/scenarios/14b_Bontom.cfg:706
-#: A_New_Order/scenarios/14b_Bontom.cfg:722
+#: A_New_Order/scenarios/14b_Bontom.cfg:707
+#: A_New_Order/scenarios/14b_Bontom.cfg:723
 msgid "I will allow you to live, if you will tell me few things."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:264
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:299
-#: A_New_Order/scenarios/14b_Bontom.cfg:707
-#: A_New_Order/scenarios/14b_Bontom.cfg:723
+#: A_New_Order/scenarios/14b_Bontom.cfg:708
+#: A_New_Order/scenarios/14b_Bontom.cfg:724
 msgid "Ask then, human."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:265
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:300
-#: A_New_Order/scenarios/14b_Bontom.cfg:578
-#: A_New_Order/scenarios/14b_Bontom.cfg:630
-#: A_New_Order/scenarios/14b_Bontom.cfg:708
-#: A_New_Order/scenarios/14b_Bontom.cfg:724
+#: A_New_Order/scenarios/14b_Bontom.cfg:579
+#: A_New_Order/scenarios/14b_Bontom.cfg:631
+#: A_New_Order/scenarios/14b_Bontom.cfg:709
+#: A_New_Order/scenarios/14b_Bontom.cfg:725
 msgid "Why are you allied with Akladians?"
 msgstr ""
 
@@ -9444,7 +9444,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:488
-#: A_New_Order/scenarios/14b_Bontom.cfg:908
+#: A_New_Order/scenarios/14b_Bontom.cfg:909
 msgid "Oh no! New reinforcements have arrived to help our enemies, now we have no chances to defeat them!"
 msgstr ""
 
@@ -11153,7 +11153,7 @@ msgstr ""
 #. [object]: id=healing_skill
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:86
 #: A_New_Order/scenarios/14b_Bontom.cfg:25
-#: A_New_Order/scenarios/14b_Bontom.cfg:1031
+#: A_New_Order/scenarios/14b_Bontom.cfg:1033
 msgid "Healing skill"
 msgstr ""
 
@@ -12397,8 +12397,8 @@ msgstr ""
 #. [then]
 #. [event]
 #: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:194
-#: A_New_Order/scenarios/14b_Bontom.cfg:576
-#: A_New_Order/scenarios/14b_Bontom.cfg:628
+#: A_New_Order/scenarios/14b_Bontom.cfg:577
+#: A_New_Order/scenarios/14b_Bontom.cfg:629
 msgid "I have no idea."
 msgstr ""
 
@@ -13495,19 +13495,19 @@ msgstr ""
 
 #. [object]: id=healing_skill
 #: A_New_Order/scenarios/14b_Bontom.cfg:27
-#: A_New_Order/scenarios/14b_Bontom.cfg:1033
+#: A_New_Order/scenarios/14b_Bontom.cfg:1035
 msgid "This unit has learned basic healing skills: it can cure poison and up to 2 HP of wounded friendly units."
 msgstr ""
 
 #. [heals]: id=basic_healing
 #: A_New_Order/scenarios/14b_Bontom.cfg:39
-#: A_New_Order/scenarios/14b_Bontom.cfg:1045
+#: A_New_Order/scenarios/14b_Bontom.cfg:1047
 msgid "basic healing"
 msgstr ""
 
 #. [heals]: id=basic_healing
 #: A_New_Order/scenarios/14b_Bontom.cfg:40
-#: A_New_Order/scenarios/14b_Bontom.cfg:1046
+#: A_New_Order/scenarios/14b_Bontom.cfg:1048
 msgid "heals +2, cures poison"
 msgstr ""
 
@@ -13543,8 +13543,8 @@ msgstr ""
 
 #. [unit]: id=Old Woman, type=Old Peasant Woman, gender=female
 #: A_New_Order/scenarios/14b_Bontom.cfg:63
-#: A_New_Order/scenarios/14b_Bontom.cfg:966
-#: A_New_Order/scenarios/14b_Bontom.cfg:1005
+#: A_New_Order/scenarios/14b_Bontom.cfg:967
+#: A_New_Order/scenarios/14b_Bontom.cfg:1006
 msgid "Old woman"
 msgstr ""
 
@@ -13611,252 +13611,245 @@ msgid "Note: you will receive no bonus if you withdraw with Reme."
 msgstr ""
 
 #. [part]
-#. Konrad2 suggests "to not be" instead of "not to be" but I think it is fine as is:
-#: A_New_Order/scenarios/14b_Bontom.cfg:119
+#. Konrad2 suggests "to not be" instead of "not to be" but I think it is fine as is; see:
+#. https://forums.wesnoth.org/viewtopic.php?p=663581#p663581
+#: A_New_Order/scenarios/14b_Bontom.cfg:120
 msgid "Guides showed Gawen where Bontom was located. He and his army soon reached the area. Of course, his army was too big for it not to be noticed, and his scouts reported that enemies were preparing their defenses."
 msgstr ""
 
 #. [side]: id=Hans the Ripper, type=Fugitive
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:156
-#: A_New_Order/scenarios/14b_Bontom.cfg:599
-#: A_New_Order/scenarios/14b_Bontom.cfg:601
-#: A_New_Order/scenarios/14b_Bontom.cfg:626
-#: A_New_Order/scenarios/14b_Bontom.cfg:628
-#: A_New_Order/scenarios/14b_Bontom.cfg:631
-#: A_New_Order/scenarios/14b_Bontom.cfg:634
-#: A_New_Order/scenarios/14b_Bontom.cfg:637
-#: A_New_Order/scenarios/14b_Bontom.cfg:640
+#: A_New_Order/scenarios/14b_Bontom.cfg:157
+#: A_New_Order/scenarios/14b_Bontom.cfg:600
+#: A_New_Order/scenarios/14b_Bontom.cfg:602
+#: A_New_Order/scenarios/14b_Bontom.cfg:627
+#: A_New_Order/scenarios/14b_Bontom.cfg:629
+#: A_New_Order/scenarios/14b_Bontom.cfg:632
+#: A_New_Order/scenarios/14b_Bontom.cfg:635
+#: A_New_Order/scenarios/14b_Bontom.cfg:638
+#: A_New_Order/scenarios/14b_Bontom.cfg:641
 msgid "Hans the Ripper"
 msgstr ""
 
 #. [side]: id=Rouke Rebarnon, type=Akladian Lord
-#: A_New_Order/scenarios/14b_Bontom.cfg:244
+#: A_New_Order/scenarios/14b_Bontom.cfg:245
 msgid "Rouke Rebarnon"
 msgstr ""
 
 #. [side]: id=Leif Thrall, type=Fugitive
 #. [scenario]: id=14b_Bontom
-#: A_New_Order/scenarios/14b_Bontom.cfg:271
-#: A_New_Order/scenarios/14b_Bontom.cfg:331
+#: A_New_Order/scenarios/14b_Bontom.cfg:272
+#: A_New_Order/scenarios/14b_Bontom.cfg:332
 msgid "Leif Thrall"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:338
+#: A_New_Order/scenarios/14b_Bontom.cfg:339
 msgid "So, this is the place! Now, let's find Reme."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:339
+#: A_New_Order/scenarios/14b_Bontom.cfg:340
 msgid "Hm, it seems that orcs are here, too. Perhaps we can also interrogate their leader."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:340
+#: A_New_Order/scenarios/14b_Bontom.cfg:341
 msgid "What about the others?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:341
+#: A_New_Order/scenarios/14b_Bontom.cfg:342
 msgid "I don't care about the others. If you want, you may ask them questions, but I won't waste my time on them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:342
+#: A_New_Order/scenarios/14b_Bontom.cfg:343
 msgid "Wait! Who's there?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:345
+#: A_New_Order/scenarios/14b_Bontom.cfg:346
 msgid "And what do you think?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:346
+#: A_New_Order/scenarios/14b_Bontom.cfg:347
 msgid "We came here to release our friend."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:347
+#: A_New_Order/scenarios/14b_Bontom.cfg:348
 msgid "We came here to make a deal."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:351
+#: A_New_Order/scenarios/14b_Bontom.cfg:352
 msgid "Friend? What friend?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:352
+#: A_New_Order/scenarios/14b_Bontom.cfg:353
 msgid "Reme Carrenemoe. Let him go, and we will leave this place."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:353
-#: A_New_Order/scenarios/14b_Bontom.cfg:390
+#: A_New_Order/scenarios/14b_Bontom.cfg:354
+#: A_New_Order/scenarios/14b_Bontom.cfg:391
 msgid "Ha! Ha! Ha! Go and find some other friend to rescue, that one is busy. Go away!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:356
+#: A_New_Order/scenarios/14b_Bontom.cfg:357
 msgid "Deal? What kind of a deal?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:358
+#: A_New_Order/scenarios/14b_Bontom.cfg:359
 msgid "You have captured my friend, Reme Carrenemoe. What about this:"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:359
+#: A_New_Order/scenarios/14b_Bontom.cfg:360
 msgid "Let him go, and we will leave in peace."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:360
+#: A_New_Order/scenarios/14b_Bontom.cfg:361
 msgid "I will give you $reme_fee_amt golden pieces to release him."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:370
+#: A_New_Order/scenarios/14b_Bontom.cfg:371
 msgid "What kind of joke is this? You haven't got that much gold!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:372
+#: A_New_Order/scenarios/14b_Bontom.cfg:373
 msgid "Seems fine to me. $reme_fee_amt golden pieces for me, Reme for you."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:378
-#: A_New_Order/scenarios/14b_Bontom.cfg:489
-msgid "Free! Free, at last!"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:379
 #: A_New_Order/scenarios/14b_Bontom.cfg:490
-msgid "My lord, the outlaw army decimated my clan. But still, some of my people survived, and they will be glad to help you."
+msgid "Free! Free, at last!"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:380
 #: A_New_Order/scenarios/14b_Bontom.cfg:491
+msgid "My lord, the outlaw army decimated my clan. But still, some of my people survived, and they will be glad to help you."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/14b_Bontom.cfg:381
+#: A_New_Order/scenarios/14b_Bontom.cfg:492
 msgid "You may recruit Akladian Clansmen again."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/14b_Bontom.cfg:403
-#: A_New_Order/scenarios/14b_Bontom.cfg:419
+#: A_New_Order/scenarios/14b_Bontom.cfg:404
+#: A_New_Order/scenarios/14b_Bontom.cfg:420
 msgid "NORMAL: Rescue Reme Carrenemoe and move him to the north-eastern signpost"
 msgstr ""
 
 #. [objectives]
-#: A_New_Order/scenarios/14b_Bontom.cfg:406
+#: A_New_Order/scenarios/14b_Bontom.cfg:407
 msgid "You may interrogate the Orcish leader with either Gawen, Ruvio, or Lorin. Other leaders may be interrogated by Gawen only. The Outlaw leader interrogations are largely identical."
 msgstr ""
 
 #. [objectives]
-#: A_New_Order/scenarios/14b_Bontom.cfg:423
+#: A_New_Order/scenarios/14b_Bontom.cfg:424
 msgid "You may interrogate the Orcish leader with either Gawen or Ruvio. Other leaders may be interrogated by Gawen only. The Outlaw leader interrogations are largely identical."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:468
+#: A_New_Order/scenarios/14b_Bontom.cfg:469
 msgid "To win, you should move Reme Carrenemore here!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:471
+#: A_New_Order/scenarios/14b_Bontom.cfg:472
 msgid "My lord, are you sure you want to retreat? We should move Reme Carrenemoe here first!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:476
+#: A_New_Order/scenarios/14b_Bontom.cfg:477
 msgid "I'm sorry Reme, but we simply couldn't succeed."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:477
+#: A_New_Order/scenarios/14b_Bontom.cfg:478
 msgid "Good. Reme left me, we left him, so balance in the universe is preserved."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:509
+#: A_New_Order/scenarios/14b_Bontom.cfg:510
 msgid "So, Reme. We meet again. Hm... I would say something to the effect of 'I'm happy to see you again', but to be honest, I am not."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:511
+#: A_New_Order/scenarios/14b_Bontom.cfg:512
 msgid "Lorin... and... Gawen? Is that really you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:517
+#: A_New_Order/scenarios/14b_Bontom.cfg:518
 msgid "Reme, are you ok?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:519
-#: A_New_Order/scenarios/14b_Bontom.cfg:539
+#: A_New_Order/scenarios/14b_Bontom.cfg:520
+#: A_New_Order/scenarios/14b_Bontom.cfg:540
 msgid "Yes... yes... Gawen? Is that really you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:536
+#: A_New_Order/scenarios/14b_Bontom.cfg:537
 msgid "They are keeping some Akladian in cage in here. Should I kill him?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:537
+#: A_New_Order/scenarios/14b_Bontom.cfg:538
 msgid "No! This is my friend, Reme! Reme, are you ok?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:547
-#: A_New_Order/scenarios/14b_Bontom.cfg:599
-msgid "Such a young man... And yet, one darn good fighter..."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:548
 #: A_New_Order/scenarios/14b_Bontom.cfg:600
-msgid "You were a worthy opponent, too."
+msgid "Such a young man... And yet, one darn good fighter..."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:549
 #: A_New_Order/scenarios/14b_Bontom.cfg:601
-msgid "Yes... it was a good fight, wasn't it?"
+msgid "You were a worthy opponent, too."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:550
 #: A_New_Order/scenarios/14b_Bontom.cfg:602
+msgid "Yes... it was a good fight, wasn't it?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/14b_Bontom.cfg:551
+#: A_New_Order/scenarios/14b_Bontom.cfg:603
 msgid "Yes... Before you pass on, please answer me few questions."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:555
-#: A_New_Order/scenarios/14b_Bontom.cfg:563
-#: A_New_Order/scenarios/14b_Bontom.cfg:607
-#: A_New_Order/scenarios/14b_Bontom.cfg:615
+#: A_New_Order/scenarios/14b_Bontom.cfg:556
+#: A_New_Order/scenarios/14b_Bontom.cfg:564
+#: A_New_Order/scenarios/14b_Bontom.cfg:608
+#: A_New_Order/scenarios/14b_Bontom.cfg:616
 msgid "Why are orcs here, allied with Akladians?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:556
-#: A_New_Order/scenarios/14b_Bontom.cfg:608
-msgid "Who hired the assassin that was trying to kill Gawen Hagarthen?"
-msgstr ""
-
-#. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:557
-#: A_New_Order/scenarios/14b_Bontom.cfg:564
 #: A_New_Order/scenarios/14b_Bontom.cfg:609
-#: A_New_Order/scenarios/14b_Bontom.cfg:616
-msgid "Why do you fight alongside Akladians?"
+msgid "Who hired the assassin that was trying to kill Gawen Hagarthen?"
 msgstr ""
 
 #. [event]
@@ -13864,134 +13857,142 @@ msgstr ""
 #: A_New_Order/scenarios/14b_Bontom.cfg:565
 #: A_New_Order/scenarios/14b_Bontom.cfg:610
 #: A_New_Order/scenarios/14b_Bontom.cfg:617
+msgid "Why do you fight alongside Akladians?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/14b_Bontom.cfg:559
+#: A_New_Order/scenarios/14b_Bontom.cfg:566
+#: A_New_Order/scenarios/14b_Bontom.cfg:611
+#: A_New_Order/scenarios/14b_Bontom.cfg:618
 msgid "Do you know who poisoned Gawen Hagarthen's mother?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:573
-#: A_New_Order/scenarios/14b_Bontom.cfg:625
+#: A_New_Order/scenarios/14b_Bontom.cfg:574
+#: A_New_Order/scenarios/14b_Bontom.cfg:626
 msgid "Do you know why orcs are here?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:574
+#: A_New_Order/scenarios/14b_Bontom.cfg:575
 msgid "They are allied with Akladians."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:575
-#: A_New_Order/scenarios/14b_Bontom.cfg:627
-#: A_New_Order/scenarios/14b_Bontom.cfg:657
+#: A_New_Order/scenarios/14b_Bontom.cfg:576
+#: A_New_Order/scenarios/14b_Bontom.cfg:628
+#: A_New_Order/scenarios/14b_Bontom.cfg:658
 msgid "But why?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:579
-#: A_New_Order/scenarios/14b_Bontom.cfg:631
+#: A_New_Order/scenarios/14b_Bontom.cfg:580
+#: A_New_Order/scenarios/14b_Bontom.cfg:632
 msgid "Allied? We are allied with none. They have simply paid for our services. That's all."
 msgstr ""
 
 #. [event]
 #. "whence" is a contraction for "from where"; it has nothing to do with the word "when":
-#: A_New_Order/scenarios/14b_Bontom.cfg:582
-#: A_New_Order/scenarios/14b_Bontom.cfg:633
+#: A_New_Order/scenarios/14b_Bontom.cfg:583
+#: A_New_Order/scenarios/14b_Bontom.cfg:634
 msgid "You are from the Outlaw Base, right? The place whence assassins come... maybe you know who poisoned the mother of Gawen Hagarthen?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:583
+#: A_New_Order/scenarios/14b_Bontom.cfg:584
 msgid "I don't know that."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:585
-#: A_New_Order/scenarios/14b_Bontom.cfg:636
+#: A_New_Order/scenarios/14b_Bontom.cfg:586
+#: A_New_Order/scenarios/14b_Bontom.cfg:637
 msgid "Someone hired an assassin to kill Gawen Hagarthen, immediately after his father's death. I know he came from the Outlaw Base. Who hired him?"
 msgstr ""
 
 #. [event]
 #. lowercase "l" in "lords" because we're talking about the rank generically, not the name of the unit type:
-#: A_New_Order/scenarios/14b_Bontom.cfg:587
-#: A_New_Order/scenarios/14b_Bontom.cfg:637
+#: A_New_Order/scenarios/14b_Bontom.cfg:588
+#: A_New_Order/scenarios/14b_Bontom.cfg:638
 msgid "I think it was one of the Akladian lords... yes... his name was Cryne, Bor Cryne..."
 msgstr ""
 
 #. [event]
 #. probably unreachable, but just here to ensure all our bases our covered:
-#: A_New_Order/scenarios/14b_Bontom.cfg:592
+#: A_New_Order/scenarios/14b_Bontom.cfg:593
 msgid "I didn't quite catch that, but, oh well..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:626
+#: A_New_Order/scenarios/14b_Bontom.cfg:627
 msgid "They are allied with the Akladians."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:634
+#: A_New_Order/scenarios/14b_Bontom.cfg:635
 msgid "I don't know that. A lot of Akladians buy poison from us."
 msgstr ""
 
 #. [event]
 #. probably unreachable, but just here to ensure all our bases our covered:
-#: A_New_Order/scenarios/14b_Bontom.cfg:642
+#: A_New_Order/scenarios/14b_Bontom.cfg:643
 msgid "Uh... what was that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:650
+#: A_New_Order/scenarios/14b_Bontom.cfg:651
 msgid "It's you! Witch!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:651
+#: A_New_Order/scenarios/14b_Bontom.cfg:652
 msgid "Really? Are you sure it's really me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:652
+#: A_New_Order/scenarios/14b_Bontom.cfg:653
 msgid "Uhm... what?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:653
+#: A_New_Order/scenarios/14b_Bontom.cfg:654
 msgid "I mean, you are dying. Your whole life probably is passing before your eyes. Maybe you are hallucinating? There is only one way to find out."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:654
+#: A_New_Order/scenarios/14b_Bontom.cfg:655
 msgid "What... What way?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:655
+#: A_New_Order/scenarios/14b_Bontom.cfg:656
 msgid "If I am just a  hallucination, this won't hurt."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:656
+#: A_New_Order/scenarios/14b_Bontom.cfg:657
 msgid "No! Mother, I won't let you! Leave him to die peacefully!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:658
+#: A_New_Order/scenarios/14b_Bontom.cfg:659
 msgid "Because it is a bad thing to torture people."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:660
+#: A_New_Order/scenarios/14b_Bontom.cfg:661
 msgid "Because... uh..."
 msgstr ""
 
 #. [event]
 #. "teach an old dog new tricks" is a common idiom in English; feel free to word your translation with a similar
 #. idiom from your own language, as long as it allows Lorin to react to the "old" part in her response:
-#: A_New_Order/scenarios/14b_Bontom.cfg:663
+#: A_New_Order/scenarios/14b_Bontom.cfg:664
 msgid "Gawen, she is Akladian. You can't teach an old dog new tricks."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:664
+#: A_New_Order/scenarios/14b_Bontom.cfg:665
 msgid "Who are you calling OLD?!"
 msgstr ""
 
@@ -13999,154 +14000,155 @@ msgstr ""
 #. Rouke wants to know Gawen's name so that he can pass it along to the spirits of his ancestors, thus,
 #. if your language's verb for "to tell" requires a direct object, use "the name of the one who defeated me"
 #. for that ("the spirits of my ancestors" is the indirect object in this case, not the direct one):
-#: A_New_Order/scenarios/14b_Bontom.cfg:672
+#: A_New_Order/scenarios/14b_Bontom.cfg:673
 msgid "You were a good opponent. What is your name? Please tell me, so I can tell the spirits of my ancestors who defeated me!"
 msgstr ""
 
 #. [event]
 #. Gawen was about to give him his fake "Gaumhaldric" name before changing his mind and deciding to use his real one:
-#: A_New_Order/scenarios/14b_Bontom.cfg:674
+#: A_New_Order/scenarios/14b_Bontom.cfg:675
 msgid "Gau... Gawen. Gawen Hagarthen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:675
+#: A_New_Order/scenarios/14b_Bontom.cfg:676
 msgid "My king! Now I know why I was defeated. This is my punishment for betrayal. I should never have listened to the orders of our clan leaders. My king, will you forgive me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:676
+#: A_New_Order/scenarios/14b_Bontom.cfg:677
 msgid "Lie in peace, soldier."
 msgstr ""
 
 #. [event]
 #. this is the "Litany Against Fear" from the "Dune" franchise -- translators, please find how this quote was translated into your language before trying translating it by yourself.
-#: A_New_Order/scenarios/14b_Bontom.cfg:683
+#: A_New_Order/scenarios/14b_Bontom.cfg:684
 msgid "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain."
 msgstr ""
 
 #. [event]
 #. this is a play on what the orc just said; try to use similar wording when translating:
-#: A_New_Order/scenarios/14b_Bontom.cfg:685
+#: A_New_Order/scenarios/14b_Bontom.cfg:686
 msgid "Oh that was cute. Now, if you are quite finished, I have here this little knife-thing. This knife is what brings total obliteration, not to mention suffering."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:686
+#: A_New_Order/scenarios/14b_Bontom.cfg:687
 msgid "I must not... ARGH!... I must not..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:687
+#: A_New_Order/scenarios/14b_Bontom.cfg:688
 msgid "Why are you here, allied with traitors from the Akladian race?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:688
+#: A_New_Order/scenarios/14b_Bontom.cfg:689
 msgid "I know nothing! I know nothing! Our guide Grekulak ordered us to ally with Akladians, I know nothing more!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:691
+#: A_New_Order/scenarios/14b_Bontom.cfg:692
 msgid "Mother, you may let him go now."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:692
+#: A_New_Order/scenarios/14b_Bontom.cfg:693
 msgid "Argh!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:698
+#: A_New_Order/scenarios/14b_Bontom.cfg:699
 msgid "Excuse me, my son, this orc screamed so loud in agony that I couldn't hear what you were saying. What was that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:699
+#: A_New_Order/scenarios/14b_Bontom.cfg:700
 msgid "Never mind. My step-mother is obsessed with death and pain. Sigh."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:700
+#: A_New_Order/scenarios/14b_Bontom.cfg:701
 msgid "And she looks beautiful in armour, too."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:744
+#: A_New_Order/scenarios/14b_Bontom.cfg:745
 msgid "Ha! The outlaws were hiding some gold here!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:745
+#: A_New_Order/scenarios/14b_Bontom.cfg:746
 msgid "You have received $outlaw_gold_amt gold pieces."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:761
+#: A_New_Order/scenarios/14b_Bontom.cfg:762
 msgid "Ha! The Akladians were hiding some gold here!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:762
+#: A_New_Order/scenarios/14b_Bontom.cfg:763
 msgid "You have received $akl_gold_amt gold pieces."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:767
+#: A_New_Order/scenarios/14b_Bontom.cfg:768
 msgid "I guess this was gold prepared to pay for Reme Carrenemoe."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/14b_Bontom.cfg:931
+#: A_New_Order/scenarios/14b_Bontom.cfg:932
 msgid "I am saved!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/14b_Bontom.cfg:935
+#: A_New_Order/scenarios/14b_Bontom.cfg:936
 msgid "It's a hollow victory, defeating Reme's captors without him among our ranks..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:945
+#: A_New_Order/scenarios/14b_Bontom.cfg:946
 msgid "The outlaws are defeated!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:947
+#: A_New_Order/scenarios/14b_Bontom.cfg:948
 msgid "We saved Reme, but do not have him here with us for our victory? What happened?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:974
+#: A_New_Order/scenarios/14b_Bontom.cfg:975
 msgid "Akladian? Go away. Since the death of my old man I do not talk to Akladians."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:979
-#: A_New_Order/scenarios/14b_Bontom.cfg:1014
+#: A_New_Order/scenarios/14b_Bontom.cfg:980
+#: A_New_Order/scenarios/14b_Bontom.cfg:1015
 msgid "What do you want? I have already taught one of your people how to cure. That should be enough."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:981
+#: A_New_Order/scenarios/14b_Bontom.cfg:982
 msgid "What do you want? I have already told you I speak to no Akladians since my husband, poor old soul, have died."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:1016
+#: A_New_Order/scenarios/14b_Bontom.cfg:1017
 msgid "Ooo, who's there? The avengers from Freetown on a mission, huh?"
 msgstr ""
 
 #. [event]
-#. "we" refers to a group that contains both male and female members:
-#: A_New_Order/scenarios/14b_Bontom.cfg:1019
-#: A_New_Order/scenarios/14b_Bontom.cfg:1022
+#. "we" refers to a group that contains both male and female members;
+#. it shouldn't really matter which of those the speaker is:
+#: A_New_Order/scenarios/14b_Bontom.cfg:1021
 #: A_New_Order/scenarios/14b_Bontom.cfg:1024
+#: A_New_Order/scenarios/14b_Bontom.cfg:1026
 msgid "Yes, old woman, we are from Freetown. You can go back to your village, you are safe now."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14b_Bontom.cfg:1026
+#: A_New_Order/scenarios/14b_Bontom.cfg:1028
 msgid "Ha, ha, ha. Indeed I am, since it seems to me you are taking care of orcs and Akladians. You know what, young fellow: in exchange for what you did for this poor village, I will teach you few tricks about herbs."
 msgstr ""
 
@@ -15889,6 +15891,7 @@ msgid "Enough. I need to be... the king desires to be alone for a moment."
 msgstr ""
 
 #. [event]
+#. FIXME: I made Fencers recruitable again earlier than this (in S19c, "The Oracle"); need to fix the dialogue...
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:125
 msgid "Because you were declared the messiah by the Oracle and recognised as king by the Wesnothians, you may again recruit Fencers, Spearmen, Bowmen, Akladian Clansmen, Akladian Warriors, Akladian Homeguards, and Akladian Wisemen."
 msgstr ""
