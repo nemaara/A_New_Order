@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-17 21:50 UTC\n"
+"POT-Creation-Date: 2024-11-17 22:44 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4529,7 +4529,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:521
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:187
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:188
 msgid "I don't understand."
 msgstr ""
 
@@ -10251,7 +10251,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:782
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:159
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:160
 msgid "What do you mean by that?"
 msgstr ""
 
@@ -14156,7 +14156,7 @@ msgid "Back in Freetown"
 msgstr ""
 
 #. [part]
-#. spoken by Gawen
+#. spoken by Gawen:
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:16
 msgid "The winter was just ending when we returned to Freetown. Soldiers were singing mirthful songs, waiting impatiently for the chance to see the faces of their wives and children again."
 msgstr ""
@@ -14193,137 +14193,138 @@ msgid "Yes, indeed. The news brought here by Ruvio and this brave young man is q
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:150
-msgid "But why? All they brought back is a name: Grekulak.  What's so important about that?"
-msgstr ""
-
-#. [event]
+#. Huon Ryedric responds to Mithrandil; "they" = your party:
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:151
-msgid "I think everyone here knows the legends about Wesnoth's past. When our kingdom was powerful and rich. You may also recall the old story about the invasion by evil forces from the east, led by the evil lich, Mal-Ravanal."
+msgid "But why? All they brought back is a name: Grekulak. What's so important about that?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:152
-msgid "What? Of course not, that would be a legend from WESNOTHIAN culture.  Is this yet another fairy tale?"
+msgid "I think everyone here knows the legends about Wesnoth's past. When our kingdom was powerful and rich. You may also recall the old story about the invasion by evil forces from the east, led by the evil lich, Mal-Ravanal."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:153
-msgid "During this invasion, large parts of Wesnoth were turned into barren wasteland. The swamps of Saorduc were vast, fertile lands a mere three hundred years ago. But this was before a civil war that left Wesnoth divided."
+msgid "What? Of course not, that would be a legend from WESNOTHIAN culture.  Is this yet another fairy tale?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:154
-msgid "Yes, we know this story. That's why the Akladians were able to conquer us... we were splintered. They could never have been succesful had we been united."
+msgid "During this invasion, large parts of Wesnoth were turned into barren wasteland. The swamps of Saorduc were vast, fertile lands a mere three hundred years ago. But this was before a civil war that left Wesnoth divided."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:155
-msgid "We won because this land was given to us by God. That's why he divided you and made you forget how to handle swords, why you became weak. When we came, mercenaries were doing all the fighting for you."
+msgid "Yes, we know this story. That's why the Akladians were able to conquer us... we were splintered. They could never have been succesful had we been united."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:156
-msgid "So, as I was saying before you were so kind as to interrupt me, some time ago a new leader appeared amongst the orcs. His name was Grekulak. He united orcish tribes, one by one, using treachery and gold.  Right now he rules more than a third of the orcish hordes."
+msgid "We won because this land was given to us by God. That's why he divided you and made you forget how to handle swords, why you became weak. When we came, mercenaries were doing all the fighting for you."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:157
-msgid "Wait, wait. You were talking about Mal-Ravanal. What does he have to do with Grekulak?"
+msgid "So, as I was saying before you were so kind as to interrupt me, some time ago a new leader appeared amongst the orcs. His name was Grekulak. He united orcish tribes, one by one, using treachery and gold.  Right now he rules more than a third of the orcish hordes."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:158
+msgid "Wait, wait. You were talking about Mal-Ravanal. What does he have to do with Grekulak?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:159
 msgid "We believe that Grekulak is one of the last surviving adepts of Mal-Ravanal. We suspected that he was behind the sudden alliance of orcs and Akladians. Now we are certain. We are also sure that this orcish invasion is just the beginning."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:160
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:161
 msgid "I mean you will face a full-scale invasion soon. An undead army, orcs, and who-knows-what else. You will need help from the mages."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:161
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:162
 msgid "Great. Akladians, orcs, zombies... and we need the help of the mages. I imagine that, being a wise elf and all, you know of course that no mages exist anymore. Maybe a few on the Isle of Alduin, or in besieged Elensefar, but not enough to help us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:162
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:163
 msgid "Actually, I'm pretty sure that Mithrandil is thinking about ONE specific mage. Am I correct?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:163
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:164
 msgid "Yes. Deorien. A white mage, living somewhere in eastern Wesnoth. You should go and find him. I will give you my soldiers and even gold, if you want. This should be all I need to tell you for now."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:164
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:165
 msgid "Then this meeting is adjourned. Take the evening to ponder this counsel, and we will re-convene and discuss everything on the morrow."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:176
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:177
 msgid "Great. The green devils advise us to seek the help of those who are a blight on the face of God's world. The MAGES."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:177
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:178
 msgid "You often speak about something you call God, Lorin. Can you tell us more about your God?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:178
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:179
 msgid "He is the force behind the universe. He created the world and is our father. He gave us the world to rule. One of his angels tried to stop us from doing that, deceiving us and trying to imprison us in his garden, but a messiah came from the Hagarthen clan. He told us that God desired us to wait no more..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:179
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:180
 msgid "So we killed that evil angel and his minions to journey west. We fought our way through the deserts and the swamps, fighting with nightmarish creatures, not to mention lizards and green elves. I was raised hearing songs about this epic journey."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:180
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:181
 msgid "Finally, we reached Wesnoth, our people decimated but hardened because it was the wish of God that our weak should perish before we began our holy task. When we came from the east the underling armies were like dust before a wind. We conquered Wesnoth. Well, almost."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:181
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:182
 msgid "As for mages, they are the main adversaries of God in his fight for the good of the universe, attempting to usurp his powers for themselves. Elves are minions of the fallen angels. They are to be exterminated."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:182
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:183
 msgid "Oh my goodness. Wow. You are not joking, you actually believe all that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:183
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:184
 msgid "Anyway, if we are going to find that mage-trash, we need to know where he is. Any ideas where to find him?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:184
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:185
 msgid "Well, we could ask the Oracle. Due to the prophetic nature of her abilities, she may know where to search for Deorien."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:185
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:186
 msgid "The Oracle? The Oracle is a hoax. She knows nothing. She once told me... she... she deceived me. Her prophecy has not been, and cannot be, fullfilled."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:186
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:187
 msgid "The Oracle never deceives anyone. She just looks into the sea of magic and sees everything that may happen. So, she is not saying what MUST, but what MAY happen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:188
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:189
 msgid "It means, if she tells you that you will be the best swimmer in the world, you will be a great swimmer if you put forth the effort. But the prophecy won't be fullfilled if you never get into the water, sit around, and wait. Also, sometimes people misinterpret her words."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:189
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:190
 msgid "No. No. That's not true. That's... leave me alone."
 msgstr ""
 
@@ -14339,193 +14340,202 @@ msgid "If you liked the campaign, please post your feedback on the wesnoth forum
 msgstr ""
 
 #. [label]
-#: A_New_Order/scenarios/30_Final.cfg:78
+#. We are considering adding achievements for some of these,
+#. but they might not necessarily correspond 1-to-1, so let's
+#. keep the term used here different for now. See further discussion in:
+#. https://github.com/nemaara/A_New_Order/issues/100
+#: A_New_Order/scenarios/30_Final.cfg:82
 msgid "Quests and puzzles solved"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:81
+#: A_New_Order/scenarios/30_Final.cfg:85
 msgid "You interrogated the assassin sent to kill Gawen Hagarthen, and found out that it was an Akladian lord who hired him."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:84
+#: A_New_Order/scenarios/30_Final.cfg:88
 msgid "Moreover, you discovered that it was Bor Cryne who hired the assassin to kill Gawen Hagarthen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:87
+#: A_New_Order/scenarios/30_Final.cfg:91
 msgid "But you didn't discover which Akladian lord was responsible."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:90
+#: A_New_Order/scenarios/30_Final.cfg:94
 msgid "You did not find out who hired the assassin to kill Gawen Hagarthen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:94
+#: A_New_Order/scenarios/30_Final.cfg:98
 msgid "You found out that Lorin's clan bought poison from Outlaws."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:96
+#: A_New_Order/scenarios/30_Final.cfg:100
 msgid "You found out that Lorin's clan bought poison from Outlaws, but you don't know why."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:100
+#: A_New_Order/scenarios/30_Final.cfg:104
 msgid "You didn't find out where the poison that killed Gawen's mother came from."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:103
+#: A_New_Order/scenarios/30_Final.cfg:107
 msgid "You know who poisoned Gawen's mother."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:106
+#: A_New_Order/scenarios/30_Final.cfg:110
 msgid "You didn't find out who poisoned Gawen's mother."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:109
+#: A_New_Order/scenarios/30_Final.cfg:113
 msgid "You saved Reme Carrenemoe."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:112
+#: A_New_Order/scenarios/30_Final.cfg:116
 msgid "You failed to save Reme Carrenemoe."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:115
+#: A_New_Order/scenarios/30_Final.cfg:119
 msgid "You discovered that Bor Cryne was the one who brought Orcs to Vakladia, planning to purify the Akladian race of anyone he considered 'unworthy'."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:118
+#: A_New_Order/scenarios/30_Final.cfg:122
 msgid "You don't know who brought the Orcs to Vakladia."
 msgstr ""
 
 #. [event]
 #. EASY difficulty; points are quartered:
-#: A_New_Order/scenarios/30_Final.cfg:128
+#: A_New_Order/scenarios/30_Final.cfg:132
 msgid "Level three units (easy level): $ano_level_count units, $level_point points"
 msgstr ""
 
 #. [event]
 #. NORMAL difficulty; points are halved:
-#: A_New_Order/scenarios/30_Final.cfg:134
+#: A_New_Order/scenarios/30_Final.cfg:138
 msgid "Level three units (normal level): $ano_level_count units, $level_point points"
 msgstr ""
 
 #. [event]
 #. HARD or NIGHTMARE difficulty; points are whole:
-#: A_New_Order/scenarios/30_Final.cfg:138
+#: A_New_Order/scenarios/30_Final.cfg:142
 msgid "Level three units (hard level): $ano_level_count units, $level_point points"
 msgstr ""
 
 #. [event]
 #. EASY difficulty:
-#: A_New_Order/scenarios/30_Final.cfg:154
+#: A_New_Order/scenarios/30_Final.cfg:158
 msgid "Gold: (easy level): $ano_gawen_gold golden pieces, $level_point points"
 msgstr ""
 
 #. [event]
 #. NORMAL difficulty:
-#: A_New_Order/scenarios/30_Final.cfg:161
+#: A_New_Order/scenarios/30_Final.cfg:165
 msgid "Gold: (normal level): $ano_gawen_gold golden pieces, $level_point points"
 msgstr ""
 
 #. [event]
 #. HARD difficulty:
-#: A_New_Order/scenarios/30_Final.cfg:168
+#: A_New_Order/scenarios/30_Final.cfg:172
 msgid "Gold: (hard level): $ano_gawen_gold golden pieces, $level_point points"
 msgstr ""
 
 #. [event]
 #. NIGHTMARE difficulty:
-#: A_New_Order/scenarios/30_Final.cfg:174
+#: A_New_Order/scenarios/30_Final.cfg:178
 msgid "Gold: (nightmare level): $ano_gawen_gold golden pieces, $level_point points"
 msgstr ""
 
 #. [event]
 #. ends in a colon because it leads into the following messages:
-#: A_New_Order/scenarios/30_Final.cfg:180
+#: A_New_Order/scenarios/30_Final.cfg:184
 msgid "Extra Credit (5 points possible; 6 if you are playing on the 'hard' level, and 7 if you are playing on the 'nightmare' level):"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:187
+#. title for scenario 14a:
+#: A_New_Order/scenarios/30_Final.cfg:192
 msgid "You earned an additional point for forcing Hoyre to run in the 'Scouting near Barnon' scenario."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:191
+#. titles for scenarios 17 and 18:
+#: A_New_Order/scenarios/30_Final.cfg:197
 msgid "You earned an additional point for learning gossip about the messiah in the `Sneaking out of Raedwood` and `Start of the Quest` scenarios."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:195
+#: A_New_Order/scenarios/30_Final.cfg:201
 msgid "You earned an additional point for hiring Rob Roe."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:199
+#. title for scenario 10:
+#: A_New_Order/scenarios/30_Final.cfg:206
 msgid "You earned an additional point for heroic victory in `Siege of Haeltin` scenario."
 msgstr ""
 
 #. [event]
 #. HARD difficulty:
-#: A_New_Order/scenarios/30_Final.cfg:203
+#: A_New_Order/scenarios/30_Final.cfg:210
 msgid "And one more point for doing it on the `hard` level."
 msgstr ""
 
 #. [event]
 #. NIGHTMARE difficulty:
-#: A_New_Order/scenarios/30_Final.cfg:208
+#: A_New_Order/scenarios/30_Final.cfg:215
 msgid "And two more points for doing it on the `nightmare` level."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:214
+#: A_New_Order/scenarios/30_Final.cfg:221
 msgid "You earned an additional point for sparing Raban Harnen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:217
+#: A_New_Order/scenarios/30_Final.cfg:224
 msgid "You earned an additional point for letting Raban Harnen leave."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:221
+#: A_New_Order/scenarios/30_Final.cfg:228
 msgid "Total points: $points "
 msgstr ""
 
 #. [event]
 #. trailing space here due to string splicing:
-#: A_New_Order/scenarios/30_Final.cfg:223
+#: A_New_Order/scenarios/30_Final.cfg:230
 msgid "Please read the readme.txt file that comes with the campaign. "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:224
+#: A_New_Order/scenarios/30_Final.cfg:231
 msgid "On GNU/Linux this file is located usually in:"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:226
+#: A_New_Order/scenarios/30_Final.cfg:233
 msgid "...while on macOS it ought to be in:"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/30_Final.cfg:228
+#: A_New_Order/scenarios/30_Final.cfg:235
 msgid "...while on Windows you can find it in directory:"
 msgstr ""
 
 #. [endlevel]
-#: A_New_Order/scenarios/30_Final.cfg:242
+#. WIP: getting this to display properly; see:
+#. https://github.com/wesnoth/wesnoth/issues/6041
+#: A_New_Order/scenarios/30_Final.cfg:250
 msgid "<span font='DejaVu Sans 24' color='white'>The End! Please join us on the Wesnoth forums. Also read the readme.txt file contained within the campaign directory, as described previously.</span>"
 msgstr ""
 

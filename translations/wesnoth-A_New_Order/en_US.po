@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-11-17 20:03 UTC\n"
-"PO-Revision-Date: 2024-11-17 16:08-0500\n"
+"PO-Revision-Date: 2024-11-17 17:29-0500\n"
 "Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -5054,6 +5054,8 @@ msgid ""
 "The greatest news is that you have defeated the ghosts which plagued the "
 "neighbourhood."
 msgstr ""
+"The greatest news is that you have defeated the ghosts which plagued the "
+"neighborhood."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:392
@@ -5442,6 +5444,10 @@ msgid ""
 "sent here to stop the undead menace and to cleanse the evil festering within "
 "the very heart of our country."
 msgstr ""
+"Ye have heard the stories about undead invading the neighboring kingdom of "
+"Okladia. Some lost all hope. But be ye not afraid, for there is a man who is "
+"sent here to stop the undead menace and to cleanse the evil festering within "
+"the very heart of our country."
 
 #. [part]
 #. Oracle still speaking:
@@ -9985,6 +9991,9 @@ msgid ""
 "Skagrrak, had kidnapped a young girl and was trying to force her to marry "
 "him. The decision to save the poor girl came naturally for Gawen."
 msgstr ""
+"The peasants told Gawen that the lord of the neighboring territory, Bark O "
+"Skagrrak, had kidnapped a young girl and was trying to force her to marry "
+"him. The decision to save the poor girl came naturally for Gawen."
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:325
@@ -12364,6 +12373,10 @@ msgid ""
 "she moved, breathed and gasped. Maybe if I had been sober, I would have "
 "recognised her even with the mask. But I wasn't, and I didn't care."
 msgstr ""
+"Who was she? She wore a dancer's mask, but somehow I knew she wasn't one of "
+"dancers from a few hours earlier. There was something familiar in the way "
+"she moved, breathed, and gasped. Maybe if I had been sober, I would have "
+"recognized her even with the mask. But I wasn't, and I didn't care."
 
 #. [part]
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:78
@@ -12373,6 +12386,10 @@ msgid ""
 "Whoever she was, I was certain I would recognise her, if I could only touch "
 "her again."
 msgstr ""
+"She left as quietly as she came, as if she were just a dream. But I still "
+"could smell her in the air, and my hands still remembered her as well. "
+"Whoever she was, I was certain I would recognize her, if I could only touch "
+"her again."
 
 #. [part]
 #. EASY difficulty:
@@ -15494,6 +15511,9 @@ msgid ""
 "would I have to do to those other cousins, if they didn't recognise me as "
 "king?"
 msgstr ""
+"No, really, I don't want to! Besides, if there are other heirs, why me? What "
+"would I have to do to those other cousins, if they didn't recognize me as "
+"king?"
 
 #. [event]
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:195
@@ -18946,6 +18966,10 @@ msgid ""
 "Akladian Clansmen, Akladian Warriors, Akladian Homeguards, and Akladian "
 "Wisemen."
 msgstr ""
+"Because you were declared the messiah by the Oracle and recognized as king "
+"by the Wesnothians, you may again recruit Fencers, Spearmen, Bowmen, "
+"Akladian Clansmen, Akladian Warriors, Akladian Homeguards, and Akladian "
+"Wisemen."
 
 #. [event]
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:128
@@ -20279,6 +20303,11 @@ msgid ""
 "as their legitimate ruler. As Gaumhaldric you were able to make a name of "
 "your own. And I, and all surviving mages, will serve you as well."
 msgstr ""
+"The Oracle will declare you to be the messiah, and Akladians from all the "
+"kingdoms, including even the other Akladian kings, will acknowledge you.  "
+"You are also of the Wesnothian royal line, so Wesnothians will recognize you "
+"as their legitimate ruler. As Gaumhaldric you were able to make a name of "
+"your own. And I, and all surviving mages, will serve you as well."
 
 #. [event]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:148
@@ -20447,6 +20476,10 @@ msgid ""
 "not delighted with all of your laws about Wesnothian emancipation, but we "
 "respect the will of God's voice and messiah."
 msgstr ""
+"Yes. Both Luc and Gauri will recognize you as supreme king of all Akladian "
+"kingdoms. The Oracle couldn't be wrong in declaring you as messiah. We are "
+"not delighted with all of your laws about Wesnothian emancipation, but we "
+"respect the will of God's voice and messiah."
 
 #. [event]
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:167
@@ -21177,6 +21210,11 @@ msgid ""
 "not used to those kinds of glances. I can easily recognise fear, hatred, "
 "loathing, and disdain. But this..."
 msgstr ""
+"First of all, you forgot to say 'one more reference to underling and I'm "
+"leaving'. Look, Yahyazad, I am many things, but I am not blind. I've noticed "
+"the way you look at me. At first, I couldn't figure out what it meant; I am "
+"not used to those kinds of glances. I can easily recognize fear, hatred, "
+"loathing, and disdain. But this..."
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:844
