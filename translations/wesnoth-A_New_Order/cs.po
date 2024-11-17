@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-08-26 00:31 UTC\n"
-"PO-Revision-Date: 2023-10-25 11:07+0200\n"
+"PO-Revision-Date: 2024-11-17 21:01+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -11225,7 +11225,7 @@ msgid ""
 "So I am still 'my lady' to you? This gold is probably the spoils from the "
 "burned homes of your friends. Doesn't that disturb you?"
 msgstr ""
-"Tak já jsem pro tebe pořád „má paní“? To zlato asi šlohli z vypalených domů "
+"Tak já jsem pro tebe pořád „má paní“? To zlato asi šlohli z vypálených domů "
 "našich přátel. Neznepokojuje tě to?"
 
 #. [event]
@@ -14023,8 +14023,8 @@ msgid ""
 "Nonono, you have not understood me. I WANT you to tell me few things about "
 "the plans of your king. Now, we will start with the basics."
 msgstr ""
-"Nenene, tys mě špatně rozuměl. Já CHCI abys mi řekl pár věcí o plánech svého "
-"krále. Teď začneme s něčím jednodušším."
+"Nenene, tys mně špatně rozuměl. Já CHCI, abys mi řekl pár věcí o plánech "
+"svého krále. Teď začneme s něčím jednodušším."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:771
