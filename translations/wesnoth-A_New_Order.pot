@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-17 23:53 UTC\n"
+"POT-Creation-Date: 2024-11-18 03:05 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1204,32 +1204,20 @@ msgstr ""
 msgid "Stingy bastard."
 msgstr ""
 
-#. in EGETUNIT_ATTR macro
-#. debug message that probably won't be seen; ok to skip translating:
-#: A_New_Order/macros/ano_macros.cfg:508
-msgid "getunit $x1 : $y1 : $ano_tmp.description"
-msgstr ""
-
-#. in EGETUNIT_ATTR macro
-#. internal-ish message for development that probably won't be seen; ok to skip translating:
-#: A_New_Order/macros/ano_macros.cfg:514
-msgid "getunit $x1 : $y1 : $ano_tmp.id"
-msgstr ""
-
-#: A_New_Order/macros/ano_macros.cfg:949
+#: A_New_Order/macros/ano_macros.cfg:922
 msgid "This is a debug message, with zero additional text. If you see it, then it means I forgot to delete it from the release scenario."
 msgstr ""
 
 #. trailing space is intentional here, since further text is supposed to be spliced on at the end:
-#: A_New_Order/macros/ano_macros.cfg:959
+#: A_New_Order/macros/ano_macros.cfg:932
 msgid "This is a debug message, with 1 additional bit of text. If you see it, then it means I forgot to delete it from the release scenario. "
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:1120
+#: A_New_Order/macros/ano_macros.cfg:1093
 msgid "The unit $ano_loyal[0].name became LOYAL."
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:1128
+#: A_New_Order/macros/ano_macros.cfg:1101
 msgid "Scenario notes:"
 msgstr ""
 

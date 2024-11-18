@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-17 23:53 UTC\n"
-"PO-Revision-Date: 2024-11-17 18:58-0500\n"
+"POT-Creation-Date: 2024-11-18 03:05 UTC\n"
+"PO-Revision-Date: 2024-11-17 22:08-0500\n"
 "Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1665,22 +1665,7 @@ msgstr "おい、私の金、返してくれ！"
 msgid "Stingy bastard."
 msgstr "ケチな男ね。"
 
-# #ja: ano_macros.cfg>>
-# #po: getunit ??  (same as "get a unit" ??)
-#. in EGETUNIT_ATTR macro
-#. debug message that probably won't be seen; ok to skip translating:
-#: A_New_Order/macros/ano_macros.cfg:508
-msgid "getunit $x1 : $y1 : $ano_tmp.description"
-msgstr "ユニットを手に入れました。　$x1 : $y1 : $ano_tmp.description"
-
-# #po: getunit ??
-#. in EGETUNIT_ATTR macro
-#. internal-ish message for development that probably won't be seen; ok to skip translating:
-#: A_New_Order/macros/ano_macros.cfg:514
-msgid "getunit $x1 : $y1 : $ano_tmp.id"
-msgstr "ユニットを手に入れました。　$x1 : $y1 : $ano_tmp.id"
-
-#: A_New_Order/macros/ano_macros.cfg:949
+#: A_New_Order/macros/ano_macros.cfg:922
 #, fuzzy
 #| msgid ""
 #| "This is a debug message. If you see it, then it means I forgot to delete "
@@ -1694,7 +1679,7 @@ msgstr ""
 
 # #po: same as [poedit id 199]
 #. trailing space is intentional here, since further text is supposed to be spliced on at the end:
-#: A_New_Order/macros/ano_macros.cfg:959
+#: A_New_Order/macros/ano_macros.cfg:932
 #, fuzzy
 #| msgid ""
 #| "This is a debug message. If you see it, then it means I forgot to delete "
@@ -1706,11 +1691,11 @@ msgstr ""
 "これはデバッグメッセージです。もしこれが表示されているなら、リリースシナリオ"
 "から削除し忘れたということですね。"
 
-#: A_New_Order/macros/ano_macros.cfg:1120
+#: A_New_Order/macros/ano_macros.cfg:1093
 msgid "The unit $ano_loyal[0].name became LOYAL."
 msgstr "このユニット $ano_loyal[0].name に、忠義属性が追加されました。"
 
-#: A_New_Order/macros/ano_macros.cfg:1128
+#: A_New_Order/macros/ano_macros.cfg:1101
 msgid "Scenario notes:"
 msgstr "シナリオメモ："
 
@@ -26252,6 +26237,15 @@ msgstr "Bronisław Komorowski"
 msgid ""
 "The living proof that you may not know how to spell and still be president"
 msgstr "スペルを知らなくても大統領になれるという生きた証拠"
+
+# #ja: ano_macros.cfg>>
+# #po: getunit ??  (same as "get a unit" ??)
+#~ msgid "getunit $x1 : $y1 : $ano_tmp.description"
+#~ msgstr "ユニットを手に入れました。　$x1 : $y1 : $ano_tmp.description"
+
+# #po: getunit ??
+#~ msgid "getunit $x1 : $y1 : $ano_tmp.id"
+#~ msgstr "ユニットを手に入れました。　$x1 : $y1 : $ano_tmp.id"
 
 # #po: "you are" -> "are you" ?
 #~ msgid "Arise, my slave, arise! Why you are deaf to my calls?"
