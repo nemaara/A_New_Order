@@ -3569,6 +3569,10 @@ msgstr ""
 msgid "You see, young Karen--"
 msgstr ""
 
+#: A_New_Order/macros/conversations_support.cfg:190
+msgid "Could you stop it with the “young” please? Just “Karen” is fine."
+msgstr ""
+
 #: A_New_Order/macros/conversations_support.cfg:191
 msgid "All right, you see, just-Karen..."
 msgstr ""
