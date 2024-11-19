@@ -311,9 +311,10 @@ tephlon (swedish) and Geoffroy Douillie, damien, Guigou Guillaume (french),
 Jose Gordillo (Catalonian translation), Alexey Remizov aka alxrem, nikita: Russian
 translation, Joe Hansen (Danish), Simon Sobisch (German), brivido (Italian),
 Toranks (Spanish), capitol, Stephen Bergstorm aka tephlon (Swedish),
-Nilgun Belma Buguner (Turkish), kele17 (Hungarian), Oto 'tapik' Buchta, Michal
-Zejdl aka Celerini, and Petr Slejhar aka Septim: Czech translation. See
-the entries in about.cfg for correct name spellings and more details.
+Nilgun Belma Buguner (Turkish), kele17 (Hungarian), chee / k-konami (Japanese),
+Oto 'tapik' Buchta, Michal Zejdl aka Celerini, and Petr Slejhar aka Septim:
+Czech translation. See the entries in about.cfg for correct name spellings
+and more details.
 
 Music is by Erik Rijshouwer, Christian Hellerberg, Nick Humphrey, Mattias
 Westlund, Aleksi, Hiro Hito, Tyler Johnson. See ART_authors.txt for the details.
