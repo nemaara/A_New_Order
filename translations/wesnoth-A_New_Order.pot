@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-20 16:48 UTC\n"
+"POT-Creation-Date: 2024-11-20 16:59 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1688,7 +1688,7 @@ msgstr ""
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:541
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:299
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:423
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:257
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:258
 msgid "Death of Lady Lorin"
 msgstr ""
 
@@ -2011,9 +2011,9 @@ msgstr ""
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:683
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:346
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2265
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:371
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:469
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:618
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:372
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:470
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:619
 msgid "You have received $gold_amt gold pieces."
 msgstr ""
 
@@ -3266,7 +3266,7 @@ msgstr ""
 
 #. [side]: type=Akladian Chieftain, id=Reumario
 #: A_New_Order/macros/messages.cfg:35
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:181
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:182
 msgid "Reumario"
 msgstr ""
 
@@ -5233,7 +5233,7 @@ msgstr ""
 #. [scenario]: id=13_Scouting
 #. [message]: speaker=Lady Lorin
 #: A_New_Order/scenarios/13_Scouting.cfg:169
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:499
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:500
 msgid "What about this:"
 msgstr ""
 
@@ -7025,7 +7025,7 @@ msgstr ""
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
 #. [message]: speaker=Lady Lorin
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:27
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:285
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:286
 msgid "And now..."
 msgstr ""
 
@@ -8138,7 +8138,7 @@ msgstr ""
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:139
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:33
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:59
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:119
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:120
 msgid "Lady Lorin"
 msgstr ""
 
@@ -17385,7 +17385,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:419
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:253
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:254
 msgid "Death of Majid Yahyazad"
 msgstr ""
 
@@ -17730,490 +17730,491 @@ msgid "Of all the underlings living in Vakladia, these were they who had resiste
 msgstr ""
 
 #. [part]
-#. "asa'ir" = Dunefolk term, originally from Arabic; just transliterate instead of worry about what it means:
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:103
+#. "asa'ir" = Dunefolk term, originally from Arabic; just transliterate it as a loan word,
+#. instead of worrying about what it means:
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:104
 msgid "I found one of their asa'ir and talked to their leader, a man called Majid Yahyazad. I wanted swords and I had gold; they had swords and wanted gold, so we struck a deal quickly. I felt uneasy amongst them; their speech, dress, and customs screaming 'underling.' But I consoled myself with the thought that they were only hired swords."
 msgstr ""
 
 #. [unit]: id=Majid Yahyazad, type=Dune Swordsman
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:138
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:139
 msgid "Majid Yahyazad"
 msgstr ""
 
 #. [side]: type=Akladian Chieftain, id=Oyre Mathauri
 #. [scenario]: id=09_Hired_Swords
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:161
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:196
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:162
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:197
 msgid "Oyre Mathauri"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:223
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:224
 msgid "So, let's put it all together. You agree to pay 18 gold pieces per arif swordsman, 17 gold pieces for our naffat fire masters, and 14 for the jundi foot soldiers, right?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:224
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:225
 msgid "I thought we agreed not to use your barbarian language's names for things."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:225
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:226
 msgid "I object to your characterization of our language as such, but fine, if you will be paying us, I can manage. In your terms, our prices are 18 gold pieces per Dune Soldier, 17 gold pieces per Dune Burner, and 14 gold pieces per Dune Rover. Is that satisfactory?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:226
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:227
 msgid "Yes. And you will do everything I order you to do."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:227
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:228
 msgid "No, I've explained that already. We are not mindless zombies you can hire to do anything. We, unlike Akladians, have principles. We will fight for you, but will do so in a way that ensures we uphold our traditions."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:228
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:229
 msgid "I don't know why I bear your insolence, underling."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:229
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:230
 msgid "Continue calling me an 'underling,' and you shall have to bear it no more. And then who will fight for you? Even your own family didn't want to take you in."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:230
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:231
 msgid "They would have taken me in, but I would have had to live in shame, in the darkest and deepest dungeon of their castle, to never see the light of day again..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:231
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:232
 msgid "...or they would have simply killed you outright. Isn't that the way Akladians deal with those that bring dishonour upon their families? Funny thing, that Akladian honour..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:239
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:240
 msgid "Hmm... that's not the force we were expecting. Guards! To arms! We have to kill quickly them so they won't see the arrival of our guests!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:240
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:241
 msgid "Ok, so the plan is to take over the castle and then... we will see."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:241
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:242
 msgid "Are you sure you chose the right castle? Their leader was saying something about guests arriving soon."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:242
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:243
 msgid "Shut up, underling, of course it's the right castle. Now listen, I don't want anyone killing their leaders; leave that privilege to me. I want to interrogate them first!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:243
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:244
 msgid "I am a battle-tested warrior with many men at my command. Keep calling me 'underling,' and I am leaving, do you understand?"
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:247
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:248
 msgid "Kill all enemy leaders..."
 msgstr ""
 
 #. [objectives]
 #. continues sentence started by previous objective:
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:251
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:252
 msgid "...except for maybe Reumario?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:271
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:272
 msgid "Before you kill me, let me say just one thing: you are one damn good fighter, Lorin."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:278
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:279
 msgid "That's LADY Lorin to you... and you are going to tell me a lot more than just one thing. First, who are those guests you were talking about?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:279
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:280
 msgid "I have no idea. It has taken a long time to stockpile the amount of supplies we were told they would need. It must be quite a large army."
 msgstr ""
 
 #. [option]
 #. spoken by Lorin:
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:289
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:290
 msgid "You were fine warrior, Reumario. I want to honor you."
 msgstr ""
 
 #. [option]
 #. spoken by Lorin:
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:296
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:297
 msgid "Off with your left ear! And now tell me more about these guests!"
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:298
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:299
 msgid "I told you I know nothing about them! Aaargh!"
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:299
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:300
 msgid "Liar! Speak!"
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:304
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:305
 msgid "I do not think he will tell you anything more, my lady... he's dead. You did well to squeeze as much information as you did from him."
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:305
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:306
 msgid "Be silent, underling."
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:306
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:307
 msgid "One more reference to 'underling' and I am leaving, do you understand?"
 msgstr ""
 
 #. [option]
 #. spoken by Lorin:
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:311
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:312
 msgid "Where are those supplies? Speak, or I will cut you to pieces!"
 msgstr ""
 
 #. [then]
 #. spoken by Reumario, answering to Lorin
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:324
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:325
 msgid "Uh, I, I am not sure..."
 msgstr ""
 
 #. [message]: speaker=Lady Lorin
 #. spoken by Lorin to Reumario
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:328
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:329
 msgid "Well, what about this..."
 msgstr ""
 
 #. [option]
 #. spoken by Lorin to Reumario
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:332
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:333
 msgid "I would be honoured to have you in my army."
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:335
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:336
 msgid "After this battle you will be able to recruit Akladian Clansmen, Warriors and Wisemen again."
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:346
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:347
 msgid "Uh... yes, why not? I will join you. But let me wait until after this battle; I do not want to fight members of my own clan."
 msgstr ""
 
 #. [option]
 #. spoken by Lorin
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:351
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:352
 msgid "I shall let you live."
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:354
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:355
 msgid "Thank you, Lorin. Frankly, I had not expected such behavior from you. As a sign of my gratitude, I will instruct members of my clan to serve you."
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:355
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:356
 msgid "After this battle you will be able to recruit Akladian Clansmen again."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:367
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:368
 msgid "In this storeroom and..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:368
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:369
 msgid "Do you think I'm stupid? This would not be enough to house an army! You must have some hidden storeroom or treasury! Speak!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:369
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:370
 msgid "Aargh! Yes, we have a hidden treasury in my castle, here, I will show you."
 msgstr ""
 
 #. [message]: speaker=Majid Yahyazad
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:379
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:380
 msgid "Will you allow him to leave now?"
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:382
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:383
 msgid "Yes, he may live."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:388
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:389
 msgid "No, he is too dangerous."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:409
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:410
 msgid "What did I say about killing their leaders? Hm?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:410
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:411
 msgid "But..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:411
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:412
 msgid "What? Are you deaf or something? I specifically instructed that you were to leave their leaders for me!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:422
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:423
 msgid "Before I kill you, I want you to tell me few things. First, you were talking about some guests, tell me more!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:423
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:424
 msgid "You're afraid, aren't you? They will come here in great numbers... a huge orcish army... better start running, witch."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:430
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:431
 msgid "Orcs? Why should I be afraid? I have fought them before. Unlike you, they are strong and worthy opponents. I look forward to meeting them in combat again."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:433
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:434
 msgid "Orcs? I've never fought orcs, though I would love to meet them. I've heard they are good soldiers, strong and fearless."
 msgstr ""
 
 #. [message]: speaker=Lady Lorin
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:438
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:439
 msgid "And now, tell me more..."
 msgstr ""
 
 #. [option]
 #. spoken by Lorin
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:441
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:442
 msgid "You were worthy opponent, Oyre Mathauri. How can I honour you?"
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:443
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:444
 msgid "By hanging yourself from the nearest tree, witch!"
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:444
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:445
 msgid "Seems you have wasted your last wish. Now die!"
 msgstr ""
 
 #. [option]
 #. spoken by Lorin
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:449
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:450
 msgid "What are orcs doing here and why are you waiting for them?"
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:455
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:456
 msgid "Where have you hidden the gold?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:467
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:468
 msgid "Gold? What gold? I know nothing about... AAARGH! ... it's in a safe place, I will show you!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:475
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:476
 msgid "He isn't able to tell you anything more. I can't decide whether I should admire your ruthlessness or despise your cruelty."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:476
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:477
 msgid "His death was quick. You may admire my generosity."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:485
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:486
 msgid "Orcs? Bor Cryne told us to wait for them here. We will then march with them and kill every Akladian unworthy of the name! Those who violate our customs, who befriend underlings, and especially those who offend our God by marrying them! Only then God will again show us favor and reward us by ensuring we complete our conquest of Wesnoth."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:487
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:488
 msgid "Interesting theory. So, basically Bor Cryne wants to eliminate all of his opponents?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:493
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:494
 msgid "Hey, Reumario, what do you say to that? Akladians allying with orcs to kill other Akladians? Quite a dishonorable thing, don't you think?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:494
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:495
 msgid "I didn't know..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:495
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:496
 msgid "So now you know. What do you intend to do about it?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:496
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:497
 msgid "I don't know."
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:501
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:502
 msgid "I will kill you and rip off your traitorous head!"
 msgstr ""
 
 #. [option]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:504
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:505
 msgid "What about joining us against those orcs?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:516
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:517
 msgid "Will you join us to fight against the orcs? Or maybe you would prefer to ally yourself with these madmen who want to slaughter their own kin?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:517
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:518
 msgid "Yes... I will join you."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:519
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:520
 msgid "So, we won."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:520
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:521
 msgid "You sound disappointed... were you relishing the thought of more action?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:521
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:522
 msgid "I'm sure there will be plenty of action when the orcs arrive."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:553
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:554
 msgid "What part of the phrase 'do not kill their leaders, leave them for me' was so difficult to understand?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:554
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:555
 msgid "But it was self-defense!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:555
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:556
 msgid "Yeah, sure. Why do men always think I can't handle my enemies myself?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:559
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:560
 msgid "We have taken the castle... what a pleasant surprise! What now?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:560
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:561
 msgid "Surprise? What do you mean by that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:561
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:562
 msgid "I mean that I didn't think we would be able to take that castle, because..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:562
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:563
 msgid "Because what? You think that just because I am a weak woman I can't take a castle?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:563
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:564
 msgid "No, I just... look, the castle provides excellent tactical position against sieges... stop glaring at me. What are you going to do now?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:570
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:571
 msgid "Well, haven't you heard? An orcish army is coming here. We have to prepare the defenses immediately. And while we do so, we can ponder the next move to be made."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:573
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:574
 msgid "Well, I have my own castle, that's a start. Now I need more gold, so I guess we could 'ask' our neighbors for some. But we also need some time to rest and heal the wounded."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:582
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:583
 msgid "How strange... it seems that by killing so many of them, you have gained their respect."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:583
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:584
 msgid "What's so strange about that?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:584
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:585
 msgid "The locals are placing respect for arms above respect of kin.  Some of them are even willing to fight for you now."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:616
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:617
 msgid "We have searched the castle and we found a lot of supplies. I hope we will find a good use for them."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:647
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:648
 msgid "A woman! A woman killed me! Aaargh!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:648
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:649
 msgid "What? Haven't I practiced the art of the blade as much as he has?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:657
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:658
 msgid "I lost to a woman? Nooo..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:666
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:667
 msgid "You really can fight. I salute you as I die."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:667
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:668
 msgid "What's wrong with these Akladians? They hate you, you start killing them, and now they like you? Are Akladians gluttons for punishment or is skill at arms paramount with your ilk?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:676
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:677
 msgid "What a fighter! I would willingly fight for someone like her..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:677
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:678
 msgid "I am no necromancer; I have use only for living warriors, not the dead!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:678
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:679
 msgid "They seem to have come to respect you now. Strange."
 msgstr ""
 
