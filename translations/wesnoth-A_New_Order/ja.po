@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-18 03:44 UTC\n"
-"PO-Revision-Date: 2024-11-17 22:46-0500\n"
+"POT-Creation-Date: 2024-11-20 16:48 UTC\n"
+"PO-Revision-Date: 2024-11-20 11:54-0500\n"
 "Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -181,8 +181,8 @@ msgstr "剣"
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:78
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:625
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:640
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:562
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:570
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:564
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:572
 msgid "Ruvio"
 msgstr "Ruvio"
 
@@ -1314,10 +1314,10 @@ msgstr "これ以上話しても無駄のようです。新しい靴が手に入
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:199
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:422
 #: A_New_Order/scenarios/23_Trapped.cfg:31
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:606
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:607
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:151
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:159
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:174
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:175
 #: A_New_Order/scenarios/27_Orannon.cfg:1447
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:18
 msgid "Well..."
@@ -2340,7 +2340,7 @@ msgstr ""
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:401
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:431
 #: A_New_Order/scenarios/23_Trapped.cfg:921
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:483
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:484
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:196
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:221
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1604
@@ -2492,8 +2492,8 @@ msgstr "繰り返してほしいこと"
 #: A_New_Order/scenarios/13_Scouting.cfg:744
 #: A_New_Order/scenarios/13_Scouting.cfg:754
 #: A_New_Order/scenarios/13_Scouting.cfg:761
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:565
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:572
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:567
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:574
 msgid "I changed my mind"
 msgstr "また次の機会にしよう"
 
@@ -2727,7 +2727,7 @@ msgstr "おっ！ 奴ら、ここにゴールドを隠していたぞ！"
 #: A_New_Order/scenarios/23_Trapped.cfg:643
 #: A_New_Order/scenarios/23_Trapped.cfg:659
 #: A_New_Order/scenarios/23_Trapped.cfg:675
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:682
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:683
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:346
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2265
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:371
@@ -2863,10 +2863,10 @@ msgstr "私の実母を毒殺したのは誰だ？"
 #: A_New_Order/scenarios/14b_Bontom.cfg:567
 #: A_New_Order/scenarios/14b_Bontom.cfg:612
 #: A_New_Order/scenarios/14b_Bontom.cfg:619
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:227
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:318
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:379
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:488
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:229
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:320
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:381
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:490
 msgid "That's all I wanted to know."
 msgstr "知りたいことは以上だ。"
 
@@ -3135,9 +3135,9 @@ msgstr "なぜ.... 俺の義務なのか？"
 #. [scenario]: id=13_Scouting
 #: A_New_Order/macros/ano-20macros.cfg:354
 #: A_New_Order/scenarios/13_Scouting.cfg:181
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:233
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:384
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:493
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:235
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:386
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:495
 msgid "Because..."
 msgstr "なぜなら..."
 
@@ -4099,7 +4099,7 @@ msgstr "Ruvio の死"
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:393
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:423
 #: A_New_Order/scenarios/23_Trapped.cfg:913
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:475
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:476
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:185
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:100
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:176
@@ -4486,8 +4486,8 @@ msgstr "Karl Regven"
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:706
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:610
 #: A_New_Order/scenarios/28_Lorin.cfg:3
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:564
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:571
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:566
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:573
 msgid "Lorin"
 msgstr "Lorin"
 
@@ -4501,7 +4501,7 @@ msgstr "Lorin"
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:683
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:615
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:630
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:563
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:565
 msgid "Reme"
 msgstr "Reme"
 
@@ -4727,6 +4727,10 @@ msgstr "... 興味津々ですって？"
 
 #: A_New_Order/macros/conversations_support.cfg:189
 msgid "You see, young Karen--"
+msgstr ""
+
+#: A_New_Order/macros/conversations_support.cfg:190
+msgid "Could you stop it with the “young” please? Just “Karen” is fine."
 msgstr ""
 
 #: A_New_Order/macros/conversations_support.cfg:191
@@ -5059,7 +5063,7 @@ msgstr "Vakladia への戻り道"
 #: A_New_Order/scenarios/29_Epilogue.cfg:103
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:36
 #: A_New_Order/scenarios/28_Lorin.cfg:92
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:193
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:194
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:110
 #: A_New_Order/scenarios/03_Coronation.cfg:95
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:33
@@ -5078,7 +5082,7 @@ msgstr "Vakladia への戻り道"
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:78
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:31
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:45
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:300
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:302
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:62
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:63
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:127
@@ -5213,11 +5217,11 @@ msgstr "それでは、Weldyn の廃墟へ行きましょうか？"
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:489
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:151
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:175
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:199
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:250
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:392
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:416
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:503
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:200
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:252
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:394
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:418
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:505
 msgid "Yes, definitely."
 msgstr "そうしよう。"
 
@@ -5245,11 +5249,11 @@ msgstr "そうしよう。"
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:490
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:152
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:176
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:200
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:251
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:393
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:417
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:504
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:201
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:253
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:395
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:419
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:506
 msgid "Well, maybe not."
 msgstr "いや、やめておこう。"
 
@@ -5317,64 +5321,64 @@ msgstr "陛下、まだ Deorien を見つけていませんよ。"
 #: A_New_Order/scenarios/20_Okladia.cfg:415
 #: A_New_Order/scenarios/20_Okladia.cfg:417
 #: A_New_Order/scenarios/20_Okladia.cfg:419
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:217
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:219
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:231
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:239
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:221
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:233
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:241
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:243
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:245
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:247
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:273
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:278
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:282
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:249
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:275
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:280
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:284
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:286
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:288
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:298
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:305
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:308
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:323
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:338
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:341
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:344
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:290
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:300
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:307
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:310
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:325
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:340
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:343
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:346
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:348
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:350
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:351
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:352
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:353
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:354
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:358
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:355
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:356
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:360
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:371
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:383
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:390
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:414
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:438
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:362
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:373
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:385
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:392
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:416
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:440
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:442
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:447
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:450
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:454
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:457
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:444
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:449
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:452
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:456
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:459
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:463
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:461
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:465
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:468
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:478
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:467
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:470
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:480
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:492
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:499
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:482
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:494
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:501
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:525
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:503
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:527
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:529
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:533
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:537
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:531
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:535
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:539
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:542
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:541
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:544
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:547
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:546
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:549
 msgid "Village leader"
 msgstr "村長"
 
@@ -5466,20 +5470,20 @@ msgstr "ええ勿論、しかし、先ずは幾つか質問したいのだ。"
 #: A_New_Order/scenarios/14b_Bontom.cfg:563
 #: A_New_Order/scenarios/14b_Bontom.cfg:607
 #: A_New_Order/scenarios/14b_Bontom.cfg:615
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:222
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:313
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:374
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:483
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:224
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:315
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:376
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:485
 msgid "Please, tell me..."
 msgstr "どうぞ、おっしゃってください..."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:310
 #: A_New_Order/scenarios/20_Okladia.cfg:407
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:223
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:314
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:375
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:484
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:225
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:316
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:377
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:486
 msgid "Would you fight for me?"
 msgstr "私のために戦ってくれないか？"
 
@@ -5487,8 +5491,8 @@ msgstr "私のために戦ってくれないか？"
 #: A_New_Order/scenarios/20_Okladia.cfg:311
 #: A_New_Order/scenarios/20_Okladia.cfg:408
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:583
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:376
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:485
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:378
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:487
 msgid "Do you know something about the mage Deorien?"
 msgstr "魔術士の Deorien について何か知ってるか？"
 
@@ -5496,10 +5500,10 @@ msgstr "魔術士の Deorien について何か知ってるか？"
 #: A_New_Order/scenarios/20_Okladia.cfg:312
 #: A_New_Order/scenarios/20_Okladia.cfg:362
 #: A_New_Order/scenarios/20_Okladia.cfg:409
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:226
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:317
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:378
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:487
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:228
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:319
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:380
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:489
 msgid "Have you heard any interesting news recently?"
 msgstr "最近、興味深い話を耳にしていないか？"
 
@@ -5620,8 +5624,8 @@ msgstr "私のために戦ってくれるか？"
 #: A_New_Order/scenarios/20_Okladia.cfg:361
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:25
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:56
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:224
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:315
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:226
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:317
 msgid "Do you know anything about the mage Deorien?"
 msgstr "魔術士 Deorien について、何か知らないか？"
 
@@ -5711,21 +5715,21 @@ msgstr ""
 #: A_New_Order/scenarios/13_Scouting.cfg:739
 #: A_New_Order/scenarios/13_Scouting.cfg:750
 #: A_New_Order/scenarios/13_Scouting.cfg:758
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:561
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:569
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:563
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:571
 msgid "I would love to talk to..."
 msgstr "是非、誰かに話したいのだが..."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:474
 #: A_New_Order/scenarios/13_Scouting.cfg:769
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:578
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:580
 msgid "Ruvio, please tell me..."
 msgstr "Ruvio 、教えてくれないか.."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:475
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:579
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:581
 msgid "Why do you dislike Lorin?"
 msgstr "なぜ　Lorin を嫌うのだ？"
 
@@ -5737,7 +5741,7 @@ msgstr "君と 私の母について、もっと教えてくれないか。"
 # #po: ‘.’ is missing.
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:477
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:581
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:583
 #, fuzzy
 #| msgid "Tell me about Karen"
 msgid "Tell me about Karen."
@@ -5778,7 +5782,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:486
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:592
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:594
 msgid ""
 "Well, she is my oldest daughter. From her youth she always wanted to be a "
 "great fighter, and she always tried to be the best."
@@ -5788,13 +5792,13 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:487
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:593
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:595
 msgid "I'm kind of surprised that she is not here with us."
 msgstr "ここに彼女がいないことには、私も少し驚いているんだ。"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:488
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:594
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:596
 msgid ""
 "I ordered Karl to tie her up and lock her room. I think that gave us enough "
 "time to escape. This journey is really too dangerous for her. I hope she "
@@ -5807,7 +5811,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:493
 #: A_New_Order/scenarios/20_Okladia.cfg:497
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:598
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:600
 msgid "Hey Reme, what's going on?"
 msgstr "やあ、Reme 、どうしたんだ？"
 
@@ -5821,7 +5825,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:495
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:601
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:603
 msgid "Nice to hear that."
 msgstr "それを聞いて安心したよ。"
 
@@ -5841,27 +5845,27 @@ msgstr "そう心配しなくてよい。君はいつでも私の友人だ。"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:502
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:604
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:606
 msgid "Mother, what's going on?"
 msgstr "母さん、どうしたの？"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:505
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:606
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:608
 msgid "Mother? I thought you said I was not your real mother?"
 msgstr "母さん、って？あなた、私はあなたの実母じゃないって言ったわよね？"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:506
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:607
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:609
 msgid "I'm sorry. I was really angry."
 msgstr "ごめんよ。あのときは本当に腹が立ってたんだ。"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:511
 #: A_New_Order/scenarios/13_Scouting.cfg:845
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:613
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:621
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:615
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:623
 msgid "Mother, can I have a word with you?"
 msgstr "母さん、一つ教えてくれるかな？"
 
@@ -5881,8 +5885,8 @@ msgstr "最近、動揺しているようだけど、何かあった？"
 #: A_New_Order/scenarios/20_Okladia.cfg:531
 #: A_New_Order/scenarios/13_Scouting.cfg:841
 #: A_New_Order/scenarios/13_Scouting.cfg:849
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:617
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:624
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:619
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:626
 #, fuzzy
 #| msgid "Never mind"
 msgid "Never mind."
@@ -6340,7 +6344,7 @@ msgstr "敵の全てのリーダーを倒す"
 #: A_New_Order/scenarios/25_The_Awakening.cfg:754
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:405
 #: A_New_Order/scenarios/23_Trapped.cfg:917
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:479
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:480
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:200
 #: A_New_Order/scenarios/27_Orannon.cfg:750
 #: A_New_Order/scenarios/27_Orannon.cfg:1151
@@ -6368,8 +6372,8 @@ msgstr ""
 #: A_New_Order/scenarios/25_The_Awakening.cfg:871
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:964
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:550
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:859
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:932
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:860
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:933
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:314
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:304
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1846
@@ -7362,8 +7366,8 @@ msgstr ""
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:466
 #: A_New_Order/scenarios/14b_Bontom.cfg:660
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:424
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:347
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:458
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:349
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:460
 msgid "Why?"
 msgstr "なぜ？"
 
@@ -7620,7 +7624,7 @@ msgstr "Reme Carrenemoe がいる可能性が高いのはどこだと思う？"
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:771
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:580
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:582
 msgid "Advise me what could we do now."
 msgstr "助言してくれないか、次は何をすればよいかな。"
 
@@ -10111,14 +10115,14 @@ msgstr "何だと？聞き間違いか？お前の名前は何と言うのだ？
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:758
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:781
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:299
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:301
 msgid "My name is..."
 msgstr "私の名前は..."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:760
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:783
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:301
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:303
 msgid "Gaumhaldric"
 msgstr "Gaumhaldric"
 
@@ -11562,7 +11566,7 @@ msgstr ""
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:384
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:414
 #: A_New_Order/scenarios/23_Trapped.cfg:905
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:466
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:467
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:177
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:168
 msgid "Kill all enemy leaders OR"
@@ -13393,7 +13397,7 @@ msgstr ""
 
 #. [side]: id=Bal Riddon, type=Akladian Lord
 #. [scenario]: id=22_Leaving_Okladia
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:235
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:236
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:43
 msgid "Bal Riddon"
 msgstr "Bal Riddon"
@@ -13490,19 +13494,19 @@ msgstr ""
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:152
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:175
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:176
 msgid "This was a name I used in the past."
 msgstr "それは、私が以前使っていた名前だ。"
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:153
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:176
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:177
 msgid "No idea who he could be."
 msgstr "さあな、誰のことだろうな。"
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:156
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:179
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:180
 msgid ""
 "Liar! I know you fought under the name Gaumhaldric. I was only checking to "
 "see whether you would have the courage to admit that. A base liar couldn't "
@@ -13543,7 +13547,7 @@ msgstr ""
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:167
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:182
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:183
 msgid ""
 "I honour the memory of your brother. He did nothing which would have to be "
 "forgiven."
@@ -13553,7 +13557,7 @@ msgstr ""
 
 #. [scenario]: id=22_Leaving_Okladia
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:168
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:183
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:184
 msgid ""
 "Stop fighting! This is our rightful king. I am your hand, my sword is your "
 "sword, my king, my blood is yours to spill."
@@ -13562,7 +13566,8 @@ msgstr ""
 "剣はあなたの剣です、王様。我が血は、あなたのために流されるのです。"
 
 #. [scenario]: id=22_Leaving_Okladia
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:173
+#. Case where Raban Harnen left; "with" here is used in the same sense as "against":
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:174
 #, fuzzy
 #| msgid ""
 #| "My brother fought with soldiers led by someone called 'Gaumhaldric.' Do "
@@ -13575,7 +13580,7 @@ msgstr ""
 "Gaumhaldric が何者なのか知っているか？"
 
 #. [scenario]: id=22_Leaving_Okladia
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:181
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:182
 msgid ""
 "My king, my brother only opposed you because he didn't know it was you. "
 "Please, forgive him."
@@ -13584,31 +13589,31 @@ msgstr ""
 "お赦しください。"
 
 #. [side]: id=Rauke Harnen, type=Akladian Lord
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:208
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:209
 msgid "Rauke Harnen"
 msgstr "Rauke Harnen"
 
 #. [side]: id=Dauri Travil, type=Akladian Lord
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:299
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:709
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:723
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:300
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:710
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:724
 msgid "Dauri Travil"
 msgstr "Dauri Travil"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:430
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:431
 msgid "Have you heard, Rauke? You will have another king very soon now."
 msgstr "Rauke 、聞いたか？もうすぐ、別の王が即位するらしい。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:431
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:433
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:432
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:434
 msgid "No kidding."
 msgstr "冗談だろう。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:432
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:433
 msgid ""
 "No, really. Now, when Gawen Hagarthen was killed and you were unable to "
 "impose any sign of order, our king, which as it seems will soon be also your "
@@ -13619,7 +13624,7 @@ msgstr ""
 "を取り戻そうと決めたのだ。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:434
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:435
 msgid ""
 "After he cleans Vakladia of the marauders, brawlers and bandits, he will "
 "call for an election for a new king, where you, of course, will have the "
@@ -13630,7 +13635,7 @@ msgstr ""
 "が得られるというわけだ。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:435
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:436
 msgid ""
 "Are you going somewhere with this speech, or are you just talking because "
 "you love to hear yourself talk?"
@@ -13639,7 +13644,7 @@ msgstr ""
 "きだから話しているだけなのか？"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:436
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:437
 msgid ""
 "Well, Rauke, what will you do when King Buffin Hagarthen appears here? You "
 "will of course join us? I know a few people who are quite close to the king, "
@@ -13650,7 +13655,7 @@ msgstr ""
 "と思ってるんだがな..."
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:439
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:440
 msgid ""
 "Anyone who tries to pass my outpost with arms in his hands and treachery in "
 "his heart will never return to his home. Gawen Hagarthen is alive. My "
@@ -13664,7 +13669,7 @@ msgstr ""
 
 # #po: "if he indeed was Gaumhaldric" ?
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:441
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:442
 msgid ""
 "I will do as my heart leads me. Not long ago, my brother fought a Wesnothian "
 "leader, Gaumhaldric. He told me this Gaumhaldric looked just like our king "
@@ -13680,7 +13685,7 @@ msgstr ""
 "のだから、我らの王としてふさわしくない。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:444
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:445
 msgid ""
 "I don't know what to think about this. My brother, Raban, died recently "
 "fighting with someone who - according to many - looked like our king Gawen's "
@@ -13692,8 +13697,8 @@ msgstr ""
 
 # #po: "He was left alive."  ... Who is "He"?
 #. [event]
-#. case where Raban Harnen left; "He was left alive" refers to Raban:
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:447
+#. case where Raban Harnen left; "fought with" = "fought against"; the "He" in "He was left alive" refers to Raban:
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:448
 msgid ""
 "I don't know what to think about this. My brother, Raban, fought with "
 "someone who - according to many - looked like our king Gawen's twin brother. "
@@ -13706,8 +13711,8 @@ msgstr ""
 "て生け捕りにされた。色んな噂話があるのだ..."
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:451
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:454
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:452
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:455
 msgid ""
 "This doesn't look good, my lord. We weren't expecting this many enemies "
 "here. And our scouts are reporting that Buffin's army is just behind us."
@@ -13716,7 +13721,7 @@ msgstr ""
 "んでした。斥候によると、 Buffin 軍が背後に迫っています。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:458
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:459
 msgid ""
 "Aaah, the glory of battle! My son, fodder for our swords lies ahead. Let's "
 "kill them all, and if they are worthy opponents, let's cut their hearts out "
@@ -13727,12 +13732,12 @@ msgstr ""
 "当にお腹が空いてきたわ..."
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:459
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:460
 msgid "My king, is mother of your majesty always this... hmm..."
 msgstr "王様、あなたのご母堂は、いつもこのようなのですか... あぁ..."
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:460
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:461
 msgid ""
 "Bloodthirsty? I am not sure. She has been behaving very oddly of late... "
 "mother, you should really stop eating so much. You are starting to gain "
@@ -13742,24 +13747,24 @@ msgstr ""
 "母さん、あまり食べすぎない方がいい。体重が増えてきているから。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:461
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:462
 msgid "I will lose it in battle. Charge!"
 msgstr "戦闘で痩せるわ。さ、補給しに行くわよ！"
 
 # #po: no need ". "
 #. [objective]: condition=win
 #. trailing space is intentional, to pad the footnote a bit:
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:471
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:472
 msgid "Reach the northern edge of the map with Gawen. "
 msgstr "Gawen がマップの北端に到達する "
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:515
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:516
 msgid "For our king, Gawen Haldric Hagarthen!"
 msgstr "我らが王 Gawen Haldric Hagarthen のために！"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:516
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:517
 msgid ""
 "Your king? You are fighting for the ghost of long dead boy? And why would "
 "you call him Haldric?"
@@ -13768,19 +13773,19 @@ msgstr ""
 "だ？"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:542
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:574
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:543
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:575
 msgid "You oppose Gawen Hagarthen, your own king."
 msgstr "お前は、お前の王たる Gawen Hagarthen に刃向かっているのだぞ。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:543
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:575
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:544
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:576
 msgid "Our king? And where is he? Is he hiding behind your backs?"
 msgstr "俺たちの王？ 彼がどこにいるって？お前たちの後ろに隠れているのか？"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:551
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:552
 msgid ""
 "Now, feel the wrath of ancient power. Your God is expressing his anger "
 "through me, because you are opposing his messiah!"
@@ -13789,18 +13794,18 @@ msgstr ""
 "ているのだ、なぜなら、お前は、その救世主に刃向かっているのだから！"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:576
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:577
 msgid "My name is Reme Carrenemoe. You doubt my word?"
 msgstr "私の名は Reme Carrenemoe 。私の言葉を疑っているのか？"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:577
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:578
 msgid "If he is really Gawen Hagarthen, why does he send others to fight?"
 msgstr ""
 "もしも彼が 本当に Gawen Hagarthen なら、なぜ彼は他の者を戦闘に送り込むんだ？"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:599
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:600
 msgid ""
 "He lost consciousness already? Sigh. I hoped we could ask him few questions. "
 "But then again, he didn't seem like a guy who would actually KNOW anything."
@@ -13809,27 +13814,27 @@ msgstr ""
 "あ、実際に何かを知っている様子はなかったしな。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:605
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:606
 msgid "What are you waiting for? Finish me!"
 msgstr "何をしている、早く終わらせろ！"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:607
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:608
 msgid "Then die, if that's what you want!"
 msgstr "それなら死んでもらおう、お望みとあらば！"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:608
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:609
 msgid "You were worthy opponent"
 msgstr "敵としてあっぱれだ"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:612
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:613
 msgid "If that's your wish"
 msgstr "もしも望むのであれば"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:615
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:616
 msgid ""
 "Why should I do that? You fought like a real man, and I respect you. Rauke, "
 "I want you to know that I consider you a good warrior and a fine Akladian. I "
@@ -13841,17 +13846,17 @@ msgstr ""
 "埋葬するからな。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:617
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:618
 msgid "Maybe you are worthy to be our king after all..."
 msgstr "あなたは私達の王としてふさわしい方なのかもしれません、結局は..."
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:618
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:619
 msgid "Tell me what has happened recently in Vakladia?"
 msgstr "Vakladia で最近、何が起こっているのか教えてくれないか？"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:620
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:621
 msgid ""
 "Nothing changed much. Everyone is fighting with everyone. Bor Cryne and his "
 "allies are trying to impose themselves as supreme rulers with the help of "
@@ -13863,7 +13868,7 @@ msgstr ""
 "反乱軍との戦闘で戦果を上げても何の権威も得られていません。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:621
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:622
 msgid ""
 "In Easkladia, king Perien died during the final battle with the Wesnothians. "
 "He broke through the Wesnothian lines right to their king. He slew their "
@@ -13878,9 +13883,9 @@ msgstr ""
 "退しました。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:622
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:653
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:664
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:623
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:654
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:665
 msgid ""
 "There are multiple rumors about a messiah who will come and unite all the "
 "Akladians and lead them into true greatness... (<i>coughs</i>) ...and... "
@@ -13891,17 +13896,17 @@ msgstr ""
 
 # #po: missinng '.'
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:623
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:654
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:666
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:624
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:655
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:667
 #, fuzzy
 #| msgid "He is dead now. Lie in peace, warrior. I will keep my promise"
 msgid "He is dead now. Lie in peace, warrior. I will keep my promise."
 msgstr "彼は今亡くなった。安らかに眠りにつくがよい、兵士よ。約束は守るからな。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:628
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:766
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:629
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:767
 msgid ""
 "A mage! A mage has defeated me! A creature from the dark past allied with "
 "you? God will punish you!"
@@ -13910,7 +13915,7 @@ msgstr ""
 "だのか？神よ、奴を罰し給え！"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:632
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:633
 msgid ""
 "Rauke, I like you. That's why I don't want you to scream in pain and agony. "
 "What do you say you help me out?"
@@ -13919,12 +13924,12 @@ msgstr ""
 "いのよ。その願いを叶えてほしいの、いいかしら？"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:633
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:634
 msgid "Help yourself, fat witch."
 msgstr "勝手にしろ、デブの魔女め。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:634
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:635
 msgid ""
 "Fat? That's really unfair. I didn't say anything about you being bald. Now, "
 "tell me what happened recently in Vakladia, and..."
@@ -13934,22 +13939,22 @@ msgstr ""
 "すれば..."
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:635
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:636
 msgid "And..."
 msgstr "そうすれば..."
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:636
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:637
 msgid "You will avoid unspeakable pain"
 msgstr "言いようのない痛みを感じなくて済むわ"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:637
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:638
 msgid "I will honour you by burying you properly"
 msgstr "きちんと埋葬することで敬意を表してあげるわ"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:642
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:643
 msgid ""
 "You think you can frighten me with mere words? Ha! Ha! Ha! I am an Akladian "
 "lord, and I am not afraid... I am half-dead already..."
@@ -13958,22 +13963,22 @@ msgstr ""
 "のなど無い... 半分もう死んでいるのだし..."
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:643
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:644
 msgid "Only half-dead, mind you. It means you can still feel the pain"
 msgstr "半分でしょ、つまり、まだ痛みを感じるってことよ"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:644
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:645
 msgid "Aaargh! No! Not there! Aaargh! Stop, stop it!"
 msgstr "アァーッ！ おい！そこはダメだ！アァーーッ！やめろ、やめてくれ！"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:645
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:646
 msgid "I won't allow for any more of that, mother. Stop it! Stop it right now!"
 msgstr "それ以上は許さないよ、母さん。やめるんだ！今すぐやめなさい！"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:646
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:647
 msgid ""
 "Oh, rats, I think I've lost my delicate, feminine touch. My blade slipped "
 "and I've killed him too soon. Sigh."
@@ -13982,12 +13987,12 @@ msgstr ""
 "まりに早く殺してしまったわ、あーあ。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:649
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:650
 msgid "Honour me? That's so.. so unlikely of you, Lorin."
 msgstr "私に敬意を？それはまた、お前らしくないな、Lorin 。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:650
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:651
 msgid ""
 "LADY Lorin, if you don't mind. How do you know what's unlikely for me? You "
 "were a fine warrior, and I grow tired of being called emotionless and cruel "
@@ -14000,8 +14005,8 @@ msgstr ""
 "何が起きたの？"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:651
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:662
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:652
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:663
 msgid ""
 "Nothing's changed much. Everyone is fighting with everyone. Bor Cryne and "
 "his allies are trying to impose themselves as supreme rulers with the help "
@@ -14013,8 +14018,8 @@ msgstr ""
 "で戦果を上げても何の権威も得られない。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:652
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:663
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:653
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:664
 msgid ""
 "In Easkladia, king Perien died during the final battle with the Wesnothians. "
 "He broke through the Wesnothian lines right to their king. He slew their "
@@ -14028,7 +14033,7 @@ msgstr ""
 "救われて、あの下っ端どもは彼らの王を残したまま撤退した。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:659
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:660
 msgid ""
 "You were a worthy fighter, noble Rauke Harnen. I will do everything to bury "
 "your body properly according to our customs."
@@ -14037,7 +14042,7 @@ msgstr ""
 "なたを埋葬するよう、あらゆることを致します。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:660
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:661
 msgid ""
 "So were you, noble Reme. I've heard about the fate of your clan and family - "
 "please, accept my deepest condolences."
@@ -14046,7 +14051,7 @@ msgstr ""
 "深い哀悼の意を汲んでほしい。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:661
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:662
 msgid ""
 "People die and join their ancestors. I am happy their death was honourable. "
 "Please, before you die - could you tell me about what happened in Vakladia "
@@ -14057,34 +14062,34 @@ msgstr ""
 "んか？"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:676
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:677
 msgid "Hmm... seems that he had some gold..."
 msgstr "うーむ、彼はいくらかのゴールドを持っていたようだ..."
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:694
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:709
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:695
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:710
 msgid "Hmm... seems that the traitor had some gold..."
 msgstr "うーむ、この裏切り者はいくらかのゴールドを持っていたようだ..."
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:699
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:700
 msgid "Bal Riddon has received 40 gold pieces."
 msgstr "Bal Riddon は 40 gold を受け取りました。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:714
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:715
 msgid "Dauri Travil has received 40 gold pieces."
 msgstr "Dauri Travil は 40 gold を受け取りました。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:723
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:724
 msgid "Eeek! They killed the boss! Bring reinforcements!"
 msgstr "えっ！ 我々の大将が殺された！援軍を呼ぶんだ！"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:761
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:770
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:762
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:771
 msgid ""
 "Bal Riddon, before you die, I want you to tell me a few things about the "
 "plans of your king, Buffin."
@@ -14093,13 +14098,13 @@ msgstr ""
 "ことがある。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:762
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:771
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:763
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:772
 msgid "Ask him yourself, then. I won't tell you anything."
 msgstr "それなら、本人に訊いてくれ。私は何も話すことはない。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:772
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:773
 msgid ""
 "Nonono, you have not understood me. I WANT you to tell me few things about "
 "the plans of your king. Now, we will start with the basics."
@@ -14108,7 +14113,7 @@ msgstr ""
 "てほしいことがあるのよ、この私が。さあ、基本から始めましょうか。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:773
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:774
 msgid ""
 "Wait! I will tell you what I know. King Buffin wants to use the opportunity "
 "he sees here, with Gawen dead, Perien dead, and the two other Hagarthens in "
@@ -14120,12 +14125,12 @@ msgstr ""
 "らな。偽の選挙をでっち上げて、自分自身を Vakladia の王に選出させたいのさ。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:774
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:775
 msgid "Gawen is not dead, I assure you."
 msgstr "Gawen が死んでいない。保証するわ。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:775
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:776
 msgid ""
 "But there is something strange... I've heard strange rumors. Something is "
 "happening at our eastern border. Many of the lords from the eastern part of "
@@ -14136,7 +14141,7 @@ msgstr ""
 "かけたのだが、返事が来なかったのだ。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:776
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:777
 msgid ""
 "Okladian lords are cowards, what's so strange about that? Do you know "
 "anything else? No? Die then."
@@ -14146,14 +14151,14 @@ msgstr ""
 
 # #po: missing '.'
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:781
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:782
 #, fuzzy
 #| msgid "You were worthy fighter, noble Bal Riddon"
 msgid "You were a worthy fighter, noble Bal Riddon."
 msgstr "あなたは立派な戦士でした、貴き Bal Riddon 殿。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:782
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:783
 msgid ""
 "So were you, Reme. So were you. You behaved honourably, so before I die, I "
 "want to warn you: you are headed straight into a trap."
@@ -14163,13 +14168,13 @@ msgstr ""
 
 # #po: multi
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:783
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:784
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:160
 msgid "What do you mean by that?"
 msgstr "それは、どういう意味です？"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:784
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:785
 msgid ""
 "An army of orcs and Akladians is gathering north of here. They are probably "
 "there because they want to head off the army of my king, Buffin. You will be "
@@ -14181,36 +14186,36 @@ msgstr ""
 "になるだろう。Okladia に戻り、別の道を探してみるんだ。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:785
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:786
 msgid "We have no choice. We have to tread this path."
 msgstr "私たちに選択の余地はありません。この道に足を踏み入れるしかないのです。"
 
 #. [message]: speaker=narrator
 #. TODO: think of something better to put here:
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:798
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:799
 msgid "This signpost is illegible, unfortunately."
 msgstr "この道標は読めないなぁ、残念だけど。"
 
 #. [event]
 #. reference to the event where King Buffin's vanguard starts appearing:
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:861
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:862
 msgid "Wait... the last time enemy reinforcements arrived..."
 msgstr "お待ち下さい... 敵の援軍が最後に来たのは..."
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:862
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:863
 msgid "No, Gawen is correct! There are too many of them now!"
 msgstr "いいえ、Gawen が正しいわ！あんなに多くの敵が... 多すぎる！"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:879
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:880
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:322
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:312
 msgid "We've won! What should we do now?"
 msgstr "勝利したぞ！さあ、次は何をすればいい？"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:880
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:881
 msgid ""
 "We march straight on to Vattin! Boy, I really feel hungry now. This fight "
 "has made me STARVING."
@@ -14219,7 +14224,7 @@ msgstr ""
 "いは、冗談抜きに空腹にさせるわね。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:881
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:882
 msgid ""
 "I think, my king, we should go to Freetown, so the Wesnothian rebels from "
 "Vakladia can see you and acknowledge you as king. We must hurry, because "
@@ -14231,13 +14236,13 @@ msgstr ""
 "す。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:882
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:883
 msgid "Nonono, not to Freetown! There is nothing worth seeing in Freetown!"
 msgstr ""
 "ノーノーノー、Freetown はダメ！ あそこには見る価値のある物はなんにもないわ！"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:883
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:884
 msgid ""
 "Yes, there is definitely something worth seeing in that city. In fact, I "
 "can't wait to see her."
@@ -14245,17 +14250,17 @@ msgstr ""
 "いや、あの街には確実に見る価値のある物が有る。実際、早く彼女に会いたい。"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:884
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:885
 msgid "Her?"
 msgstr "彼女？"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:885
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:886
 msgid "Mother, I'll explain later. Let's go!"
 msgstr "母さん、後で説明しますよ。さあ、出発だ！"
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:941
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:942
 msgid ""
 "Gee, don't panic. That's only the vanguard of King Buffin's army. I assure "
 "you that we still have every opportunity to win."
@@ -14266,7 +14271,7 @@ msgstr ""
 # #po: '.'
 #. [event]
 #. "$tmp" is the name of a unit:
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:994
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:995
 #, fuzzy
 #| msgid ""
 #| "I have strange feeling of dejavu... Hey, $tmp, take care of yourself, "
@@ -15892,8 +15897,8 @@ msgstr "ついに勝ったぞ！さあ、あの有名な預言者を探そう、
 #. [event]
 #. if your language doesn't have articles or capitalization, come up with some other sort of linguistic cue to signify
 #. that 'The Oracle' is special, like a unique honoriffic (if you language has those) or something... for example,
-#. in Japanese, maybe Gawen had previously used "-san" by accident, when he should have actually used "-sama" or "-dono"
-#. or something:
+#. in Japanese, maybe Gawen had previously used "-san" or "-chan" by accident, when he should have actually used
+#. "-sama" or "-dono", or maybe he forgot the honoriffic entirely or something:
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1867
 msgid ""
 "You pronounce that 'The Oracle'... all she needs is a great big 'The' in "
@@ -18907,8 +18912,8 @@ msgstr "注意：Reme と一緒に撤退する場合は、ボーナスはあり�
 
 # #po:I would like to know why Konrad2 suggested ‘I think it is fine as is.’
 #. [part]
-#. Konrad2 suggests "to not be" instead of "not to be" but I think it is fine as is; see:
-#. https://forums.wesnoth.org/viewtopic.php?p=663581#p663581
+#. Konrad2 suggests "to not be" instead of "not to be" but I (egallager) think it is fine as is;
+#. see https://forums.wesnoth.org/viewtopic.php?p=663581#p663581 for Konrad2's original suggestion
 #: A_New_Order/scenarios/14b_Bontom.cfg:120
 #, fuzzy
 #| msgid ""
@@ -20143,7 +20148,7 @@ msgstr ""
 "は 7 ポイント獲得できます。）"
 
 #. [event]
-#. title for scenario 14a:
+#. cross-reference against title for scenario 14a:
 #: A_New_Order/scenarios/30_Final.cfg:192
 msgid ""
 "You earned an additional point for forcing Hoyre to run in the 'Scouting "
@@ -20154,7 +20159,7 @@ msgstr ""
 
 # #ja: S18 タイトルは仮
 #. [event]
-#. titles for scenarios 17 and 18:
+#. cross-reference against titles for scenarios 17 and 18:
 #: A_New_Order/scenarios/30_Final.cfg:197
 msgid ""
 "You earned an additional point for learning gossip about the messiah in the "
@@ -20169,7 +20174,7 @@ msgid "You earned an additional point for hiring Rob Roe."
 msgstr "Rob Roe を雇用したことで追加ポイントを獲得しました。"
 
 #. [event]
-#. title for scenario 10:
+#. cross-reference against title for scenario 10:
 #: A_New_Order/scenarios/30_Final.cfg:206
 msgid ""
 "You earned an additional point for heroic victory in `Siege of Haeltin` "
@@ -21315,25 +21320,25 @@ msgstr "陛下、預言者のところへは既に行きました。"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:169
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:193
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:194
 msgid "My lord, I really insist we visit the Oracle first."
 msgstr "陛下、まずは預言者のところをお訪ねください。私は強くお薦めします。"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:170
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:194
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:195
 msgid "Well, I think that..."
 msgstr "そうか、思うに..."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:171
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:195
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:196
 msgid "I already know where Deorien may be."
 msgstr "私はもう、Deorien のいそうな場所を知っている。"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:172
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:196
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:197
 msgid "You are right. Let's go to the Oracle first."
 msgstr "お前は間違っていない。まず預言者のところへ行こう。"
 
@@ -21344,7 +21349,8 @@ msgstr "さて、Okladia へ丘陵地を抜けていく道を行くべきでし�
 
 # #po: reloading -> "reloading the file and selecting another option"
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:180
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:181
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:206
 #, fuzzy
 #| msgid ""
 #| "This option is mainly intended for players, who already played 'A New "
@@ -21361,7 +21367,7 @@ msgstr ""
 "リロードして別のオプションを選択することも検討してください。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:182
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:183
 msgid ""
 "All right, we shall take the path through the hills to Okladia. Note that we "
 "could have taken a different path through the woods to get to Okladia "
@@ -21371,24 +21377,12 @@ msgstr ""
 "選んでもよかったのですが、今さら遅いですからね！"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:198
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:199
 msgid "So, should we pick the route to Okladia that goes through the woods?"
 msgstr "さて、Okladia へ森を抜けていく道を行くべきでしょうか？"
 
-# #po: reloading -> "reloading the file and selecting another option"
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:204
-msgid ""
-"This option is mainly intended for players, who already played 'A New Order' "
-"in the past, or don't care much about the story. If you do not fall in "
-"either category, consider reloading."
-msgstr ""
-"このオプションは主に、このキャンペーンを以前にプレイ済みか、ストーリー自体に"
-"あまり興味がないプレイヤーを対象としています。どちらでもない場合、ファイルを"
-"リロードして別のオプションを選択することも検討してください。"
-
-#. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:206
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:208
 msgid ""
 "All right, we shall take the path through the woods to Okladia. Note that we "
 "could have taken a different path through the hills to get to Okladia "
@@ -21398,17 +21392,17 @@ msgstr ""
 "選んでもよかったのですが、今さら遅いですからね！"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:217
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:219
 msgid "Welcome to our village, noble travelers."
 msgstr "私たちの村へ、ようこそお越しくださいました、高貴な旅の皆さま方。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:218
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:220
 msgid "We are freedom fighters searching for the mage Deorien."
 msgstr "我らは自由の戦士だ。魔術士 Deorien を探しに来た。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:219
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:221
 msgid ""
 "Freedom fighters? Yeah, sure... Just, please, do not fight for freedom here. "
 "We are honest, hardworking people."
@@ -21417,69 +21411,69 @@ msgstr ""
 "れるのはご勘弁ください。私たちは正直で働き者の民です。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:225
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:316
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:377
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:486
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:227
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:318
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:379
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:488
 msgid "Do you know where the Oracle lives?"
 msgstr "預言者がどこに住んでいるか知ってるか？"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:231
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:383
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:492
-msgid "Why anyone would want to fight for you?"
-msgstr "どうして、あなたのために戦いたい者がいるというのです？"
-
-#. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:234
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:233
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:385
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:494
-msgid "You have a chance to fight for your freedom."
-msgstr "お前たちの自由のために戦う機会が持てるのだぞ。"
-
-#. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:235
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:386
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:495
-msgid "I may be your future king."
-msgstr "私は、お前たちの将来の王になるかもしれないのだ。"
+msgid "Why anyone would want to fight for you?"
+msgstr "どうして、あなたのために戦いたい者がいるというのです？"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:236
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:387
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:496
-msgid "In my army you may change your lot."
-msgstr "私の隊に入れば、お前の人生が変わるかもしれないぞ。"
+msgid "You have a chance to fight for your freedom."
+msgstr "お前たちの自由のために戦う機会が持てるのだぞ。"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:237
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:388
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:497
+msgid "I may be your future king."
+msgstr "私は、お前たちの将来の王になるかもしれないのだ。"
+
+#. [event]
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:238
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:389
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:498
+msgid "In my army you may change your lot."
+msgstr "私の隊に入れば、お前の人生が変わるかもしれないぞ。"
+
+#. [event]
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:239
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:390
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:499
 msgid "Why not?"
 msgstr "やってみないか？"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:239
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:241
 msgid "In this forest, we are free already."
 msgstr "この森では、私たちはもう自由ですよ。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:241
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:243
 msgid "No kidding. I mean, no kidding, your Majesty."
 msgstr "冗談はやめてください。つまりその、ご冗談でしょ、陛下。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:243
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:438
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:525
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:245
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:440
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:527
 msgid "Change my lot? What do you mean?"
 msgstr "私の人生を変える？どういうことです？"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:244
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:439
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:526
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:246
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:441
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:528
 msgid ""
 "Well, you know, you may earn some gold, and if you are lucky, you may even "
 "became a knight."
@@ -21488,7 +21482,7 @@ msgstr ""
 "れない。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:245
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:247
 msgid ""
 "A knight? Ha, ha, I thought you were serious. There are only archers in this "
 "village."
@@ -21496,7 +21490,7 @@ msgstr ""
 "騎士ですか？なんだ、本気かと思いましたよ。この村には弓兵くらいしかいません。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:246
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:248
 msgid ""
 "The best archers earn 45 gold pieces when hired, and twenty gold pieces for "
 "each battle."
@@ -21505,7 +21499,7 @@ msgstr ""
 "には 20 gold 受け取れるぞ。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:247
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:249
 msgid ""
 "Fourty-five gold pieces? Ok, I just found a volunteer here. He will fight "
 "for you."
@@ -21514,7 +21508,7 @@ msgstr ""
 "のために戦いますよ。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:249
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:251
 msgid ""
 "My lord, will we accept this recruit into our army? It is not a loyal unit, "
 "just a normal Bowman."
@@ -21523,7 +21517,7 @@ msgstr ""
 "く、普通の弓兵ですけれど。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:253
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:255
 msgid "A unit joined your cause."
 msgstr "1ユニットが、あなたの隊に加わりました。"
 
@@ -21531,29 +21525,29 @@ msgstr "1ユニットが、あなたの隊に加わりました。"
 #. [unit]: type=Bowman, id=Roman
 #. caret is to intentionally break the translation of anyone who might have translated this as a demonym, which would have been wrong.
 #. wordplay note: say "Roman the Bowman" aloud (it rhymes!)
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:259
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:261
 msgid "firstname^Roman"
 msgstr "浪漫・ザ・ボウマン"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:273
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:442
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:529
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:275
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:444
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:531
 msgid "Because we have a lot to do in our own village, for example?"
 msgstr ""
 "それはつまり、例えば、私たちの村でやるべきことがたくさんあるから、といったこ"
 "とですか？"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:278
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:341
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:447
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:533
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:280
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:343
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:449
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:535
 msgid "I already answered that question."
 msgstr "その質問にはもうお答えしましたよ。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:282
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:284
 msgid ""
 "Well, I don't know. But I think he lives on the Isle of Alduin, where all "
 "mages live."
@@ -21562,7 +21556,7 @@ msgstr ""
 "です。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:284
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:286
 msgid ""
 "You mean you don't know? South from here, west from a larger village called "
 "Porkton. If I lived in that village, I would change its name into something "
@@ -21572,7 +21566,7 @@ msgstr ""
 "な村から西へ行った所ですよ。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:286
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:288
 msgid ""
 "Something interesting? Well, young Henry is marrying Mary from Buckston. The "
 "last storm was so heavy that it broke all trees in Larry's orchard. Orcs and "
@@ -21584,16 +21578,16 @@ msgstr ""
 "す。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:288
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:360
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:468
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:547
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:290
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:362
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:470
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:549
 msgid "Have luck in your travels, stranger. You will need it."
 msgstr ""
 "見知らぬ皆さんの旅が幸運でありますように。きっと幸運が必要になりますから。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:298
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:300
 msgid ""
 "Wesnothians! What are you doing here? If you thought you could pillage our "
 "village, you will be dissapointed!"
@@ -21602,43 +21596,43 @@ msgstr ""
 "間違いだぞ！"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:305
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:307
 msgid "Gawen Hagarthen? No! That would mean... my king!"
 msgstr ""
 "Gawen Hagarthen？ 嘘だ！ だとしたらあなたは... 私の王様ということになる！"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:308
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:310
 msgid "Ah, the rebel from Freetown?"
 msgstr "あっ、Freetown から来た反逆者だな？"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:323
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:325
 msgid "My king, you do not have to ask. You may order us to join you."
 msgstr ""
 "王様、私にお聞きになりませんね。私たちが加勢するよう、命令してください。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:324
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:395
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:419
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:506
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:326
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:397
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:421
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:508
 msgid "A loyal unit joined your cause."
 msgstr "「忠義」ユニットが軍隊に加わりました。"
 
 #. [unit]: type=Akladian Clansman, id=Har Barien
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:328
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:330
 msgid "Har Barien"
 msgstr "Har Barien"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:338
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:340
 msgid "Fight for you? Against my own kin? No thanks."
 msgstr "あなたのために戦う？自分の親族に刃向かうんですか？それは御免ですよ。"
 
 # #po: "The Oracle" / "the Oracle" (see 2801)
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:344
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:346
 msgid ""
 "Well, I don't know. But I think The Oracle may know, she knows everything."
 msgstr ""
@@ -21646,7 +21640,7 @@ msgstr ""
 "てますよ。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:346
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:348
 msgid ""
 "God's voice is west from here. I've heard she will visit one of our lords "
 "soon."
@@ -21654,14 +21648,14 @@ msgstr "「神の声」は西の方にいます。近々、彼女が領主の一
 
 # #po: Oracle is the Load?
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:348
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:350
 msgid "How should I know? The lords live their own lives, as do we."
 msgstr ""
 "私が知る訳ありませんよ。領主たちだって、それぞれ生きてるでしょうから。私たち"
 "みたいに。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:350
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:352
 msgid ""
 "Well, Akladians from Easkladia were defeated by Wesnothians in battle near "
 "Broken Heart Runlet. I think it is because God hides his face from us. Their "
@@ -21673,7 +21667,7 @@ msgstr ""
 "とです。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:351
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:353
 msgid ""
 "We have no king now and because of that, according to custom, the other "
 "Hagarthens should wait one year until one of them is invited to rule "
@@ -21688,12 +21682,12 @@ msgstr ""
 "ろうと思います。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:352
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:354
 msgid "Other Hagarthens? How many of them?"
 msgstr "他の Hagarthen だと？ 彼らは何人いるのだ？"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:353
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:355
 msgid ""
 "There is old Perien from Easkladia, but he has troubles of his own. There "
 "are two brothers: Luc and Gauri from Guilcorta and there is Buffin from "
@@ -21706,7 +21700,7 @@ msgstr ""
 "ど..."
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:354
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:356
 msgid ""
 "Maybe, if this messiah will come, our women will be able to give a birth to "
 "healthy children again; This winter three children were born, two of them "
@@ -21717,24 +21711,24 @@ msgstr ""
 "んですが、2人が死んだのです。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:358
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:360
 msgid "Have luck in your travels, my king. You will need it."
 msgstr "この旅が幸運でありますように、王様。幸運こそ、きっと必要になります。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:371
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:373
 msgid "My lord! Aren't you Gaumhaldric, about whom we've heard so many tales?"
 msgstr ""
 "閣下、もしや Gaumhaldric 様ではありませんか？お噂を幾つも耳にしておりますが、"
 "そうですよね？"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:390
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:392
 msgid "It would be honor to join your army."
 msgstr "あなたの軍隊に加えていただき、光栄に思います。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:391
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:393
 msgid ""
 "My lord, should we accept that unit into our army? It is a loyal unit, but "
 "it's just a simple Peasant."
@@ -21743,19 +21737,19 @@ msgstr ""
 "が、ただの農民です。"
 
 #. [unit]: type=Peasant, id=Hans
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:399
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:423
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:401
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:425
 msgid "Hans"
 msgstr "Hans"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:414
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:416
 msgid "Yes, that is a good enough reason."
 msgstr "はい、理由はそれだけで十分です。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:415
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:502
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:417
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:504
 msgid ""
 "My lord, will we accept that unit into our army? It is a loyal unit, but "
 "it's just a simple Peasant."
@@ -21764,7 +21758,7 @@ msgstr ""
 "すが、ただの農民です。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:440
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:442
 msgid ""
 "Gold? I thought you were fighting for freedom, not gold. I am so "
 "disappointed."
@@ -21774,7 +21768,7 @@ msgstr ""
 
 # #po: "The Oracle" / "the Oracle" (see 2785)
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:450
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:452
 msgid ""
 "Well, I don't know. But I think the Oracle may know, she knows everything."
 msgstr ""
@@ -21782,17 +21776,17 @@ msgstr ""
 "てますよ。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:454
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:456
 msgid "East from here."
 msgstr "この東の方です。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:457
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:459
 msgid "East from here. But please, hurry."
 msgstr "この東の方です。でも急いでください。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:459
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:461
 msgid ""
 "A large army went there not long ago. Orcs, Akladians, Outlaws. I don't know "
 "what their intentions are, but I doubt they are good."
@@ -21801,7 +21795,7 @@ msgstr ""
 "的は分かりませんが、まっとうな奴らじゃありませんよ。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:463
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:465
 msgid ""
 "The greatest news of all is that you have saved the Oracle. This - this is "
 "so wonderful I can't find proper words to describe it."
@@ -21811,7 +21805,7 @@ msgstr ""
 "ん。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:465
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:467
 msgid ""
 "Akladians from another kingdom were defeated by our people in battle near "
 "Broken Heart Runlet. Well, our people - this army was from Blackwater. A "
@@ -21823,17 +21817,17 @@ msgstr ""
 "ます。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:478
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:480
 msgid "Who's there? Friend or foe?"
 msgstr "そこにいるのは誰だ？ 味方か？敵か？"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:479
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:481
 msgid "Friend."
 msgstr "味方だ。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:480
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:482
 msgid ""
 "A lot of 'friends' came to us recently. There are Akladians in your army, I "
 "think. Why should I trust you?"
@@ -21842,12 +21836,12 @@ msgstr ""
 "Akladia 人がいるみたいですね。あなたを信頼できると思いますか？"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:499
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:501
 msgid "And die in the first fight? No, thank you."
 msgstr "そして、最初の戦闘で死ぬ、とか？いえ、やめておきます。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:501
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:503
 msgid "Really? Well, If so, one of our boys wants to join your army."
 msgstr ""
 "本当ですか？うーん、もしそうなら、我が家の息子が一人、あなたの軍隊に入りた"
@@ -21856,27 +21850,27 @@ msgstr ""
 #. [unit]: type=Peasant, id=John
 #. since there is another John in this campaign (John Fasthood), I am making up a last name for this guy, too.
 #. see: https://tvtropes.org/pmwiki/pmwiki.php/Main/OneSteveLimit (which we are violating)
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:512
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:514
 msgid "John Tillerman"
 msgstr "John Tillerman"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:527
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:529
 msgid "Dead people do not bring gold home."
 msgstr "人間、死んでしまったら、ゴールドを家に持って帰りませんよね。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:537
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:539
 msgid "Well, I don't know. He may live in the free kingdom of Elensefar."
 msgstr "さあ、分かりません。Elensefar の自由王国に住んでるかもしれません。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:539
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:541
 msgid "West from here. Near Porkton."
 msgstr "ここから西の、Porkton の近くですよ。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:542
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:544
 msgid ""
 "There was a battle west from here, in which Akladians, Outlaws and Orcs "
 "tried to captured the Oracle. But they were defeated by some young man, "
@@ -21887,7 +21881,7 @@ msgstr ""
 "ちょっと待ってくださいね。名前は何だったかな？"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:544
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:546
 msgid ""
 "A lot of interesting things happened recently! Two girls were born in my "
 "village, on the same day and even in the same hour! Fat Robert lost a horse "
@@ -21898,7 +21892,7 @@ msgstr ""
 "者に盗まれたんじゃないかと思います。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:584
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:586
 msgid ""
 "You must be kidding. The woman is so hard to be around I cannot understand "
 "why Yahyazad has a crush on her."
@@ -21907,7 +21901,7 @@ msgstr ""
 "女に好意を抱く理由が分かりません。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:587
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:589
 msgid ""
 "I think I know what are 'ruins of the great city', my Lord. This could be "
 "our former capital, Weldyn. It is located in Okladia. We should go there."
@@ -21918,7 +21912,7 @@ msgstr ""
 
 #. [event]
 #. Reme is about to say "underlings" here but catches himself:
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:600
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:602
 msgid ""
 "Nothing really. I think your under... Wesnothian soldiers are starting to - "
 "well, maybe not like - but to tolerate me."
@@ -21927,35 +21921,35 @@ msgstr ""
 "に... とまではいかなくとも、受け入れてもらえてる気がします。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:614
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:622
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:616
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:624
 msgid "What happened that night we left Freetown?"
 msgstr "Freetown を出発したあの夜に、何があったんだ？"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:615
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:623
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:617
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:625
 msgid "What do you think about Karen?"
 msgstr "Karen のことをどう思う？"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:616
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:618
 msgid "What did the Oracle tell you?"
 msgstr "預言者は、あなたに何と告げたんだい？"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:629
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:631
 msgid "I've told you before I'm not going to talk about it."
 msgstr "前にも言ったわよね、その話をするつもりはないわ。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:631
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:633
 msgid ""
 "She's a cute child. In a few years she could even pretend to be a woman."
 msgstr "可愛い子供よね。数年のうちには女性っぽく振る舞えるかもね。"
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:633
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:635
 msgid ""
 "When I was young, I visited her and she told me... no, I can't tell you. It "
 "was just between the Oracle and me. The first part of her prediction has "
@@ -26241,6 +26235,16 @@ msgstr "Bronisław Komorowski"
 msgid ""
 "The living proof that you may not know how to spell and still be president"
 msgstr "スペルを知らなくても大統領になれるという生きた証拠"
+
+# #po: reloading -> "reloading the file and selecting another option"
+#~ msgid ""
+#~ "This option is mainly intended for players, who already played 'A New "
+#~ "Order' in the past, or don't care much about the story. If you do not "
+#~ "fall in either category, consider reloading."
+#~ msgstr ""
+#~ "このオプションは主に、このキャンペーンを以前にプレイ済みか、ストーリー自体"
+#~ "にあまり興味がないプレイヤーを対象としています。どちらでもない場合、ファイ"
+#~ "ルをリロードして別のオプションを選択することも検討してください。"
 
 # #ja: ano_macros.cfg>>
 # #po: getunit ??  (same as "get a unit" ??)
