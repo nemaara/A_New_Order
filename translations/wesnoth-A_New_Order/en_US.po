@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-20 16:59 UTC\n"
+"POT-Creation-Date: 2024-11-21 23:45 UTC\n"
 "PO-Revision-Date: 2024-11-20 12:00-0500\n"
 "Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
 "Language-Team: \n"
@@ -429,15 +429,17 @@ msgid "Akladian Protector"
 msgstr ""
 
 #. [unit_type]: id=Akladian Protector, race=akladian
-#: A_New_Order/units/akladians/Akladian_Protector.cfg:24
+#. "moral code" could also be "warriors’ code", except I didn't want to repeat the word "warriors" so soon after its previous usage...
+#. "bushido" or "chivalric code" could also work (original term was "codex", except it's metaphorical, though, and not a literal book):
+#: A_New_Order/units/akladians/Akladian_Protector.cfg:26
 msgid ""
 "Veterans of many fights and surviving many defenses against invading "
-"enemies, Protectors form a caste of excellent warriors with their own codex, "
-"devoting their whole life to the protection of their clans."
+"enemies, Protectors form a caste of excellent warriors with their own moral "
+"code, devoting their whole life to the protection of their clans."
 msgstr ""
 
 #. [attack]: type=impact
-#: A_New_Order/units/akladians/Akladian_Protector.cfg:33
+#: A_New_Order/units/akladians/Akladian_Protector.cfg:35
 msgid "greatmace"
 msgstr ""
 
@@ -5268,7 +5270,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:521
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:188
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:189
 msgid "I don't understand."
 msgstr ""
 
@@ -17055,7 +17057,8 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:180
+#. "fighting with nightmarish creatures" is a participial phrase, i.e. behaving as an adjective, so there is no verb tense disagreement to worry about here:
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:181
 msgid ""
 "So we killed that evil angel and his minions to journey west. We fought our "
 "way through the deserts and the swamps, fighting with nightmarish creatures, "
@@ -17064,7 +17067,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:181
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:182
 msgid ""
 "Finally, we reached Wesnoth, our people decimated but hardened because it "
 "was the wish of God that our weak should perish before we began our holy "
@@ -17073,7 +17076,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:182
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:183
 msgid ""
 "As for mages, they are the main adversaries of God in his fight for the good "
 "of the universe, attempting to usurp his powers for themselves. Elves are "
@@ -17081,33 +17084,33 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:183
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:184
 msgid "Oh my goodness. Wow. You are not joking, you actually believe all that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:184
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:185
 msgid ""
 "Anyway, if we are going to find that mage-trash, we need to know where he "
 "is. Any ideas where to find him?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:185
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:186
 msgid ""
 "Well, we could ask the Oracle. Due to the prophetic nature of her abilities, "
 "she may know where to search for Deorien."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:186
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:187
 msgid ""
 "The Oracle? The Oracle is a hoax. She knows nothing. She once told me... "
 "she... she deceived me. Her prophecy has not been, and cannot be, fullfilled."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:187
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:188
 msgid ""
 "The Oracle never deceives anyone. She just looks into the sea of magic and "
 "sees everything that may happen. So, she is not saying what MUST, but what "
@@ -17115,7 +17118,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:189
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:190
 msgid ""
 "It means, if she tells you that you will be the best swimmer in the world, "
 "you will be a great swimmer if you put forth the effort. But the prophecy "
@@ -17124,7 +17127,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:190
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:191
 msgid "No. No. That's not true. That's... leave me alone."
 msgstr ""
 
@@ -20193,7 +20196,8 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:49
+#. comment from szopen: Sigil, sorry, but I can't see how Deorien could say "sadly" in this context:
+#: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:50
 msgid ""
 "The rebellion left Grekulak's capital in ruins. The Akladians escaped to the "
 "west, chased by Grekulak's allies, burning in deserts, drowning in swamps, "
