@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-21 23:45 UTC\n"
+"POT-Creation-Date: 2024-11-22 00:14 UTC\n"
 "PO-Revision-Date: 2007-12-02 17:41+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: Italian\n"
@@ -1367,7 +1367,7 @@ msgstr ""
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:151
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:159
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:175
-#: A_New_Order/scenarios/27_Orannon.cfg:1447
+#: A_New_Order/scenarios/27_Orannon.cfg:1448
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:18
 msgid "Well..."
 msgstr "Be'..."
@@ -2409,7 +2409,7 @@ msgstr ""
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1604
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:500
 #: A_New_Order/scenarios/27_Orannon.cfg:746
-#: A_New_Order/scenarios/27_Orannon.cfg:1147
+#: A_New_Order/scenarios/27_Orannon.cfg:1148
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:352
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:541
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:299
@@ -4154,7 +4154,7 @@ msgstr "Credo che sia il momento di usare tutte le nostre riserve!"
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:217
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1600
 #: A_New_Order/scenarios/27_Orannon.cfg:754
-#: A_New_Order/scenarios/27_Orannon.cfg:1155
+#: A_New_Order/scenarios/27_Orannon.cfg:1156
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:225
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:219
 msgid "Death of Ruvio"
@@ -4178,7 +4178,7 @@ msgstr "Morte di Ruvio"
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1596
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:496
 #: A_New_Order/scenarios/27_Orannon.cfg:742
-#: A_New_Order/scenarios/27_Orannon.cfg:1143
+#: A_New_Order/scenarios/27_Orannon.cfg:1144
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:217
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:215
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:348
@@ -6426,7 +6426,7 @@ msgstr "Sì! PER TUTTI GLI DEI, sono d'accordo con un miserabile!"
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1588
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:492
 #: A_New_Order/scenarios/27_Orannon.cfg:738
-#: A_New_Order/scenarios/27_Orannon.cfg:1139
+#: A_New_Order/scenarios/27_Orannon.cfg:1140
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:295
 msgid "Kill all enemy leaders"
 msgstr "Uccidi tutti i comandanti nemici"
@@ -6438,14 +6438,14 @@ msgstr "Uccidi tutti i comandanti nemici"
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:480
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:200
 #: A_New_Order/scenarios/27_Orannon.cfg:750
-#: A_New_Order/scenarios/27_Orannon.cfg:1151
+#: A_New_Order/scenarios/27_Orannon.cfg:1152
 msgid "Death of Deorien"
 msgstr "Morte di Deorien"
 
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/25_The_Awakening.cfg:758
 #: A_New_Order/scenarios/27_Orannon.cfg:758
-#: A_New_Order/scenarios/27_Orannon.cfg:1159
+#: A_New_Order/scenarios/27_Orannon.cfg:1160
 msgid "Death of Huon Ryedric"
 msgstr "Morte di Huon Ryedric"
 
@@ -6665,13 +6665,13 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1021
-#: A_New_Order/scenarios/27_Orannon.cfg:1625
+#: A_New_Order/scenarios/27_Orannon.cfg:1626
 msgid "My king, we could really use some help here."
 msgstr "Mio re, potremmo davvero usare un po' di aiuto."
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1027
-#: A_New_Order/scenarios/27_Orannon.cfg:1631
+#: A_New_Order/scenarios/27_Orannon.cfg:1632
 msgid ""
 "We are under heavy assault, my king. We really could use some help here."
 msgstr ""
@@ -16408,7 +16408,7 @@ msgstr "Abbiamo vinto! Fantastico. E adesso dov'è l'Oracolo?"
 
 #. [event]
 #. if your language doesn't have articles or capitalization, come up with some other sort of linguistic cue to signify
-#. that 'The Oracle' is special, like a unique honoriffic (if you language has those) or something... for example,
+#. that 'The Oracle' is special, like a unique honoriffic (if your language has those) or something... for example,
 #. in Japanese, maybe Gawen had previously used "-san" or "-chan" by accident, when he should have actually used
 #. "-sama" or "-dono", or maybe he forgot the honoriffic entirely or something:
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1867
@@ -18017,7 +18017,7 @@ msgstr "Ricordatevi di Freetown! Ricordatevi di Freetown! Uccideteli tutti!"
 #. this hint is only present on EASY, NORMAL, and HARD, but not NIGHTMARE, though:
 #. this hint is only present on EASY, NORMAL, and HARD, but not NIGHTMARE, though:
 #: A_New_Order/scenarios/27_Orannon.cfg:735
-#: A_New_Order/scenarios/27_Orannon.cfg:1136
+#: A_New_Order/scenarios/27_Orannon.cfg:1137
 #, fuzzy
 #| msgid "In this scenario, only Gawen and Lorin may interrogate enemy leaders"
 msgid ""
@@ -18107,12 +18107,13 @@ msgid "Aaargh! I haven't avenged my family!"
 msgstr "Aaarch! Non ho vendicato la mia famiglia!"
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1104
+#. "Ha ha! Now plural^you are (all) doomed!"
+#: A_New_Order/scenarios/27_Orannon.cfg:1105
 msgid "Ha ha! Now you are doomed!"
 msgstr "Ah ah! Siete condannati!"
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1121
+#: A_New_Order/scenarios/27_Orannon.cfg:1122
 msgid ""
 "I am your new messiah. Recognise me as your lord now and you shall be "
 "spared. Try to oppose me and you will be killed and raised as my mindless "
@@ -18124,24 +18125,24 @@ msgstr ""
 
 #. [event]: id=Grekulak_arrives
 #. Hint that Huon's recruits have changed:
-#: A_New_Order/scenarios/27_Orannon.cfg:1123
+#: A_New_Order/scenarios/27_Orannon.cfg:1124
 msgid ""
 "Never, foul lich! We may have to adjust our tactics, but we shall never "
 "surrender!"
 msgstr ""
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1124
+#: A_New_Order/scenarios/27_Orannon.cfg:1125
 msgid "Lady Lorin, are you sure you can participate in a battle?"
 msgstr "Lady Lorin, sei sicura di poter partecipare alla battaglia?"
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1125
+#: A_New_Order/scenarios/27_Orannon.cfg:1126
 msgid "And why not, foul and rude mage?"
 msgstr "E perché no, lurido e volgare mago?"
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1126
+#: A_New_Order/scenarios/27_Orannon.cfg:1127
 msgid ""
 "As I said before, I KNOW. I also know that ANY effort may be extremely "
 "dangerous for you."
@@ -18150,7 +18151,7 @@ msgstr ""
 "estremamente pericoloso per te."
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1127
+#: A_New_Order/scenarios/27_Orannon.cfg:1128
 msgid ""
 "First of all, I am LORIN, foul mage. Second of all, I am not a Wesnothian "
 "woman, the kind you are used to, but Akladian. I can fight until... for as "
@@ -18161,7 +18162,7 @@ msgstr ""
 "a ché... finché voglio."
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1128
+#: A_New_Order/scenarios/27_Orannon.cfg:1129
 msgid ""
 "My king, please take my advice. Order Lorin to withdraw into the castle. No "
 "matter how she boasts and flaunts her Akladian heritage, I am quite sure she "
@@ -18172,7 +18173,7 @@ msgstr ""
 "di Akladia, sono abbastanza sicuro lei non dovrebbe essere qui."
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1129
+#: A_New_Order/scenarios/27_Orannon.cfg:1130
 msgid ""
 "But why? I don't understand. Lorin is a fine warrior, and withdrawing her "
 "from battle may be..."
@@ -18181,7 +18182,7 @@ msgstr ""
 "ritirarla dalla battaglia potrebbe essere..."
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1130
+#: A_New_Order/scenarios/27_Orannon.cfg:1131
 msgid ""
 "I am a mage attuned to life, my king, and can sense things you cannot. "
 "Believe me, withdraw her into our keep."
@@ -18189,13 +18190,13 @@ msgstr ""
 "Sono un mago, mio sire. Credete a me, falla rientrare nel nostro castello."
 
 #. [event]: id=Grekulak_arrives
-#: A_New_Order/scenarios/27_Orannon.cfg:1131
+#: A_New_Order/scenarios/27_Orannon.cfg:1132
 msgid "FOUL mage. You should have said: 'I am a FOUL mage'."
 msgstr "Un LURIDO mago. Avresti dovuto dire: «Sono un LURIDO mago»."
 
 #. [event]: id=Grekulak_darkens
 #. This incantation that Grekulak tries should sound (or at least look) poetic:
-#: A_New_Order/scenarios/27_Orannon.cfg:1186
+#: A_New_Order/scenarios/27_Orannon.cfg:1187
 msgid ""
 "\n"
 "Forces of Darkness, come to my aid -\n"
@@ -18216,18 +18217,18 @@ msgstr ""
 "Le forze delle Tenebre consumeranno il vostro pensiero."
 
 #. [event]: id=Grekulak_darkens
-#: A_New_Order/scenarios/27_Orannon.cfg:1275
+#: A_New_Order/scenarios/27_Orannon.cfg:1276
 msgid "NO! Avaunt, the darkness, avaunt, the night!"
 msgstr "NO! Vade retro, oscurità, vade retro, notte!"
 
 #. [event]: id=Grekulak_darkens
-#: A_New_Order/scenarios/27_Orannon.cfg:1303
+#: A_New_Order/scenarios/27_Orannon.cfg:1304
 msgid "How is this possible? Who could possibly have broken my sorcery?"
 msgstr ""
 "Come è possibile? Chi potrebbe spezzare il mio incantesimo così facilmente?"
 
 #. [event]: id=Grekulak_darkens
-#: A_New_Order/scenarios/27_Orannon.cfg:1304
+#: A_New_Order/scenarios/27_Orannon.cfg:1305
 msgid ""
 "Even a child could have done it, it was so weak... as is all of your heinous "
 "black magic; for all your power has been built solely on lies and deceit."
@@ -18236,18 +18237,18 @@ msgstr ""
 "magia nera; tutto il tuo potere viene solo dalla menzogna e dall'inganno."
 
 #. [event]: id=Grekulak_darkens
-#: A_New_Order/scenarios/27_Orannon.cfg:1305
+#: A_New_Order/scenarios/27_Orannon.cfg:1306
 msgid "Brave words - and who dares to utter them?"
 msgstr "Parole coraggiose - chi le ha pronunciate?"
 
 #. [event]: id=Grekulak_darkens
 #. please preserve the cheesy rhyming here on translation, so that Grekulak's reply calling Deorien an "awful poet" makes sense:
-#: A_New_Order/scenarios/27_Orannon.cfg:1307
+#: A_New_Order/scenarios/27_Orannon.cfg:1308
 msgid "Deorien, mage of light - whose might will defeat the night."
 msgstr "Deorien, mago di luce - la cui potenza sconfiggerà la notte."
 
 #. [event]: id=Grekulak_darkens
-#: A_New_Order/scenarios/27_Orannon.cfg:1308
+#: A_New_Order/scenarios/27_Orannon.cfg:1309
 msgid ""
 "You are a competent enough mage, but an awful poet. Deorien, you will be "
 "mine before this battle is through."
@@ -18256,34 +18257,34 @@ msgstr ""
 "questa battaglia."
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1349
+#: A_New_Order/scenarios/27_Orannon.cfg:1350
 msgid "Aaaah!"
 msgstr "Aaaah!"
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1350
+#: A_New_Order/scenarios/27_Orannon.cfg:1351
 msgid "What happened? Mother?"
 msgstr "Che succede? Madre?"
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1351
+#: A_New_Order/scenarios/27_Orannon.cfg:1352
 #, fuzzy
 #| msgid "It's nothing.. It's nothing... I just.. I can't..."
 msgid "It's nothing... It's nothing... I just... I can't..."
 msgstr "Non è niente... non è niente... Solo che... io non riesco..."
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1352
+#: A_New_Order/scenarios/27_Orannon.cfg:1353
 msgid "Ahem."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1353
+#: A_New_Order/scenarios/27_Orannon.cfg:1354
 msgid "Shut up, mage. I will fight, I just have to rest for a moment..."
 msgstr "Taci, mago. Io combatterò, devo solo riposarmi un momento..."
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1354
+#: A_New_Order/scenarios/27_Orannon.cfg:1355
 msgid ""
 "No, you CAN'T. My lord, you must withdraw Lorin to our castle's keep "
 "immediately. She is unable to fight any longer."
@@ -18292,12 +18293,12 @@ msgstr ""
 "castello. Adesso non è in grado di combattere."
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1366
+#: A_New_Order/scenarios/27_Orannon.cfg:1367
 msgid "I AM in the castle's keep, you idiot."
 msgstr "IO SONO in una fortezza, idiota."
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1367
+#: A_New_Order/scenarios/27_Orannon.cfg:1368
 msgid ""
 "Good. Now, go to bedroom. I will send someone to take care of you "
 "immediately."
@@ -18305,14 +18306,14 @@ msgstr ""
 "Bene. Adesso va' a letto. Manderò subito qualcuno a prendersi cura di te."
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1377
-#: A_New_Order/scenarios/27_Orannon.cfg:1382
+#: A_New_Order/scenarios/27_Orannon.cfg:1378
+#: A_New_Order/scenarios/27_Orannon.cfg:1383
 msgid "Shut up, I can fight, I just have to get some rest!"
 msgstr "Sta' zitto, posso combattere, devo solo riposarmi un momento!"
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1378
-#: A_New_Order/scenarios/27_Orannon.cfg:1383
+#: A_New_Order/scenarios/27_Orannon.cfg:1379
+#: A_New_Order/scenarios/27_Orannon.cfg:1384
 msgid ""
 "You have to withdraw Lady Lorin to your initial castle's keep within 6 turns."
 msgstr ""
@@ -18320,106 +18321,106 @@ msgstr ""
 "turni."
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1398
+#: A_New_Order/scenarios/27_Orannon.cfg:1399
 msgid "Are you prepared for a little surprise? Get them boys!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/27_Orannon.cfg:1436
+#: A_New_Order/scenarios/27_Orannon.cfg:1437
 msgid "Gawen, I'm going to destroy this bridge."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_New_Order/scenarios/27_Orannon.cfg:1442
+#: A_New_Order/scenarios/27_Orannon.cfg:1443
 msgid "Milord, should I destroy this bridge?"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/27_Orannon.cfg:1448
+#: A_New_Order/scenarios/27_Orannon.cfg:1449
 msgid "Yes!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/27_Orannon.cfg:1449
+#: A_New_Order/scenarios/27_Orannon.cfg:1450
 msgid "No, but I might want a bridge destroyed later..."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/27_Orannon.cfg:1450
+#: A_New_Order/scenarios/27_Orannon.cfg:1451
 msgid "No, we won't be destroying any bridges today."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_New_Order/scenarios/27_Orannon.cfg:1511
+#: A_New_Order/scenarios/27_Orannon.cfg:1512
 msgid "Ha, take that!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_New_Order/scenarios/27_Orannon.cfg:1516
+#: A_New_Order/scenarios/27_Orannon.cfg:1517
 msgid ""
 "OK, I won't this time, but I really think we should destroy some bridges "
 "eventually, so I'll keep asking!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_New_Order/scenarios/27_Orannon.cfg:1522
+#: A_New_Order/scenarios/27_Orannon.cfg:1523
 msgid "In that case I shall cease asking to do so."
 msgstr ""
 
 #. [message]: speaker=unit
-#: A_New_Order/scenarios/27_Orannon.cfg:1538
+#: A_New_Order/scenarios/27_Orannon.cfg:1539
 msgid "Let me set up an outpost here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1563
+#: A_New_Order/scenarios/27_Orannon.cfg:1564
 msgid "I really can fight!"
 msgstr "Posso veramente combattere!"
 
 #. [event]
 #. "Note for translators: 'But what about IT?' refers to Lorin's child"
-#: A_New_Order/scenarios/27_Orannon.cfg:1565
+#: A_New_Order/scenarios/27_Orannon.cfg:1566
 msgid "Yes, you can fight. But what about IT?"
 msgstr "Sì, tu puoi. Ma LUI?"
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1566
+#: A_New_Order/scenarios/27_Orannon.cfg:1567
 msgid "IT?"
 msgstr "LUI?"
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1585
+#: A_New_Order/scenarios/27_Orannon.cfg:1586
 msgid "Aaah! I can't handle this pain!"
 msgstr "Aaah! Non posso sopportare questo dolore!"
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1586
+#: A_New_Order/scenarios/27_Orannon.cfg:1587
 msgid "What happened? What?"
 msgstr "Cosa è successo? Cosa?"
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1587
+#: A_New_Order/scenarios/27_Orannon.cfg:1588
 msgid "I told you... she miscarried."
 msgstr "Te l'ho detto. Ha perso il bambino."
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1588
+#: A_New_Order/scenarios/27_Orannon.cfg:1589
 msgid "She WHAT?"
 msgstr "COSA?"
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1589
+#: A_New_Order/scenarios/27_Orannon.cfg:1590
 msgid "Noooooo!"
 msgstr "Noooooo!"
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1594
+#: A_New_Order/scenarios/27_Orannon.cfg:1595
 msgid ""
 "I wish Lorin were still here to fight alongside us; we could use her help..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:1595
+#: A_New_Order/scenarios/27_Orannon.cfg:1596
 msgid ""
 "Trust me, Gawen, it is for the better that she is in the castle right now."
 msgstr ""
