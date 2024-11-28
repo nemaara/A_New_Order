@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-11-22 00:14 UTC\n"
-"PO-Revision-Date: 2024-11-20 12:00-0500\n"
-"Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
+"PO-Revision-Date: 2024-11-25 13:18+0900\n"
+"Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -380,7 +380,6 @@ msgstr ""
 "ます。植物が生い茂っている地形であれば、敵軍から姿が見えなくなり、さらに、1"
 "ターンに 3 HP の再生能力を発揮します。但し、解毒能力はありません。"
 
-# #po: same name "Sylvan Essence" (nounion)
 #. [illuminates]: id=sylvan_essence_illum
 #: A_New_Order/units/macros/abilities.cfg:214
 msgid ""
@@ -536,8 +535,8 @@ msgid ""
 "code, devoting their whole life to the protection of their clans."
 msgstr ""
 "多くの戦いの経験者であり、侵入してくる敵から多くの防衛を生き延びてきた警護兵"
-"は、独自のコーデックスを持つ優秀な戦士のカーストを形成しており、生涯を氏族の"
-"保護に捧げている。"
+"は、独自の規範を持つ優秀な戦士の社会階級を形成しており、生涯を氏族の保護に捧"
+"げています。"
 
 #. [attack]: type=impact
 #: A_New_Order/units/akladians/Akladian_Protector.cfg:35
@@ -562,8 +561,8 @@ msgid ""
 "use of the sword as well as their husbands or fathers."
 msgstr ""
 "Akladia 人の、社会における男女の関係は平等とは言い難いけれど、女性はみな武器"
-"を扱えることが期待されています。また、偉大な戦士の妻や子供であれば、夫や父親"
-"と同じように剣を使いこなすのが一般的だと考えられています。"
+"を扱えることが期待されています。また、偉大な戦士の妻や子であれば、夫や父親と"
+"同じように剣を使いこなすのが一般的だと考えられています。"
 
 #. [unit_type]: id=Akladian Fastfoot, race=akladian
 #: A_New_Order/units/akladians/Akladian_Fastfoot.cfg:4
@@ -792,7 +791,6 @@ msgstr "稽古剣"
 msgid "female^Akladian Lady"
 msgstr "Akladia の女性"
 
-# #po: ?? tmp ( same as [po ID]2142)
 #. [unit_type]: id=Akladian Pikeneer, race=akladian
 #: A_New_Order/units/akladians/Akladian_Pikeneer.cfg:4
 msgid "Akladian Pikeneer"
@@ -1170,7 +1168,6 @@ msgstr "ウッ、ウン。"
 msgid "Kyobaine"
 msgstr "Kyobaine"
 
-# #po: too many items(msgstr)
 #. [event]
 #. [event]: id=Kyobaine_recall_clothing_banter
 #. [then]
@@ -1673,30 +1670,21 @@ msgid "Stingy bastard."
 msgstr "ケチな男ね。"
 
 #: A_New_Order/macros/ano_macros.cfg:922
-#, fuzzy
-#| msgid ""
-#| "This is a debug message. If you see it, then it means I forgot to delete "
-#| "it from the release scenario."
 msgid ""
 "This is a debug message, with zero additional text. If you see it, then it "
 "means I forgot to delete it from the release scenario."
 msgstr ""
-"これはデバッグメッセージです。もしこれが表示されているなら、リリースシナリオ"
-"から削除し忘れたということですね。"
+"これはデバッグメッセージです、それ以外のことは記されていません。もしこれが表"
+"示されているなら、リリースシナリオから削除し忘れたということですね。"
 
-# #po: same as [poedit id 199]
 #. trailing space is intentional here, since further text is supposed to be spliced on at the end:
 #: A_New_Order/macros/ano_macros.cfg:932
-#, fuzzy
-#| msgid ""
-#| "This is a debug message. If you see it, then it means I forgot to delete "
-#| "it from the release scenario. "
 msgid ""
 "This is a debug message, with 1 additional bit of text. If you see it, then "
 "it means I forgot to delete it from the release scenario. "
 msgstr ""
-"これはデバッグメッセージです。もしこれが表示されているなら、リリースシナリオ"
-"から削除し忘れたということですね。"
+"これはデバッグメッセージです。参照テキストが一点記されています。もしこれが表"
+"示されているなら、リリースシナリオから削除し忘れたということですね。 "
 
 #: A_New_Order/macros/ano_macros.cfg:1093
 msgid "The unit $ano_loyal[0].name became LOYAL."
@@ -2093,7 +2081,6 @@ msgstr "やりたいようにやればいいさ。"
 msgid "Then die, since you want to."
 msgstr "なら死ぬがよい、死にたいのならな。"
 
-# #ja: 終止形
 #. [event]
 #: A_New_Order/macros/ano-01_06macros.cfg:100
 msgid "You are way too soft, Reme. Why didn't you give him to me?"
@@ -2385,11 +2372,8 @@ msgid ""
 msgstr ""
 "ただ逃げるなんてことはできない。絶対にいやだ。ここで、戦って死にたいんだ。"
 
-# #po: ‘.’ is missing.
 #. [then]
 #: A_New_Order/macros/ano-01_06macros.cfg:435
-#, fuzzy
-#| msgid "Reme, you have to take care of Lorin! She went the other way"
 msgid "Reme, you have to take care of Lorin! She went the other way."
 msgstr "Reme 、Lorin...母さんのことを頼む！母さんは別の道を選んだんだ。"
 
@@ -2504,7 +2488,6 @@ msgstr "繰り返してほしいこと"
 msgid "I changed my mind"
 msgstr "また次の機会にしよう"
 
-# #ja: ですますである
 #. [message]: speaker=$selected_unit.id
 #: A_New_Order/macros/debug.cfg:71
 msgid "My name is $selected_unit.name|."
@@ -3010,13 +2993,10 @@ msgstr "人間が... 私を殺した... 人間が..."
 msgid "Listen, orc..."
 msgstr "聴け、オーク..."
 
-# #po: ‘.’ is missing.
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:323
-#, fuzzy
-#| msgid "I won't stop until the last one of you is killed"
 msgid "I won't stop until the last one of you is killed!"
-msgstr "お前たちオークの最後の一人が死ぬまで、俺たちはやり続ける。"
+msgstr "お前たちオークの最後の一人が死ぬまで、私はやり続ける！"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:324
@@ -3461,11 +3441,8 @@ msgstr "Lorin 、さっさとやってくれ。"
 msgid "Why? Are you afraid of pain?"
 msgstr "どうして？ 痛いのが怖いの？"
 
-# #po: '.' missing
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:474
-#, fuzzy
-#| msgid "Of pain? Never. But I don't want underlings to hear me screaming"
 msgid "Of pain? Never. I just don't want underlings to hear me screaming."
 msgstr "痛みが？まさか。 下っ端どもに、俺の悲鳴を聞かれたくないだけだ。"
 
@@ -3661,20 +3638,15 @@ msgstr ""
 "それで？アホな肉袋野郎、どうするんだ？　ハハハ、俺は怖いものなど何も無い！死"
 "など、この俺の道の開始地点だ！"
 
-# #po: space char
 #. [event]
 #. https://tvtropes.org/pmwiki/pmwiki.php/Main/RemovingTheHeadOrDestroyingTheBrain
 #: A_New_Order/macros/ano-20macros.cfg:540
-#, fuzzy
-#| msgid ""
-#| "Well, think about this: after I kill you I will cut off you head. Could "
-#| "you still be raised from the dead without your head? "
 msgid ""
 "Well, think about this: after I kill you, I will cut off your head. Could "
 "you still be raised from the dead without your head?"
 msgstr ""
 "ほう、考えてみろ。お前を殺した後、お前の首を切り落とす。頭が無いまま生き返れ"
-"ると思うか？ "
+"ると思うか？"
 
 #. [event]
 #: A_New_Order/macros/ano-20macros.cfg:541
@@ -5732,7 +5704,7 @@ msgstr "是非、誰かに話したいのだが..."
 #: A_New_Order/scenarios/13_Scouting.cfg:769
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:580
 msgid "Ruvio, please tell me..."
-msgstr "Ruvio 、教えてくれないか.."
+msgstr "Ruvio 、教えてくれないか..."
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:475
@@ -5745,12 +5717,9 @@ msgstr "なぜ　Lorin を嫌うのだ？"
 msgid "Tell me more about you and my mother."
 msgstr "君と 私の母について、もっと教えてくれないか。"
 
-# #po: ‘.’ is missing.
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:477
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:583
-#, fuzzy
-#| msgid "Tell me about Karen"
 msgid "Tell me about Karen."
 msgstr "Karen のことを教えてくれ。"
 
@@ -5886,7 +5855,6 @@ msgstr "なぜ Deorien を殺したいんだ？"
 msgid "Why have you been so upset recently?"
 msgstr "最近、動揺しているようだけど、何かあった？"
 
-# #po: ‘.’ is missing.
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:514
 #: A_New_Order/scenarios/20_Okladia.cfg:531
@@ -5894,8 +5862,6 @@ msgstr "最近、動揺しているようだけど、何かあった？"
 #: A_New_Order/scenarios/13_Scouting.cfg:849
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:619
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:626
-#, fuzzy
-#| msgid "Never mind"
 msgid "Never mind."
 msgstr "いや、何でもない。"
 
@@ -5943,16 +5909,12 @@ msgstr "今後についての計画はあるか？"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:530
-#, fuzzy
-#| msgid ""
-#| "If Oracle is so respected by Akladians, why does not she simply declare "
-#| "Akladians should love Wesnothians?"
 msgid ""
 "If the Oracle is so respected by Akladians, why does she not simply declare "
 "that Akladians should love Wesnothians?"
 msgstr ""
-"もしも預言者が Akladia 人から尊敬されているなら、率直に Wesnoth 人を愛せと進"
-"言すればよいと思うが。"
+"もしもあの預言者が Akladia 人から尊敬されているなら、彼らに率直に、Wesnoth 人"
+"を愛すべきと進言すればよいと思うのだが？"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:534
@@ -6116,12 +6078,6 @@ msgstr ""
 #. [part]
 #. The Oracle is still speaking; "ye" is an archaic form of "you":
 #: A_New_Order/scenarios/25_The_Awakening.cfg:299
-#, fuzzy
-#| msgid ""
-#| "Ye have heard the stories about undead invading the neighbouring kingdom "
-#| "of Okladia. Some lost all hope. But be ye not afraid, for there is a man "
-#| "who is sent here to stop the undead menace and to cleanse the evil "
-#| "festering within the very heart of our country. "
 msgid ""
 "Ye have heard the stories about undead invading the neighbouring kingdom of "
 "Okladia. Some lost all hope. But be ye not afraid, for there is a man who is "
@@ -6468,41 +6424,26 @@ msgstr ""
 "んだ？ 私は、Freetown で家族全員を失った。でも、無実の人々を殺すことで復讐し"
 "たいなんて全く思わない。誰一人として救われない。"
 
-# #po: typo?  with -> will
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:942
-#, fuzzy
-#| msgid ""
-#| "You have to react, my king. If you won't stop this, Akladians with turn "
-#| "away from you and there will be another round of civil war."
 msgid ""
 "You have to react, my king. If you don't punish the Wesnothians to stop them "
 "from committing further reprisals, the Akladians will turn away from you, "
 "and there will be another round of civil war."
 msgstr ""
-"王様、行動を起こすべきです。ここで立ち止まってしまっては、Akladia 人はあなた"
-"から離れ、新たな内戦が勃発するでしょう。"
+"王様、行動を起こすべきです。これ以上 Wesnoth 人が報復しないよう処罰しなけれ"
+"ば、Akladia 人はあなたから離れ、新たな内戦が勃発するでしょう。"
 
-# #po: it's very strange.
-# Huon makes the opposite statement to the one he made earlier.
-# Or is this his own rebuttal to his own opinion earlier?
-# (ヒュオンは先ほどとは正反対の発言をしている。
-# それとも、これは、さっきの彼自身の意見に対して、自分で反論している？)
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:943
-#, fuzzy
-#| msgid ""
-#| "Punish them? Why? They acted out of despair and anger, they lost their "
-#| "whole families at the hands of Akladians, how can you punish them? If you "
-#| "do, a lot of the Wesnothians will turn away from you..."
 msgid ""
 "Punish them? Why? These people acted out of despair and anger, they lost "
 "their whole families at the hands of Akladians, how can you punish them? If "
 "you do, a lot of the Wesnothians will turn away from you..."
 msgstr ""
-"罰する？なぜ？彼らは絶望と怒りから行動したのだ。Akladia 人の手で家族全員を"
-"失った彼らを、どうして罰することができるのだ？そんなことをしたら、多くの "
-"Wesnoth 人があなたから離れてしまうだろう.."
+"罰する？なぜ？ここの人たちは絶望と怒りから行動したのだ。Akladia 人の手で家族"
+"全員が奪われた彼らを、どうして罰することができるのだ？そんなことをしたら、多"
+"くの Wesnoth 人があなたから離れてしまうだろう.."
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:944
@@ -6713,7 +6654,6 @@ msgstr "Freetown の位置は誰に聴いたのだ？"
 msgid "Do you know who poisoned my mother?"
 msgstr "私の母を毒殺した者を知っているか？"
 
-# #po: instead ?
 #. [event]
 #. "instead" as in "instead of where he actually is":
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1196
@@ -6739,8 +6679,8 @@ msgid ""
 "Don't kill me, Lorin! I knew you when you were a little child, I even played "
 "games with you when you were small..."
 msgstr ""
-"助けて来れ、Lorin ！ お前が子供の頃から知った仲ではないか、お前が小さい頃から"
-"一緒に遊んだこともあった..."
+"助けて来れ、Lorin ！ お前が幼い頃から知った仲ではないか、お前が小さい頃から一"
+"緒に遊んだこともあった..."
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:1214
@@ -7685,12 +7625,6 @@ msgstr "すべてだ。"
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:794
-#, fuzzy
-#| msgid ""
-#| "Well, she was from a royal house. The Akladian king gave her a simple "
-#| "choice: marry him or he would unleash his anger on her family. So, she "
-#| "agreed. I visited her from time to time, singing songs, bringing her news "
-#| "from home... "
 msgid ""
 "Well, she was from a royal house. The Akladian king gave her a simple "
 "choice: marry him, or he would unleash his anger on her family. So, she "
@@ -7784,15 +7718,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:812
-#, fuzzy
-#| msgid ""
-#| "I can also dance. Gawen. When we return to Freetown I could dance for "
-#| "you... "
 msgid ""
 "I can also dance. Gawen. When we return to Freetown I could dance for you..."
 msgstr ""
 "他にはダンスも。Gawen さん。みんなで Freetown に戻ったときには、あなたのため"
-"に踊れると思いますわ... "
+"に踊れると思いますわ..."
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:813
@@ -7850,12 +7780,6 @@ msgstr ""
 #. [event]
 #. Yahyazad is using some metaphorical languague here:
 #: A_New_Order/scenarios/13_Scouting.cfg:824
-#, fuzzy
-#| msgid ""
-#| "That is fortunate for me. She seems to have locked her heart up in an "
-#| "unbreakable fortress... but I think I can find a way into her heart. With "
-#| "time and patience, I'm sure I can discover a way to break down those "
-#| "walls. "
 msgid ""
 "That is fortunate for me. She seems to have locked her heart up in an "
 "unbreakable fortress... but I think I can find a way into her heart. With "
@@ -7909,8 +7833,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:829
-#, fuzzy
-#| msgid "You find my step-mother... a worthy challenge, then? "
 msgid "You find my step-mother... a worthy challenge, then?"
 msgstr ""
 "あなたは私の継母を... 挑戦する価値がある女性だと思っている、そういうことだ"
@@ -7918,8 +7840,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:830
-#, fuzzy
-#| msgid "I do... and shall gladly pay the price to try to win her heart. "
 msgid "I do... and shall gladly pay the price to try to win her heart."
 msgstr ""
 "ええ、そうです... それに、彼女の心を射止めるためなら、どんな代償でも払うつも"
@@ -7927,10 +7847,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:831
-#, fuzzy
-#| msgid ""
-#| "You have my blessing, noble Majid, for what it's worth. Sometimes the "
-#| "ruthlessness of the 'She-Wolf of Haeltin' still scares even me. "
 msgid ""
 "You have my blessing, noble Majid, for what it's worth. Sometimes the "
 "ruthlessness of the 'She-Wolf of Haeltin' still scares even me."
@@ -8773,25 +8689,19 @@ msgstr ""
 msgid "Scouting Near Barnon"
 msgstr "Barnon 近郊の偵察"
 
-# #po:  The middle part of the original text is redundant. (jp:原文の中間部分が冗長)
 #. [part]
 #. spoken by Gawen; he repeats himself because he's second-guessing how he feels about what he's thinking about:
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:30
-#, fuzzy
-#| msgid ""
-#| "Entering the forests surrounding Barnon from the north, I could not stop "
-#| "myself from thinking about the battle a few months ago, when I was "
-#| "betrayed and left for dead on the battlefield. But then, if not for that "
-#| "betrayal and that battle, I would probably never met Ruvio and Karen..."
 msgid ""
 "Entering the forests surrounding Barnon from the north, I could not stop "
 "myself from thinking about the battle a few months ago, when I was betrayed "
 "and left for dead on the battlefield. But then again, if it had not been for "
 "that betrayal and that battle, I would probably never met Ruvio and Karen..."
 msgstr ""
-"森に囲まれた Barnon へ北側から入っていくと、数ヶ月前の戦闘のことが思い出さ"
-"れ、頭から消すことができなかった。裏切られ、戦場で見殺しにされた。しかしそれ"
-"がなければ、Ruvio や Karen と出会うこともなかっただろう..."
+"森に囲まれた Barnon へ北側から足を踏み入れると、数ヶ月前の戦いのことが思い出"
+"され、頭から消すことができなかった。裏切られ戦場に置き去りにされ死にかけたの"
+"だ。しかしその裏切りと戦いがなければ、Ruvio や Karen と出会えなかったのもまた"
+"確かだろう..."
 
 #. [side]: id=Kariv Rebarnon, type=Akladian Lord
 #. [scenario]: id=14a_Scouting_Near_Barnon
@@ -9696,7 +9606,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:388
 msgid "Why? At least Wesnothian woman guarantee healthy children."
-msgstr "理由は何だ？少なくとも Wesnoth の女性は健康な子供が保証されるんだ。"
+msgstr "理由は何だ？少なくとも Wesnoth の女性は健康な子が保証されるんだ。"
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:389
@@ -10664,8 +10574,6 @@ msgstr "反逆者"
 #. [event]
 #. Ruvio addressing Gawen (or "Haldric", as he calls him):
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:305
-#, fuzzy
-#| msgid "Finally, you awaken. "
 msgid "Finally, you awaken."
 msgstr "ようやく、お目覚めになりましたね。"
 
@@ -10749,7 +10657,6 @@ msgstr ""
 "方が、話をされていた可愛い Haldric 様ですか？普通ですね、見た目は。Akladia 人"
 "じゃないみたいだわ。"
 
-# #po: temperment -> temperament
 #. [event]
 #. spellcheckers don't catch "temperment" as a misspelling of "temperament" because it's a misspelling that's been made often enough to have become accepted:
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:347
@@ -11727,8 +11634,8 @@ msgid ""
 "children and many of them are born sick. A Wesnothian woman could give me a "
 "son!"
 msgstr ""
-"そもそも、俺たちの女は道の呪いにかかってる。子供ができにくいし、できても病気"
-"で生まれることが多い。Wesnoth人の女なら息子を作れると思ったんだ！"
+"そもそも、俺たちの女は道の呪いにかかってる。子ができにくいし、できても病気で"
+"生まれることが多い。Wesnoth人の女なら息子を作れると思ったんだ！"
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:590
@@ -12115,7 +12022,6 @@ msgstr ""
 "しませんよ、貴き Reumario 。あなたと戦えて光栄だった。安らかに最期を迎えても"
 "らいたい。"
 
-# #po: why renamable?
 #. [event]
 #. brother of the other Reumario:
 #: A_New_Order/scenarios/23_Trapped.cfg:566
@@ -12125,7 +12031,6 @@ msgstr ""
 msgid "Aire Reumario"
 msgstr "Aire Reumario"
 
-# #po: used as fixed name
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:567
 msgid ""
@@ -12153,7 +12058,6 @@ msgstr ""
 "</I>）私の従兄弟はあの女と結婚して我が家族の名を怪我すべきではなかったの"
 "だ！　唾すべき仕業だったのさ、ペッ！"
 
-# #ja: who's hand ?
 #. [event]
 #. "with knife in hand" is short for "with a knife in your hand":
 #: A_New_Order/scenarios/23_Trapped.cfg:575
@@ -12405,7 +12309,6 @@ msgstr ""
 "私がまだ若かった頃、家族が預言者の所へ連れて行ったのよ。私の未来について尋ね"
 "た。まったく予想もしない答えが返ってきて、家族みんな、とっても興奮してた。"
 
-# #po: Queen ->Queen consort ?
 #. [part]
 #. "queen consort" might be more technically correct than just "queen", but as an American, I (egallager) don't really concern
 #. myself too heavily with the subtle distinctions of terminology relating to royalty, so I can't say for certain:
@@ -12488,7 +12391,7 @@ msgstr ""
 #. [part]
 #: A_New_Order/scenarios/29_Epilogue.cfg:48
 msgid "Yes, Gawen. This child... it will be your first born."
-msgstr "そうなの、Gawen 。この子は... あなたの最初の子供になるの。"
+msgstr "そうなの、Gawen 。この子は... あなたの最初の子になるの。"
 
 #. [part]
 #: A_New_Order/scenarios/29_Epilogue.cfg:52
@@ -12501,11 +12404,11 @@ msgid ""
 "forgiveness."
 msgstr ""
 "私はこの世界でたくさんの悪事を重ねてた。その償いができるとも思っていない。あ"
-"なたが子供の父親であることを誰かに話すことは、新たな戦争の勃発を意味するわ。"
-"あなたが Akladia の慣習への重篤な冒涜を、しかもあなたのお父様の未亡人とともに"
-"引き起こしたとなれば、Akladia があなたを見放すことは火を見るより明らかだわ。"
-"それに... 私は神の戒めを破ってしまった。それに神は何らの慈悲も示さなかった。"
-"神に救いは願えない。"
+"なたがこの子の父親であることを誰かに話すことは、新たな戦争の勃発を意味する"
+"わ。あなたが Akladia の慣習への重篤な冒涜を、しかもあなたのお父様の未亡人とと"
+"もに引き起こしたとなれば、Akladia があなたを見放すことは火を見るより明らかだ"
+"わ。それに... 私は神の戒めを破ってしまった。それに神は何らの慈悲も示さなかっ"
+"た。神に救いは願えない。"
 
 #. [part]
 #: A_New_Order/scenarios/29_Epilogue.cfg:56
@@ -12518,8 +12421,8 @@ msgstr ""
 "それでも私は願っているの... あなたが心の中に慈悲を見出してくれることを。え"
 "え... 私は絶対にあなたの愛を手に入れることはできない...でも... もしかする"
 "と... もしかして...　一度だけでいいから、私に触れてもらいたい、あの夜のよう"
-"に... これからは、そのときの感覚を忘れずに持ち続ける、あなたの子供とともに遠"
-"い場所へ送られても、そのことを思い出にして生きていける。"
+"に... これからは、そのときの感覚を忘れずに持ち続ける、あなたの子とともに遠い"
+"場所へ送られても、そのことを思い出にして生きていける。"
 
 #. [part]
 #: A_New_Order/scenarios/29_Epilogue.cfg:60
@@ -12531,7 +12434,7 @@ msgid ""
 "I... I am laughing.... "
 msgstr ""
 "止めようとしないで。無駄なのは知ってるはず。Vakladia のため、Wesnoth のため、"
-"あなた自身のため。私 Lorin は、私と子供のことを忘れるよう、あなたに命じま"
+"あなた自身のため。私 Lorin は、私とこの子のことを忘れるよう、あなたに命じま"
 "す！　バカみたいよね、私が、Lorin が、こんなに抽象的な話、新たな統一国家とい"
 "う考えのために、自分自身を犠牲にするなんてね。ほら見てよ、私、笑ってる。私..."
 "笑ってるの... "
@@ -12587,11 +12490,11 @@ msgid ""
 "their days together."
 msgstr ""
 "Lorin はデュンフォークの自治領内を旅し、彼らに仲間入りするために必要な誓いを"
-"立て、Majid Yahyazad を探し続けました。ついに Lorin とその子供に出会った "
-"Majid は二人の世話をし、その子を自分の息子のように育て、「Haeltin のメス狼」"
-"にとってふさわしい愛と敬意を彼女に示しました。噂では二人が幸せであったかどう"
-"かは分かりませんが、互いに献身的であったことは確かで、残りの日々を共に過ごし"
-"ました。"
+"立て、Majid Yahyazad を探し続けました。ついに Lorin とその子に出会った Majid "
+"は二人の世話をし、その子を自分の息子のように育て、「Haeltin のメス狼」にとっ"
+"てふさわしい愛と敬意を彼女に示しました。噂では二人が幸せであったかどうかは分"
+"かりませんが、互いに献身的であったことは確かで、残りの日々を共に過ごしまし"
+"た。"
 
 #. [part]
 #: A_New_Order/scenarios/29_Epilogue.cfg:76
@@ -13172,9 +13075,9 @@ msgid ""
 "would have to be killed as well, because such a man's life is offensive "
 "before God's eyes."
 msgstr ""
-"決断なさってください、陛下。それから、その子供の父親が誰なのか、明らかにしな"
-"ければいけません。その男性も生かしてはおけません、なぜなら、そうした命も神の"
-"目の前では汚れたものだからです。"
+"決断なさってください、陛下。それから、その子の父親が誰なのか、明らかにしなけ"
+"ればいけません。その男性も生かしてはおけません、なぜなら、そうした命も神の目"
+"の前では汚れたものだからです。"
 
 #. [event]
 #: A_New_Order/scenarios/28_Lorin.cfg:232
@@ -13244,8 +13147,8 @@ msgid ""
 "...and one more thing: why punish an innocent child for the crime of the "
 "father and mother? Let the child live."
 msgstr ""
-"...そしてもう一点、父親と母親の罪のために、なぜ罪のない子供を罰するのでしょう"
-"か？子供を生かせばよいのです。"
+"...そしてもう一点、父親と母親の罪のために、なぜ罪のない子を罰するのでしょう"
+"か？その子を生かせばよいのです。"
 
 #. [event]
 #: A_New_Order/scenarios/28_Lorin.cfg:242
@@ -13258,8 +13161,8 @@ msgid ""
 "My magical training is in the healing arts. I know ways to shield the child "
 "and protect it."
 msgstr ""
-"私の魔術の訓練は治癒の技術に関するものです。魔術が盾となって子供を守り育む方"
-"法を知っているのです。"
+"私の魔術の訓練は治癒の技術に関するものです。魔術が盾となって子を守り育む方法"
+"を知っているのです。"
 
 #. [event]
 #: A_New_Order/scenarios/28_Lorin.cfg:244
@@ -13278,9 +13181,9 @@ msgid ""
 "child. And it also protects Wesnoth. One woman is not worth civil war. And "
 "you know it."
 msgstr ""
-"王様、私の提案とは、結局は彼女とその子供をいかにして守るかなのです。そしてそ"
-"れは Wesnoth もまた守ることになるのです。一人の女性が内戦を惹き起こす火種にな"
-"るなど、馬鹿げた話です。王様もお分かりのはずです。"
+"王様、私の提案とは、結局は彼女とその子をいかにして守るかなのです。そしてそれ"
+"は Wesnoth もまた守ることになるのです。一人の女性が内戦を惹き起こす火種になる"
+"など、馬鹿げた話です。王様もお分かりのはずです。"
 
 #. [event]
 #: A_New_Order/scenarios/28_Lorin.cfg:246
@@ -13307,7 +13210,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/28_Lorin.cfg:264
 msgid "Despicable doxy, who is the father of the child?"
-msgstr "卑しむべき女よ、その子供の父親は誰なのだ？"
+msgstr "卑しむべき女よ、その子の父親は誰なのだ？"
 
 #. [event]
 #: A_New_Order/scenarios/28_Lorin.cfg:265
@@ -13350,7 +13253,7 @@ msgid ""
 msgstr ""
 "あなたは動揺していて、それで話を聞いていなかったのですね。あなたは殺されませ"
 "んよ、Lorin 。ただ、あなたは目を失うことになりますし、どこかへ追放されます。"
-"私は、あなたの子供が生き残るために必要なことを施すことをお約束します。"
+"私は、あなたの子が生き残るために必要なことを施すことをお約束します。"
 
 #. [event]
 #: A_New_Order/scenarios/28_Lorin.cfg:270
@@ -13386,7 +13289,6 @@ msgstr ""
 "なことであったかもしれない。だが私にとって、この騒々しい熱狂が驚きだったこと"
 "は確かだ。"
 
-# #po: Akladian ranks?   (Okladian ranks?)
 #. [part]
 #. Okladians are a subset of Akladians, so it's okay to say that the Okladian army has Akladian ranks:
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:26
@@ -13575,10 +13477,6 @@ msgstr ""
 #. [scenario]: id=22_Leaving_Okladia
 #. Case where Raban Harnen left; "with" here is used in the same sense as "against":
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:174
-#, fuzzy
-#| msgid ""
-#| "My brother fought with soldiers led by someone called 'Gaumhaldric.' Do "
-#| "you.. Do you know who Gaumhaldric is?"
 msgid ""
 "My brother fought with soldiers led by someone called 'Gaumhaldric.' Do "
 "you... Do you know who Gaumhaldric is?"
@@ -13674,7 +13572,6 @@ msgstr ""
 "しているし、言葉も交わしている。彼こそ我らの正当な王だし、我らのもとに戻って"
 "くるだろう。"
 
-# #po: "if he indeed was Gaumhaldric" ?
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:442
 msgid ""
@@ -13702,7 +13599,6 @@ msgstr ""
 "て死んだ ― 多くの人の話では ― 我が王 Gawen の双子の兄弟ではないかと思えるよう"
 "な人間だ。"
 
-# #po: "He was left alive."  ... Who is "He"?
 #. [event]
 #. case where Raban Harnen left; "fought with" = "fought against"; the "He" in "He was left alive" refers to Raban:
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:448
@@ -13758,7 +13654,6 @@ msgstr ""
 msgid "I will lose it in battle. Charge!"
 msgstr "戦闘で痩せるわ。さ、補給しに行くわよ！"
 
-# #po: no need ". "
 #. [objective]: condition=win
 #. trailing space is intentional, to pad the footnote a bit:
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:472
@@ -13901,15 +13796,13 @@ msgstr ""
 "色々な噂が飛び交っています。救世主がやってきて、全 Akladia 人を統合し真の偉大"
 "なものに導いて... （<i> あぁ... </i>）...それから... （<i> あぁ... </i>）"
 
-# #po: missinng '.'
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:624
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:655
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:667
-#, fuzzy
-#| msgid "He is dead now. Lie in peace, warrior. I will keep my promise"
 msgid "He is dead now. Lie in peace, warrior. I will keep my promise."
-msgstr "彼は今亡くなった。安らかに眠りにつくがよい、兵士よ。約束は守るからな。"
+msgstr ""
+"彼は今、息を引き取った。安らかに眠りにつくがよい、兵士よ。約束は守るからな。"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:629
@@ -14156,11 +14049,8 @@ msgstr ""
 "Okladia の領主は臆病者ばかりだから、それほど不思議じゃないでしょ？他に何か知"
 "らないの？知らない？じゃあ死んで。"
 
-# #po: missing '.'
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:782
-#, fuzzy
-#| msgid "You were worthy fighter, noble Bal Riddon"
 msgid "You were a worthy fighter, noble Bal Riddon."
 msgstr "あなたは立派な戦士でした、貴き Bal Riddon 殿。"
 
@@ -14173,7 +14063,6 @@ msgstr ""
 "君もだよ、Reme 、君もそうだ。君は誇り高く振る舞った。だから、私が死ぬ前に一つ"
 "忠告しようと思う。君が進む先には罠が待っているぞ。"
 
-# #po: multi
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:784
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:160
@@ -14275,20 +14164,14 @@ msgstr ""
 "はいはい、落ち着いて。あれは Buffin 軍の前衛兵に過ぎないわ。勝利する機会は十"
 "分に有るから大丈夫よ。"
 
-# #po: '.'
 #. [event]
 #. "$tmp" is the name of a unit:
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:995
-#, fuzzy
-#| msgid ""
-#| "I have strange feeling of dejavu... Hey, $tmp, take care of yourself, "
-#| "would you? "
 msgid ""
 "I have a strange feeling of dejavu... Hey, $tmp, take care of yourself, "
 "would you?"
 msgstr ""
-"なんだか来ミュな既視感が有るのだが... やあ、$tmp 、元気に過ごすんだぞ、いい"
-"ね？"
+"なんだか奇妙な既視感が有るのだが... なあ、$tmp 、元気に過ごすんだぞ、いいね？"
 
 # #ja: S16>>
 #. [scenario]: id=16_Choosing_the_Best
@@ -14639,8 +14522,6 @@ msgstr ""
 "せてください。今回は、ユニットを召喚してすぐに移動することができますので、"
 "ターン終了ボタンはクリックしないでください。"
 
-# #po: なぜレベルごとにコメントを変える必要があるのか理解できない。同じでよいのでは？
-# "haste"特性の定義と使用箇所は？
 #. [objectives]
 #. HARD difficulty, thus, this version of the note is supposed to be shorter & vaguer than it is on the 2 easier difficulties
 #. the "famous trading card game" in question is Magic: the Gathering, but don't actually say that, though,
@@ -14766,14 +14647,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/03_Coronation.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Perhaps it is because of Gawen. Before I began serving his father, I "
-#| "never wondered about the differences between us and underlings. It was "
-#| "simple: God himself gave us this world to rule; everyone else was to "
-#| "serve us. Yet, Gawen Hagarthen is half underling. In fact, he looks a lot "
-#| "like one of them. And he was always more brave and honorable than many "
-#| "Akladians I know... "
 msgid ""
 "Perhaps it is because of Gawen. Before I began serving his father, I never "
 "wondered about the differences between us and underlings. It was simple: God "
@@ -15023,14 +14896,11 @@ msgstr "Raul O Barron"
 msgid "Marlin Barrae"
 msgstr "Marlin Barrae"
 
-# #ja: no need of '.'
 #. [objective]: condition=win
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:181
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:172
-#, fuzzy
-#| msgid "Reach the signpost with Gawen."
 msgid "Reach the signpost with Gawen"
-msgstr "Gawen が標識に到着する。"
+msgstr "Gawen が標識に到着する"
 
 #. [event]
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:199
@@ -15204,8 +15074,6 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/23b_Trapped.cfg:25
 #: A_New_Order/scenarios/23a_Trapped.cfg:26
-#, fuzzy
-#| msgid " Heh, Heh, 'if you don't like me', Gawen, you are fabulous."
 msgid "Heh, Heh, 'if you don't like me', Gawen, you are fabulous."
 msgstr "あらまぁ、\"私が嫌いでも構わないが\"だなんて、Gawen 、素敵ねえ。"
 
@@ -15830,11 +15698,8 @@ msgstr ""
 "預言者の言うとおりだったな、いつもと同じだ！救援が来るぞ！きつくても戦うんだ"
 "ぞ、みんな、救援が来るまでは持ちこたえるんだぞ！"
 
-# #po: no need '.'  in an objective description
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1592
-#, fuzzy
-#| msgid "Any enemy unit reaches the keep of the Oracle."
 msgid "Any enemy unit reaches the keep of the Oracle"
 msgstr "敵軍の誰かが預言者の主塔に到達する"
 
@@ -15899,8 +15764,6 @@ msgstr "お終いだ！預言者が奴らに捕らえられた！"
 msgid "We've won! At last. Now, where is that famous oracle?"
 msgstr "ついに勝ったぞ！さあ、あの有名な預言者を探そう、どこにいる？"
 
-# #po: articles も capitalization も存在しない日本語では、なかなか困難。
-# しかも、The Oracle の訳語を変更しなければならないようなことは、基本的に無理。こうした部分は無視するしかないと考える。
 #. [event]
 #. if your language doesn't have articles or capitalization, come up with some other sort of linguistic cue to signify
 #. that 'The Oracle' is special, like a unique honoriffic (if your language has those) or something... for example,
@@ -16528,7 +16391,6 @@ msgstr ""
 "り、彼女は彼の抵抗によるボーナスを得ます： Lorin は$ano_howmanyturns 以上の"
 "ターンごとに $bonus_amt gold を受け取ります： $ano_barnon_turns ターン"
 
-# #ja: "you" 誰？
 #. [event]
 #. Gawen addressing Reme; "you" = "Reme":
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1504
@@ -16539,7 +16401,6 @@ msgstr ""
 "しまった！敵の新たな援軍が到着した、Reme も君たちも逃走の機会が無くなった！私"
 "はこれ以上、持ちこたえられない！"
 
-# #ja: "you" 誰？
 #. [event]
 #. Gawen addressing Lorin; "you" = "Lorin":
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:1511
@@ -16847,7 +16708,6 @@ msgstr "Bor Cryne と Uri van Roe は、それぞれ $gold_amt gold を獲得し
 msgid "yet he is still alive"
 msgstr "彼は、まだ生きている"
 
-# #po: ??  このcfgの tmp 兵士全般
 #. [event]
 #. I was so sure our warriors will kill that
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:2308
@@ -17557,7 +17417,7 @@ msgstr "アーッ！ まだ家族の仇を討てていなかったのに！"
 #. "Ha ha! Now plural^you are (all) doomed!"
 #: A_New_Order/scenarios/27_Orannon.cfg:1105
 msgid "Ha ha! Now you are doomed!"
-msgstr "ハッハッハ！ お前の運は尽きた！"
+msgstr "ハッハッハ！ お前たちの運は尽きた！"
 
 #. [event]: id=Grekulak_arrives
 #: A_New_Order/scenarios/27_Orannon.cfg:1122
@@ -18028,8 +17888,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:186
-#, fuzzy
-#| msgid "Karen, I... "
 msgid "Karen, I..."
 msgstr "Karen 、私は..."
 
@@ -18436,14 +18294,11 @@ msgstr ""
 "槍兵か弓兵を最大４人まで雇用できます。４人目の兵を雇用した時点で、雇用ができ"
 "なくなります。"
 
-# #ja: Period symbol not required.
 #. [objective]: condition=win
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:211
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:344
-#, fuzzy
-#| msgid "Kill the enemy leader."
 msgid "Kill the enemy leader"
-msgstr "敵のリーダーを殺す."
+msgstr "敵のリーダーを殺す"
 
 #. [then]
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:243
@@ -18918,25 +18773,19 @@ msgstr ""
 msgid "Note: you will receive no bonus if you withdraw with Reme."
 msgstr "注意：Reme と一緒に撤退する場合は、ボーナスはありません。"
 
-# #po:I would like to know why Konrad2 suggested ‘I think it is fine as is.’
 #. [part]
 #. Konrad2 suggests "to not be" instead of "not to be" but I (egallager) think it is fine as is;
 #. see https://forums.wesnoth.org/viewtopic.php?p=663581#p663581 for Konrad2's original suggestion
 #: A_New_Order/scenarios/14b_Bontom.cfg:120
-#, fuzzy
-#| msgid ""
-#| "Guides showed Gawen where Bontom was located. He and his army soon "
-#| "reached the area. Of course his army was too big for it not to be noticed "
-#| "and his scouts reported that enemies were preparing their defenses."
 msgid ""
 "Guides showed Gawen where Bontom was located. He and his army soon reached "
 "the area. Of course, his army was too big for it not to be noticed, and his "
 "scouts reported that enemies were preparing their defenses."
 msgstr ""
 "道案内の者たちが Bontom の場所を Gawen に示してくれたこともあり、すぐに "
-"Bontom に到着しました。Gawen 軍は大軍であるにも関わらず気づかれることなく行軍"
-"できたのです。斥候によれば、敵は防衛の準備を進めていたようでした。そちらに気"
-"を取られていたのかもしれません。"
+"Bontom に到着しました。当然、Gawen 軍はあまりに大規模のため気付かれずに進軍で"
+"きるわけはなく、斥候の報告によれば、敵は防御の準備を整え始めたとのことでし"
+"た。"
 
 #. [side]: id=Hans the Ripper, type=Fugitive
 #. [event]
@@ -18995,8 +18844,6 @@ msgstr ""
 msgid "Wait! Who's there?"
 msgstr "待て！そこにいるのは誰だ？"
 
-# #po: "select your answer"
-# #ja: 質問への回答の選択を促す場面
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:346
 msgid "And what do you think?"
@@ -19572,7 +19419,6 @@ msgstr ""
 msgid "Ooo, who's there? The avengers from Freetown on a mission, huh?"
 msgstr "おや、そこにいるのは誰だい？　Freetown からの命令で来た復讐者かい？"
 
-# #po: male^ female^ others^
 #. [event]
 #. "we" refers to a group that contains both male and female members;
 #. it shouldn't really matter which of those the speaker is:
@@ -19605,11 +19451,6 @@ msgstr "Freetown への帰還"
 #. [part]
 #. spoken by Gawen:
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:16
-#, fuzzy
-#| msgid ""
-#| "The winter was just ending when we returned to Freetown. Soldiers were "
-#| "singing mirthful songs, waiting impatiently for the chance to see the "
-#| "faces of their wives and children again. "
 msgid ""
 "The winter was just ending when we returned to Freetown. Soldiers were "
 "singing mirthful songs, waiting impatiently for the chance to see the faces "
@@ -19686,20 +19527,15 @@ msgstr ""
 "ええ、そうしましょう。Ruvio と、この勇敢な若者がもたらした知らせは極めて重要"
 "なものです。"
 
-# #ja: Huon
 #. [event]
 #. Huon Ryedric responds to Mithrandil; "they" = your party:
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:151
-#, fuzzy
-#| msgid ""
-#| "But why? All they brought back is a name: Grekulak.  What's so important "
-#| "about that?"
 msgid ""
 "But why? All they brought back is a name: Grekulak. What's so important "
 "about that?"
 msgstr ""
-"しかしなぜです？ Grekulak という名前を持ち帰っただけですよね、何がそれほど重"
-"要なのです？"
+"しかしなぜです？ Grekulak という名前の情報を持ち帰っただけですよね、何がそれ"
+"ほど重要なのです？"
 
 #. [event]
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:152
@@ -19870,7 +19706,6 @@ msgstr ""
 "が Hagarthen 一族からやって来た。で、私たちに言ったの、神はこれ以上待つことを"
 "お望みではない、..."
 
-# #po: "We fought ... ,fighting ... " ??
 #. [event]
 #. "fighting with nightmarish creatures" is a participial phrase, i.e. behaving as an adjective, so there is no verb tense disagreement to worry about here:
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:181
@@ -19972,8 +19807,7 @@ msgstr ""
 msgid "No. No. That's not true. That's... leave me alone."
 msgstr "違うわ、そんなの嘘よ。そんなこと... 一人にしてちょうだい。"
 
-# #ja: S30>> 要検討
-# 最終章　終わりに　結果発表　エンディング
+# #ja: S30>>
 #. [scenario]: id=30_Final
 #: A_New_Order/scenarios/30_Final.cfg:39
 msgid "Final"
@@ -19994,7 +19828,6 @@ msgstr ""
 "あなたの一言が、そうした仲間たちの励みにもなります。ご意見・ご感想をお待ちし"
 "ています。"
 
-# #ja: 要検討
 #. [label]
 #. We are considering adding achievements for some of these,
 #. but they might not necessarily correspond 1-to-1, so let's
@@ -20145,10 +19978,6 @@ msgstr ""
 #. [event]
 #. ends in a colon because it leads into the following messages:
 #: A_New_Order/scenarios/30_Final.cfg:184
-#, fuzzy
-#| msgid ""
-#| "Extra Credit (5 points possible; 6 if you are playing on the 'hard' "
-#| "level, and 7 if you are playing on the 'nightmare' level): "
 msgid ""
 "Extra Credit (5 points possible; 6 if you are playing on the 'hard' level, "
 "and 7 if you are playing on the 'nightmare' level):"
@@ -20166,7 +19995,6 @@ msgstr ""
 "シナリオ「Barnon 近郊の偵察」にて、 Hoyre を追い詰めたことで追加得点を獲得し"
 "ました。"
 
-# #ja: S18 タイトルは仮
 #. [event]
 #. cross-reference against titles for scenarios 17 and 18:
 #: A_New_Order/scenarios/30_Final.cfg:197
@@ -20239,8 +20067,6 @@ msgstr "...また、macOSの場合は、以下の中にあるはずです："
 msgid "...while on Windows you can find it in directory:"
 msgstr "...Windowsの場合は、以下のディレクトリ（フォルダ）にあります："
 
-# #po: 24 is too large.
-# (Please display on multiple lines.)
 #. [endlevel]
 #. WIP: getting this to display properly; see:
 #. https://github.com/wesnoth/wesnoth/issues/6041
@@ -20252,8 +20078,9 @@ msgid ""
 "directory, as described previously.</span>"
 msgstr ""
 "<span font='DejaVu Sans 24' color='white'>これで終わりです！ Wesnothフォーラ"
-"ムにご参加ください。また、キャンペーン・ディレクトリ内の readme.txt ファイル"
-"もお読みください。</span>"
+"ムにご参加ください。\n"
+"また、キャンペーン・ディレクトリ内の readme.txt ファイルもお読みください。</"
+"span>"
 
 # #ja: S14e>>
 #. [scenario]: id=14e_Saorduc_Swamps
@@ -20777,13 +20604,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:20
-#, fuzzy
-#| msgid ""
-#| "Karen said she could smell the freedom in the air here. Gawen smelled "
-#| "nothing out of the ordinary, though... only the scent of meats being "
-#| "roasted over an open flame. 'Perhaps it is not given to royalty to smell "
-#| "freedom,' he thought. Messengers waited for Ruvio, asking him to come to "
-#| "the meeting of the Freetown leaders. "
 msgid ""
 "Karen said she could smell the freedom in the air here. Gawen smelled "
 "nothing out of the ordinary, though... only the scent of meats being roasted "
@@ -20870,7 +20690,6 @@ msgstr ""
 "ではそうしてくれ。さて、高貴なお客様、北方エルフの Mithrandil 殿にご挨拶を。"
 "重要な知らせを持って長旅をされてきたんだ。"
 
-# #po: "unnoticed and unopposed into" --> "unnoticed, therefore unopposed, into"
 #. [event]
 #. yes, you could add "therefore" before "unopposed", but having "unnoticed" and "unopposed" paired as they currently are
 #. just sounds better; there's a name for that particular rhetorical device, but I am forgetting it at the moment...
@@ -21049,7 +20868,6 @@ msgstr "Giombor"
 msgid "Urandil"
 msgstr "Urandil"
 
-# #po: male^  female^
 #. [event]
 #. These are used in the ELVISH_KILLING macro in macros/elvish_macros.cfg
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:427
@@ -21081,7 +20899,6 @@ msgstr ""
 msgid "No man or woman may oppose me when I have a bow or sword!"
 msgstr "男だろうが女だろうが、弓か剣を手にしている私には逆らえないの！"
 
-# #po: male^  female^
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:432
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:442
@@ -21113,11 +20930,10 @@ msgstr "剣でも弓でも、私より凄腕はいないのかしら？"
 msgid "For honour, in the name of Eloh!"
 msgstr "名誉のために、Eloh の名において！"
 
-# #ja: 確認
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:439
 msgid "Strength and honour!"
-msgstr "力と名誉！"
+msgstr "力と名誉を！"
 
 #. [event]
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:440
@@ -21236,7 +21052,6 @@ msgstr ""
 "ほど多く殺さなかっただろう！"
 
 # #ja: S18>>
-# #ja: S18 タイトルは仮
 #. [scenario]: id=18_Start_of_the_Quest
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:3
 msgid "Start of the Quest"
@@ -21268,17 +21083,9 @@ msgstr ""
 "賊や反乱者たちが ― その違いは名前だけのこともあったが ― 国中を好き放題に荒ら"
 "し回っていた。厳しい時代が訪れようとしていた。"
 
-# #po: "talk about it became" -> "talk about it and became" ?
 #. [part]
 #. spoken by Gawen:
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:31
-#, fuzzy
-#| msgid ""
-#| "I wasn't really happy with the results of our visit to Oracle. None of "
-#| "her 'answers' satisfied me. We still had no idea where to search for "
-#| "Deorien, and the exchange between Lorin and the Oracle just confused me "
-#| "more. Lorin categorically refused to talk about it became much more "
-#| "withdrawn, as though she was keeping a weighty matter to herself."
 msgid ""
 "I wasn't really happy with the results of our visit to Oracle. None of her "
 "'answers' satisfied me. We still had no idea where to search for Deorien, "
@@ -21356,15 +21163,9 @@ msgstr "お前は間違っていない。まず預言者のところへ行こう
 msgid "So, should we pick the route to Okladia that goes through the hills?"
 msgstr "さて、Okladia へ丘陵地を抜けていく道を行くべきでしょうか？"
 
-# #po: reloading -> "reloading the file and selecting another option"
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:181
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:206
-#, fuzzy
-#| msgid ""
-#| "This option is mainly intended for players, who already played 'A New "
-#| "Order' in the past, or don't care much about the story. If you do not "
-#| "fall in either category, consider reloading."
 msgid ""
 "This option is mainly intended for players, who already played 'A New Order' "
 "in the past, or don't care much about the story. If you do not fall in "
@@ -21372,8 +21173,8 @@ msgid ""
 "option."
 msgstr ""
 "このオプションは主に、このキャンペーンを以前にプレイ済みか、ストーリー自体に"
-"あまり興味がないプレイヤーを対象としています。どちらでもない場合、ファイルを"
-"リロードして別のオプションを選択することも検討してください。"
+"あまり興味がないプレイヤーを対象としています。どちらでもない場合、最新のセー"
+"ブファイルをリロードして別のオプションを選択することも検討してください。"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:183
@@ -21530,7 +21331,6 @@ msgstr ""
 msgid "A unit joined your cause."
 msgstr "1ユニットが、あなたの隊に加わりました。"
 
-# #po: Trying Japanese rhymes  :)
 #. [unit]: type=Bowman, id=Roman
 #. caret is to intentionally break the translation of anyone who might have translated this as a demonym, which would have been wrong.
 #. wordplay note: say "Roman the Bowman" aloud (it rhymes!)
@@ -21639,7 +21439,6 @@ msgstr "Har Barien"
 msgid "Fight for you? Against my own kin? No thanks."
 msgstr "あなたのために戦う？自分の親族に刃向かうんですか？それは御免ですよ。"
 
-# #po: "The Oracle" / "the Oracle" (see 2801)
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:346
 msgid ""
@@ -21655,7 +21454,6 @@ msgid ""
 "soon."
 msgstr "「神の声」は西の方にいます。近々、彼女が領主の一人を訪ねるそうですよ。"
 
-# #po: Oracle is the Load?
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:350
 msgid "How should I know? The lords live their own lives, as do we."
@@ -21715,9 +21513,9 @@ msgid ""
 "healthy children again; This winter three children were born, two of them "
 "dead."
 msgstr ""
-"もしかすると、もしもその救世主が来たら、この村の女性たちは、また健康な子供を"
-"産めるようになるかもしれません。というのも、この冬には3人の子供たちが生まれた"
-"んですが、2人が死んだのです。"
+"もしかすると、もしもその救世主が来たら、この村の女性たちは、また健康な子を産"
+"めるようになるかもしれません。というのも、この冬には3人の子供たちが生まれたん"
+"ですが、2人が死んだのです。"
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:360
@@ -21775,7 +21573,6 @@ msgstr ""
 "ゴールド？ あなたはゴールドのためではなく、自由のために戦っているのだと思って"
 "いました。非常に失望してしまいました。"
 
-# #po: "The Oracle" / "the Oracle" (see 2785)
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:452
 msgid ""
@@ -21969,7 +21766,6 @@ msgstr ""
 "現実になったわ。二番目の方は... もうすぐ分かると思う..."
 
 # #ja: S24>>
-# 陥落から悲劇に変更
 #. [scenario]: id=24_Fall_of_Freetown
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:3
 msgid "Fall of Freetown"
@@ -21990,12 +21786,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:17
-#, fuzzy
-#| msgid ""
-#| " From the first moment I knew that Freetown had not been taken by orcs. "
-#| "Orcs couldn't possibly be that atrocious. Children killed together with "
-#| "their mothers. Impaled girls and men on the trees. People burned in their "
-#| "houses. And still, no matter how stupid it seems, I still held out hope."
 msgid ""
 "From the first moment I knew that Freetown had not been taken by orcs. Orcs "
 "couldn't possibly be that atrocious. Children killed together with their "
@@ -22004,19 +21794,11 @@ msgid ""
 msgstr ""
 "一目見たときから、Freetown がオークによって集解されたのでないことは分かりまし"
 "た。オークがあれほど残虐なことをすることはありません。母親と一緒に殺された子"
-"供たち。樹木に突き刺された少女や男たち。自宅の中で焼死した人々。それでもまだ"
-"私は、どれほど馬鹿げていると思われようが、希望を捨てていませんでした。"
+"たち。樹木に突き刺された少女や男たち。自宅の中で焼死した人々。それでもまだ私"
+"は、どれほど馬鹿げていると思われようが、希望を捨てていませんでした。"
 
 #. [part]
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:21
-#, fuzzy
-#| msgid ""
-#| " Her face, though smeared with dirt and blood, was untouched. She lay in "
-#| "a position which clearly told me her fate before she met the blow of "
-#| "mercy. I knelt next to her, fondling her hair as I used to do when she "
-#| "was a child. I felt nothing. I should have felt anger, despair, I should "
-#| "have screamed for vengeance, but I felt nothing. My wife, my daughters, "
-#| "dead? It was too impossible to be believed."
 msgid ""
 "Her face, though smeared with dirt and blood, was untouched. She lay in a "
 "position which clearly told me her fate before she met the blow of mercy. I "
@@ -22025,7 +21807,7 @@ msgid ""
 "vengeance, but I felt nothing. My wife, my daughters, dead? It was too "
 "impossible to be believed."
 msgstr ""
-" 彼女の顔は、土と血にまみれていたけれど、傷一つありませんでした。彼女が慈悲の"
+"彼女の顔は、土と血にまみれていたけれど、傷一つありませんでした。彼女が慈悲の"
 "一撃を受ける前にどのような運命を迎えたのか、はっきりと物語るような姿で静かに"
 "横たわっていました。私は彼女の横にひざまずき、彼女が少女時代にしていたよう"
 "に、その髪を優しく撫でました。何も感じませんでした。怒りや絶望を感じるべきな"
@@ -22059,12 +21841,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:33
-#, fuzzy
-#| msgid ""
-#| " I don't know how long I tarried there. I didn't care about anything. "
-#| "Akladians have taken everything from me. First they took your mother from "
-#| "me. Then they killed her. And now, they have killed my daughters, my "
-#| "wife, my whole family."
 msgid ""
 "I don't know how long I tarried there. I didn't care about anything. "
 "Akladians have taken everything from me. First they took your mother from "
@@ -22078,10 +21854,8 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:37
-#, fuzzy
-#| msgid " I... am an empty shell. Nothing is left inside me."
 msgid "I... am an empty shell. Nothing is left inside me."
-msgstr " 私は... 私の心は抜け殻でした。中は空っぽで何も残っていませんでした。"
+msgstr "私は... 私の心は抜け殻でした。中は空っぽで何も残っていませんでした。"
 
 #. [event]
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:105
@@ -22243,7 +22017,6 @@ msgstr ""
 msgid "Enough. I need to be... the king desires to be alone for a moment."
 msgstr "もうたくさんだ。私はしばらく... 王は少し一人になりたいと望んでいる。"
 
-# #ja::  [.cfg comments] # FIXME: I made Fencers recruitable again earlier than this (in S19c, "The Oracle"); need to fix the dialogue...
 #. [event]
 #. FIXME: I made Fencers recruitable again earlier than this (in S19c, "The Oracle"); need to fix the dialogue...
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:125
@@ -22295,15 +22068,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:20
-#, fuzzy
-#| msgid ""
-#| "The woman who calls herself my mother is giving everyone orders in my "
-#| "name. She always stays close by me, as though she is afraid to let me be "
-#| "alone. I wish I could know what Reme Carrenemoe thinks; it seems like he "
-#| "is afraid to say any more than necessary. And that whole 'underling' "
-#| "thing... I don't know why, but sometimes, as I look at the faces of "
-#| "warriors who are around me, I feel more attached to those whom they call "
-#| "'underlings.' "
 msgid ""
 "The woman who calls herself my mother is giving everyone orders in my name. "
 "She always stays close by me, as though she is afraid to let me be alone. I "
@@ -22374,10 +22138,8 @@ msgstr "Lioato"
 
 #. [side]: id=Loyal
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:201
-#, fuzzy
-#| msgid "race^Akladians"
 msgid "Loyal Akladians"
-msgstr "Akladia 人"
+msgstr "Akladia 忠誠軍"
 
 #. [event]
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:264
@@ -22401,10 +22163,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:269
-#, fuzzy
-#| msgid ""
-#| "Vattin, the capital of our kingdom, is just a few days from here. How do "
-#| "you feel, my son? "
 msgid ""
 "Vattin, the capital of our kingdom, is just a few days from here. How do you "
 "feel, my son?"
@@ -22907,11 +22665,6 @@ msgstr "別離"
 
 #. [part]
 #: A_New_Order/scenarios/06_Separation.cfg:46
-#, fuzzy
-#| msgid ""
-#| "Finally, the party reached the crossroads. The northern path led to "
-#| "Vattin, the southern path to Reme's clan settlements. It was here that "
-#| "Reme Carrenemoe decided to leave Lorin to her fate. "
 msgid ""
 "Finally, the party reached the crossroads. The northern path led to Vattin, "
 "the southern path to Reme's clan settlements. It was here that Reme "
@@ -23039,8 +22792,8 @@ msgid ""
 "Content Note: This campaign contains mature themes, some of which may be "
 "unsuitable for children. Player discretion advised."
 msgstr ""
-"内容に関する注意：このキャンペーンには成人向けのテーマが含まれており、子供に"
-"は不適当な場面もあります。プレイする際はお気を付けください。"
+"内容に関する注意：このキャンペーンには成人向けのテーマが含まれており、子ども"
+"には不適当な場面もあります。プレイする際はお気を付けください。"
 
 #. [part]
 #. Now into the actual story part, starting with Lorin speaking to Gawen:
@@ -23634,14 +23387,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:27
-#, fuzzy
-#| msgid ""
-#| "After Mal-Ravanal's defeat, Grekulak was trapped in the swamps, spending "
-#| "his days roving in the morass and quagmire. Finally he came up with an "
-#| "idea. The undead had been storming the world of Wesnoth for millennia. "
-#| "They never succeeded, and often a very small group of brave living "
-#| "creatures - be they elves, humans or dwarves - were able to defeat large "
-#| "hordes of undead. "
 msgid ""
 "After Mal-Ravanal's defeat, Grekulak was trapped in the swamps, spending his "
 "days roving in the morass and quagmire. Finally he came up with an idea. The "
@@ -23683,17 +23428,8 @@ msgstr ""
 "推測できますが、最終的にオークも人間も自分の目的には適していないという結論に"
 "至ったのです。そこで彼独自の種族を育てることを決めたのです。"
 
-# #po: no need ' '
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:39
-#, fuzzy
-#| msgid ""
-#| "I have no idea how he was able to do it. It flies in the face of the "
-#| "whole of our knowledge and if I had not seen the living proof that he "
-#| "succeeded, I would have said it was impossible. He somehow crossed orcs "
-#| "and humans, until he got a new race of merciless warriors. He crafted and "
-#| "shaped them in every way, much as a smith crafts a sword. Yes, I am "
-#| "talking about the Akladians. "
 msgid ""
 "I have no idea how he was able to do it. It flies in the face of the whole "
 "of our knowledge and if I had not seen the living proof that he succeeded, I "
@@ -23706,20 +23442,10 @@ msgstr ""
 "私は言ったでしょう。彼はオークと人間をどうにかして掛け合わせることで、残酷な"
 "戦士用の新種族を作り出したのです。それはまるで、鍛冶屋が剣を鍛造するかのよう"
 "に、あらゆる面で形作っていったのです。そうです、私が話しているのは Akladia 人"
-"のことです。 "
+"のことです。"
 
-# #po: no need ' '
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:42
-#, fuzzy
-#| msgid ""
-#| "He wished to use them as his tool for the conquest of the world. He "
-#| "wanted warriors, not mindless slaves, so he taught them a religion in "
-#| "which he, Grekulak, was God. It was he who would lead them. He created - "
-#| "or at least strongly influenced - a whole new, brutal and violent, "
-#| "culture. Hatred for elves, disdain for the mages are clear signs of the "
-#| "workings of Grekulak. Why Akladians retained the concepts of honour and "
-#| "loyalty in the face of Grekulak's indoctrination is unclear to me. "
 msgid ""
 "He wished to use them as his tool for the conquest of the world. He wanted "
 "warriors, not mindless slaves, so he taught them a religion in which he, "
@@ -23732,10 +23458,10 @@ msgstr ""
 "彼は世界を征服するための道具として彼らを望みました。戦士としてであり、意思を"
 "持たない奴隷としてではありません。そこで、Grekulak 自身を神として崇める宗教を"
 "教えたのです。彼らを導くのが彼だったのです。彼は全く新しい、残虐で暴力的な文"
-"化を創造しました ―または、少なくとも強く影響を与えました。エルフ嫌悪や魔術師"
+"化を創造しました ― または、少なくとも強く影響を与えました。エルフ嫌悪や魔術師"
 "蔑視は、Grekulak の影響を示す明確な証拠です。Grekulak の洗脳を受けているにも"
 "関わらず、Akladia 人がなぜ名誉や忠誠の概念を維持しているのかは、私にも理解で"
-"きません。 "
+"きません。"
 
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:45
@@ -23804,16 +23530,8 @@ msgstr ""
 "て、彼らは文明化された土地に考えられないほど厳しく残酷な法を導入し、魔術師を"
 "追い払い、エルフやドワーフの商人を殺害しました。"
 
-# #po: no need ' '
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:62
-#, fuzzy
-#| msgid ""
-#| "Eventually, your grandfather, Gawen, divided the land among his four "
-#| "sons. Akladians have become far less ruthless, cruel and fearsome now, "
-#| "after years of reasonable prosperity. They even started to mix with "
-#| "Wesnothians, and your father was not the first nor the last who married a "
-#| "Wesnothian woman. "
 msgid ""
 "Eventually, your grandfather, Gawen, divided the land among his four sons. "
 "Akladians have become far less ruthless, cruel and fearsome now, after years "
@@ -23822,10 +23540,9 @@ msgid ""
 "woman."
 msgstr ""
 "やがて、あなたの祖父の Gawen 様は国土を４人の御子息に分割して分け与えられまし"
-"た。Akladia 人は相応の繁栄の年月を経て、今や冷酷でも残酷でも、ましてや恐ろし"
-"い存在でもなくなりました。今では Wesnoth 人とも交流するようになりました。"
-"Wesnoth の女性と結婚した男性は、あなたのお父上が最初ではありませんし最後でも"
-"ありません。 "
+"た。Akladia 人は何年もの繁栄の年月を経て、今や冷酷でも残酷でも、ましてや恐ろ"
+"しい存在でもなくなり、今では Wesnoth 人と交流するまでになったのです。Wesnoth "
+"の女性と結婚した男性は、あなたのお父上が最初でも最後でもありません。"
 
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:65
@@ -24991,7 +24708,7 @@ msgid ""
 msgstr ""
 "Lorin 殿、あなたは有能な司令官ですねえ。強い戦士で、結構イケてるし... 戦術に"
 "も長けてる。あなたが狼なら、男にすれば手なずけるのが至難の業だろうなあ...ま"
-"あ、とにかく、俺としてはやってみましょうかねえ。"
+"あ、とにかく、私としてはやってみましょうかねえ。"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:839
@@ -25013,8 +24730,8 @@ msgid ""
 "necessity. But perhaps there will come a time when you no longer suffer my "
 "presence of necessity, but welcome it by choice?"
 msgstr ""
-"俺だって馬鹿じゃないですよ、Lorin 殿。分かってますよ、あなたが俺の存在を必要"
-"としてるってことが、あなたを苦しめてるんだってことを。でも、いずれは俺の存在"
+"私だって馬鹿じゃないですよ、Lorin 殿。分かってますよ、あなたが私の存在を必要"
+"としてるってことが、あなたを苦しめてるんだってことを。でも、いずれは私の存在"
 "に苦しむ必要もなくなって、喜んで受け入れる日が来るかもしれませんよ？"
 
 #. [event]
@@ -25033,13 +24750,6 @@ msgstr "どういう意味です？"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:843
-#, fuzzy
-#| msgid ""
-#| "First of all, you forgot to say 'one more reference to underling and I'm "
-#| "leaving'. Look, Yahyazad, I am many things, but I am not blind. I've "
-#| "noticed the way you look at me. At first, I couldn't figure out what it "
-#| "meant; I am not used to those kinds of glances. I can easily recognise "
-#| "fear, hatred, loathing, and disdain. But this... "
 msgid ""
 "First of all, you forgot to say 'one more reference to underling and I'm "
 "leaving'. Look, Yahyazad, I am many things, but I am not blind. I've noticed "
@@ -25143,19 +24853,14 @@ msgstr ""
 "取引しよう。私は今後、お前を「下っ端」と呼ぶのをやめる。お前は今後、私を"
 "「 Lorin 夫人」とでも呼んでちょうだい。いい？"
 
-# #po: extra ' ' at the end
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:856
-#, fuzzy
-#| msgid ""
-#| "'Lady Lorin' it is then. But if you will not call me 'underling' you must "
-#| "call me something. If you like, you may simply call me 'Majid.' "
 msgid ""
 "'Lady Lorin' it is then. But if you will not call me 'underling' you must "
 "call me something. If you like, you may simply call me 'Majid.'"
 msgstr ""
 "では「 Lorin 夫人」で。でも私を「下っ端」と呼ばないのなら、何か考えないと。も"
-"しよければ、簡単に \"Majid\" と呼んでください。 "
+"しよければ、簡単に \"Majid\" と呼んでください。"
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:857
@@ -25214,7 +24919,6 @@ msgstr ""
 "あのですね、もう一回下っ端と呼んだら、私は辞め...　あぁ... まったくもう..."
 
 # #ja: S09>>
-# #la: 要検討
 #. [scenario]: id=09_Hired_Swords
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:3
 msgid "Hired Swords"
@@ -25287,7 +24991,7 @@ msgstr ""
 "も手も足も切り落としたのは、そういう理由からだった。彼らの来世で私たちにとっ"
 "ての危険な存在とならないように。"
 
-# #po: asa'ir ... 元はアラビア語
+# #ja: asa'ir ... 元はアラビア語
 #. [part]
 #. "asa'ir" = Dunefolk term, originally from Arabic; just transliterate it as a loan word,
 #. instead of worrying about what it means:
@@ -25342,10 +25046,10 @@ msgid ""
 "pieces per Dune Soldier, 17 gold pieces per Dune Burner, and 14 gold pieces "
 "per Dune Rover. Is that satisfactory?"
 msgstr ""
-"我らの言語をそういう風に呼ぶのは同意しかねるけれど、まあいいでしょう、ちゃん"
-"と支払ってくれるなら、何とかしましょうかね。お宅らの言葉で言うと... \"デュー"
-"ンの兵士\" 18 G、\"デューンの炎使い\" 17 G、\"デューンの放浪者\" 14 G 。これ"
-"で満足かね？"
+"私たちの言語をそういう風に呼ぶのは同意しかねるけれど、まあいいでしょう、ちゃ"
+"んと支払ってくれるなら、何とかしましょうかね。そちらの言葉で言うと... "
+"\"デューンの兵士\" 18 G、\"デューンの炎使い\" 17 G、\"デューンの放浪者\" 14 "
+"G 。これで満足かね？"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:227
@@ -25359,9 +25063,9 @@ msgid ""
 "do anything. We, unlike Akladians, have principles. We will fight for you, "
 "but will do so in a way that ensures we uphold our traditions."
 msgstr ""
-"いや、既に説明したとおりですよ。我々は、意思を持たないアンデッドではなく、雇"
-"われれば何でもするというわけではないのですよ。Akladia 人と違って信念を持って"
-"る。あなたのために戦うけれど、我々の伝統に従った方法で行動しますよ。"
+"いや、既に説明したとおりですよ。私たちは、意思を持たないアンデッドではなく、"
+"雇われれば何でもするというわけではないのですよ。Akladia 人と違って信念を持っ"
+"てる。あなたのために戦うけれど、私たちの伝統に従った方法で行動しますよ。"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:229
@@ -25509,16 +25213,12 @@ msgstr "嘘を付くな！さあ話せ！"
 
 #. [command]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:305
-#, fuzzy
-#| msgid ""
-#| "I do not think he will tell you anything more, my lady... he's dead. You "
-#| "did well to squeeze as much information as you did from him. "
 msgid ""
 "I do not think he will tell you anything more, my lady... he's dead. You did "
 "well to squeeze as much information as you did from him."
 msgstr ""
-"彼はもう何も話すことはないと思いますよ、ご婦人... 彼は、亡くなっています。よ"
-"くこれだけの情報を彼から引き出したものだと思います。"
+"彼はもう何も話さないと思いますよ、ご婦人... 彼は、亡くなりました。よくこれだ"
+"けの情報を彼から引き出したものだと思います。"
 
 #. [command]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:306
@@ -26025,19 +25725,6 @@ msgstr "無理"
 
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:77
-#, fuzzy
-#| msgid ""
-#| "The old kingdom of Wesnoth has fallen before barbarian hordes. The "
-#| "occupying barbarians are on the brink of civil war, the seeds of "
-#| "Wesnothian rebellion are kept alive by old legends, while bandits and "
-#| "Dunefolk mercenaries roam the land. Can Gawen Hagarthen unite these "
-#| "disparate factions against a common foe?\n"
-#| "\n"
-#| "Note: This campaign contains mature themes, some of which may be "
-#| "unsuitable for children.\n"
-#| "\n"
-#| "(Intermediate level, 45 scenarios. Requires BfW 1.16)\n"
-#| "Version "
 msgid ""
 "The old kingdom of Wesnoth has fallen before barbarian hordes. The occupying "
 "barbarians are on the brink of civil war, the seeds of Wesnothian rebellion "
@@ -26056,10 +25743,10 @@ msgstr ""
 "ンフォークの傭兵がこの地を闊歩している。Gawen Hagarthen は共通の敵に対して、"
 "こうした異なる種族を一致団結させられるだろうか？\n"
 "\n"
-"注意：このキャンペーンには成人向けのテーマが含まれており、子供には不適当な場"
-"面もあります。\n"
+"注意：このキャンペーンには成人向けのテーマが含まれており、子どもには不適当な"
+"場面もあります。\n"
 "\n"
-"(中級レベル、45シナリオ。BfW 1.16が必要)\n"
+"(中級レベル、45シナリオ。BfW 1.18が必要)\n"
 "バージョン "
 
 # #ja: about.cfg>>
@@ -26090,17 +25777,13 @@ msgstr "翻訳"
 
 #. [entry]
 #: A_New_Order/about.cfg:122
-#, fuzzy
-#| msgid " British (en_gb) translation:"
 msgid "American English (en_US) translation:"
-msgstr "英語（GB）翻訳："
+msgstr "アメリカ英語（en_us）翻訳："
 
 #. [entry]
 #: A_New_Order/about.cfg:125
-#, fuzzy
-#| msgid " British (en_gb) translation:"
 msgid "British English (en_GB) translation:"
-msgstr "英語（GB）翻訳："
+msgstr "イギリス英語（en_gb）翻訳："
 
 #. [entry]
 #: A_New_Order/about.cfg:128
@@ -26139,10 +25822,8 @@ msgstr "イタリア語翻訳："
 
 #. [entry]
 #: A_New_Order/about.cfg:149
-#, fuzzy
-#| msgid "Spanish translation:"
 msgid "Japanese translation:"
-msgstr "スペイン語翻訳："
+msgstr "日本語翻訳："
 
 #. [entry]
 #: A_New_Order/about.cfg:152
@@ -26231,7 +25912,8 @@ msgstr "Żwirek i Muchomorek"
 msgid "Famous Czech gay actors"
 msgstr "チェコの有名なゲイ俳優たち"
 
-# I think you should go with Taro Aso for Japan
+# I think you should go with Taro Aso for Japan.
+# Well, he is already a man of the past and there are many others... :)
 #. [about]
 #. Polish president (from 2010 to 2015), he can't spell. Famous for dozens of idiotic sentences and sayings. You are free to replace him with some politician from your country.
 #. A good way to test to see if a particular politician would fit here would be to google their name along with the word "gaffe" and see if people have made articles out of lists of said gaffes.
@@ -26247,7 +25929,6 @@ msgid ""
 "The living proof that you may not know how to spell and still be president"
 msgstr "スペルを知らなくても大統領になれるという生きた証拠"
 
-# #po: reloading -> "reloading the file and selecting another option"
 #~ msgid ""
 #~ "This option is mainly intended for players, who already played 'A New "
 #~ "Order' in the past, or don't care much about the story. If you do not "
@@ -26266,9 +25947,16 @@ msgstr "スペルを知らなくても大統領になれるという生きた証
 #~ msgid "getunit $x1 : $y1 : $ano_tmp.id"
 #~ msgstr "ユニットを手に入れました。　$x1 : $y1 : $ano_tmp.id"
 
+# #po: '.' missing
+#~ msgid "That's all I wanted to know"
+#~ msgstr "知りたいことはそれだけだ。"
+
 # #po: "you are" -> "are you" ?
 #~ msgid "Arise, my slave, arise! Why you are deaf to my calls?"
 #~ msgstr "起きろ、我が奴隷よ、起きろ！私の声が聞こえないのか？"
+
+#~ msgid "Ruvio, please tell me.."
+#~ msgstr "Ruvio 、教えてくれないか.."
 
 #~ msgid "Well.."
 #~ msgstr "では教えてもらおう..."
@@ -26276,10 +25964,3 @@ msgstr "スペルを知らなくても大統領になれるという生きた証
 # #ja: side name として
 #~ msgid "Loyal"
 #~ msgstr "忠誠軍"
-
-# #po: '.' missing
-#~ msgid "That's all I wanted to know"
-#~ msgstr "知りたいことはそれだけだ。"
-
-#~ msgid "Ruvio, please tell me.."
-#~ msgstr "Ruvio 、教えてくれないか.."
